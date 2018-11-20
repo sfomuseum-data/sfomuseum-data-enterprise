@@ -2,8 +2,10 @@
   "id": 1159284613,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1919-01-01",
+    "date:inception_upper":"1919-12-31",
     "edtf:cessation":"open",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1919",
     "flysfo:code":"KM",
     "flysfo:is_sfo":1,
     "flysfo:name":"KLM Royal Dutch Airlines",
@@ -28,10 +30,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "iata:code":"KM",
-        "icao:callsign":"AIR MALTA",
-        "icao:code":"AMC",
-        "wk:page":"Air Malta"
+        "iata:code":"KL",
+        "icao:callsign":"KLM",
+        "icao:code":"KLM",
+        "wd:id":"Q181912",
+        "wk:page":"KLM"
     },
     "wof:controlled":[
         "wof:hierarchy",
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1159284613,
-    "wof:lastmodified":1542675121,
+    "wof:lastmodified":1542757186,
     "wof:name":"KLM (Royal Dutch Airlines)",
     "wof:parent_id":85633337,
     "wof:placetype":"enterprise",
