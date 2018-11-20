@@ -1,0 +1,77 @@
+{
+  "id": 1159287043,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"1990-01-01",
+    "date:cessation_upper":"1990-12-31",
+    "date:inception_lower":"1968-01-01",
+    "date:inception_upper":"1968-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1968",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.338454,8.72491,-80.338454,8.72491",
+    "geom:latitude":8.72491,
+    "geom:longitude":-80.338454,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q1420178"
+    ],
+    "wd:country":"Q804",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632179
+    ],
+    "wof:brand_name":"Air Panama Internacional",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"OP",
+        "icao:code":"API",
+        "wd:id":"Q4698131",
+        "wk:page":"Air Panam\u00e1 Internacional",
+        "wk:pageid":32028696
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"PA",
+    "wof:geomhash":"230146a06f05a399fadd97a7c2ea3c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "enterprise_id":1159287043
+        }
+    ],
+    "wof:id":1159287043,
+    "wof:lastmodified":1542668421,
+    "wof:name":"Air Panama Internacional",
+    "wof:parent_id":85632179,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -80.338454,
+    8.72491,
+    -80.338454,
+    8.72491
+],
+  "geometry": {"coordinates":[-80.338454,8.72491],"type":"Point"}
+}

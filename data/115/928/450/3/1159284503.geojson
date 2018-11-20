@@ -1,0 +1,78 @@
+{
+  "id": 1159284503,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1994-01-01",
+    "date:inception_upper":"1994-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1994",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.51052,39.339547,34.51052,39.339547",
+    "geom:latitude":39.339547,
+    "geom:longitude":34.51052,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":464,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Holiday Airlines",
+    "sfomuseum:name":"Holiday Airlines",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q86473"
+    ],
+    "wd:country":"Q43",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191569,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"HW",
+        "icao:code":"HLD",
+        "wd:id":"Q5880366",
+        "wk:page":"Holiday Airlines",
+        "wk:pageid":16164253
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"TR",
+    "wof:geomhash":"559506c2172f12efd5d5da2b6f6d61f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "enterprise_id":1159284503
+        }
+    ],
+    "wof:id":1159284503,
+    "wof:lastmodified":1542668423,
+    "wof:name":"Holiday Airlines",
+    "wof:parent_id":85632393,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288509
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    34.51052,
+    39.339547,
+    34.51052,
+    39.339547
+],
+  "geometry": {"coordinates":[34.51052,39.339547],"type":"Point"}
+}

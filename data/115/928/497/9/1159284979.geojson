@@ -1,0 +1,82 @@
+{
+  "id": 1159284979,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1955-01-01",
+    "date:inception_upper":"1955-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1955",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.560265,29.329836,68.560265,29.329836",
+    "geom:latitude":29.329836,
+    "geom:longitude":68.560265,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":680,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Pakistan International Airlines",
+    "sfomuseum:name":"Pakistan International Airlines",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"wof",
+    "wd:airline_hub":[
+        "Q61052",
+        "Q60879",
+        "Q816717"
+    ],
+    "wd:country":"Q843",
+    "wd:headquarters":"Q61052",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191569,
+        1159288213,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"PK",
+        "icao:code":"PIA",
+        "wd:id":"Q204887",
+        "wk:page":"Pakistan International Airlines",
+        "wk:pageid":194124
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"PK",
+    "wof:geomhash":"ad67e120561a29135bcec4a0731020c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "enterprise_id":1159288213
+        }
+    ],
+    "wof:id":1159284979,
+    "wof:lastmodified":1542668418,
+    "wof:name":"Pakistan International Airlines",
+    "wof:parent_id":85632659,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288213
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    68.560265,
+    29.329836,
+    68.560265,
+    29.329836
+],
+  "geometry": {"coordinates":[68.560265,29.329836],"type":"Point"}
+}

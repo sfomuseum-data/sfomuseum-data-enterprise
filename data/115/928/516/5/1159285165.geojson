@@ -1,0 +1,83 @@
+{
+  "id": 1159285165,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"2001-01-01",
+    "date:inception_upper":"2001-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"2001",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.833828,1.316382,103.833828,1.316382",
+    "geom:latitude":1.316382,
+    "geom:longitude":103.833828,
+    "iso:country":"SG",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":765,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Singapore Airlines Cargo  (Singapore Airlines)",
+    "sfomuseum:name":"Singapore Airlines Cargo",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q32159"
+    ],
+    "wd:country":"Q334",
+    "wd:headquarters":"Q334",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        102032341,
+        85677041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"SQ",
+        "icao:code":"SQC",
+        "wd:id":"Q1368387",
+        "wk:page":"Singapore Airlines Cargo",
+        "wk:pageid":1002286
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"SG",
+    "wof:geomhash":"a9ebac88ae216b1fe0a020925398d25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632605,
+            "enterprise_id":1159285165,
+            "locality_id":102032341,
+            "region_id":85677041
+        }
+    ],
+    "wof:id":1159285165,
+    "wof:lastmodified":1542668437,
+    "wof:name":"Singapore Airlines Cargo",
+    "wof:parent_id":102032341,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288903
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    103.833828,
+    1.316382,
+    103.833828,
+    1.316382
+],
+  "geometry": {"coordinates":[103.833828,1.316382],"type":"Point"}
+}

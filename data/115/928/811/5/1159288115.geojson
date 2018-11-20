@@ -1,0 +1,84 @@
+{
+  "id": 1159288115,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1985-01-01",
+    "date:inception_upper":"1985-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1985",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.246362,53.425842,-6.246362,53.425842",
+    "geom:latitude":53.425842,
+    "geom:longitude":-6.246362,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"woedb",
+    "wd:airline_hub":[
+        "Q178021"
+    ],
+    "wd:country":"Q27",
+    "wd:headquarters":"Q178021",
+    "wd:instance_of":[
+        "Q190915"
+    ],
+    "wof:belongsto":[
+        102547639,
+        85794225,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:brand_name":"Ryanair",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"FR",
+        "icao:code":"RYR",
+        "wd:id":"Q170614",
+        "wk:page":"Ryanair",
+        "wk:pageid":262878
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"",
+    "wof:geomhash":"b0444c6d080802b0f898ecbb69440c2c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547639,
+            "continent_id":102191581,
+            "country_id":85633241,
+            "enterprise_id":1159288115,
+            "locality_id":101751737,
+            "neighbourhood_id":85794225,
+            "region_id":85685015
+        }
+    ],
+    "wof:id":1159288115,
+    "wof:lastmodified":1542668446,
+    "wof:name":"Ryanair",
+    "wof:parent_id":102547639,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "low-cost airline"
+    ]
+},
+  "bbox": [
+    -6.246362,
+    53.425842,
+    -6.246362,
+    53.425842
+],
+  "geometry": {"coordinates":[-6.246362,53.425842],"type":"Point"}
+}

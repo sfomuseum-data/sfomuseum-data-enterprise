@@ -1,0 +1,85 @@
+{
+  "id": 1159285179,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1972-01-01",
+    "date:inception_upper":"1972-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1972",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-113.559923,37.050267,-113.559923,37.050267",
+    "geom:latitude":37.050267,
+    "geom:longitude":-113.559923,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":771,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"SkyWest Airlines",
+    "sfomuseum:name":"SkyWest Airlines",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q213717"
+    ],
+    "wd:country":"Q30",
+    "wd:headquarters":"Q52472",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"OO",
+        "icao:code":"SKW",
+        "wd:id":"Q773662",
+        "wk:page":"SkyWest Airlines",
+        "wk:pageid":266872
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"14cfeca2b619770e810b7f52eca9f1c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "enterprise_id":1159285179,
+            "locality_id":101727617,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":1159285179,
+    "wof:lastmodified":1542668448,
+    "wof:name":"SkyWest Airlines",
+    "wof:parent_id":101727617,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288685
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -113.559923,
+    37.050267,
+    -113.559923,
+    37.050267
+],
+  "geometry": {"coordinates":[-113.559923,37.050267],"type":"Point"}
+}

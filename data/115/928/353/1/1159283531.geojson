@@ -1,0 +1,87 @@
+{
+  "id": 1159283531,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1950-01-01",
+    "date:inception_upper":"1950-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1950",
+    "flysfo:code":"AR",
+    "flysfo:is_sfo":1,
+    "flysfo:name":"Aerolineas Argentinas",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.316334,9.383166,-83.316334,9.383166",
+    "geom:latitude":9.383166,
+    "geom:longitude":-83.316334,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":27,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Aerolineas Argentinas",
+    "sfomuseum:name":"Aerolineas Argentinas",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q999047"
+    ],
+    "wd:country":"Q414",
+    "wd:headquarters":"Q1486",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421201609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"AR",
+        "icao:callsign":"ARGENTINA",
+        "icao:code":"ARG",
+        "wd:id":"Q83535",
+        "wk:page":"Aerol\u00edneas Argentinas",
+        "wk:pageid":85198
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"CR",
+    "wof:geomhash":"200ccb33b1eda179069d6d6d448de2d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421201609,
+            "enterprise_id":1159283531,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":1159283531,
+    "wof:lastmodified":1542668412,
+    "wof:name":"Aerolineas Argentinas",
+    "wof:parent_id":421201609,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287703
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -83.316334,
+    9.383166,
+    -83.316334,
+    9.383166
+],
+  "geometry": {"coordinates":[-83.316334,9.383166],"type":"Point"}
+}

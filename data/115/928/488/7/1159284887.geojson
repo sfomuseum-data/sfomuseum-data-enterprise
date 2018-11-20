@@ -1,0 +1,85 @@
+{
+  "id": 1159284887,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1989-01-01",
+    "date:inception_upper":"1989-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1989",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.571114,33.392691,-84.571114,33.392691",
+    "geom:latitude":33.392691,
+    "geom:longitude":-84.571114,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":638,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"North American Airlines",
+    "sfomuseum:name":"North American Airlines",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q8685"
+    ],
+    "wd:country":"Q30",
+    "wd:headquarters":"Q2467256",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936021,
+        102081687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"NA",
+        "icao:code":"NAO",
+        "wd:id":"Q1188991",
+        "wk:page":"North American Airlines",
+        "wk:pageid":106338
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"32571cbb88a3d65e5a626250ace8187e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081687,
+            "enterprise_id":1159284887,
+            "locality_id":85936021,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":1159284887,
+    "wof:lastmodified":1542668465,
+    "wof:name":"North American Airlines",
+    "wof:parent_id":85936021,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287509
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -84.571114,
+    33.392691,
+    -84.571114,
+    33.392691
+],
+  "geometry": {"coordinates":[-84.57111399999999,33.392691],"type":"Point"}
+}

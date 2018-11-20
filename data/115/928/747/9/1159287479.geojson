@@ -1,0 +1,93 @@
+{
+  "id": 1159287479,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1920-01-01",
+    "date:inception_upper":"1920-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1920",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.176373,-33.939229,151.176373,-33.939229",
+    "geom:latitude":-33.939229,
+    "geom:longitude":151.176373,
+    "iso:country":"AU",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q17581",
+        "Q733738",
+        "Q45523",
+        "Q14302",
+        "Q45935",
+        "Q32159"
+    ],
+    "wd:country":"Q408",
+    "wd:headquarters":"Q2916103",
+    "wd:instance_of":[
+        "Q46970",
+        "Q721639"
+    ],
+    "wof:belongsto":[
+        85681545,
+        102191583,
+        404224771,
+        85632793,
+        101931173,
+        136253039,
+        102049567
+    ],
+    "wof:brand_name":"Qantas Airways",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"QF",
+        "icao:code":"QFA",
+        "wd:id":"Q32491",
+        "wk:page":"Qantas",
+        "wk:pageid":25254
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"AU",
+    "wof:geomhash":"533f6147df24fbe6bb5af8d1db2cc7e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049567,
+            "empire_id":136253039,
+            "enterprise_id":1159287479,
+            "localadmin_id":404224771,
+            "locality_id":101931173,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":1159287479,
+    "wof:lastmodified":1542668452,
+    "wof:name":"Qantas Airways",
+    "wof:parent_id":101931173,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline",
+        "flag carrier"
+    ]
+},
+  "bbox": [
+    151.176373,
+    -33.939229,
+    151.176373,
+    -33.939229
+],
+  "geometry": {"coordinates":[151.17637300000001,-33.939229],"type":"Point"}
+}

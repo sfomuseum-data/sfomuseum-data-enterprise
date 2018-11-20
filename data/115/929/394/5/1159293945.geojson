@@ -1,0 +1,79 @@
+{
+  "id": 1159293945,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1945-01-01",
+    "date:inception_upper":"1945-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1945",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.73009,41.82649,-72.73009,41.82649",
+    "geom:latitude":41.82649,
+    "geom:longitude":-72.73009,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"qs_pg",
+    "wd:country":"Q30",
+    "wd:headquarters":"Q542675",
+    "wd:instance_of":[
+        "Q936518"
+    ],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495871,
+        85633793,
+        1125956861,
+        102085381
+    ],
+    "wof:brand_name":"Kaman",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q386253",
+        "wk:page":"Kaman",
+        "wk:pageid":8057379
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"d6fc550f8c1d3e5a5896113dbc0022be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "enterprise_id":1159293945,
+            "localadmin_id":404495871,
+            "locality_id":1125956861,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":1159293945,
+    "wof:lastmodified":1542668478,
+    "wof:name":"Kaman",
+    "wof:parent_id":1125956861,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aerospace manufacturer"
+    ]
+},
+  "bbox": [
+    -72.73009,
+    41.82649,
+    -72.73009,
+    41.82649
+],
+  "geometry": {"coordinates":[-72.73009,41.82649],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1159283707,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1983-01-01",
+    "date:inception_upper":"1983-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1983",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.229414,41.768792,12.229414,41.768792",
+    "geom:latitude":41.768792,
+    "geom:longitude":12.229414,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":106,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Air One",
+    "sfomuseum:name":"Air One",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:country":"Q38",
+    "wd:headquarters":"Q19326",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85685461,
+        102191581,
+        404461785,
+        85633253,
+        404227517,
+        101757057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"AP",
+        "icao:code":"ADH",
+        "wd:id":"Q407697",
+        "wk:page":"Air One",
+        "wk:pageid":1529380
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"IT",
+    "wof:geomhash":"c29b298adf31b4371abf1caedbbd0322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "enterprise_id":1159283707,
+            "localadmin_id":404461785,
+            "locality_id":101757057,
+            "macroregion_id":404227517,
+            "region_id":85685461
+        }
+    ],
+    "wof:id":1159283707,
+    "wof:lastmodified":1542668442,
+    "wof:name":"Air One",
+    "wof:parent_id":101757057,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288575
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    12.229414,
+    41.768792,
+    12.229414,
+    41.768792
+],
+  "geometry": {"coordinates":[12.229414,41.768792],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1159286221,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1946-01-01",
+    "date:inception_upper":"1946-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1946",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.384858,58.33747,-112.384858,58.33747",
+    "geom:latitude":58.33747,
+    "geom:longitude":-112.384858,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":1266,
+    "sfomuseum:country":"Canada",
+    "sfomuseum:hub":"Ottawa",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"First Air  (Bradley Air Services, Limited)",
+    "sfomuseum:name":"First Air",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"whosonfirst",
+    "wd:airline_hub":[
+        "Q2724008"
+    ],
+    "wd:country":"Q16",
+    "wd:headquarters":"Q1723642",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"7F",
+        "icao:code":"FAB",
+        "wd:id":"Q1419271",
+        "wk:page":"First Air",
+        "wk:pageid":351310
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"CA",
+    "wof:geomhash":"c11fee8226d88a3e72215450c879868c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "enterprise_id":1159286221
+        }
+    ],
+    "wof:id":1159286221,
+    "wof:lastmodified":1542675098,
+    "wof:name":"First Air",
+    "wof:parent_id":85633041,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288661
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -112.384858,
+    58.33747,
+    -112.384858,
+    58.33747
+],
+  "geometry": {"coordinates":[-112.38485799999999,58.33747],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1159288649,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"2008-01-01",
+    "date:inception_upper":"2008-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"2008",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.34375,2.03711,45.34375,2.03711",
+    "geom:latitude":2.03711,
+    "geom:longitude":45.34375,
+    "iso:country":"SO",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"unknown",
+    "wd:airline_hub":[
+        "Q1119032"
+    ],
+    "wd:country":"Q1045",
+    "wd:headquarters":"Q2449",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85677263,
+        102191573,
+        85632379,
+        890449737,
+        1108757805
+    ],
+    "wof:brand_name":"Jubba Airways",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"6J",
+        "icao:code":"JUB",
+        "wd:id":"Q1517108",
+        "wk:page":"Jubba Airways",
+        "wk:pageid":1618289
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"SO",
+    "wof:geomhash":"da9b24ec88344a302dbc1aa5894f5dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757805,
+            "enterprise_id":1159288649,
+            "locality_id":890449737,
+            "region_id":85677263
+        }
+    ],
+    "wof:id":1159288649,
+    "wof:lastmodified":1542668458,
+    "wof:name":"Jubba Airways",
+    "wof:parent_id":890449737,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    45.34375,
+    2.03711,
+    45.34375,
+    2.03711
+],
+  "geometry": {"coordinates":[45.34375,2.03711],"type":"Point"}
+}

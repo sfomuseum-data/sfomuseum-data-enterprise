@@ -1,0 +1,87 @@
+{
+  "id": 1159284513,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1937-01-01",
+    "date:inception_upper":"1937-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1937",
+    "flysfo:code":"FI",
+    "flysfo:is_sfo":1,
+    "flysfo:name":"Icelandair",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.876262,64.136637,-21.876262,64.136637",
+    "geom:latitude":64.136637,
+    "geom:longitude":-21.876262,
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":469,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"IcelandAir",
+    "sfomuseum:name":"IcelandAir",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q139921"
+    ],
+    "wd:country":"Q189",
+    "wd:headquarters":"Q1764",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        101751753,
+        85672493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"FI",
+        "icao:callsign":"ICEAIR",
+        "icao:code":"ICE",
+        "wd:id":"Q216645",
+        "wk:page":"Icelandair",
+        "wk:pageid":156410
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"IS",
+    "wof:geomhash":"317084ed9b3e8f14d4c8704bea23c1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "enterprise_id":1159284513,
+            "locality_id":101751753,
+            "region_id":85672493
+        }
+    ],
+    "wof:id":1159284513,
+    "wof:lastmodified":1542668456,
+    "wof:name":"IcelandAir",
+    "wof:parent_id":101751753,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287015
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -21.876262,
+    64.136637,
+    -21.876262,
+    64.136637
+],
+  "geometry": {"coordinates":[-21.876262,64.13663699999999],"type":"Point"}
+}

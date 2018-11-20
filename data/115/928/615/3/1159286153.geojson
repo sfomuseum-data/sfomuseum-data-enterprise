@@ -1,0 +1,92 @@
+{
+  "id": 1159286153,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1993-01-01",
+    "date:inception_upper":"1993-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1993",
+    "flysfo:code":"QR",
+    "flysfo:is_sfo":1,
+    "flysfo:name":"Qatar",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.52245,25.27932,51.52245,25.27932",
+    "geom:latitude":25.27932,
+    "geom:longitude":51.52245,
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":1232,
+    "sfomuseum:country":"Qatar",
+    "sfomuseum:hub":"Hamad International Airport",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Qatar Airways",
+    "sfomuseum:name":"Qatar Airways",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"unknown",
+    "wd:airline_hub":[
+        "Q58754",
+        "Q1198791"
+    ],
+    "wd:country":"Q846",
+    "wd:headquarters":"Q3861",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85676749,
+        102191569,
+        85632299,
+        890441607,
+        1108757983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"QR",
+        "icao:callsign":"QATARI",
+        "icao:code":"QTR",
+        "wd:id":"Q208033",
+        "wk:page":"Qatar Airways",
+        "wk:pageid":449463
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"QA",
+    "wof:geomhash":"8b346ddd5857ecc3479afbc346501411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108757983,
+            "enterprise_id":1159286153,
+            "locality_id":890441607,
+            "region_id":85676749
+        }
+    ],
+    "wof:id":1159286153,
+    "wof:lastmodified":1542668444,
+    "wof:name":"Qatar Airways",
+    "wof:parent_id":890441607,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159286637
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    51.52245,
+    25.27932,
+    51.52245,
+    25.27932
+],
+  "geometry": {"coordinates":[51.52245,25.27932],"type":"Point"}
+}

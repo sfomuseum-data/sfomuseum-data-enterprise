@@ -1,0 +1,83 @@
+{
+  "id": 1159284637,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1954-01-01",
+    "date:inception_upper":"1954-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1954",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.97833,29.36972,47.97833,29.36972",
+    "geom:latitude":29.36972,
+    "geom:longitude":47.97833,
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":526,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Kuwait National Airways  (Kuwait Airways)",
+    "sfomuseum:name":"Kuwait National Airways",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q527157"
+    ],
+    "wd:country":"Q817",
+    "wd:headquarters":"Q35178",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        421202465,
+        85673383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"KU",
+        "icao:code":"KAC",
+        "wd:id":"Q860389",
+        "wk:page":"Kuwait Airways",
+        "wk:pageid":377382
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"KW",
+    "wof:geomhash":"795fb2db8f2f22dcdf59e68d7a31bb80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "enterprise_id":1159284637,
+            "locality_id":421202465,
+            "region_id":85673383
+        }
+    ],
+    "wof:id":1159284637,
+    "wof:lastmodified":1542668439,
+    "wof:name":"Kuwait National Airways",
+    "wof:parent_id":421202465,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288633
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    47.97833,
+    29.36972,
+    47.97833,
+    29.36972
+],
+  "geometry": {"coordinates":[47.97833,29.36972],"type":"Point"}
+}

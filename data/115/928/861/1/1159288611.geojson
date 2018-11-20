@@ -1,0 +1,73 @@
+{
+  "id": 1159288611,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1963-01-01",
+    "date:inception_upper":"1963-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1963",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.391378,30.802278,36.391378,30.802278",
+    "geom:latitude":30.802278,
+    "geom:longitude":36.391378,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q721494"
+    ],
+    "wd:country":"Q810",
+    "wd:headquarters":"Q3805",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191569,
+        85632425
+    ],
+    "wof:brand_name":"Alia (Royal Jordanian Airlines)",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"RJ",
+        "icao:code":"RJA"
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"JO",
+    "wof:geomhash":"5d92d3c9e46f0acfa2250fbd76ddd95d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "enterprise_id":1159288611
+        }
+    ],
+    "wof:id":1159288611,
+    "wof:lastmodified":1542675103,
+    "wof:name":"Alia (Royal Jordanian Airlines)",
+    "wof:parent_id":85632425,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    36.391378,
+    30.802278,
+    36.391378,
+    30.802278
+],
+  "geometry": {"coordinates":[36.391378,30.802278],"type":"Point"}
+}

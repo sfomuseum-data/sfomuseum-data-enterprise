@@ -1,0 +1,82 @@
+{
+  "id": 1159288507,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1947-01-01",
+    "date:inception_upper":"1947-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1947",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.53241,15.55177,32.53241,15.55177",
+    "geom:latitude":15.55177,
+    "geom:longitude":32.53241,
+    "iso:country":"SD",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"unknown",
+    "wd:airline_hub":[
+        "Q1050244"
+    ],
+    "wd:country":"Q1049",
+    "wd:headquarters":"Q1963",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85676889,
+        102191573,
+        85632751,
+        890441687,
+        1091707383
+    ],
+    "wof:brand_name":"Sudan Airways",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"SD",
+        "icao:code":"SUD",
+        "wd:id":"Q864117",
+        "wk:page":"Sudan Airways",
+        "wk:pageid":383994
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"SD",
+    "wof:geomhash":"f6649b7a058c46f548ab13704a11f21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707383,
+            "enterprise_id":1159288507,
+            "locality_id":890441687,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":1159288507,
+    "wof:lastmodified":1542668426,
+    "wof:name":"Sudan Airways",
+    "wof:parent_id":890441687,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    32.53241,
+    15.55177,
+    32.53241,
+    15.55177
+],
+  "geometry": {"coordinates":[32.53241,15.55177],"type":"Point"}
+}

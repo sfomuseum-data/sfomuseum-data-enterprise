@@ -1,0 +1,82 @@
+{
+  "id": 1159287083,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1945-01-01",
+    "date:inception_upper":"1945-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1945",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.794301,8.987219,38.794301,8.987219",
+    "geom:latitude":8.987219,
+    "geom:longitude":38.794301,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"woedb",
+    "wd:airline_hub":[
+        "Q44923"
+    ],
+    "wd:country":"Q115",
+    "wd:headquarters":"Q44923",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102551565,
+        85671149,
+        102191573,
+        85632257,
+        1108695113
+    ],
+    "wof:brand_name":"Ethiopian Airlines",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"ET",
+        "icao:code":"ETH",
+        "wd:id":"Q245233",
+        "wk:page":"Ethiopian Airlines",
+        "wk:pageid":394924
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"",
+    "wof:geomhash":"bc3962e7d0699fa588a3b2e38e293744",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551565,
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695113,
+            "enterprise_id":1159287083,
+            "region_id":85671149
+        }
+    ],
+    "wof:id":1159287083,
+    "wof:lastmodified":1542668439,
+    "wof:name":"Ethiopian Airlines",
+    "wof:parent_id":102551565,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    38.794301,
+    8.987219,
+    38.794301,
+    8.987219
+],
+  "geometry": {"coordinates":[38.794301,8.987219],"type":"Point"}
+}

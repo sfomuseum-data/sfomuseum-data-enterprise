@@ -1,0 +1,78 @@
+{
+  "id": 1159286143,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2012-01-01",
+    "date:cessation_upper":"2012-12-31",
+    "date:inception_lower":"2008-01-01",
+    "date:inception_upper":"2008-12-31",
+    "edtf:cessation":"2012",
+    "edtf:inception":"2008",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude":39.715956,
+    "geom:longitude":-96.999668,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":0,
+    "sfomuseum:airline_id":1227,
+    "sfomuseum:country":"USA",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Airship Ventures",
+    "sfomuseum:name":"Airship Ventures",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:country":"Q30",
+    "wd:instance_of":[
+        "Q4830453"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q4699001",
+        "wk:page":"Airship Ventures",
+        "wk:pageid":19859093
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "empire_id":136253057,
+            "enterprise_id":1159286143
+        }
+    ],
+    "wof:id":1159286143,
+    "wof:lastmodified":1542668467,
+    "wof:name":"Airship Ventures",
+    "wof:parent_id":85633793,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159286583
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -96.999668,
+    39.715956,
+    -96.999668,
+    39.715956
+],
+  "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
+}

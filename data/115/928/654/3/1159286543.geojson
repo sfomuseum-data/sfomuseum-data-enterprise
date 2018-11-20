@@ -1,0 +1,72 @@
+{
+  "id": 1159286543,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1999-01-01",
+    "date:inception_upper":"1999-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1999",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.576046,23.47438,54.576046,23.47438",
+    "geom:latitude":23.47438,
+    "geom:longitude":54.576046,
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q513684"
+    ],
+    "wd:country":"Q794",
+    "wd:headquarters":"Q612",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191569,
+        85632573
+    ],
+    "wof:brand_name":"Aria Air Tour",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "icao:code":"IRX"
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"AE",
+    "wof:geomhash":"08724343877394ed151a4f685ac1615e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "enterprise_id":1159286543
+        }
+    ],
+    "wof:id":1159286543,
+    "wof:lastmodified":1542675105,
+    "wof:name":"Aria Air Tour",
+    "wof:parent_id":85632573,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    54.576046,
+    23.47438,
+    54.576046,
+    23.47438
+],
+  "geometry": {"coordinates":[54.576046,23.47438],"type":"Point"}
+}

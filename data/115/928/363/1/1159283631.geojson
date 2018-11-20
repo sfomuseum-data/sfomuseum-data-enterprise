@@ -1,0 +1,94 @@
+{
+  "id": 1159283631,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1923-01-01",
+    "date:inception_upper":"1923-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1923",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.542809,49.007854,2.542809,49.007854",
+    "geom:latitude":49.007854,
+    "geom:longitude":2.542809,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":72,
+    "sfomuseum:brand":"Air France",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Air Union  (Air France)",
+    "sfomuseum:name":"Air Union",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"woedb",
+    "wd:airline_hub":[
+        "Q738719"
+    ],
+    "wd:country":"Q142",
+    "wd:headquarters":"Q738719",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102544455,
+        102191581,
+        404227789,
+        404417837,
+        85633147,
+        404227465,
+        101749819,
+        102065873,
+        85683475,
+        102544459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q975752",
+        "wk:page":"Air Union",
+        "wk:pageid":18179879
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"",
+    "wof:geomhash":"170675aa379a13db6d0e1bffd74af18e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544455,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065873,
+            "enterprise_id":1159283631,
+            "localadmin_id":404417837,
+            "locality_id":101749819,
+            "macrocounty_id":404227789,
+            "macroregion_id":404227465,
+            "neighbourhood_id":-1,
+            "region_id":85683475
+        }
+    ],
+    "wof:id":1159283631,
+    "wof:lastmodified":1542668445,
+    "wof:name":"Air Union",
+    "wof:parent_id":102544459,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1360700617
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    2.542809,
+    49.007854,
+    2.542809,
+    49.007854
+],
+  "geometry": {"coordinates":[2.542809,49.007854],"type":"Point"}
+}

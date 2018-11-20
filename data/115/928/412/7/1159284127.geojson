@@ -1,0 +1,86 @@
+{
+  "id": 1159284127,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1946-01-01",
+    "date:inception_upper":"1946-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1946",
+    "flysfo:code":"CX",
+    "flysfo:is_sfo":1,
+    "flysfo:name":"Cathay Pacific",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.802874,32.529718,106.802874,32.529718",
+    "geom:latitude":32.529718,
+    "geom:longitude":106.802874,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":295,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Cathay Pacific Airways",
+    "sfomuseum:name":"Cathay Pacific Airways",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"wof",
+    "wd:airline_hub":[
+        "Q17704"
+    ],
+    "wd:country":"Q148",
+    "wd:headquarters":"Q10926928",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191569,
+        1159286837,
+        85632695,
+        136253041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"CX",
+        "icao:callsign":"CATHAY",
+        "icao:code":"CPA",
+        "wd:id":"Q32141",
+        "wk:page":"Cathay Pacific",
+        "wk:pageid":151575
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"CN",
+    "wof:geomhash":"c631fc6ab83322ccfcf4c4957e92cbf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "empire_id":136253041,
+            "enterprise_id":1159286837
+        }
+    ],
+    "wof:id":1159284127,
+    "wof:lastmodified":1542668446,
+    "wof:name":"Cathay Pacific Airways",
+    "wof:parent_id":85632695,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159286837
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    106.802874,
+    32.529718,
+    106.802874,
+    32.529718
+],
+  "geometry": {"coordinates":[106.802874,32.529718],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1159285443,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2015-10-17",
+    "date:cessation_upper":"2015-10-17",
+    "date:inception_lower":"1961-01-01",
+    "date:inception_upper":"1961-12-31",
+    "edtf:cessation":"2015-10-17",
+    "edtf:inception":"1961",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.099638,38.864458,-77.099638,38.864458",
+    "geom:latitude":38.864458,
+    "geom:longitude":-77.099638,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":0,
+    "sfomuseum:airline_id":896,
+    "sfomuseum:brand":"US Airways",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"US Airways Shuttle  (US Airways)",
+    "sfomuseum:name":"US Airways Shuttle",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"mz",
+    "wd:country":"Q30",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"US",
+        "icao:callsign":"US AIR",
+        "icao:code":"USA",
+        "wd:id":"Q10854887",
+        "wk:page":"US Airways Shuttle",
+        "wk:pageid":477143
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"cb6a25ec45b67cd9d83260ae93f7316f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "enterprise_id":1159285443,
+            "locality_id":101729469,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":1159285443,
+    "wof:lastmodified":1542668436,
+    "wof:name":"US Airways Shuttle",
+    "wof:parent_id":101729469,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288239
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -77.099638,
+    38.864458,
+    -77.099638,
+    38.864458
+],
+  "geometry": {"coordinates":[-77.099638,38.864458],"type":"Point"}
+}

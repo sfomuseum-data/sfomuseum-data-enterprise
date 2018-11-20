@@ -1,0 +1,78 @@
+{
+  "id": 1159294193,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1912-01-01",
+    "date:inception_upper":"1912-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1912",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.681268,50.792042,-0.681268,50.792042",
+    "geom:latitude":50.792042,
+    "geom:longitude":-0.681268,
+    "iso:country":"GB",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:headquarters":"Q890621",
+    "wd:instance_of":[
+        "Q4830453"
+    ],
+    "wof:belongsto":[
+        85684583,
+        102191581,
+        404430465,
+        85633159,
+        404227469,
+        101750317
+    ],
+    "wof:brand_name":"Norman Thompson",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q7052859",
+        "wk:page":"Norman Thompson Flight Company",
+        "wk:pageid":27569313
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"GB",
+    "wof:geomhash":"e08b680e8dd0e8660ec0664b29808aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "enterprise_id":1159294193,
+            "localadmin_id":404430465,
+            "locality_id":101750317,
+            "macroregion_id":404227469,
+            "region_id":85684583
+        }
+    ],
+    "wof:id":1159294193,
+    "wof:lastmodified":1542668480,
+    "wof:name":"Norman Thompson",
+    "wof:parent_id":101750317,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -0.681268,
+    50.792042,
+    -0.681268,
+    50.792042
+],
+  "geometry": {"coordinates":[-0.681268,50.792042],"type":"Point"}
+}

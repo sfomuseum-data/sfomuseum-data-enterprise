@@ -1,0 +1,82 @@
+{
+  "id": 1159288147,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1973-01-01",
+    "date:inception_upper":"1973-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1973",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.021217,-12.049141,-77.021217,-12.049141",
+    "geom:latitude":-12.049141,
+    "geom:longitude":-77.021217,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q1142219"
+    ],
+    "wd:country":"Q419",
+    "wd:headquarters":"Q2868",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85675909,
+        102191577,
+        85632521,
+        421186805,
+        421202549
+    ],
+    "wof:brand_name":"Aeroperu",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"PL",
+        "icao:code":"PLI",
+        "wd:id":"Q381611",
+        "wk:page":"Aeroper\u00fa",
+        "wk:pageid":264326
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"PE",
+    "wof:geomhash":"799ff60afa90a7c0e7fb34cecc747b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "enterprise_id":1159288147,
+            "locality_id":421186805,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":1159288147,
+    "wof:lastmodified":1542668437,
+    "wof:name":"Aeroperu",
+    "wof:parent_id":421186805,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -77.021217,
+    -12.049141,
+    -77.021217,
+    -12.049141
+],
+  "geometry": {"coordinates":[-77.02121699999999,-12.049141],"type":"Point"}
+}

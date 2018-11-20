@@ -1,0 +1,80 @@
+{
+  "id": 1159287287,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"2001-01-01",
+    "date:inception_upper":"2001-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"2001",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.92848,43.25654,76.92848,43.25654",
+    "geom:latitude":43.25654,
+    "geom:longitude":76.92848,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q858844"
+    ],
+    "wd:country":"Q232",
+    "wd:headquarters":"Q35493",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        421176003,
+        85672937
+    ],
+    "wof:brand_name":"Air Astana",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"KC",
+        "icao:code":"KZR",
+        "wd:id":"Q406828",
+        "wk:page":"Air Astana",
+        "wk:pageid":1485799
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"KZ",
+    "wof:geomhash":"5271a0b822b395e49df760c6f2f54bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "enterprise_id":1159287287,
+            "locality_id":421176003,
+            "region_id":85672937
+        }
+    ],
+    "wof:id":1159287287,
+    "wof:lastmodified":1542668447,
+    "wof:name":"Air Astana",
+    "wof:parent_id":421176003,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    76.92848,
+    43.25654,
+    76.92848,
+    43.25654
+],
+  "geometry": {"coordinates":[76.92847999999999,43.25654],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1159283585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.018505,24.669637,-78.018505,24.669637",
+    "geom:latitude":24.669637,
+    "geom:longitude":-78.018505,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:airline_id":51,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Air Bahama",
+    "sfomuseum:name":"Air Bahama",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        1159288073,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"BS",
+    "wof:geomhash":"1440ac890c4413f13155d240cae590f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "enterprise_id":1159288073
+        }
+    ],
+    "wof:id":1159283585,
+    "wof:lastmodified":1542668401,
+    "wof:name":"Air Bahama",
+    "wof:parent_id":85632339,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288073
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.018505,
+    24.669637,
+    -78.018505,
+    24.669637
+],
+  "geometry": {"coordinates":[-78.018505,24.669637],"type":"Point"}
+}

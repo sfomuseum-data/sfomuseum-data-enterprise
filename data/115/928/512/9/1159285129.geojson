@@ -1,0 +1,86 @@
+{
+  "id": 1159285129,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1946-01-01",
+    "date:inception_upper":"1946-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1946",
+    "flysfo:code":"SK",
+    "flysfo:is_sfo":1,
+    "flysfo:name":"Scandinavian Airlines",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.017205,65.859144,19.017205,65.859144",
+    "geom:latitude":65.859144,
+    "geom:longitude":19.017205,
+    "iso:country":"SE",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":749,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Scandinavian Airlines System (SAS)",
+    "sfomuseum:name":"Scandinavian Airlines System (SAS)",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"us-dshiu",
+    "wd:airline_hub":[
+        "Q206277",
+        "Q210559",
+        "Q223499"
+    ],
+    "wd:country":"Q34",
+    "wd:headquarters":"Q10673294",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191581,
+        1159287667,
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"SK",
+        "icao:callsign":"SCANOR",
+        "icao:code":"SAS",
+        "wd:id":"Q187854",
+        "wk:page":"Scandinavian Airlines",
+        "wk:pageid":162868
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"SE",
+    "wof:geomhash":"ac65aa8b25a05d25d62d8e55d818f8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "enterprise_id":1159287667
+        }
+    ],
+    "wof:id":1159285129,
+    "wof:lastmodified":1542668440,
+    "wof:name":"Scandinavian Airlines System (SAS)",
+    "wof:parent_id":85633789,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287667
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    19.017205,
+    65.859144,
+    19.017205,
+    65.859144
+],
+  "geometry": {"coordinates":[19.017205,65.859144],"type":"Point"}
+}

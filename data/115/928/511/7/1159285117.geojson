@@ -1,0 +1,80 @@
+{
+  "id": 1159285117,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1941-01-01",
+    "date:inception_upper":"1941-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1941",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.676338,37.740825,-25.676338,37.740825",
+    "geom:latitude":37.740825,
+    "geom:longitude":-25.676338,
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":743,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"SATA Air Azores",
+    "sfomuseum:name":"SATA Air Azores",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:country":"Q45",
+    "wd:headquarters":"Q208149",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        101849933,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"SP",
+        "icao:code":"SAT",
+        "wd:id":"Q1243903",
+        "wk:page":"SATA Air A\u00e7ores",
+        "wk:pageid":1827341
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"PT",
+    "wof:geomhash":"3a3e94d5cc49d7b5216a92e03c4b887f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "enterprise_id":1159285117,
+            "locality_id":101849933,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":1159285117,
+    "wof:lastmodified":1542668405,
+    "wof:name":"SATA Air Azores",
+    "wof:parent_id":101849933,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287143
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -25.676338,
+    37.740825,
+    -25.676338,
+    37.740825
+],
+  "geometry": {"coordinates":[-25.676338,37.740825],"type":"Point"}
+}

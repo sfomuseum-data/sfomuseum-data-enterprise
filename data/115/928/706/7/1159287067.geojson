@@ -1,0 +1,80 @@
+{
+  "id": 1159287067,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1990-01-01",
+    "date:inception_upper":"1990-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1990",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.976218,45.806026,15.976218,45.806026",
+    "geom:latitude":45.806026,
+    "geom:longitude":15.976218,
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q128016"
+    ],
+    "wd:country":"Q224",
+    "wd:headquarters":"Q1435",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        101751659,
+        85684811
+    ],
+    "wof:brand_name":"Croatia Airlines",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"OU",
+        "icao:code":"CTN",
+        "wd:id":"Q308974",
+        "wk:page":"Croatia Airlines",
+        "wk:pageid":146972
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"HR",
+    "wof:geomhash":"a4f2a413a34a30254aa09aa8978a2cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "enterprise_id":1159287067,
+            "locality_id":101751659,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1159287067,
+    "wof:lastmodified":1542668444,
+    "wof:name":"Croatia Airlines",
+    "wof:parent_id":101751659,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    15.976218,
+    45.806026,
+    15.976218,
+    45.806026
+],
+  "geometry": {"coordinates":[15.976218,45.806026],"type":"Point"}
+}

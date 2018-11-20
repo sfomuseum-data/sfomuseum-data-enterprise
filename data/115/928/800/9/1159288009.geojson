@@ -1,0 +1,82 @@
+{
+  "id": 1159288009,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1931-01-01",
+    "date:inception_upper":"1931-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1931",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.517105,47.377514,8.517105,47.377514",
+    "geom:latitude":47.377514,
+    "geom:longitude":8.517105,
+    "iso:country":"CH",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q15114"
+    ],
+    "wd:country":"Q39",
+    "wd:headquarters":"Q72",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        85633051,
+        101748463,
+        102063071
+    ],
+    "wof:brand_name":"Swissair",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"SR",
+        "icao:code":"SWR",
+        "wd:id":"Q694098",
+        "wk:page":"Swissair",
+        "wk:pageid":162887
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"CH",
+    "wof:geomhash":"0aab61796adba1e93b2ce02d2773b7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063071,
+            "enterprise_id":1159288009,
+            "locality_id":101748463,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":1159288009,
+    "wof:lastmodified":1542668418,
+    "wof:name":"Swissair",
+    "wof:parent_id":101748463,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    8.517105,
+    47.377514,
+    8.517105,
+    47.377514
+],
+  "geometry": {"coordinates":[8.517105,47.377514],"type":"Point"}
+}

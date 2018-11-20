@@ -1,0 +1,71 @@
+{
+  "id": 1159286745,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1996-01-01",
+    "date:inception_upper":"1996-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1996",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.804224,19.105937,-70.804224,19.105937",
+    "geom:latitude":19.105937,
+    "geom:longitude":-70.804224,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632713
+    ],
+    "wof:brand_name":"Air Santo Domingo",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"EX",
+        "icao:code":"SDO",
+        "wd:id":"Q948355",
+        "wk:page":"Air Santo Domingo",
+        "wk:pageid":329627
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"DO",
+    "wof:geomhash":"9951ac02c83144085b1eded8356f938d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "enterprise_id":1159286745
+        }
+    ],
+    "wof:id":1159286745,
+    "wof:lastmodified":1542668466,
+    "wof:name":"Air Santo Domingo",
+    "wof:parent_id":85632713,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -70.804224,
+    19.105937,
+    -70.804224,
+    19.105937
+],
+  "geometry": {"coordinates":[-70.804224,19.105937],"type":"Point"}
+}

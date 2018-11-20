@@ -1,0 +1,84 @@
+{
+  "id": 1159287789,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1946-01-01",
+    "date:inception_upper":"1946-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1946",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.342865,48.858705,2.342865,48.858705",
+    "geom:latitude":48.858705,
+    "geom:longitude":2.342865,
+    "iso:country":"FR",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"frgov",
+    "wd:airline_hub":[
+        "Q223416"
+    ],
+    "wd:country":"Q142",
+    "wd:headquarters":"Q90",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85683497,
+        102191581,
+        1159322569,
+        85633147,
+        404227465,
+        101751119
+    ],
+    "wof:brand_name":"Aigle Azur",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"ZI",
+        "icao:code":"AAF",
+        "wd:id":"Q212703",
+        "wk:page":"Aigle Azur",
+        "wk:pageid":1482870
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"FR",
+    "wof:geomhash":"f18598ac3fb6aeba7a3b0cf798abd973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "enterprise_id":1159287789,
+            "localadmin_id":1159322569,
+            "locality_id":101751119,
+            "macroregion_id":404227465,
+            "region_id":85683497
+        }
+    ],
+    "wof:id":1159287789,
+    "wof:lastmodified":1542668449,
+    "wof:name":"Aigle Azur",
+    "wof:parent_id":101751119,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    2.342865,
+    48.858705,
+    2.342865,
+    48.858705
+],
+  "geometry": {"coordinates":[2.342865,48.858705],"type":"Point"}
+}

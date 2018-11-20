@@ -1,0 +1,75 @@
+{
+  "id": 1159288843,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1947-01-01",
+    "date:inception_upper":"1947-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1947",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.68822,7.622919,80.68822,7.622919",
+    "geom:latitude":7.622919,
+    "geom:longitude":80.68822,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q60900"
+    ],
+    "wd:country":"Q854",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191569,
+        85632313
+    ],
+    "wof:brand_name":"SriLankan Airlines",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"UL",
+        "icao:code":"ALK",
+        "wd:id":"Q853293",
+        "wk:page":"SriLankan Airlines",
+        "wk:pageid":483603
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"LK",
+    "wof:geomhash":"b9660e7a8b65052ab5234ec5b44bc9e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632313,
+            "enterprise_id":1159288843
+        }
+    ],
+    "wof:id":1159288843,
+    "wof:lastmodified":1542668411,
+    "wof:name":"SriLankan Airlines",
+    "wof:parent_id":85632313,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    80.68822,
+    7.622919,
+    80.68822,
+    7.622919
+],
+  "geometry": {"coordinates":[80.68822,7.622919],"type":"Point"}
+}

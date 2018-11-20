@@ -1,0 +1,78 @@
+{
+  "id": 1159285569,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1964-01-01",
+    "date:inception_upper":"1964-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1964",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.940824,-14.936526,25.940824,-14.936526",
+    "geom:latitude":-14.936526,
+    "geom:longitude":25.940824,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":953,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q332302"
+    ],
+    "wd:country":"Q953",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191573,
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"QZ",
+        "icao:code":"ZAC",
+        "wd:id":"Q145479",
+        "wk:page":"Zambia Airways",
+        "wk:pageid":9729303
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"ZM",
+    "wof:geomhash":"d37b6089a0b3856758d34d80603b18e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "enterprise_id":1159285569
+        }
+    ],
+    "wof:id":1159285569,
+    "wof:lastmodified":1542668445,
+    "wof:name":"Zambia Airways",
+    "wof:parent_id":85632559,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288121
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1159294443
+    ],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    25.940824,
+    -14.936526,
+    25.940824,
+    -14.936526
+],
+  "geometry": {"coordinates":[25.940824,-14.936526],"type":"Point"}
+}

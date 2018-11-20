@@ -1,0 +1,84 @@
+{
+  "id": 1159288725,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1978-01-01",
+    "date:inception_upper":"1978-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1978",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.777247,50.740932,-1.777247,50.740932",
+    "geom:latitude":50.740932,
+    "geom:longitude":-1.777247,
+    "iso:country":"GB",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q580409"
+    ],
+    "wd:country":"Q145",
+    "wd:headquarters":"Q925424",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85683805,
+        102191581,
+        404451611,
+        85633159,
+        404227469,
+        101874047
+    ],
+    "wof:brand_name":"Channel Express",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"LS",
+        "icao:code":"EXS",
+        "wd:id":"Q1062248",
+        "wk:page":"Channel Express",
+        "wk:pageid":1990612
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"GB",
+    "wof:geomhash":"f21bd477cbf2ea5498faba8fd7db8eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "enterprise_id":1159288725,
+            "localadmin_id":404451611,
+            "locality_id":101874047,
+            "macroregion_id":404227469,
+            "region_id":85683805
+        }
+    ],
+    "wof:id":1159288725,
+    "wof:lastmodified":1542668422,
+    "wof:name":"Channel Express",
+    "wof:parent_id":101874047,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -1.777247,
+    50.740932,
+    -1.777247,
+    50.740932
+],
+  "geometry": {"coordinates":[-1.777247,50.740932],"type":"Point"}
+}

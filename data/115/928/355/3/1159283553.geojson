@@ -1,0 +1,86 @@
+{
+  "id": 1159283553,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1929-01-01",
+    "date:inception_upper":"1929-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1929",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.87919,10.48801,-66.87919,10.48801",
+    "geom:latitude":10.48801,
+    "geom:longitude":-66.87919,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":37,
+    "sfomuseum:country":"Venezuela",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Aeropostal",
+    "sfomuseum:name":"Aeropostal",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"unknown",
+    "wd:airline_hub":[
+        "Q1058344"
+    ],
+    "wd:country":"Q717",
+    "wd:headquarters":"Q1533",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85680535,
+        102191577,
+        85632317,
+        890442147,
+        1108694107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"VH",
+        "icao:code":"ALV",
+        "wd:id":"Q1826405",
+        "wk:page":"Aeropostal Alas de Venezuela",
+        "wk:pageid":1489828
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"VE",
+    "wof:geomhash":"0f7b92c07a5da6438be2f9305d73fe30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694107,
+            "enterprise_id":1159283553,
+            "locality_id":890442147,
+            "region_id":85680535
+        }
+    ],
+    "wof:id":1159283553,
+    "wof:lastmodified":1542668437,
+    "wof:name":"Aeropostal",
+    "wof:parent_id":890442147,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159286665
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -66.87919,
+    10.48801,
+    -66.87919,
+    10.48801
+],
+  "geometry": {"coordinates":[-66.87918999999999,10.48801],"type":"Point"}
+}

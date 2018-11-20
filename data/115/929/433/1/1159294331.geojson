@@ -1,0 +1,78 @@
+{
+  "id": 1159294331,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1977-01-01",
+    "date:inception_upper":"1977-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1977",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.068077,51.360473,0.068077,51.360473",
+    "geom:latitude":51.360473,
+    "geom:longitude":0.068077,
+    "iso:country":"GB",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:headquarters":"Q547071",
+    "wd:instance_of":[
+        "Q936518"
+    ],
+    "wof:belongsto":[
+        85684375,
+        102191581,
+        404440045,
+        85633159,
+        404227469,
+        101750357
+    ],
+    "wof:brand_name":"British Aerospace",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q918733",
+        "wk:page":"British Aerospace",
+        "wk:pageid":47665
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"GB",
+    "wof:geomhash":"34c59f19049121e23f1c302eff566028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "enterprise_id":1159294331,
+            "localadmin_id":404440045,
+            "locality_id":101750357,
+            "macroregion_id":404227469,
+            "region_id":85684375
+        }
+    ],
+    "wof:id":1159294331,
+    "wof:lastmodified":1542668475,
+    "wof:name":"British Aerospace",
+    "wof:parent_id":101750357,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aerospace manufacturer"
+    ]
+},
+  "bbox": [
+    0.068077,
+    51.360473,
+    0.068077,
+    51.360473
+],
+  "geometry": {"coordinates":[0.068077,51.360473],"type":"Point"}
+}

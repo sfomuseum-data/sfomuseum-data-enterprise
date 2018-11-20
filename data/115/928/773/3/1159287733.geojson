@@ -1,0 +1,87 @@
+{
+  "id": 1159287733,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1993-01-01",
+    "date:inception_upper":"1993-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1993",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.711817,2.743994,101.711817,2.743994",
+    "geom:latitude":2.743994,
+    "geom:longitude":101.711817,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"woedb",
+    "wd:airline_hub":[
+        "Q500253",
+        "Q645760",
+        "Q669261",
+        "Q1305028"
+    ],
+    "wd:country":"Q833",
+    "wd:headquarters":"Q500253",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102551991,
+        85675163,
+        102191569,
+        85632739,
+        102023173,
+        890489971
+    ],
+    "wof:brand_name":"AirAsia",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"AK",
+        "icao:code":"AXM",
+        "wd:id":"Q406643",
+        "wk:page":"AirAsia",
+        "wk:pageid":285974
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"",
+    "wof:geomhash":"2531949f388f0a01ffff13964d76fc37",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551991,
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489971,
+            "enterprise_id":1159287733,
+            "locality_id":102023173,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1159287733,
+    "wof:lastmodified":1542668468,
+    "wof:name":"AirAsia",
+    "wof:parent_id":102551991,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    101.711817,
+    2.743994,
+    101.711817,
+    2.743994
+],
+  "geometry": {"coordinates":[101.711817,2.743994],"type":"Point"}
+}

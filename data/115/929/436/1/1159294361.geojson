@@ -1,0 +1,77 @@
+{
+  "id": 1159294361,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1935-01-01",
+    "date:inception_upper":"1935-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1935",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.181349,32.822258,-97.181349,32.822258",
+    "geom:latitude":32.822258,
+    "geom:longitude":-97.181349,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:country":"Q30",
+    "wd:headquarters":"Q26497",
+    "wd:instance_of":[
+        "Q936518"
+    ],
+    "wof:belongsto":[
+        85688753,
+        102191575,
+        85633793,
+        101723619,
+        102083201
+    ],
+    "wof:brand_name":"Bell Helicopter",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q815723",
+        "wk:page":"Bell Helicopter",
+        "wk:pageid":511185
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"753d1ef4ea0a14f9e150fd9af67ea7a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083201,
+            "enterprise_id":1159294361,
+            "locality_id":101723619,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":1159294361,
+    "wof:lastmodified":1542668473,
+    "wof:name":"Bell Helicopter",
+    "wof:parent_id":101723619,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aerospace manufacturer"
+    ]
+},
+  "bbox": [
+    -97.181349,
+    32.822258,
+    -97.181349,
+    32.822258
+],
+  "geometry": {"coordinates":[-97.181349,32.822258],"type":"Point"}
+}

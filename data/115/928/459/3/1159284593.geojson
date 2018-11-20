@@ -1,0 +1,63 @@
+{
+  "id": 1159284593,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1927-01-01",
+    "date:inception_upper":"1927-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1927",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.589197,44.251791,20.589197,44.251791",
+    "geom:latitude":44.251791,
+    "geom:longitude":20.589197,
+    "iso:country":"RS",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":505,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Jugoslovenski Aerotransport (JAT)",
+    "sfomuseum:name":"Jugoslovenski Aerotransport (JAT)",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"unknown",
+    "wof:belongsto":[
+        102191581,
+        85633755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"RS",
+    "wof:geomhash":"e608a0f554a9e9b52dc1e5dc88f7aa01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "enterprise_id":1159284593
+        }
+    ],
+    "wof:id":1159284593,
+    "wof:lastmodified":1542675132,
+    "wof:name":"Jugoslovenski Aerotransport (JAT)",
+    "wof:parent_id":85633755,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287401
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.589197,
+    44.251791,
+    20.589197,
+    44.251791
+],
+  "geometry": {"coordinates":[20.589197,44.251791],"type":"Point"}
+}

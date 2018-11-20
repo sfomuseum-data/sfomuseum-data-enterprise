@@ -1,0 +1,87 @@
+{
+  "id": 1159284931,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1992-01-01",
+    "date:inception_upper":"1992-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1992",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.456699,51.795799,55.456699,51.795799",
+    "geom:latitude":51.795799,
+    "geom:longitude":55.456699,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":658,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Orenburg Airlines",
+    "sfomuseum:name":"Orenburg Airlines",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"ourairports",
+    "wd:airline_hub":[
+        "Q1834135"
+    ],
+    "wd:country":"Q159",
+    "wd:headquarters":"Q1834135",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102538279,
+        85688081,
+        102191581,
+        85632685,
+        874393555,
+        1108735703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"R2",
+        "icao:code":"ORB",
+        "wd:id":"Q1368516",
+        "wk:page":"Orenair",
+        "wk:pageid":1591208
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"",
+    "wof:geomhash":"b599ec32ad0386eda56a3db02fc4c62a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102538279,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108735703,
+            "empire_id":874393555,
+            "enterprise_id":1159284931,
+            "region_id":85688081
+        }
+    ],
+    "wof:id":1159284931,
+    "wof:lastmodified":1542668450,
+    "wof:name":"Orenburg Airlines",
+    "wof:parent_id":102538279,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288013
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    55.456699,
+    51.795799,
+    55.456699,
+    51.795799
+],
+  "geometry": {"coordinates":[55.456699,51.795799],"type":"Point"}
+}

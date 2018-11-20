@@ -1,0 +1,78 @@
+{
+  "id": 1159284217,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"1987-01-01",
+    "date:cessation_upper":"1987-12-31",
+    "date:inception_lower":"1968-01-01",
+    "date:inception_upper":"1968-12-31",
+    "edtf:cessation":"1987",
+    "edtf:inception":"1968",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-123.1792,49.19333,-123.1792,49.19333",
+    "geom:latitude":49.19333,
+    "geom:longitude":-123.1792,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":0,
+    "sfomuseum:airline_id":335,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Canadian Pacific Airlines",
+    "sfomuseum:name":"Canadian Pacific Airlines",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"mz",
+    "wof:belongsto":[
+        1108952593,
+        102555307,
+        85894871,
+        102191575,
+        85633041,
+        101741081,
+        85682117,
+        "102555307"
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"CA",
+    "wof:geomhash":"0daaf2c70ee77b16f6c18b9da659bfd9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555307,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "enterprise_id":1159284217,
+            "locality_id":101741081,
+            "microhood_id":1108952593,
+            "neighbourhood_id":85894871,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":1159284217,
+    "wof:lastmodified":1542668415,
+    "wof:name":"Canadian Pacific Airlines",
+    "wof:parent_id":"102555307",
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288301
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1159285759
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.1792,
+    49.19333,
+    -123.1792,
+    49.19333
+],
+  "geometry": {"coordinates":[-123.17919999999999,49.19333],"type":"Point"}
+}

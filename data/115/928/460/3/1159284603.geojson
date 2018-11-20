@@ -1,0 +1,85 @@
+{
+  "id": 1159284603,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1977-01-01",
+    "date:inception_upper":"1977-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1977",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91667,-1.3,36.91667,-1.3",
+    "geom:latitude":-1.3,
+    "geom:longitude":36.91667,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":511,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Kenya Airways",
+    "sfomuseum:name":"Kenya Airways",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q206349"
+    ],
+    "wd:country":"Q114",
+    "wd:headquarters":"Q5369414",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85672951,
+        102191573,
+        85632329,
+        421171939,
+        1091912313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"KQ",
+        "icao:code":"KQA",
+        "wd:id":"Q638900",
+        "wk:page":"Kenya Airways",
+        "wk:pageid":145569
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"KE",
+    "wof:geomhash":"8b66417fc1cbd233e5539705a6df2f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912313,
+            "enterprise_id":1159284603,
+            "locality_id":421171939,
+            "region_id":85672951
+        }
+    ],
+    "wof:id":1159284603,
+    "wof:lastmodified":1542668450,
+    "wof:name":"Kenya Airways",
+    "wof:parent_id":421171939,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287737
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    36.91667,
+    -1.3,
+    36.91667,
+    -1.3
+],
+  "geometry": {"coordinates":[36.91667,-1.3],"type":"Point"}
+}

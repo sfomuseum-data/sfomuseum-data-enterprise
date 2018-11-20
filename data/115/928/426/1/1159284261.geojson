@@ -1,0 +1,100 @@
+{
+  "id": 1159284261,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1929-01-01",
+    "date:inception_upper":"1929-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1929",
+    "flysfo:code":"DL",
+    "flysfo:is_sfo":1,
+    "flysfo:name":"Delta Air Lines",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.414581,33.769805,-84.414581,33.769805",
+    "geom:latitude":33.769805,
+    "geom:longitude":-84.414581,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":355,
+    "sfomuseum:brand":"Delta Air Lines",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Delta Air Lines",
+    "sfomuseum:name":"Delta Air Lines",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"atldpcd",
+    "wd:airline_hub":[
+        "Q9694",
+        "Q151121",
+        "Q652505",
+        "Q214861",
+        "Q8685",
+        "Q319654",
+        "Q866831",
+        "Q875749",
+        "Q36454",
+        "Q46280",
+        "Q526488"
+    ],
+    "wd:country":"Q30",
+    "wd:headquarters":"Q23556",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"DL",
+        "icao:callsign":"DELTA",
+        "icao:code":"DAL",
+        "wd:id":"Q188920",
+        "wk:page":"Delta Air Lines",
+        "wk:pageid":77549
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"89e0e9f0875c841489529baf344e3fb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "enterprise_id":1159284261,
+            "locality_id":85936429,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":1159284261,
+    "wof:lastmodified":1542668421,
+    "wof:name":"Delta Air Lines",
+    "wof:parent_id":85936429,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287931
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -84.414581,
+    33.769805,
+    -84.414581,
+    33.769805
+],
+  "geometry": {"coordinates":[-84.414581,33.769805],"type":"Point"}
+}

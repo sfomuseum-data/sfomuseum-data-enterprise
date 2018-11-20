@@ -1,0 +1,88 @@
+{
+  "id": 1159286621,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1957-01-01",
+    "date:inception_upper":"1957-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1957",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.360117,48.724575,2.360117,48.724575",
+    "geom:latitude":48.724575,
+    "geom:longitude":2.360117,
+    "iso:country":"FR",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q223416"
+    ],
+    "wd:country":"Q142",
+    "wd:headquarters":"Q752150",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85683371,
+        102191581,
+        404228183,
+        404352071,
+        85633147,
+        404227465,
+        101751005,
+        102064597
+    ],
+    "wof:brand_name":"Air Inter",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"IT",
+        "icao:code":"ITF",
+        "wd:id":"Q407368",
+        "wk:page":"Air Inter",
+        "wk:pageid":3063639
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"FR",
+    "wof:geomhash":"2aaa1d90ba3a4cc0bf4bed49b57cf410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064597,
+            "enterprise_id":1159286621,
+            "localadmin_id":404352071,
+            "locality_id":101751005,
+            "macrocounty_id":404228183,
+            "macroregion_id":404227465,
+            "region_id":85683371
+        }
+    ],
+    "wof:id":1159286621,
+    "wof:lastmodified":1542668418,
+    "wof:name":"Air Inter",
+    "wof:parent_id":101751005,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    2.360117,
+    48.724575,
+    2.360117,
+    48.724575
+],
+  "geometry": {"coordinates":[2.360117,48.724575],"type":"Point"}
+}

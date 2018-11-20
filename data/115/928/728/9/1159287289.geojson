@@ -1,0 +1,83 @@
+{
+  "id": 1159287289,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1951-01-01",
+    "date:inception_upper":"1951-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1951",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.58333,25.08333,121.58333,25.08333",
+    "geom:latitude":25.08333,
+    "geom:longitude":121.58333,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"unknown",
+    "wd:airline_hub":[
+        "Q702019",
+        "Q44856"
+    ],
+    "wd:country":"Q865",
+    "wd:headquarters":"Q271094",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85679583,
+        102191569,
+        890468701,
+        85632403,
+        1108808545
+    ],
+    "wof:brand_name":"TransAsia Airways",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"GE",
+        "icao:code":"TNA",
+        "wd:id":"Q383707",
+        "wk:page":"TransAsia Airways",
+        "wk:pageid":1624737
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"TW",
+    "wof:geomhash":"747a8f46384270840e3f04f6e3467fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "enterprise_id":1159287289,
+            "localadmin_id":890468701,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1159287289,
+    "wof:lastmodified":1542668447,
+    "wof:name":"TransAsia Airways",
+    "wof:parent_id":890468701,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    121.58333,
+    25.08333,
+    121.58333,
+    25.08333
+],
+  "geometry": {"coordinates":[121.58333,25.08333],"type":"Point"}
+}

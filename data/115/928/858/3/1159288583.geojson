@@ -1,0 +1,82 @@
+{
+  "id": 1159288583,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1978-01-01",
+    "date:inception_upper":"1978-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1978",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.517105,47.377514,8.517105,47.377514",
+    "geom:latitude":47.377514,
+    "geom:longitude":8.517105,
+    "iso:country":"CH",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q156971"
+    ],
+    "wd:country":"Q142",
+    "wd:headquarters":"Q72",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        85633051,
+        101748463,
+        102063071
+    ],
+    "wof:brand_name":"Crossair",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"LX",
+        "icao:code":"CRX",
+        "wd:id":"Q667656",
+        "wk:page":"Crossair",
+        "wk:pageid":162890
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"CH",
+    "wof:geomhash":"0aab61796adba1e93b2ce02d2773b7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063071,
+            "enterprise_id":1159288583,
+            "locality_id":101748463,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":1159288583,
+    "wof:lastmodified":1542668400,
+    "wof:name":"Crossair",
+    "wof:parent_id":101748463,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    8.517105,
+    47.377514,
+    8.517105,
+    47.377514
+],
+  "geometry": {"coordinates":[8.517105,47.377514],"type":"Point"}
+}

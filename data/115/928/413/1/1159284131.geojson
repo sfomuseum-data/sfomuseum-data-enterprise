@@ -1,0 +1,86 @@
+{
+  "id": 1159284131,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1968-01-01",
+    "date:inception_upper":"1968-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1968",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.36706,19.28692,-81.36706,19.28692",
+    "geom:latitude":19.28692,
+    "geom:longitude":-81.36706,
+    "iso:country":"KY",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":297,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Cayman Airways",
+    "sfomuseum:name":"Cayman Airways",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"unknown",
+    "wd:airline_hub":[
+        "Q665948"
+    ],
+    "wd:country":"Q145",
+    "wd:headquarters":"Q172996",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85632611,
+        85681183,
+        102191575,
+        890434949,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"KX",
+        "icao:code":"CAY",
+        "wd:id":"Q1052017",
+        "wk:page":"Cayman Airways",
+        "wk:pageid":399294
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"KY",
+    "wof:geomhash":"62eb491e6c556f528df0b4ed628c1a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632611,
+            "empire_id":136253055,
+            "enterprise_id":1159284131,
+            "locality_id":890434949,
+            "region_id":85681183
+        }
+    ],
+    "wof:id":1159284131,
+    "wof:lastmodified":1542668423,
+    "wof:name":"Cayman Airways",
+    "wof:parent_id":890434949,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288823
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -81.36706,
+    19.28692,
+    -81.36706,
+    19.28692
+],
+  "geometry": {"coordinates":[-81.36706,19.28692],"type":"Point"}
+}

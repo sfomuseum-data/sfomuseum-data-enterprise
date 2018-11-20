@@ -1,0 +1,83 @@
+{
+  "id": 1159283685,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1947-01-01",
+    "date:inception_upper":"1947-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1947",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.083546,-22.570006,17.083546,-22.570006",
+    "geom:latitude":-22.570006,
+    "geom:longitude":17.083546,
+    "iso:country":"NA",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":96,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Namib Air  (Air Namibia)",
+    "sfomuseum:name":"Namib Air",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"naturalearth",
+    "wd:airline_hub":[
+        "Q667326"
+    ],
+    "wd:country":"Q1030",
+    "wd:headquarters":"Q3935",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        1141909361,
+        85675205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"SW",
+        "icao:code":"NMB",
+        "wd:id":"Q407624",
+        "wk:page":"Air Namibia",
+        "wk:pageid":402253
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"NA",
+    "wof:geomhash":"2118e57960da07430af3dd61514f5f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "enterprise_id":1159283685,
+            "locality_id":1141909361,
+            "region_id":85675205
+        }
+    ],
+    "wof:id":1159283685,
+    "wof:lastmodified":1542668447,
+    "wof:name":"Namib Air",
+    "wof:parent_id":1141909361,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288571
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    17.083546,
+    -22.570006,
+    17.083546,
+    -22.570006
+],
+  "geometry": {"coordinates":[17.083546,-22.570006],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1159294047,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1922-01-01",
+    "date:inception_upper":"1922-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1922",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.088019,54.084592,12.088019,54.084592",
+    "geom:latitude":54.084592,
+    "geom:longitude":12.088019,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:country":"Q183",
+    "wd:headquarters":"Q2861",
+    "wd:instance_of":[
+        "Q936518",
+        "Q15081030"
+    ],
+    "wof:belongsto":[
+        85682487,
+        102191581,
+        85633111,
+        101748865,
+        102064115
+    ],
+    "wof:brand_name":"Heinkel",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q155296",
+        "wk:page":"Heinkel",
+        "wk:pageid":392620
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"DE",
+    "wof:geomhash":"23adc1bc5387d0d600006eb9ce5a946a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064115,
+            "enterprise_id":1159294047,
+            "locality_id":101748865,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":1159294047,
+    "wof:lastmodified":1542668478,
+    "wof:name":"Heinkel",
+    "wof:parent_id":101748865,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aerospace manufacturer",
+        "motorcycle manufacturer"
+    ]
+},
+  "bbox": [
+    12.088019,
+    54.084592,
+    12.088019,
+    54.084592
+],
+  "geometry": {"coordinates":[12.088019,54.084592],"type":"Point"}
+}

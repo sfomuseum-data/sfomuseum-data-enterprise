@@ -1,0 +1,72 @@
+{
+  "id": 1159284511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.464618,40.09095,-3.464618,40.09095",
+    "geom:latitude":40.09095,
+    "geom:longitude":-3.464618,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:airline_id":468,
+    "sfomuseum:country":"Spain",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Iberia",
+    "sfomuseum:name":"Iberia",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"whosonfirst",
+    "wd:country":"Q29",
+    "wd:instance_of":[
+        "Q34763"
+    ],
+    "wof:belongsto":[
+        102191581,
+        85633129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q12837",
+        "wk:page":"Iberian Peninsula",
+        "wk:pageid":14883
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"ES",
+    "wof:geomhash":"92f8bed2128be1c9d197ed975c7975d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "enterprise_id":1159284511
+        }
+    ],
+    "wof:id":1159284511,
+    "wof:lastmodified":1542668457,
+    "wof:name":"Iberia",
+    "wof:parent_id":85633129,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287719
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "peninsula"
+    ]
+},
+  "bbox": [
+    -3.464618,
+    40.09095,
+    -3.464618,
+    40.09095
+],
+  "geometry": {"coordinates":[-3.464618,40.09095],"type":"Point"}
+}

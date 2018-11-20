@@ -1,0 +1,87 @@
+{
+  "id": 1159285087,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1963-01-01",
+    "date:inception_upper":"1963-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1963",
+    "flysfo:code":"RJ",
+    "flysfo:is_sfo":1,
+    "flysfo:name":"Royal Jordanian",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94503,31.95522,35.94503,31.95522",
+    "geom:latitude":31.95522,
+    "geom:longitude":35.94503,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":730,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Royal Jordanian Airlines",
+    "sfomuseum:name":"Royal Jordanian Airlines",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q721494"
+    ],
+    "wd:country":"Q810",
+    "wd:headquarters":"Q3805",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        421200421,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"RJ",
+        "icao:callsign":"JORDANIAN",
+        "icao:code":"RJA",
+        "wd:id":"Q824225",
+        "wk:page":"Royal Jordanian",
+        "wk:pageid":105344
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"JO",
+    "wof:geomhash":"02af4e1c8a843c07166061262e2f5bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "enterprise_id":1159285087,
+            "locality_id":421200421,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1159285087,
+    "wof:lastmodified":1542668459,
+    "wof:name":"Royal Jordanian Airlines",
+    "wof:parent_id":421200421,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288621
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    35.94503,
+    31.95522,
+    35.94503,
+    31.95522
+],
+  "geometry": {"coordinates":[35.94503,31.95522],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1159283779,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1961-01-01",
+    "date:inception_upper":"1961-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1961",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.513592,-2.271721,23.513592,-2.271721",
+    "geom:latitude":-2.271721,
+    "geom:longitude":23.513592,
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":138,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Air Zaire",
+    "sfomuseum:name":"Air Zaire",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q645492"
+    ],
+    "wd:country":"Q974",
+    "wd:headquarters":"Q3838",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191573,
+        1159288041,
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"QC",
+        "icao:code":"AZR",
+        "wd:id":"Q1169197",
+        "wk:page":"Air Za\u00efre",
+        "wk:pageid":10271882
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"CD",
+    "wof:geomhash":"b53a2c31860d59f3b48b4aa89b15eaa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "enterprise_id":1159288041
+        }
+    ],
+    "wof:id":1159283779,
+    "wof:lastmodified":1542668425,
+    "wof:name":"Air Zaire",
+    "wof:parent_id":85632643,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288041
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    23.513592,
+    -2.271721,
+    23.513592,
+    -2.271721
+],
+  "geometry": {"coordinates":[23.513592,-2.271721],"type":"Point"}
+}

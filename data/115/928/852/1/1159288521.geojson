@@ -1,0 +1,86 @@
+{
+  "id": 1159288521,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1987-01-01",
+    "date:inception_upper":"1987-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1987",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.81106,38.07438,23.81106,38.07438",
+    "geom:latitude":38.07438,
+    "geom:longitude":23.81106,
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"qs_pg",
+    "wd:airline_hub":[
+        "Q211734",
+        "Q1142384",
+        "Q654636",
+        "Q127958",
+        "Q1144233",
+        "Q924954",
+        "Q833555"
+    ],
+    "wd:country":"Q41",
+    "wd:headquarters":"Q769709",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        1125995731,
+        85684697
+    ],
+    "wof:brand_name":"Aegean Airlines",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"A3",
+        "icao:code":"AEE",
+        "wd:id":"Q380580",
+        "wk:page":"Aegean Airlines",
+        "wk:pageid":1460927
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"GR",
+    "wof:geomhash":"c1c2274332787f0e3825f12179411e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "enterprise_id":1159288521,
+            "locality_id":1125995731,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1159288521,
+    "wof:lastmodified":1542668439,
+    "wof:name":"Aegean Airlines",
+    "wof:parent_id":1125995731,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    23.81106,
+    38.07438,
+    23.81106,
+    38.07438
+],
+  "geometry": {"coordinates":[23.81106,38.07438],"type":"Point"}
+}

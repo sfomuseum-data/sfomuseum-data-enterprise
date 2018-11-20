@@ -1,0 +1,72 @@
+{
+  "id": 1159288085,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1956-01-01",
+    "date:inception_upper":"1956-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1956",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.876651,-12.98078,-72.876651,-12.98078",
+    "geom:latitude":-12.98078,
+    "geom:longitude":-72.876651,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:country":"Q419",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632521
+    ],
+    "wof:brand_name":"Aerolineas Peruanas",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"EP",
+        "icao:code":"PRU",
+        "wd:id":"Q6711286",
+        "wk:page":"Aerol\u00edneas Peruanas",
+        "wk:pageid":17858286
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"PE",
+    "wof:geomhash":"6a27693eeb59a61dd44f56c6480dfc2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "enterprise_id":1159288085
+        }
+    ],
+    "wof:id":1159288085,
+    "wof:lastmodified":1542668423,
+    "wof:name":"Aerolineas Peruanas",
+    "wof:parent_id":85632521,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -72.876651,
+    -12.98078,
+    -72.876651,
+    -12.98078
+],
+  "geometry": {"coordinates":[-72.876651,-12.98078],"type":"Point"}
+}

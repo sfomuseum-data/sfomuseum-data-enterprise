@@ -1,0 +1,83 @@
+{
+  "id": 1159283837,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1937-01-01",
+    "date:inception_upper":"1937-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1937",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-115.20583,36.033166,-115.20583,36.033166",
+    "geom:latitude":36.033166,
+    "geom:longitude":-115.20583,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":163,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Harrah's  (Allegiant Air)",
+    "sfomuseum:name":"Harrah's",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:country":"Q30",
+    "wd:headquarters":"Q984542",
+    "wd:instance_of":[
+        "Q4830453",
+        "Q6881511"
+    ],
+    "wof:belongsto":[
+        85688531,
+        102191575,
+        85633793,
+        85975035,
+        102081553,
+        85975017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q892498",
+        "wk:page":"Caesars Entertainment Corporation",
+        "wk:pageid":570913
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"6de685e6ee84717dce16a6831dbfe6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081553,
+            "enterprise_id":1159283837,
+            "locality_id":85975035,
+            "region_id":85688531
+        }
+    ],
+    "wof:id":1159283837,
+    "wof:lastmodified":1542668413,
+    "wof:name":"Harrah's",
+    "wof:parent_id":85975017,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287537
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "enterprise"
+    ]
+},
+  "bbox": [
+    -115.20583,
+    36.033166,
+    -115.20583,
+    36.033166
+],
+  "geometry": {"coordinates":[-115.20583000000001,36.033166],"type":"Point"}
+}

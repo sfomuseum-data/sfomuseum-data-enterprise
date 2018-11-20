@@ -1,0 +1,84 @@
+{
+  "id": 1159285987,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"1994-01-01",
+    "date:cessation_upper":"1994-12-31",
+    "date:inception_lower":"1971-01-01",
+    "date:inception_upper":"1971-12-31",
+    "edtf:cessation":"1994",
+    "edtf:inception":"1971",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.954644,35.112125,-89.954644,35.112125",
+    "geom:latitude":35.112125,
+    "geom:longitude":-89.954644,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":0,
+    "sfomuseum:airline_id":1156,
+    "sfomuseum:brand":"FedEx",
+    "sfomuseum:country":"USA",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Federal Express  (FedEx)",
+    "sfomuseum:name":"Federal Express",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:country":"Q30",
+    "wd:headquarters":"Q16563",
+    "wd:instance_of":[
+        "Q1447463"
+    ],
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q459477",
+        "wk:page":"FedEx",
+        "wk:pageid":77543
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"ba7be3c03632c0d30d90a4c8548a1844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "enterprise_id":1159285987,
+            "locality_id":101722645,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":1159285987,
+    "wof:lastmodified":1542668451,
+    "wof:name":"Federal Express",
+    "wof:parent_id":101722645,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[
+        1159284385
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cep service"
+    ]
+},
+  "bbox": [
+    -89.954644,
+    35.112125,
+    -89.954644,
+    35.112125
+],
+  "geometry": {"coordinates":[-89.954644,35.112125],"type":"Point"}
+}

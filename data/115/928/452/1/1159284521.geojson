@@ -1,0 +1,85 @@
+{
+  "id": 1159284521,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1924-01-01",
+    "date:inception_upper":"1924-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1924",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.092786,51.373327,-0.092786,51.373327",
+    "geom:latitude":51.373327,
+    "geom:longitude":-0.092786,
+    "iso:country":"GB",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":472,
+    "sfomuseum:country":"England",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Imperial Airways",
+    "sfomuseum:name":"Imperial Airways",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:country":"Q145",
+    "wd:headquarters":"Q2213391",
+    "wd:instance_of":[
+        "Q4830453"
+    ],
+    "wof:belongsto":[
+        85786907,
+        102191581,
+        404435563,
+        85633159,
+        404227469,
+        101750367,
+        85684061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q591797",
+        "wk:page":"Imperial Airways",
+        "wk:pageid":15357
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"GB",
+    "wof:geomhash":"f0f5e6aff7db87fb4aaa4b5e82406734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "enterprise_id":1159284521,
+            "localadmin_id":404435563,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786907,
+            "region_id":85684061
+        }
+    ],
+    "wof:id":1159284521,
+    "wof:lastmodified":1542668469,
+    "wof:name":"Imperial Airways",
+    "wof:parent_id":85786907,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288361
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -0.092786,
+    51.373327,
+    -0.092786,
+    51.373327
+],
+  "geometry": {"coordinates":[-0.092786,51.373327],"type":"Point"}
+}

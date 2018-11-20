@@ -1,0 +1,65 @@
+{
+  "id": 1159286129,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1996-03-05",
+    "date:inception_upper":"1996-03-05",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"1996-03-05",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.43651,53.832259,28.43651,53.832259",
+    "geom:latitude":53.832259,
+    "geom:longitude":28.43651,
+    "iso:country":"BY",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:airline_id":1220,
+    "sfomuseum:country":"Belarus",
+    "sfomuseum:hub":"Minsk",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Belavia Belarusian Airlines",
+    "sfomuseum:name":"Belavia Belarusian Airlines",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"unknown",
+    "wof:belongsto":[
+        102191581,
+        85632395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"BY",
+    "wof:geomhash":"dec7b120663e9a2135ff10b1c1de286b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "enterprise_id":1159286129
+        }
+    ],
+    "wof:id":1159286129,
+    "wof:lastmodified":1542675120,
+    "wof:name":"Belavia Belarusian Airlines",
+    "wof:parent_id":85632395,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287113
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.43651,
+    53.832259,
+    28.43651,
+    53.832259
+],
+  "geometry": {"coordinates":[28.43651,53.832259],"type":"Point"}
+}

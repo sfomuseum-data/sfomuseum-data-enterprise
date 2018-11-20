@@ -1,0 +1,85 @@
+{
+  "id": 1159285301,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1953-01-01",
+    "date:inception_upper":"1953-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1953",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.49442,33.88894,35.49442,33.88894",
+    "geom:latitude":33.88894,
+    "geom:longitude":35.49442,
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":829,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Trans Mediterranean Airways",
+    "sfomuseum:name":"Trans Mediterranean Airways",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"unknown",
+    "wd:airline_hub":[
+        "Q668329"
+    ],
+    "wd:country":"Q822",
+    "wd:headquarters":"Q3820",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85673487,
+        102191569,
+        85632533,
+        890442383,
+        1108691413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"T2",
+        "icao:code":"TMA",
+        "wd:id":"Q609818",
+        "wk:page":"TMA Cargo",
+        "wk:pageid":2039059
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"LB",
+    "wof:geomhash":"1141707c17f6255639a5d0273935c206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691413,
+            "enterprise_id":1159285301,
+            "locality_id":890442383,
+            "region_id":85673487
+        }
+    ],
+    "wof:id":1159285301,
+    "wof:lastmodified":1542668416,
+    "wof:name":"Trans Mediterranean Airways",
+    "wof:parent_id":890442383,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288639
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    35.49442,
+    33.88894,
+    35.49442,
+    33.88894
+],
+  "geometry": {"coordinates":[35.49442,33.88894],"type":"Point"}
+}

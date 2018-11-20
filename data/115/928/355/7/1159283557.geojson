@@ -1,0 +1,62 @@
+{
+  "id": 1159283557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.804224,19.105937,-70.804224,19.105937",
+    "geom:latitude":19.105937,
+    "geom:longitude":-70.804224,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:airline_id":39,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Aerotours Dominicano Airlines",
+    "sfomuseum:name":"Aerotours Dominicano Airlines",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        1159286747,
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"DO",
+    "wof:geomhash":"9951ac02c83144085b1eded8356f938d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "enterprise_id":1159286747
+        }
+    ],
+    "wof:id":1159283557,
+    "wof:lastmodified":1542668437,
+    "wof:name":"Aerotours Dominicano Airlines",
+    "wof:parent_id":85632713,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159286747
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.804224,
+    19.105937,
+    -70.804224,
+    19.105937
+],
+  "geometry": {"coordinates":[-70.804224,19.105937],"type":"Point"}
+}

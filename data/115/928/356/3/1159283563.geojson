@@ -1,0 +1,78 @@
+{
+  "id": 1159283563,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1987-01-01",
+    "date:inception_upper":"1987-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1987",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.247349,52.418788,-1.247349,52.418788",
+    "geom:latitude":52.418788,
+    "geom:longitude":-1.247349,
+    "iso:country":"GB",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":42,
+    "sfomuseum:country":"Canada",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Air 2000",
+    "sfomuseum:name":"Air 2000",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"whosonfirst",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191581,
+        1159288393,
+        85633159,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"DP",
+        "icao:code":"AMM",
+        "wd:id":"Q4033613",
+        "wk:page":"Air 2000",
+        "wk:pageid":793754
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"GB",
+    "wof:geomhash":"3d2af4a89e1d55e1d68276122807ee9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "enterprise_id":1159288393
+        }
+    ],
+    "wof:id":1159283563,
+    "wof:lastmodified":1542668416,
+    "wof:name":"Air 2000",
+    "wof:parent_id":85633159,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288393
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -1.247349,
+    52.418788,
+    -1.247349,
+    52.418788
+],
+  "geometry": {"coordinates":[-1.247349,52.418788],"type":"Point"}
+}

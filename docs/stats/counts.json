@@ -1,0 +1,15 @@
+{
+  "stats": {
+    "agency": 4, 
+    "airline": 1308, 
+    "company": 1447, 
+    "count": 2759, 
+    "enterprise": 2759, 
+    "is_ceased": 2029, 
+    "is_current": 1955, 
+    "is_current_false": 77, 
+    "is_deprecated": 2, 
+    "is_superseded": 10, 
+    "is_superseding": 15
+  }
+}

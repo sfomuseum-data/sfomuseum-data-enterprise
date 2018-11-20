@@ -1,0 +1,79 @@
+{
+  "id": 1159293767,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1969-01-01",
+    "date:inception_upper":"1969-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1969",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.750298,48.327097,11.750298,48.327097",
+    "geom:latitude":48.327097,
+    "geom:longitude":11.750298,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:country":"Q183",
+    "wd:headquarters":"Q285955",
+    "wd:instance_of":[
+        "Q936518"
+    ],
+    "wof:belongsto":[
+        85682571,
+        102191581,
+        85633111,
+        404227567,
+        101785519,
+        102063307
+    ],
+    "wof:brand_name":"Panavia",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q571429",
+        "wk:page":"Panavia Aircraft GmbH",
+        "wk:pageid":734913
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"DE",
+    "wof:geomhash":"6f1f5e1cc66a97f59fd894363cbfd57e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063307,
+            "enterprise_id":1159293767,
+            "locality_id":101785519,
+            "macrocounty_id":404227567,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1159293767,
+    "wof:lastmodified":1542668478,
+    "wof:name":"Panavia",
+    "wof:parent_id":101785519,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aerospace manufacturer"
+    ]
+},
+  "bbox": [
+    11.750298,
+    48.327097,
+    11.750298,
+    48.327097
+],
+  "geometry": {"coordinates":[11.750298,48.327097],"type":"Point"}
+}

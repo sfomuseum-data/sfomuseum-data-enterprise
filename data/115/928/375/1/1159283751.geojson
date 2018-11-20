@@ -1,0 +1,93 @@
+{
+  "id": 1159283751,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1990-01-01",
+    "date:inception_upper":"1990-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1990",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.440694,43.603902,1.440694,43.603902",
+    "geom:latitude":43.603902,
+    "geom:longitude":1.440694,
+    "iso:country":"FR",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":125,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Air Toulouse International",
+    "sfomuseum:name":"Air Toulouse International",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"frgov",
+    "wd:airline_hub":[
+        "Q372615"
+    ],
+    "wd:country":"Q142",
+    "wd:headquarters":"Q7880",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85683397,
+        102191581,
+        404228067,
+        1159321987,
+        85633147,
+        1108826387,
+        101750691,
+        136253037,
+        102072513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"SH",
+        "icao:code":"AIS",
+        "wd:id":"Q2825580",
+        "wk:page":"Aeris (airline)",
+        "wk:pageid":4779659
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"FR",
+    "wof:geomhash":"422d77cb797f5c0ef34d4f2df4d2a4fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "enterprise_id":1159283751,
+            "localadmin_id":1159321987,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
+            "region_id":85683397
+        }
+    ],
+    "wof:id":1159283751,
+    "wof:lastmodified":1542668460,
+    "wof:name":"Air Toulouse International",
+    "wof:parent_id":101750691,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288573
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    1.440694,
+    43.603902,
+    1.440694,
+    43.603902
+],
+  "geometry": {"coordinates":[1.440694,43.603902],"type":"Point"}
+}

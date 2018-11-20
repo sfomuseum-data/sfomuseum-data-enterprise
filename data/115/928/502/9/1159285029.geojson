@@ -1,0 +1,85 @@
+{
+  "id": 1159285029,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1997-01-01",
+    "date:inception_upper":"1997-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1997",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.770996,62.0933,129.770996,62.0933",
+    "geom:latitude":62.0933,
+    "geom:longitude":129.770996,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":704,
+    "sfomuseum:country":"Russia",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Polar Airlines",
+    "sfomuseum:name":"Polar Airlines",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"ourairports",
+    "wd:country":"Q159",
+    "wd:headquarters":"Q1431588",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102540471,
+        85687843,
+        102191581,
+        85632685,
+        874393555,
+        1108734077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"PI",
+        "icao:code":"RKA",
+        "wd:id":"Q2130889",
+        "wk:page":"Polar Airlines",
+        "wk:pageid":8550790
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"",
+    "wof:geomhash":"6acab5976f64f178a6e76c71d548329c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102540471,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108734077,
+            "empire_id":874393555,
+            "enterprise_id":1159285029,
+            "region_id":85687843
+        }
+    ],
+    "wof:id":1159285029,
+    "wof:lastmodified":1542668454,
+    "wof:name":"Polar Airlines",
+    "wof:parent_id":102540471,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287097
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    129.770996,
+    62.0933,
+    129.770996,
+    62.0933
+],
+  "geometry": {"coordinates":[129.770996,62.0933],"type":"Point"}
+}

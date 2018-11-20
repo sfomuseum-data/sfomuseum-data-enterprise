@@ -1,0 +1,78 @@
+{
+  "id": 1159285727,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1964-01-01",
+    "date:inception_upper":"1964-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1964",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"138.441899,36.13793,138.441899,36.13793",
+    "geom:latitude":36.13793,
+    "geom:longitude":138.441899,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":1035,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Japan Air System  (JAL (Japan Airlines))",
+    "sfomuseum:name":"Japan Air System",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q204853"
+    ],
+    "wd:country":"Q17",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191569,
+        85632429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"JD",
+        "icao:code":"JAS",
+        "wd:id":"Q1138263",
+        "wk:page":"Japan Air System",
+        "wk:pageid":473381
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"JP",
+    "wof:geomhash":"1431db437ee4eaea351c74ff946cf50f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "enterprise_id":1159285727
+        }
+    ],
+    "wof:id":1159285727,
+    "wof:lastmodified":1542675116,
+    "wof:name":"Japan Air System",
+    "wof:parent_id":85632429,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288585
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    138.441899,
+    36.13793,
+    138.441899,
+    36.13793
+],
+  "geometry": {"coordinates":[138.44189900000001,36.13793],"type":"Point"}
+}

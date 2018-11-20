@@ -1,0 +1,83 @@
+{
+  "id": 1159286519,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1919-01-01",
+    "date:inception_upper":"1919-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1919",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.11341,48.74926,2.11341,48.74926",
+    "geom:latitude":48.74926,
+    "geom:longitude":2.11341,
+    "iso:country":"FR",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"qs_pg",
+    "wd:country":"Q142",
+    "wd:headquarters":"Q1119799",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85683367,
+        102191581,
+        404228265,
+        404413665,
+        85633147,
+        404227465,
+        1125768175,
+        102069753
+    ],
+    "wof:brand_name":"Farman Airlines",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1749469",
+        "wk:page":"Soci\u00e9t\u00e9 G\u00e9n\u00e9rale des Transports A\u00e9riens",
+        "wk:pageid":13492986
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"FR",
+    "wof:geomhash":"01e7b4d184e61395cee27355ac836212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069753,
+            "enterprise_id":1159286519,
+            "localadmin_id":404413665,
+            "locality_id":1125768175,
+            "macrocounty_id":404228265,
+            "macroregion_id":404227465,
+            "region_id":85683367
+        }
+    ],
+    "wof:id":1159286519,
+    "wof:lastmodified":1542668443,
+    "wof:name":"Farman Airlines",
+    "wof:parent_id":1125768175,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    2.11341,
+    48.74926,
+    2.11341,
+    48.74926
+],
+  "geometry": {"coordinates":[2.11341,48.74926],"type":"Point"}
+}

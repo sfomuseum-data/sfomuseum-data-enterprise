@@ -1,0 +1,79 @@
+{
+  "id": 1159283613,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"2007-01-01",
+    "date:inception_upper":"2007-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"2007",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.804224,19.105937,-70.804224,19.105937",
+    "geom:latitude":19.105937,
+    "geom:longitude":-70.804224,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":64,
+    "sfomuseum:country":"Dominican Republic",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Air Dominicana",
+    "sfomuseum:name":"Air Dominicana",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q1062676"
+    ],
+    "wd:country":"Q786",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"ED",
+        "icao:code":"RDO",
+        "wd:id":"Q3819110",
+        "wk:page":"Air Dominicana",
+        "wk:pageid":10398105
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"DO",
+    "wof:geomhash":"9951ac02c83144085b1eded8356f938d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "enterprise_id":1159283613
+        }
+    ],
+    "wof:id":1159283613,
+    "wof:lastmodified":1542668458,
+    "wof:name":"Air Dominicana",
+    "wof:parent_id":85632713,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159286531
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -70.804224,
+    19.105937,
+    -70.804224,
+    19.105937
+],
+  "geometry": {"coordinates":[-70.804224,19.105937],"type":"Point"}
+}

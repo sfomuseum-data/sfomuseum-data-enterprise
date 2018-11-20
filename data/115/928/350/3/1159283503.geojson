@@ -1,0 +1,62 @@
+{
+  "id": 1159283503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-49.542449,-11.928923,-49.542449,-11.928923",
+    "geom:latitude":-11.928923,
+    "geom:longitude":-49.542449,
+    "iso:country":"BR",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:airline_id":15,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Aero Brazil",
+    "sfomuseum:name":"Aero Brazil",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        1159288377,
+        85633009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"BR",
+    "wof:geomhash":"bdd621750276a1cb65c8c4ade6d4d666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "enterprise_id":1159288377
+        }
+    ],
+    "wof:id":1159283503,
+    "wof:lastmodified":1542668452,
+    "wof:name":"Aero Brazil",
+    "wof:parent_id":85633009,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288377
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -49.542449,
+    -11.928923,
+    -49.542449,
+    -11.928923
+],
+  "geometry": {"coordinates":[-49.542449,-11.928923],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1159284687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.984652,45.727469,24.984652,45.727469",
+    "geom:latitude":45.727469,
+    "geom:longitude":24.984652,
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:airline_id":548,
+    "sfomuseum:brand":"Lignes A\u00e9riennes Roumaines",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Lignes A\u00e9riennes Roumaines",
+    "sfomuseum:name":"Lignes A\u00e9riennes Roumaines",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        1159287013,
+        85633745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"RO",
+    "wof:geomhash":"6245812ccc3c789eea398b9af7038580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "enterprise_id":1159287013
+        }
+    ],
+    "wof:id":1159284687,
+    "wof:lastmodified":1542668434,
+    "wof:name":"Lignes A\u00e9riennes Roumaines",
+    "wof:parent_id":85633745,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287013
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.984652,
+    45.727469,
+    24.984652,
+    45.727469
+],
+  "geometry": {"coordinates":[24.984652,45.727469],"type":"Point"}
+}

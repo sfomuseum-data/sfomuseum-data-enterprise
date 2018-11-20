@@ -1,0 +1,92 @@
+{
+  "id": 1159283617,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1986-01-01",
+    "date:inception_upper":"1986-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1986",
+    "flysfo:code":"UX",
+    "flysfo:is_sfo":1,
+    "flysfo:name":"Air Europa",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.889804,39.490416,2.889804,39.490416",
+    "geom:latitude":39.490416,
+    "geom:longitude":2.889804,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":66,
+    "sfomuseum:country":"Spain",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Air Europa",
+    "sfomuseum:name":"Air Europa",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q166276"
+    ],
+    "wd:country":"Q29",
+    "wd:headquarters":"Q927498",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85682647,
+        102191581,
+        404330797,
+        85633129,
+        404227367,
+        101777747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"UX",
+        "icao:callsign":"EUROPA",
+        "icao:code":"AEA",
+        "wd:id":"Q332980",
+        "wk:page":"Air Europa",
+        "wk:pageid":507525
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"ES",
+    "wof:geomhash":"5717ec2c3e10b66455c5ecf6d5d5e58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "enterprise_id":1159283617,
+            "localadmin_id":404330797,
+            "locality_id":101777747,
+            "macroregion_id":404227367,
+            "region_id":85682647
+        }
+    ],
+    "wof:id":1159283617,
+    "wof:lastmodified":1542668458,
+    "wof:name":"Air Europa",
+    "wof:parent_id":101777747,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288745
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    2.889804,
+    39.490416,
+    2.889804,
+    39.490416
+],
+  "geometry": {"coordinates":[2.889804,39.490416],"type":"Point"}
+}

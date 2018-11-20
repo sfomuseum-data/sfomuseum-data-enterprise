@@ -1,0 +1,85 @@
+{
+  "id": 1159287499,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1934-01-01",
+    "date:inception_upper":"1934-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1934",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.150344,19.371422,-99.150344,19.371422",
+    "geom:latitude":19.371422,
+    "geom:longitude":-99.150344,
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "name:unk_x_preferred":[
+        "AeroM\u00e9xico"
+    ],
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"mapzen",
+    "wd:airline_hub":[
+        "Q860559"
+    ],
+    "wd:country":"Q96",
+    "wd:headquarters":"Q1489",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85686515,
+        102191575,
+        85633293,
+        857683023,
+        102073737
+    ],
+    "wof:brand_name":"AeroMexico",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"AM",
+        "icao:code":"AMX",
+        "wd:id":"Q381563",
+        "wk:page":"Aerom\u00e9xico",
+        "wk:pageid":84578
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"b48f7b717c4ec7fa7a8a29178cb4bd18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "enterprise_id":1159287499,
+            "locality_id":857683023,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":1159287499,
+    "wof:lastmodified":1542668417,
+    "wof:name":"AeroMexico",
+    "wof:parent_id":857683023,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -99.150344,
+    19.371422,
+    -99.150344,
+    19.371422
+],
+  "geometry": {"coordinates":[-99.150344,19.371422],"type":"Point"}
+}

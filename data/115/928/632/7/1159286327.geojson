@@ -1,0 +1,81 @@
+{
+  "id": 1159286327,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1926-01-01",
+    "date:inception_upper":"1926-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1926",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.170685,45.473702,9.170685,45.473702",
+    "geom:latitude":45.473702,
+    "geom:longitude":9.170685,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":1316,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Avio Linee Italiane",
+    "sfomuseum:name":"Avio Linee Italiane",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:headquarters":"Q490",
+    "wd:instance_of":[
+        "Q740752"
+    ],
+    "wof:belongsto":[
+        85685243,
+        102191581,
+        404468459,
+        85633253,
+        404227497,
+        101752703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2621503",
+        "wk:page":"Avio Linee Italiane",
+        "wk:pageid":47155606
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"IT",
+    "wof:geomhash":"8e23adaece5f54fb1febe1de020a39d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "enterprise_id":1159286327,
+            "localadmin_id":404468459,
+            "locality_id":101752703,
+            "macroregion_id":404227497,
+            "region_id":85685243
+        }
+    ],
+    "wof:id":1159286327,
+    "wof:lastmodified":1542668439,
+    "wof:name":"Avio Linee Italiane",
+    "wof:parent_id":101752703,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287899
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport company"
+    ]
+},
+  "bbox": [
+    9.170685,
+    45.473702,
+    9.170685,
+    45.473702
+],
+  "geometry": {"coordinates":[9.170685,45.473702],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1159284295,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1944-01-01",
+    "date:inception_upper":"1944-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1944",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.804224,19.105937,-70.804224,19.105937",
+    "geom:latitude":19.105937,
+    "geom:longitude":-70.804224,
+    "iso:country":"DO",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":370,
+    "sfomuseum:brand":"Dominicana de Aviaci\u00f3n",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Dominicana de Aviaci\u00f3n",
+    "sfomuseum:name":"Dominicana de Aviaci\u00f3n",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q1062676"
+    ],
+    "wd:country":"Q786",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"DO",
+        "icao:code":"DOA",
+        "wd:id":"Q5290891",
+        "wk:page":"Dominicana de Aviaci\u00f3n",
+        "wk:pageid":173215
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"DO",
+    "wof:geomhash":"9951ac02c83144085b1eded8356f938d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "enterprise_id":1159284295
+        }
+    ],
+    "wof:id":1159284295,
+    "wof:lastmodified":1542668422,
+    "wof:name":"Dominicana de Aviaci\u00f3n",
+    "wof:parent_id":85632713,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159286505
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -70.804224,
+    19.105937,
+    -70.804224,
+    19.105937
+],
+  "geometry": {"coordinates":[-70.804224,19.105937],"type":"Point"}
+}

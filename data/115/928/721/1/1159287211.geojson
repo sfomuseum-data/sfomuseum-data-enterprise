@@ -1,0 +1,58 @@
+{
+  "id": 1159287211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.289691,23.920061,-102.289691,23.920061",
+    "geom:latitude":23.920061,
+    "geom:longitude":-102.289691,
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:brand_name":"Aerovias Centrales",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"3ccee807197d56714782910ed06f7b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "enterprise_id":1159287211
+        }
+    ],
+    "wof:id":1159287211,
+    "wof:lastmodified":1542668443,
+    "wof:name":"Aerovias Centrales",
+    "wof:parent_id":85633293,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.289691,
+    23.920061,
+    -102.289691,
+    23.920061
+],
+  "geometry": {"coordinates":[-102.289691,23.920061],"type":"Point"}
+}

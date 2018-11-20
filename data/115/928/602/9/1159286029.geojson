@@ -1,0 +1,69 @@
+{
+  "id": 1159286029,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"1937-01-01",
+    "date:cessation_upper":"1937-12-31",
+    "date:inception_lower":"1929-01-01",
+    "date:inception_upper":"1929-12-31",
+    "edtf:cessation":"1937",
+    "edtf:inception":"1929",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.210268,25.766368,-80.210268,25.766368",
+    "geom:latitude":25.766368,
+    "geom:longitude":-80.210268,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":0,
+    "sfomuseum:airline_id":1175,
+    "sfomuseum:brand":"Eastern Air Lines",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Ludington Air Line  (Eastern Air Lines)",
+    "sfomuseum:name":"Ludington Air Line",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        136253057,
+        85933669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"dd8ed4210ce40888f51303ac6b300ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "empire_id":136253057,
+            "enterprise_id":1159286029
+        }
+    ],
+    "wof:id":1159286029,
+    "wof:lastmodified":1542668440,
+    "wof:name":"Ludington Air Line",
+    "wof:parent_id":85933669,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287349
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.210268,
+    25.766368,
+    -80.210268,
+    25.766368
+],
+  "geometry": {"coordinates":[-80.210268,25.766368],"type":"Point"}
+}

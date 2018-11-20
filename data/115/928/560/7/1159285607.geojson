@@ -1,0 +1,64 @@
+{
+  "id": 1159285607,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"1978-01-01",
+    "date:cessation_upper":"1978-12-31",
+    "date:inception_lower":"1947-01-01",
+    "date:inception_upper":"1947-12-31",
+    "edtf:cessation":"1978",
+    "edtf:inception":"1947",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.232531,-45.175323,169.232531,-45.175323",
+    "geom:latitude":-45.175323,
+    "geom:longitude":169.232531,
+    "iso:country":"NZ",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":0,
+    "sfomuseum:airline_id":972,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"airline",
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191583,
+        1159288777,
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"NZ",
+    "wof:geomhash":"600930d408ae0992d184e2823e644bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "enterprise_id":1159288777
+        }
+    ],
+    "wof:id":1159285607,
+    "wof:lastmodified":1542668452,
+    "wof:name":"NAC (New Zealand National Airways)",
+    "wof:parent_id":85633345,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288777
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.232531,
+    -45.175323,
+    169.232531,
+    -45.175323
+],
+  "geometry": {"coordinates":[169.23253099999999,-45.175323],"type":"Point"}
+}

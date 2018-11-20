@@ -1,0 +1,71 @@
+{
+  "id": 1159288049,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1969-01-01",
+    "date:inception_upper":"1969-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1969",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.294701,19.251299,-72.294701,19.251299",
+    "geom:latitude":19.251299,
+    "geom:longitude":-72.294701,
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632433
+    ],
+    "wof:brand_name":"Air Haiti",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"HJ",
+        "icao:code":"HJA",
+        "wd:id":"Q4698012",
+        "wk:page":"Air Ha\u00efti",
+        "wk:pageid":1713431
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"HT",
+    "wof:geomhash":"b9c1515bc2680825e0966f45e8256cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "enterprise_id":1159288049
+        }
+    ],
+    "wof:id":1159288049,
+    "wof:lastmodified":1542668444,
+    "wof:name":"Air Haiti",
+    "wof:parent_id":85632433,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -72.294701,
+    19.251299,
+    -72.294701,
+    19.251299
+],
+  "geometry": {"coordinates":[-72.294701,19.251299],"type":"Point"}
+}

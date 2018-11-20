@@ -1,0 +1,63 @@
+{
+  "id": 1159286325,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1934-01-01",
+    "date:inception_upper":"1934-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1934",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.077303,44.732552,11.077303,44.732552",
+    "geom:latitude":44.732552,
+    "geom:longitude":11.077303,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":1315,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Societa Italiana Servizi Aerei",
+    "sfomuseum:name":"Societa Italiana Servizi Aerei",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85633253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"IT",
+    "wof:geomhash":"9d562309cb57afd2227acd9de710fa19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "enterprise_id":1159286325
+        }
+    ],
+    "wof:id":1159286325,
+    "wof:lastmodified":1542675098,
+    "wof:name":"Societa Italiana Servizi Aerei",
+    "wof:parent_id":85633253,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287027
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.077303,
+    44.732552,
+    11.077303,
+    44.732552
+],
+  "geometry": {"coordinates":[11.077303,44.732552],"type":"Point"}
+}

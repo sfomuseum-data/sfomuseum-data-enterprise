@@ -1,0 +1,78 @@
+{
+  "id": 1159284937,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"2003-01-01",
+    "date:inception_upper":"2003-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"2003",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.607418,9.404974,7.607418,9.404974",
+    "geom:latitude":9.404974,
+    "geom:longitude":7.607418,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":660,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Overland Airways",
+    "sfomuseum:name":"Overland Airways",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q525030"
+    ],
+    "wd:country":"Q1033",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191573,
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"OJ",
+        "icao:code":"OLA",
+        "wd:id":"Q1987495",
+        "wk:page":"Overland Airways",
+        "wk:pageid":1597598
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"NG",
+    "wof:geomhash":"08f9f5a0a1e24df4068b254002a4ff75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "enterprise_id":1159284937
+        }
+    ],
+    "wof:id":1159284937,
+    "wof:lastmodified":1542668450,
+    "wof:name":"Overland Airways",
+    "wof:parent_id":85632735,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287911
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    7.607418,
+    9.404974,
+    7.607418,
+    9.404974
+],
+  "geometry": {"coordinates":[7.607418,9.404974],"type":"Point"}
+}

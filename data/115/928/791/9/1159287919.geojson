@@ -1,0 +1,82 @@
+{
+  "id": 1159287919,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1974-01-01",
+    "date:inception_upper":"1974-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1974",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.142951,26.121044,-80.142951,26.121044",
+    "geom:latitude":26.121044,
+    "geom:longitude":-80.142951,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q127530"
+    ],
+    "wd:country":"Q30",
+    "wd:headquarters":"Q165972",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85688651,
+        102191575,
+        85633793,
+        85932397,
+        102084727
+    ],
+    "wof:brand_name":"Amerijet International",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"M6",
+        "icao:code":"AJT",
+        "wd:id":"Q901317",
+        "wk:page":"Amerijet International",
+        "wk:pageid":2225720
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"30f4d71d113322084eadd5ad9ce07df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "enterprise_id":1159287919,
+            "locality_id":85932397,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":1159287919,
+    "wof:lastmodified":1542668466,
+    "wof:name":"Amerijet International",
+    "wof:parent_id":85932397,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -80.142951,
+    26.121044,
+    -80.142951,
+    26.121044
+],
+  "geometry": {"coordinates":[-80.142951,26.121044],"type":"Point"}
+}

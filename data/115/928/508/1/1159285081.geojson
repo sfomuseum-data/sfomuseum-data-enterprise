@@ -1,0 +1,73 @@
+{
+  "id": 1159285081,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1957-01-01",
+    "date:inception_upper":"1957-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1957",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"XN",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":727,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Royal Air Maroc (RAM)",
+    "sfomuseum:name":"Royal Air Maroc (RAM)",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"ourairports",
+    "wof:belongsto":[
+        102546505,
+        85802293,
+        102191573,
+        85632693,
+        890442533,
+        1159287955,
+        85673905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"XN",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546505,
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442533,
+            "enterprise_id":1159287955,
+            "locality_id":-1,
+            "neighbourhood_id":85802293,
+            "region_id":85673905
+        }
+    ],
+    "wof:id":1159285081,
+    "wof:lastmodified":1542674300,
+    "wof:name":"Royal Air Maroc (RAM)",
+    "wof:parent_id":102546505,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287955
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

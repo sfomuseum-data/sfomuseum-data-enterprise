@@ -1,0 +1,75 @@
+{
+  "id": 1159286765,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"2001-01-01",
+    "date:inception_upper":"2001-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"2001",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.509687,46.730219,7.509687,46.730219",
+    "geom:latitude":46.730219,
+    "geom:longitude":7.509687,
+    "iso:country":"CH",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q15114"
+    ],
+    "wd:country":"Q39",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191581,
+        85633051
+    ],
+    "wof:brand_name":"Belair Airlines",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"4T",
+        "icao:code":"BHP",
+        "wd:id":"Q339700",
+        "wk:page":"Belair (airline)",
+        "wk:pageid":1924777
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"CH",
+    "wof:geomhash":"635311b1fc5c7cc05ddf9dd2052d2825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "enterprise_id":1159286765
+        }
+    ],
+    "wof:id":1159286765,
+    "wof:lastmodified":1542668445,
+    "wof:name":"Belair Airlines",
+    "wof:parent_id":85633051,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    7.509687,
+    46.730219,
+    7.509687,
+    46.730219
+],
+  "geometry": {"coordinates":[7.509687,46.730219],"type":"Point"}
+}

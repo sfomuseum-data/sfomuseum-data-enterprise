@@ -1,0 +1,80 @@
+{
+  "id": 1159283905,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1955-01-01",
+    "date:inception_upper":"1955-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1955",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.51551,34.159326,66.51551,34.159326",
+    "geom:latitude":34.159326,
+    "geom:longitude":66.51551,
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":195,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Ariana Afghan Airlines",
+    "sfomuseum:name":"Ariana Afghan Airlines",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q744802"
+    ],
+    "wd:country":"Q889",
+    "wd:headquarters":"Q7506066",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191569,
+        1159288211,
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"FG",
+        "icao:code":"AFG",
+        "wd:id":"Q654953",
+        "wk:page":"Ariana Afghan Airlines",
+        "wk:pageid":158904
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"AF",
+    "wof:geomhash":"e9a2fe1ca6e65673f9afa185cab5b349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "enterprise_id":1159288211
+        }
+    ],
+    "wof:id":1159283905,
+    "wof:lastmodified":1542668454,
+    "wof:name":"Ariana Afghan Airlines",
+    "wof:parent_id":85632229,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159288211
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    66.51551,
+    34.159326,
+    66.51551,
+    34.159326
+],
+  "geometry": {"coordinates":[66.51551000000001,34.159326],"type":"Point"}
+}

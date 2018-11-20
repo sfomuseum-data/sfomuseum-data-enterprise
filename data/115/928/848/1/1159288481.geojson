@@ -1,0 +1,58 @@
+{
+  "id": 1159288481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.714488,17.206637,-88.714488,17.206637",
+    "geom:latitude":17.206637,
+    "geom:longitude":-88.714488,
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632571
+    ],
+    "wof:brand_name":"Belize Airways Limited",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"BZ",
+    "wof:geomhash":"742632c0b432e87001a26e343d3d5215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "enterprise_id":1159288481
+        }
+    ],
+    "wof:id":1159288481,
+    "wof:lastmodified":1542668460,
+    "wof:name":"Belize Airways Limited",
+    "wof:parent_id":85632571,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.714488,
+    17.206637,
+    -88.714488,
+    17.206637
+],
+  "geometry": {"coordinates":[-88.714488,17.206637],"type":"Point"}
+}

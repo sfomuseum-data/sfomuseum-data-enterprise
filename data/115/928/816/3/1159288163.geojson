@@ -1,0 +1,84 @@
+{
+  "id": 1159288163,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1984-01-01",
+    "date:inception_upper":"1984-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1984",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.914662,42.87921,-87.914662,42.87921",
+    "geom:latitude":42.87921,
+    "geom:longitude":-87.914662,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q537950"
+    ],
+    "wd:country":"Q30",
+    "wd:headquarters":"Q1003711",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404494177,
+        85633793,
+        101733079,
+        102081837
+    ],
+    "wof:brand_name":"Midwest Airlines",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"YX",
+        "icao:code":"MEP",
+        "wd:id":"Q642873",
+        "wk:page":"Midwest Airlines",
+        "wk:pageid":143193
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"3209c9b9a874e7e5e5bb8d2f49ade241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "enterprise_id":1159288163,
+            "localadmin_id":404494177,
+            "locality_id":101733079,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":1159288163,
+    "wof:lastmodified":1542668413,
+    "wof:name":"Midwest Airlines",
+    "wof:parent_id":101733079,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -87.914662,
+    42.87921,
+    -87.914662,
+    42.87921
+],
+  "geometry": {"coordinates":[-87.91466200000001,42.87921],"type":"Point"}
+}

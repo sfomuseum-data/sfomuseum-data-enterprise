@@ -1,0 +1,81 @@
+{
+  "id": 1159283643,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"1885-01-01",
+    "date:cessation_upper":"1885-01-01",
+    "date:inception_lower":"1985-01-01",
+    "date:inception_upper":"1985-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1985",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude":39.715956,
+    "geom:longitude":-96.999668,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":77,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Air Hawaii",
+    "sfomuseum:name":"Air Hawaii",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wd:airline_hub":[
+        "Q531178"
+    ],
+    "wd:country":"Q30",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "icao:code":"AHC",
+        "wd:id":"Q4698011",
+        "wk:page":"Air Hawaii",
+        "wk:pageid":6419749
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "empire_id":136253057,
+            "enterprise_id":1159283643
+        }
+    ],
+    "wof:id":1159283643,
+    "wof:lastmodified":1542668398,
+    "wof:name":"Air Hawaii",
+    "wof:parent_id":85633793,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287809
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -96.999668,
+    39.715956,
+    -96.999668,
+    39.715956
+],
+  "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
+}

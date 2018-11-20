@@ -1,0 +1,65 @@
+{
+  "id": 1159286401,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1993-01-01",
+    "date:inception_upper":"1993-12-31",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"1993",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.680372,61.356908,9.680372,61.356908",
+    "geom:latitude":61.356908,
+    "geom:longitude":9.680372,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:airline_id":1354,
+    "sfomuseum:country":"Norway",
+    "sfomuseum:hub":"Oslo",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Norwegian  (Norwegian Air Shuttle ASA)",
+    "sfomuseum:name":"Norwegian",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"us-dshiu",
+    "wof:belongsto":[
+        102191581,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"NO",
+    "wof:geomhash":"d9147bd9a84342c0a79fb22a8c8de48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "enterprise_id":1159286401
+        }
+    ],
+    "wof:id":1159286401,
+    "wof:lastmodified":1542668446,
+    "wof:name":"Norwegian",
+    "wof:parent_id":85633341,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159286729
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.680372,
+    61.356908,
+    9.680372,
+    61.356908
+],
+  "geometry": {"coordinates":[9.680372,61.356908],"type":"Point"}
+}

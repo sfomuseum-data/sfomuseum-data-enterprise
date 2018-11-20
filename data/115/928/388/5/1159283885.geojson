@@ -1,0 +1,66 @@
+{
+  "id": 1159283885,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1935-01-01",
+    "date:inception_upper":"1935-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1935",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.978682,-37.825071,144.978682,-37.825071",
+    "geom:latitude":-37.825071,
+    "geom:longitude":144.978682,
+    "iso:country":"AU",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":186,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Ansett Express Shuttle  (Ansett Australia)",
+    "sfomuseum:name":"Ansett Express Shuttle",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191583,
+        85632793,
+        136253039,
+        101933229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"AU",
+    "wof:geomhash":"de98e8ac14f03b6b16f5c1bf716f48ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "empire_id":136253039,
+            "enterprise_id":1159283885
+        }
+    ],
+    "wof:id":1159283885,
+    "wof:lastmodified":1542668417,
+    "wof:name":"Ansett Express Shuttle",
+    "wof:parent_id":101933229,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287295
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.978682,
+    -37.825071,
+    144.978682,
+    -37.825071
+],
+  "geometry": {"coordinates":[144.97868199999999,-37.825071],"type":"Point"}
+}

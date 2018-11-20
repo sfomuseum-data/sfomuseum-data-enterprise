@@ -1,0 +1,90 @@
+{
+  "id": 1159284489,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1929-01-01",
+    "date:inception_upper":"1929-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1929",
+    "flysfo:code":"HA",
+    "flysfo:is_sfo":1,
+    "flysfo:name":"Hawaiian Airlines",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-157.859944,21.308822,-157.859944,21.308822",
+    "geom:latitude":21.308822,
+    "geom:longitude":-157.859944,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":457,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"Hawaiian Airlines",
+    "sfomuseum:name":"Hawaiian Airlines",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"naturalearth",
+    "wd:airline_hub":[
+        "Q531178",
+        "Q1431637"
+    ],
+    "wd:country":"Q30",
+    "wd:headquarters":"Q18094",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        1141909415,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"HA",
+        "icao:callsign":"HAWAIIAN",
+        "icao:code":"HAL",
+        "wd:id":"Q642610",
+        "wk:page":"Hawaiian Airlines",
+        "wk:pageid":151835
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"4594beeca1968bb87e37c6b504f8e84c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085417,
+            "enterprise_id":1159284489,
+            "locality_id":1141909415,
+            "region_id":85688671
+        }
+    ],
+    "wof:id":1159284489,
+    "wof:lastmodified":1542668423,
+    "wof:name":"Hawaiian Airlines",
+    "wof:parent_id":1141909415,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159287913
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -157.859944,
+    21.308822,
+    -157.859944,
+    21.308822
+],
+  "geometry": {"coordinates":[-157.85994400000001,21.308822],"type":"Point"}
+}

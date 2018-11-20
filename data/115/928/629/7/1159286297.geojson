@@ -1,0 +1,78 @@
+{
+  "id": 1159286297,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2008-01-01",
+    "date:cessation_upper":"2008-12-31",
+    "date:inception_lower":"1987-01-01",
+    "date:inception_upper":"1987-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1987",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.464618,40.09095,-3.464618,40.09095",
+    "geom:latitude":40.09095,
+    "geom:longitude":-3.464618,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":1303,
+    "sfomuseum:country":"Spain",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:label":"LTE International Airways",
+    "sfomuseum:name":"LTE International Airways",
+    "sfomuseum:placetype":"airline",
+    "src:geom":"whosonfirst",
+    "wd:country":"Q29",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191581,
+        85633129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"XO",
+        "icao:code":"LTE",
+        "wd:id":"Q1753947",
+        "wk:page":"LTE International Airways",
+        "wk:pageid":1864450
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"ES",
+    "wof:geomhash":"92f8bed2128be1c9d197ed975c7975d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "enterprise_id":1159286297
+        }
+    ],
+    "wof:id":1159286297,
+    "wof:lastmodified":1542668467,
+    "wof:name":"LTE International Airways",
+    "wof:parent_id":85633129,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[
+        1159286599
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -3.464618,
+    40.09095,
+    -3.464618,
+    40.09095
+],
+  "geometry": {"coordinates":[-3.464618,40.09095],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1159286925,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1933-01-01",
+    "date:inception_upper":"1933-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1933",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.680372,61.356908,9.680372,61.356908",
+    "geom:latitude":61.356908,
+    "geom:longitude":9.680372,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"company",
+    "src:geom":"us-dshiu",
+    "wd:airline_hub":[
+        "Q4583294"
+    ],
+    "wd:country":"Q20",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102191581,
+        85633341
+    ],
+    "wof:brand_name":"Norwegian Airlines",
+    "wof:brand_size":"",
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"SK",
+        "icao:code":"DNL",
+        "wd:id":"Q645830",
+        "wk:page":"Norwegian Air Lines",
+        "wk:pageid":7933951
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"NO",
+    "wof:geomhash":"d9147bd9a84342c0a79fb22a8c8de48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "enterprise_id":1159286925
+        }
+    ],
+    "wof:id":1159286925,
+    "wof:lastmodified":1542668421,
+    "wof:name":"Norwegian Airlines",
+    "wof:parent_id":85633341,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    9.680372,
+    61.356908,
+    9.680372,
+    61.356908
+],
+  "geometry": {"coordinates":[9.680372,61.356908],"type":"Point"}
+}
