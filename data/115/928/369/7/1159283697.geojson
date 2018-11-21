@@ -6,6 +6,8 @@
     "date:inception_upper":"1940-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1940",
+    "flysfo:airline_code":"NZ",
+    "flysfo:is_sfo":1,
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"174.672404,-36.905451,174.672404,-36.905451",
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":1159283697,
-    "wof:lastmodified":1542762079,
+    "wof:lastmodified":1542762363,
     "wof:name":"Air New Zealand",
     "wof:parent_id":101914257,
     "wof:placetype":"enterprise",

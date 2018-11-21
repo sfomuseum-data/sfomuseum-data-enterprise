@@ -6,6 +6,8 @@
     "date:inception_upper":"1926-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1926",
+    "flysfo:airline_code":"LH",
+    "flysfo:is_sfo":1,
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"6.934628,50.94718,6.934628,50.94718",
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":1159284711,
-    "wof:lastmodified":1542762078,
+    "wof:lastmodified":1542762363,
     "wof:name":"Lufthansa",
     "wof:parent_id":101752771,
     "wof:placetype":"enterprise",

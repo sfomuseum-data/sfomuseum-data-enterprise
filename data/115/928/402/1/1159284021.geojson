@@ -6,6 +6,8 @@
     "date:inception_upper":"1974-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1974",
+    "flysfo:airline_code":"BA",
+    "flysfo:is_sfo":1,
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-1.247349,52.418788,-1.247349,52.418788",
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1159284021,
-    "wof:lastmodified":1542762079,
+    "wof:lastmodified":1542762363,
     "wof:name":"British Airways",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

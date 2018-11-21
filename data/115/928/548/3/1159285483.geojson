@@ -6,6 +6,8 @@
     "date:inception_upper":"1984-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1984",
+    "flysfo:airline_code":"VS",
+    "flysfo:is_sfo":1,
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-0.181232,51.117058,-0.181232,51.117058",
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1159285483,
-    "wof:lastmodified":1542762079,
+    "wof:lastmodified":1542762363,
     "wof:name":"Virgin Atlantic Airways",
     "wof:parent_id":101750321,
     "wof:placetype":"enterprise",

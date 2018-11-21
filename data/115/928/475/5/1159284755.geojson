@@ -6,6 +6,8 @@
     "date:inception_upper":"1946-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1946",
+    "flysfo:airline_code":"BF",
+    "flysfo:is_sfo":1,
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1159284755,
-    "wof:lastmodified":1542668466,
+    "wof:lastmodified":1542762363,
     "wof:name":"MarkAir",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

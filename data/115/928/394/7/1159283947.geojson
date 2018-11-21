@@ -6,6 +6,8 @@
     "date:inception_upper":"1957-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1957",
+    "flysfo:airline_code":"OS",
+    "flysfo:is_sfo":1,
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"16.566135,48.11599,16.566135,48.11599",
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":1159283947,
-    "wof:lastmodified":1542762079,
+    "wof:lastmodified":1542762364,
     "wof:name":"Austrian Airlines",
     "wof:parent_id":102556267,
     "wof:placetype":"enterprise",

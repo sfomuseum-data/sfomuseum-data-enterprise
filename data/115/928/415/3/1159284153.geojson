@@ -6,6 +6,8 @@
     "date:inception_upper":"1959-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1959",
+    "flysfo:airline_code":"CI",
+    "flysfo:is_sfo":1,
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"120.955426,23.798532,120.955426,23.798532",
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1159284153,
-    "wof:lastmodified":1542668420,
+    "wof:lastmodified":1542762363,
     "wof:name":"China Airlines",
     "wof:parent_id":85632403,
     "wof:placetype":"enterprise",

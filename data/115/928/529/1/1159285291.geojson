@@ -6,6 +6,8 @@
     "date:inception_upper":"1960-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1960",
+    "flysfo:airline_code":"TG",
+    "flysfo:is_sfo":1,
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"100.571086,13.822309,100.571086,13.822309",
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":1159285291,
-    "wof:lastmodified":1542668468,
+    "wof:lastmodified":1542762363,
     "wof:name":"Thai Airways International",
     "wof:parent_id":890466403,
     "wof:placetype":"enterprise",
