@@ -6,6 +6,8 @@
     "date:inception_upper":"1929-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1929",
+    "flysfo:airline_code":"LA",
+    "flysfo:is_sfo":1,
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-72.288079,-38.165295,-72.288079,-38.165295",
@@ -27,7 +29,13 @@
         85633057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iata:code":"LA",
+        "icao:callsign":"LAN CHILE",
+        "icao:code":"LAN",
+        "wd:id":"Q649178",
+        "wk:page":"LATAM_Chile"
+    },
     "wof:controlled":[
         "wof:hierarchy",
         "wof:parent_id"
@@ -42,7 +50,7 @@
         }
     ],
     "wof:id":1159285641,
-    "wof:lastmodified":1542675112,
+    "wof:lastmodified":1542843001,
     "wof:name":"LAN-Chile (Linea Aerea Nacional)",
     "wof:parent_id":85633057,
     "wof:placetype":"enterprise",
