@@ -6,9 +6,6 @@
     "date:inception_upper":"1932-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1932",
-    "flysfo:code":"AI",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"Air India",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"79.029432,22.364293,79.029432,22.364293",
@@ -63,7 +60,7 @@
         }
     ],
     "wof:id":1159283649,
-    "wof:lastmodified":1542668399,
+    "wof:lastmodified":1542762078,
     "wof:name":"Air India",
     "wof:parent_id":85632469,
     "wof:placetype":"enterprise",

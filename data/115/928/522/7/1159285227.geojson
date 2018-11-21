@@ -6,9 +6,6 @@
     "date:inception_upper":"2002-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"2002",
-    "flysfo:code":"SY",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"Sun County",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
@@ -60,7 +57,7 @@
         }
     ],
     "wof:id":1159285227,
-    "wof:lastmodified":1542668443,
+    "wof:lastmodified":1542762079,
     "wof:name":"Sun Country Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

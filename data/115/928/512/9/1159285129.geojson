@@ -6,9 +6,6 @@
     "date:inception_upper":"1946-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1946",
-    "flysfo:code":"SK",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"Scandinavian Airlines",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"19.017205,65.859144,19.017205,65.859144",
@@ -62,7 +59,7 @@
         }
     ],
     "wof:id":1159285129,
-    "wof:lastmodified":1542668440,
+    "wof:lastmodified":1542762079,
     "wof:name":"Scandinavian Airlines System (SAS)",
     "wof:parent_id":85633789,
     "wof:placetype":"enterprise",

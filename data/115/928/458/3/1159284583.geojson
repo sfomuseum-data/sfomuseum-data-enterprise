@@ -6,9 +6,6 @@
     "date:inception_upper":"1999-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1999",
-    "flysfo:code":"B6",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"JetBlue",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
@@ -64,7 +61,7 @@
         }
     ],
     "wof:id":1159284583,
-    "wof:lastmodified":1542668421,
+    "wof:lastmodified":1542762079,
     "wof:name":"JetBlue Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

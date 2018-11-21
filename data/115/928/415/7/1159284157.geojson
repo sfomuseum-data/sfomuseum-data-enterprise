@@ -6,9 +6,6 @@
     "date:inception_upper":"1988-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1988",
-    "flysfo:code":"MU",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"China Eastern",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"121.338742,31.182639,121.338742,31.182639",
@@ -72,7 +69,7 @@
         }
     ],
     "wof:id":1159284157,
-    "wof:lastmodified":1542668420,
+    "wof:lastmodified":1542762078,
     "wof:name":"China Eastern Airlines",
     "wof:parent_id":102550333,
     "wof:placetype":"enterprise",

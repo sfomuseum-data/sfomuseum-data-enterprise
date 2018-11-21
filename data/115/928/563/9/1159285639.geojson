@@ -6,9 +6,6 @@
     "date:inception_upper":"1960-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1960",
-    "flysfo:code":"TG",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"THAI",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"100.571086,13.822309,100.571086,13.822309",
@@ -65,7 +62,7 @@
         }
     ],
     "wof:id":1159285639,
-    "wof:lastmodified":1542668417,
+    "wof:lastmodified":1542762079,
     "wof:name":"Thai Airways",
     "wof:parent_id":890466403,
     "wof:placetype":"enterprise",

@@ -6,9 +6,6 @@
     "date:inception_upper":"1933-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1933",
-    "flysfo:code":"AF",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"Air France",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"2.542809,49.007854,2.542809,49.007854",
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":1360700617,
-    "wof:lastmodified":1542668391,
+    "wof:lastmodified":1542762077,
     "wof:name":"Air France",
     "wof:parent_id":102544459,
     "wof:placetype":"enterprise",

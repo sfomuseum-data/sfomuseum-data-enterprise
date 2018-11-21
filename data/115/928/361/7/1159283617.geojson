@@ -6,9 +6,6 @@
     "date:inception_upper":"1986-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1986",
-    "flysfo:code":"UX",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"Air Europa",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"2.889804,39.490416,2.889804,39.490416",
@@ -68,7 +65,7 @@
         }
     ],
     "wof:id":1159283617,
-    "wof:lastmodified":1542668458,
+    "wof:lastmodified":1542762078,
     "wof:name":"Air Europa",
     "wof:parent_id":101777747,
     "wof:placetype":"enterprise",

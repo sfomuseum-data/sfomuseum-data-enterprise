@@ -6,9 +6,6 @@
     "date:inception_upper":"1936-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1936",
-    "flysfo:code":"EI",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"Aer Lingus",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-6.246362,53.425842,-6.246362,53.425842",
@@ -60,7 +57,7 @@
         }
     ],
     "wof:id":1159283495,
-    "wof:lastmodified":1542668460,
+    "wof:lastmodified":1542762078,
     "wof:name":"Aer Lingus",
     "wof:parent_id":102547639,
     "wof:placetype":"enterprise",

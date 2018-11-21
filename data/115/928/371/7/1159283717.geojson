@@ -6,9 +6,6 @@
     "date:inception_upper":"1947-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1947",
-    "flysfo:code":"FJ",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"Fiji Airways",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"177.37636,-17.806865,177.37636,-17.806865",
@@ -62,7 +59,7 @@
         }
     ],
     "wof:id":1159283717,
-    "wof:lastmodified":1542668417,
+    "wof:lastmodified":1542762078,
     "wof:name":"Fiji Airways",
     "wof:parent_id":102555575,
     "wof:placetype":"enterprise",

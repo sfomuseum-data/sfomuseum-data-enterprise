@@ -6,9 +6,6 @@
     "date:inception_upper":"1947-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1947",
-    "flysfo:code":"CM",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"Copa Airlines",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-79.51973,8.9936,-79.51973,8.9936",
@@ -66,7 +63,7 @@
         }
     ],
     "wof:id":1159284211,
-    "wof:lastmodified":1542668415,
+    "wof:lastmodified":1542762079,
     "wof:name":"Copa Airlines",
     "wof:parent_id":890445081,
     "wof:placetype":"enterprise",

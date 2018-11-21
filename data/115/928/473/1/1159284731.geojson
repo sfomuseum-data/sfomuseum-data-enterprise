@@ -6,9 +6,6 @@
     "date:inception_upper":"1971-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1971",
-    "flysfo:code":"MH",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"Malaysia Airlines",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"101.570241,3.083714,101.570241,3.083714",
@@ -71,7 +68,7 @@
         }
     ],
     "wof:id":1159284731,
-    "wof:lastmodified":1542668452,
+    "wof:lastmodified":1542762079,
     "wof:name":"Malaysia Airlines",
     "wof:parent_id":102551935,
     "wof:placetype":"enterprise",

@@ -6,9 +6,6 @@
     "date:inception_upper":"1963-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1963",
-    "flysfo:code":"RJ",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"Royal Jordanian",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"35.94503,31.95522,35.94503,31.95522",
@@ -63,7 +60,7 @@
         }
     ],
     "wof:id":1159285087,
-    "wof:lastmodified":1542668459,
+    "wof:lastmodified":1542762078,
     "wof:name":"Royal Jordanian Airlines",
     "wof:parent_id":421200421,
     "wof:placetype":"enterprise",

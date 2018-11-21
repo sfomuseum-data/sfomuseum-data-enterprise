@@ -6,9 +6,6 @@
     "date:inception_upper":"2002-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"2002",
-    "flysfo:code":"LX",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"SWISS International Airlines",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"0.0,0.0,0.0,0.0",
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":1159286475,
-    "wof:lastmodified":1542674300,
+    "wof:lastmodified":1542762079,
     "wof:name":"SWISS",
     "wof:parent_id":102544737,
     "wof:placetype":"enterprise",

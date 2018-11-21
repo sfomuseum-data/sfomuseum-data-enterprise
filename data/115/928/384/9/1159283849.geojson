@@ -6,9 +6,6 @@
     "date:inception_upper":"1930-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"1930",
-    "flysfo:code":"AA",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"American Airlines",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-97.33181,32.729442,-97.33181,32.729442",
@@ -75,7 +72,7 @@
         }
     ],
     "wof:id":1159283849,
-    "wof:lastmodified":1542668418,
+    "wof:lastmodified":1542762078,
     "wof:name":"American Airlines",
     "wof:parent_id":101724443,
     "wof:placetype":"enterprise",

@@ -6,9 +6,6 @@
     "date:inception_upper":"2005-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"2005",
-    "flysfo:code":"4O",
-    "flysfo:is_sfo":1,
-    "flysfo:name":"Interjet",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-99.150344,19.371422,-99.150344,19.371422",
@@ -65,7 +62,7 @@
         }
     ],
     "wof:id":1159286485,
-    "wof:lastmodified":1542668457,
+    "wof:lastmodified":1542762079,
     "wof:name":"Interjet",
     "wof:parent_id":857683023,
     "wof:placetype":"enterprise",
