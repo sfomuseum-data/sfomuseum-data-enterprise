@@ -1,12 +1,12 @@
 {
   "stats": {
     "agency": 4, 
-    "airline": 1308, 
+    "airline": 1313, 
     "company": 1447, 
-    "count": 2759, 
-    "enterprise": 2759, 
-    "is_ceased": 2029, 
-    "is_current": 1955, 
+    "count": 2764, 
+    "enterprise": 2764, 
+    "is_ceased": 2034, 
+    "is_current": 1960, 
     "is_current_false": 77, 
     "is_deprecated": 2, 
     "is_superseded": 10, 
