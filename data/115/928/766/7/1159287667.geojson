@@ -36,7 +36,7 @@
     "wof:brand_size":"",
     "wof:breaches":[],
     "wof:concordances":{
-        "ch:person":18536227,
+        "chsdm:person":18536227,
         "iata:code":"SK",
         "icao:code":"SAS",
         "wd:id":"Q187854",
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":1159287667,
-    "wof:lastmodified":1543622487,
+    "wof:lastmodified":1543623797,
     "wof:name":"Scandinavian Airlines System (SAS)",
     "wof:parent_id":85633789,
     "wof:placetype":"enterprise",

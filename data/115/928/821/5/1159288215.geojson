@@ -40,7 +40,7 @@
     "wof:brand_size":"",
     "wof:breaches":[],
     "wof:concordances":{
-        "ch:person":18045975,
+        "chsdm:person":18045975,
         "iata:code":"LH",
         "icao:code":"DLH",
         "wd:id":"Q9325",
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1159288215,
-    "wof:lastmodified":1543621219,
+    "wof:lastmodified":1543623788,
     "wof:name":"Lufthansa German Airlines",
     "wof:parent_id":101752771,
     "wof:placetype":"enterprise",
