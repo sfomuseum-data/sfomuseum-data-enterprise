@@ -44,6 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "ch:person":18049749,
         "wd:id":"Q32396",
         "wk:page":"American Airlines",
         "wk:pageid":2386
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1360700619,
-    "wof:lastmodified":1542762077,
+    "wof:lastmodified":1543622483,
     "wof:name":"American Airlines",
     "wof:parent_id":101724443,
     "wof:placetype":"enterprise",
