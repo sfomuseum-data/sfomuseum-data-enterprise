@@ -4,7 +4,7 @@ Enterprises that are part of the SFO Museum Collection.
 
 ## Background
 
-Details to follow but for background we recommend reading the [Who's On First at SFO Museum](https://millsfield.sfomuseum.org/blog/2018/08/28/whosonfirst/) blog post.
+Details to follow but for background we recommend reading the [Who's On First at SFO Museum](https://millsfield.sfomuseum.org/blog/2018/08/28/whosonfirst/) and [Airlines and Companies and Enterprises (and Concordances)](https://millsfield.sfomuseum.org/blog/2018/12/03/airlines/) blog post.
 
 ## License
 
