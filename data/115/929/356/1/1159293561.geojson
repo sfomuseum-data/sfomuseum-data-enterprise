@@ -36,6 +36,7 @@
     "wof:brand_size":"",
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:code":"MD",
         "wd:id":"Q201815",
         "wk:page":"McDonnell Douglas",
         "wk:pageid":154809
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159293561,
-    "wof:lastmodified":1542668471,
+    "wof:lastmodified":1544060200,
     "wof:name":"McDonnell Douglas",
     "wof:parent_id":85971343,
     "wof:placetype":"enterprise",

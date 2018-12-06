@@ -33,6 +33,7 @@
     "wof:brand_size":"",
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:code":"AN",
         "wd:id":"Q212268",
         "wk:page":"Antonov",
         "wk:pageid":47662
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159293813,
-    "wof:lastmodified":1542668481,
+    "wof:lastmodified":1544059670,
     "wof:name":"Antonov",
     "wof:parent_id":101752489,
     "wof:placetype":"enterprise",

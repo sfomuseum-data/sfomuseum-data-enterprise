@@ -11,7 +11,7 @@
     "geom:bbox":"-1.247349,52.418788,-1.247349,52.418788",
     "geom:latitude":52.418788,
     "geom:longitude":-1.247349,
-    "iso:country":"GB",
+    "iso:country":"CA",
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -23,32 +23,34 @@
         "Q936518"
     ],
     "wof:belongsto":[
-        102191581,
-        85633159,
-        136253055
+        102191575,
+        85633041
     ],
     "wof:brand_name":"de Havilland (Canada)",
     "wof:brand_size":"",
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "icao:code":"DHC",
+        "wd:id":"Q285246",
+        "wk:page":"De_Havilland_Canada"
+    },
     "wof:controlled":[
         "wof:hierarchy",
         "wof:parent_id"
     ],
-    "wof:country":"GB",
+    "wof:country":"CA",
     "wof:geomhash":"3d2af4a89e1d55e1d68276122807ee9b",
     "wof:hierarchy":[
         {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "empire_id":136253055,
+            "continent_id":102191575,
+            "country_id":85633041,
             "enterprise_id":1159293743
         }
     ],
     "wof:id":1159293743,
-    "wof:lastmodified":1542675146,
+    "wof:lastmodified":1544059936,
     "wof:name":"de Havilland (Canada)",
-    "wof:parent_id":85633159,
+    "wof:parent_id":85633041,
     "wof:placetype":"enterprise",
     "wof:repo":"sfomuseum-data-enterprise",
     "wof:subordinate_of":[],

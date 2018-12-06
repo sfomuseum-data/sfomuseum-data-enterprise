@@ -35,6 +35,7 @@
     "wof:brand_size":"",
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:code":"IL",
         "wd:id":"Q221419",
         "wk:page":"Ilyushin",
         "wk:pageid":48289
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159294129,
-    "wof:lastmodified":1542668478,
+    "wof:lastmodified":1544060101,
     "wof:name":"Ilyushin",
     "wof:parent_id":102003033,
     "wof:placetype":"enterprise",

@@ -23,7 +23,9 @@
     "wof:brand_name":"Swearingen",
     "wof:brand_size":"",
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "icao:code":"SA"
+    },
     "wof:controlled":[
         "wof:hierarchy",
         "wof:parent_id"
@@ -37,7 +39,7 @@
         }
     ],
     "wof:id":1159294303,
-    "wof:lastmodified":1542668480,
+    "wof:lastmodified":1544060250,
     "wof:name":"Swearingen",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

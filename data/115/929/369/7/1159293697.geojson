@@ -34,6 +34,7 @@
     "wof:brand_size":"",
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:code":"L",
         "wd:id":"Q3257745",
         "wk:page":"Lockheed",
         "wk:pageid":27495866
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159293697,
-    "wof:lastmodified":1542668471,
+    "wof:lastmodified":1544060142,
     "wof:name":"Lockheed",
     "wof:parent_id":85923691,
     "wof:placetype":"enterprise",

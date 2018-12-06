@@ -35,6 +35,7 @@
     "wof:brand_size":"",
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:code":"Yak",
         "wd:id":"Q333780",
         "wk:page":"Yakovlev",
         "wk:pageid":187660
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159294045,
-    "wof:lastmodified":1542668479,
+    "wof:lastmodified":1544060369,
     "wof:name":"Yakovlev",
     "wof:parent_id":102003033,
     "wof:placetype":"enterprise",

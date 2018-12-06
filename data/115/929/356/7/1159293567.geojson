@@ -35,9 +35,9 @@
     "wof:brand_size":"",
     "wof:breaches":[],
     "wof:concordances":{
-        "wd:id":"Q439817",
-        "wk:page":"Bombardier",
-        "wk:pageid":524052
+        "icao:code":"CRJ",
+        "wd:id":"Q333498",
+        "wk:page":"Bombardier_Inc."
     },
     "wof:controlled":[
         "wof:hierarchy",
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":1159293567,
-    "wof:lastmodified":1542668471,
+    "wof:lastmodified":1544059560,
     "wof:name":"Bombardier",
     "wof:parent_id":101736545,
     "wof:placetype":"enterprise",

@@ -34,6 +34,7 @@
     "wof:brand_size":"",
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:code":"B",
         "wd:id":"Q66",
         "wk:page":"Boeing",
         "wk:pageid":18933266
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159293593,
-    "wof:lastmodified":1542668481,
+    "wof:lastmodified":1544059712,
     "wof:name":"Boeing",
     "wof:parent_id":101730401,
     "wof:placetype":"enterprise",

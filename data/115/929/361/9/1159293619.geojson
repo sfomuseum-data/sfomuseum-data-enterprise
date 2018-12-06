@@ -30,6 +30,7 @@
     "wof:brand_size":"",
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:code":"F",
         "wd:id":"Q155896",
         "wk:page":"Fokker",
         "wk:pageid":51522
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159293619,
-    "wof:lastmodified":1542668481,
+    "wof:lastmodified":1544060047,
     "wof:name":"Fokker",
     "wof:parent_id":85632727,
     "wof:placetype":"enterprise",
