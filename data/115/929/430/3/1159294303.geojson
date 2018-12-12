@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "mz:is_nullisland":1,
+    "sfomuseum:aircraft_id":1075,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"nullisland",
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159294303,
-    "wof:lastmodified":1544060250,
+    "wof:lastmodified":1544645280,
     "wof:name":"Swearingen",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",
