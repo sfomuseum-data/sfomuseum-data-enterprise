@@ -13,6 +13,7 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":-1,
+    "sfomuseum:aircraft_id":63,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"whosonfirst",
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159293725,
-    "wof:lastmodified":1542668472,
+    "wof:lastmodified":1544649039,
     "wof:name":"Autogiro",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",
