@@ -18,13 +18,7 @@
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q127530"
-    ],
     "wd:country":"Q30",
-    "wd:instance_of":[
-        "Q46970"
-    ],
     "wof:belongsto":[
         102191575,
         85633793,
@@ -34,8 +28,8 @@
     "wof:brand_size":"",
     "wof:breaches":[],
     "wof:concordances":{
-        "iata:code":"JW",
-        "icao:code":"APW"
+        "wd:id":"Q4796115",
+        "wk:page":"Arrow Aircraft and Motors"
     },
     "wof:controlled":[
         "wof:hierarchy",
@@ -52,7 +46,7 @@
         }
     ],
     "wof:id":1159293815,
-    "wof:lastmodified":1542675150,
+    "wof:lastmodified":1544654992,
     "wof:name":"Arrow",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",
