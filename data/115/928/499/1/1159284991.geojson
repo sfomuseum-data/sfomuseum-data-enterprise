@@ -16,6 +16,10 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":685,
+    "sfomuseum:hashtags":[
+        "panam",
+        "panamerican"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Pan American Airways  (Pan American World Airways)",
     "sfomuseum:name":"Pan American Airways",
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":1159284991,
-    "wof:lastmodified":1542668455,
+    "wof:lastmodified":1551988292,
     "wof:name":"Pan American Airways",
     "wof:parent_id":85977539,
     "wof:placetype":"enterprise",

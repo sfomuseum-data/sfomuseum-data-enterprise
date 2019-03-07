@@ -16,6 +16,9 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":898,
+    "sfomuseum:hashtags":[
+        "usair"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"USAir",
     "sfomuseum:name":"USAir",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1159285447,
-    "wof:lastmodified":1542668437,
+    "wof:lastmodified":1551988302,
     "wof:name":"USAir",
     "wof:parent_id":85917469,
     "wof:placetype":"enterprise",

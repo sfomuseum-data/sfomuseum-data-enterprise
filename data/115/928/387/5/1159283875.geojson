@@ -16,6 +16,9 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":181,
+    "sfomuseum:hashtags":[
+        "ana"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"ANA (All Nippon Airways)",
     "sfomuseum:name":"ANA (All Nippon Airways)",
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1159283875,
-    "wof:lastmodified":1542762363,
+    "wof:lastmodified":1551988281,
     "wof:name":"ANA (All Nippon Airways)",
     "wof:parent_id":85633111,
     "wof:placetype":"enterprise",

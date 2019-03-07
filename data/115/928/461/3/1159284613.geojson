@@ -18,6 +18,11 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":515,
+    "sfomuseum:hashtags":[
+        "klm",
+        "klmblog",
+        "klmdreamliner"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"KLM (Royal Dutch Airlines)",
     "sfomuseum:name":"KLM (Royal Dutch Airlines)",
@@ -49,7 +54,7 @@
         }
     ],
     "wof:id":1159284613,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1551988283,
     "wof:name":"KLM (Royal Dutch Airlines)",
     "wof:parent_id":85633337,
     "wof:placetype":"enterprise",

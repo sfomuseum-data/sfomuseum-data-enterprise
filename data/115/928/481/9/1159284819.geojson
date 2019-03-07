@@ -16,6 +16,9 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":608,
+    "sfomuseum:hashtags":[
+        "mohawkairlines"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Mohawk Airlines",
     "sfomuseum:name":"Mohawk Airlines",
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1159284819,
-    "wof:lastmodified":1542668420,
+    "wof:lastmodified":1551988289,
     "wof:name":"Mohawk Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

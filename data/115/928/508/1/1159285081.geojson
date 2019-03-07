@@ -16,6 +16,9 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":727,
+    "sfomuseum:hashtags":[
+        "royalairmaroc"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Royal Air Maroc (RAM)",
     "sfomuseum:name":"Royal Air Maroc (RAM)",
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1159285081,
-    "wof:lastmodified":1542674300,
+    "wof:lastmodified":1551988298,
     "wof:name":"Royal Air Maroc (RAM)",
     "wof:parent_id":102546505,
     "wof:placetype":"enterprise",

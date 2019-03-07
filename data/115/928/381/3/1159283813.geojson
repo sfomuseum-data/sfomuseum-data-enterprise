@@ -18,6 +18,10 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":153,
+    "sfomuseum:hashtags":[
+        "alaska",
+        "alaskaairlines"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Alaska Airlines",
     "sfomuseum:name":"Alaska Airlines",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1159283813,
-    "wof:lastmodified":1542843536,
+    "wof:lastmodified":1551988281,
     "wof:name":"Alaska Airlines",
     "wof:parent_id":101730401,
     "wof:placetype":"enterprise",

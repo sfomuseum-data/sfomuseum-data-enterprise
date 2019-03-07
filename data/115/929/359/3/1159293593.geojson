@@ -16,6 +16,9 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:aircraft_id":109,
+    "sfomuseum:hashtags":[
+        "boeing"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"mz",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1159293593,
-    "wof:lastmodified":1544645281,
+    "wof:lastmodified":1551988282,
     "wof:name":"Boeing",
     "wof:parent_id":101730401,
     "wof:placetype":"enterprise",

@@ -16,6 +16,10 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":874,
+    "sfomuseum:hashtags":[
+        "transworldairline",
+        "twa"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"TWA (Trans World Airlines)",
     "sfomuseum:name":"TWA (Trans World Airlines)",
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1159285393,
-    "wof:lastmodified":1542675133,
+    "wof:lastmodified":1551988301,
     "wof:name":"TWA (Trans World Airlines)",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

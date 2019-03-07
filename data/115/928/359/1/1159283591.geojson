@@ -16,6 +16,9 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":54,
+    "sfomuseum:hashtags":[
+        "airberlin"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Berlin",
     "sfomuseum:name":"Air Berlin",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1159283591,
-    "wof:lastmodified":1542668465,
+    "wof:lastmodified":1551988281,
     "wof:name":"Air Berlin",
     "wof:parent_id":420784289,
     "wof:placetype":"enterprise",

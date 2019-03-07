@@ -18,6 +18,9 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":457,
+    "sfomuseum:hashtags":[
+        "hawaiianairlines"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Hawaiian Airlines",
     "sfomuseum:name":"Hawaiian Airlines",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1159284489,
-    "wof:lastmodified":1542762363,
+    "wof:lastmodified":1551988282,
     "wof:name":"Hawaiian Airlines",
     "wof:parent_id":1141909415,
     "wof:placetype":"enterprise",

@@ -18,6 +18,9 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":560,
+    "sfomuseum:hashtags":[
+        "lufthansa"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Lufthansa  (Lufthansa German Airlines)",
     "sfomuseum:name":"Lufthansa",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1159284711,
-    "wof:lastmodified":1542762363,
+    "wof:lastmodified":1551988285,
     "wof:name":"Lufthansa",
     "wof:parent_id":101752771,
     "wof:placetype":"enterprise",

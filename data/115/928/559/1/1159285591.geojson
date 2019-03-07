@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":964,
     "sfomuseum:brand":"Southwest Airlines",
+    "sfomuseum:hashtags":[
+        "southwest"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Southwest Airlines",
     "sfomuseum:name":"Southwest Airlines",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1159285591,
-    "wof:lastmodified":1542762363,
+    "wof:lastmodified":1551988298,
     "wof:name":"Southwest Airlines",
     "wof:parent_id":101724385,
     "wof:placetype":"enterprise",

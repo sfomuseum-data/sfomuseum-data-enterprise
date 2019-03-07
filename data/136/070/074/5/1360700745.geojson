@@ -18,6 +18,9 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":-1,
+    "sfomuseum:hashtags":[
+        "jetblue"
+    ],
     "sfomuseum:is_sfo":0,
     "sfomuseum:placetype":"airline",
     "wd:airline_hub":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1360700745,
-    "wof:lastmodified":1542763847,
+    "wof:lastmodified":1551988282,
     "wof:name":"Jet Blue",
     "wof:parent_id":85831303,
     "wof:placetype":"enterprise",

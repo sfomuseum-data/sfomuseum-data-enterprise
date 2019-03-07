@@ -16,6 +16,10 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:aircraft_id":15,
+    "sfomuseum:hashtags":[
+        "airbus",
+        "airbusinalabama"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"quattroshapes",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1159293829,
-    "wof:lastmodified":1544645281,
+    "wof:lastmodified":1551988281,
     "wof:name":"Airbus",
     "wof:parent_id":101748953,
     "wof:placetype":"enterprise",

@@ -18,6 +18,9 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":307,
+    "sfomuseum:hashtags":[
+        "chinaairlines"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"China Airlines",
     "sfomuseum:name":"China Airlines",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1159284153,
-    "wof:lastmodified":1542762363,
+    "wof:lastmodified":1551988282,
     "wof:name":"China Airlines",
     "wof:parent_id":85632403,
     "wof:placetype":"enterprise",

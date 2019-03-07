@@ -18,6 +18,10 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":295,
+    "sfomuseum:hashtags":[
+        "cathay747",
+        "cathaypacific"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Cathay Pacific Airways",
     "sfomuseum:name":"Cathay Pacific Airways",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1159284127,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1551988282,
     "wof:name":"Cathay Pacific Airways",
     "wof:parent_id":85632695,
     "wof:placetype":"enterprise",
