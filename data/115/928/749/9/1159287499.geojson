@@ -18,11 +18,6 @@
     "name:unk_x_preferred":[
         "AeroM\u00e9xico"
     ],
-    "sfomuseum:hashtags":[
-        "aeromexico",
-        "aerom\u00e9xico",
-        "aerom\u00e9xico"
-    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"mapzen",
@@ -68,7 +63,7 @@
         }
     ],
     "wof:id":1159287499,
-    "wof:lastmodified":1551988281,
+    "wof:lastmodified":1552095807,
     "wof:name":"AeroMexico",
     "wof:parent_id":857683023,
     "wof:placetype":"enterprise",
