@@ -2,9 +2,11 @@
   "id": 1159286423,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"1951-01-01",
+    "date:cessation_upper":"1951-12-31",
     "date:inception_lower":"1933-01-01",
     "date:inception_upper":"1933-12-31",
-    "edtf:cessation":"open",
+    "edtf:cessation":"1951",
     "edtf:inception":"1933",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -14,7 +16,10 @@
     "iso:country":"NO",
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
+    "name:nor_x_preferred":[
+        "Det Norske Luftfartselskap A/S"
+    ],
     "sfomuseum:airline_id":1364,
     "sfomuseum:brand":"Norwegian Air Lines",
     "sfomuseum:country":"Norway",
@@ -38,6 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "iata:code":"SK",
+        "icao:callsign":"SCANDINAVIAN",
         "icao:code":"DNL",
         "wd:id":"Q645830",
         "wk:page":"Norwegian Air Lines",
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1159286423,
-    "wof:lastmodified":1542668449,
-    "wof:name":"Det Norske Luftfartselskap A/S",
+    "wof:lastmodified":1557510222,
+    "wof:name":"Norwegian Air Lines",
     "wof:parent_id":85633341,
     "wof:placetype":"enterprise",
     "wof:repo":"sfomuseum-data-enterprise",
