@@ -1,0 +1,78 @@
+{
+  "id": 1377649063,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"2015-01-01",
+    "date:inception_upper":"2015-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"2015",
+    "flysfo:airline_code":"DI",
+    "flysfo:is_sfo":1,
+    "geom:area":0.0,
+    "geom:bbox":"-0.183008,51.144421,-0.183008,51.144421",
+    "geom:latitude":51.144421,
+    "geom:longitude":-0.183008,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:airline_id":"-1",
+    "sfomuseum:is_sfo":0,
+    "sfomuseum:placetype":"airline",
+    "wd:airline_hub":[
+        "Q8703"
+    ],
+    "wd:country":"Q145",
+    "wd:headquarters":"Q8703",
+    "wd:instance_of":[
+        "Q46970"
+    ],
+    "wof:belongsto":[
+        102556713,
+        102191581,
+        85633159,
+        404227469,
+        101750321,
+        1360698757,
+        1360698607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"DI",
+        "icao:code":"NRS",
+        "wd:id":"Q29017831"
+    },
+    "wof:country":"",
+    "wof:created":1557527665,
+    "wof:geomhash":"82edebb2b37354a763c371c8615fefc6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556713,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698757,
+            "enterprise_id":1377649063,
+            "locality_id":101750321,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698607
+        }
+    ],
+    "wof:id":1377649063,
+    "wof:lastmodified":1557527665,
+    "wof:name":"Norwegian Air UK",
+    "wof:parent_id":102556713,
+    "wof:placetype":"enterprise",
+    "wof:repo":"sfomuseum-data-enterprise",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.183008,
+    51.144421,
+    -0.183008,
+    51.144421
+],
+  "geometry": {"coordinates":[-0.183008,51.144421],"type":"Point"}
+}
