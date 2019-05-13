@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"UA",
         "iata:code":"UA",
         "icao:callsign":"UNITED",
         "icao:code":"UAL",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285413,
-    "wof:lastmodified":1551988302,
+    "wof:lastmodified":1557783783,
     "wof:name":"United Airlines",
     "wof:parent_id":85940195,
     "wof:placetype":"enterprise",

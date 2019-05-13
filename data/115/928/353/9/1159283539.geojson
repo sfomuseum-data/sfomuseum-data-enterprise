@@ -45,6 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AM",
         "iata:code":"AM",
         "icao:code":"AMX",
         "wd:id":"Q381563",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1159283539,
-    "wof:lastmodified":1552095813,
+    "wof:lastmodified":1557783765,
     "wof:name":"AeroM\u00e9xico",
     "wof:parent_id":857683023,
     "wof:placetype":"enterprise",

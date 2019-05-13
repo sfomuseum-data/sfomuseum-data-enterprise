@@ -51,6 +51,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"DL",
         "iata:code":"DL",
         "icao:callsign":"DELTA",
         "icao:code":"DAL",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1159284261,
-    "wof:lastmodified":1542762363,
+    "wof:lastmodified":1557783777,
     "wof:name":"Delta Air Lines",
     "wof:parent_id":85936429,
     "wof:placetype":"enterprise",

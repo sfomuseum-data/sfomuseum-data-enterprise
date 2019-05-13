@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"TG",
         "iata:code":"TG",
         "icao:code":"THA",
         "wd:id":"Q188710",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285291,
-    "wof:lastmodified":1542762363,
+    "wof:lastmodified":1557783773,
     "wof:name":"Thai Airways International",
     "wof:parent_id":890466403,
     "wof:placetype":"enterprise",

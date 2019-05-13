@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"CF",
         "iata:code":"CF",
         "icao:code":"CFP",
         "wd:id":"Q750198",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159284383,
-    "wof:lastmodified":1557782835,
+    "wof:lastmodified":1557783770,
     "wof:name":"Faucett Airlines",
     "wof:parent_id":85632521,
     "wof:placetype":"enterprise",

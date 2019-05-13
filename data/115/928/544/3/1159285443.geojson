@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"US",
         "iata:code":"US",
         "icao:callsign":"US AIR",
         "icao:code":"USA",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285443,
-    "wof:lastmodified":1557782877,
+    "wof:lastmodified":1557783772,
     "wof:name":"US Airways Shuttle",
     "wof:parent_id":101729469,
     "wof:placetype":"enterprise",

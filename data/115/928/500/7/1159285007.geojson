@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PC",
         "iata:code":"PC",
         "icao:code":"PGT",
         "wd:id":"Q1100424",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285007,
-    "wof:lastmodified":1542668448,
+    "wof:lastmodified":1557783776,
     "wof:name":"Pegasus Airlines",
     "wof:parent_id":890460455,
     "wof:placetype":"enterprise",

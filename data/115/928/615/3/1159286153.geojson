@@ -43,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"QR",
         "iata:code":"QR",
         "icao:callsign":"QATARI",
         "icao:code":"QTR",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1159286153,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783779,
     "wof:name":"Qatar Airways",
     "wof:parent_id":890441607,
     "wof:placetype":"enterprise",

@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"YP",
         "iata:code":"YP",
         "icao:code":"AEF",
         "wd:id":"Q314143",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159283513,
-    "wof:lastmodified":1557782937,
+    "wof:lastmodified":1557783776,
     "wof:name":"Aero Lloyd",
     "wof:parent_id":85633111,
     "wof:placetype":"enterprise",

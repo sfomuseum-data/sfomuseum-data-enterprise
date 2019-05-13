@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AP",
         "iata:code":"AP",
         "icao:code":"ASP",
         "wd:id":"Q4807797",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159283919,
-    "wof:lastmodified":1557782702,
+    "wof:lastmodified":1557783764,
     "wof:name":"Aspen Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

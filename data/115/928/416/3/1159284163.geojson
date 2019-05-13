@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"WH",
         "iata:code":"WH",
         "icao:code":"CNW",
         "wd:id":"Q1073368",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284163,
-    "wof:lastmodified":1557782988,
+    "wof:lastmodified":1557783778,
     "wof:name":"China Northwest Airlines",
     "wof:parent_id":102027041,
     "wof:placetype":"enterprise",

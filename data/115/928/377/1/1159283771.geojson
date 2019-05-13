@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"VN",
         "iata:code":"VN",
         "wd:id":"Q2828240",
         "wk:page":"Air Vietnam",
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1159283771,
-    "wof:lastmodified":1557782863,
+    "wof:lastmodified":1557783771,
     "wof:name":"Air Vietnam",
     "wof:parent_id":85632763,
     "wof:placetype":"enterprise",

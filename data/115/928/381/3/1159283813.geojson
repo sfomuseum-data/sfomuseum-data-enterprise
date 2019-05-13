@@ -47,6 +47,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AS",
         "iata:code":"AS",
         "icao:callsign":"ALASKA",
         "icao:code":"ASA",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1159283813,
-    "wof:lastmodified":1551988281,
+    "wof:lastmodified":1557783784,
     "wof:name":"Alaska Airlines",
     "wof:parent_id":101730401,
     "wof:placetype":"enterprise",

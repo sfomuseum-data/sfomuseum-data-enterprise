@@ -42,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EA",
         "iata:code":"EA",
         "icao:code":"EAL",
         "wd:id":"Q611742",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159286415,
-    "wof:lastmodified":1557782996,
+    "wof:lastmodified":1557783779,
     "wof:name":"Eastern Air Transport",
     "wof:parent_id":85933669,
     "wof:placetype":"enterprise",

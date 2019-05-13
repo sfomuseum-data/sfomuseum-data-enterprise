@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"TV",
         "iata:code":"TV",
         "icao:code":"TVA",
         "wd:id":"Q4804058",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159285319,
-    "wof:lastmodified":1557782939,
+    "wof:lastmodified":1557783776,
     "wof:name":"Trans International Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

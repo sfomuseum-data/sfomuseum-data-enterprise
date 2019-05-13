@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"6T",
         "iata:code":"6T",
         "icao:code":"AMY",
         "wd:id":"Q407508",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159283675,
-    "wof:lastmodified":1542668465,
+    "wof:lastmodified":1557783776,
     "wof:name":"Air Mandalay",
     "wof:parent_id":85632181,
     "wof:placetype":"enterprise",

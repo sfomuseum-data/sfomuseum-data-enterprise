@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SQ",
         "iata:code":"SQ",
         "icao:code":"SQC",
         "wd:id":"Q1368387",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285165,
-    "wof:lastmodified":1557782886,
+    "wof:lastmodified":1557783773,
     "wof:name":"Singapore Airlines Cargo",
     "wof:parent_id":102032341,
     "wof:placetype":"enterprise",

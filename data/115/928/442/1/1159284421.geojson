@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"GR",
         "iata:code":"GR",
         "icao:code":"GCO",
         "wd:id":"Q492586",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284421,
-    "wof:lastmodified":1557783002,
+    "wof:lastmodified":1557783779,
     "wof:name":"Gemini Air Cargo",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

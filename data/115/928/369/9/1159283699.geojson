@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PX",
         "iata:code":"PX",
         "icao:code":"ANG",
         "wd:id":"Q407675",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159283699,
-    "wof:lastmodified":1542668412,
+    "wof:lastmodified":1557783776,
     "wof:name":"Air Niugini",
     "wof:parent_id":102541781,
     "wof:placetype":"enterprise",

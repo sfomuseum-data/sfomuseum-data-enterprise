@@ -42,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"MX",
         "iata:code":"MX",
         "icao:code":"MXA",
         "wd:id":"Q53085",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284781,
-    "wof:lastmodified":1557782749,
+    "wof:lastmodified":1557783766,
     "wof:name":"Mexicana Airlines",
     "wof:parent_id":857683023,
     "wof:placetype":"enterprise",

@@ -27,6 +27,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SA",
         "iata:code":"SA",
         "icao:callsign":"SPRINGBOK",
         "icao:code":"SAA",
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159285183,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783773,
     "wof:name":"South African Airways (SAA)",
     "wof:parent_id":85633813,
     "wof:placetype":"enterprise",

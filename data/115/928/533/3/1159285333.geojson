@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AX",
         "iata:code":"AX",
         "icao:code":"LOF",
         "wd:id":"Q1239204",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285333,
-    "wof:lastmodified":1542668420,
+    "wof:lastmodified":1557783764,
     "wof:name":"Trans States Airlines",
     "wof:parent_id":85972341,
     "wof:placetype":"enterprise",

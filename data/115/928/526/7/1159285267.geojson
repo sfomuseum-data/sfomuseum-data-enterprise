@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"TX",
         "iata:code":"TX",
         "icao:code":"TAN",
         "wd:id":"Q6151777",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159285267,
-    "wof:lastmodified":1557782864,
+    "wof:lastmodified":1557783771,
     "wof:name":"TAN Airlines",
     "wof:parent_id":85632323,
     "wof:placetype":"enterprise",

@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OA",
         "iata:code":"OA",
         "icao:code":"OAL",
         "wd:id":"Q2021591",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284925,
-    "wof:lastmodified":1557783051,
+    "wof:lastmodified":1557783781,
     "wof:name":"Olympic Airlines",
     "wof:parent_id":1175612731,
     "wof:placetype":"enterprise",

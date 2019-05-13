@@ -27,6 +27,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"JL",
         "iata:code":"JL",
         "icao:callsign":"J-BIRD",
         "icao:code":"JAL",
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159284563,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783780,
     "wof:name":"JAL (Japan Airlines)",
     "wof:parent_id":85632429,
     "wof:placetype":"enterprise",

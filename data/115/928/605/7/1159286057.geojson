@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"HJ",
         "iata:code":"HJ",
         "icao:code":"HJA",
         "wd:id":"Q4698012",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159286057,
-    "wof:lastmodified":1557782810,
+    "wof:lastmodified":1557783769,
     "wof:name":"Air Haiti",
     "wof:parent_id":85632433,
     "wof:placetype":"enterprise",

@@ -43,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AK",
         "iata:code":"AK",
         "icao:code":"AXM",
         "wd:id":"Q406643",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1159283785,
-    "wof:lastmodified":1542668451,
+    "wof:lastmodified":1557783774,
     "wof:name":"AirAsia",
     "wof:parent_id":102551991,
     "wof:placetype":"enterprise",

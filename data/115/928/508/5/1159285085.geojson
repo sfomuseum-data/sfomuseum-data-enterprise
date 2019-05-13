@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"BI",
         "iata:code":"BI",
         "icao:code":"RBA",
         "wd:id":"Q1050783",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159285085,
-    "wof:lastmodified":1542668459,
+    "wof:lastmodified":1557783774,
     "wof:name":"Royal Brunei Airlines",
     "wof:parent_id":421188863,
     "wof:placetype":"enterprise",

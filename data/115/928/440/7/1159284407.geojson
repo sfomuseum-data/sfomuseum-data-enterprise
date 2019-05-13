@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"J7",
         "iata:code":"J7",
         "icao:code":"GXY",
         "wd:id":"Q1139988",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284407,
-    "wof:lastmodified":1557782743,
+    "wof:lastmodified":1557783766,
     "wof:name":"Galaxy Airlines (Japan)",
     "wof:parent_id":85632429,
     "wof:placetype":"enterprise",

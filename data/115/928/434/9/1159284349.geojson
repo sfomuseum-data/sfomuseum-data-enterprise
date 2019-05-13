@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"BR",
         "iata:code":"BR",
         "icao:callsign":"EVA",
         "icao:code":"EVA",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284349,
-    "wof:lastmodified":1542762363,
+    "wof:lastmodified":1557783780,
     "wof:name":"EVA Air",
     "wof:parent_id":85632403,
     "wof:placetype":"enterprise",

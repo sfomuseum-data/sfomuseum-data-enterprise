@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"HN",
         "iata:code":"HN",
         "wd:id":"Q5694995",
         "wk:page":"HeavyLift Cargo Airlines",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284495,
-    "wof:lastmodified":1542668457,
+    "wof:lastmodified":1557783767,
     "wof:name":"Heavylift Cargo Airlines",
     "wof:parent_id":85632793,
     "wof:placetype":"enterprise",

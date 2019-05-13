@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EO",
         "iata:code":"EO",
         "icao:code":"AEO",
         "wd:id":"Q4688174",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159286441,
-    "wof:lastmodified":1557782758,
+    "wof:lastmodified":1557783766,
     "wof:name":"Aeroamerica",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

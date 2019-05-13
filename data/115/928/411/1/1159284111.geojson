@@ -32,6 +32,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"K8",
         "iata:code":"K8",
         "icao:code":"WAL",
         "wd:id":"Q8035383",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159284111,
-    "wof:lastmodified":1542668458,
+    "wof:lastmodified":1557783778,
     "wof:name":"Caribbean Sun Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

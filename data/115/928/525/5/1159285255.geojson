@@ -43,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"TA",
         "iata:code":"TA",
         "icao:code":"TAI",
         "wd:id":"Q1139145",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159285255,
-    "wof:lastmodified":1542668423,
+    "wof:lastmodified":1557783783,
     "wof:name":"TACA International Airlines",
     "wof:parent_id":421191785,
     "wof:placetype":"enterprise",

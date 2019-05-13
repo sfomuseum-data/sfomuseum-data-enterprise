@@ -28,6 +28,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"5Y",
         "iata:code":"5Y",
         "icao:callsign":"GIANT",
         "icao:code":"GTI",
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":1159283935,
-    "wof:lastmodified":1557527030,
+    "wof:lastmodified":1557783776,
     "wof:name":"Atlas Air (Cargo)",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

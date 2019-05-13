@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AO",
         "iata:code":"AO",
         "icao:code":"AYC",
         "wd:id":"Q790771",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159286163,
-    "wof:lastmodified":1557782798,
+    "wof:lastmodified":1557783768,
     "wof:name":"Aviaco",
     "wof:parent_id":85633129,
     "wof:placetype":"enterprise",

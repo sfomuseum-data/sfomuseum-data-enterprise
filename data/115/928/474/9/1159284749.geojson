@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"RI",
         "iata:code":"RI",
         "icao:code":"MDL",
         "wd:id":"Q1198815",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284749,
-    "wof:lastmodified":1557782998,
+    "wof:lastmodified":1557783779,
     "wof:name":"Mandala Airlines",
     "wof:parent_id":85632203,
     "wof:placetype":"enterprise",

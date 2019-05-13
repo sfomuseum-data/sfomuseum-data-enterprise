@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"QM",
         "iata:code":"QM",
         "icao:code":"AML",
         "wd:id":"Q407497",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159286159,
-    "wof:lastmodified":1557782993,
+    "wof:lastmodified":1557783779,
     "wof:name":"Air Malawi",
     "wof:parent_id":85632383,
     "wof:placetype":"enterprise",

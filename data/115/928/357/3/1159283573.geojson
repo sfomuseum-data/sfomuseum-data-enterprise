@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"FQ",
         "iata:code":"FQ",
         "icao:code":"ARU",
         "wd:id":"Q406804",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159283573,
-    "wof:lastmodified":1557782918,
+    "wof:lastmodified":1557783775,
     "wof:name":"Air Aruba",
     "wof:parent_id":85633337,
     "wof:placetype":"enterprise",

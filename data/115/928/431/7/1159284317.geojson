@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"U2",
         "iata:code":"U2",
         "icao:code":"EZY",
         "wd:id":"Q191551",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284317,
-    "wof:lastmodified":1542668443,
+    "wof:lastmodified":1557783770,
     "wof:name":"easyJet",
     "wof:parent_id":102556835,
     "wof:placetype":"enterprise",

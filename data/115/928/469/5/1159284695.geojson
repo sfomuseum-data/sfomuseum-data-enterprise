@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LL",
         "iata:code":"LL",
         "wd:id":"Q3090256",
         "wk:page":"Icelandic Airlines",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284695,
-    "wof:lastmodified":1542668441,
+    "wof:lastmodified":1557783780,
     "wof:name":"Icelandic Airlines",
     "wof:parent_id":85633249,
     "wof:placetype":"enterprise",

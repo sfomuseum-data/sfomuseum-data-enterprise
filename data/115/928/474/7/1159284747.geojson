@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"MA",
         "iata:code":"MA",
         "icao:code":"MAH",
         "wd:id":"Q208372",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159284747,
-    "wof:lastmodified":1557782998,
+    "wof:lastmodified":1557783779,
     "wof:name":"Malev Hungarian Airlines",
     "wof:parent_id":101751703,
     "wof:placetype":"enterprise",

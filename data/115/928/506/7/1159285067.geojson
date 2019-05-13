@@ -42,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"RW",
         "iata:code":"RW",
         "icao:code":"RPA",
         "wd:id":"Q1669658",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159285067,
-    "wof:lastmodified":1551988298,
+    "wof:lastmodified":1557783775,
     "wof:name":"Republic Airlines",
     "wof:parent_id":85942569,
     "wof:placetype":"enterprise",

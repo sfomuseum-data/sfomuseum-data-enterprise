@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AR",
         "iata:code":"AR",
         "icao:callsign":"ARGENTINA",
         "icao:code":"ARG",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159283531,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783765,
     "wof:name":"Aerolineas Argentinas",
     "wof:parent_id":421201609,
     "wof:placetype":"enterprise",

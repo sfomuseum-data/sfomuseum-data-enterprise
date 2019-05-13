@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"TH",
         "iata:code":"TH",
         "icao:code":"THA",
         "wd:id":"Q4923781",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159285961,
-    "wof:lastmodified":1557782947,
+    "wof:lastmodified":1557783777,
     "wof:name":"Thai Airways Company",
     "wof:parent_id":890466403,
     "wof:placetype":"enterprise",

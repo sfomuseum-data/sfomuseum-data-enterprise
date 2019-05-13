@@ -32,6 +32,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LW",
         "iata:code":"LW",
         "icao:code":"NMI",
         "wd:id":"Q891555",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159283689,
-    "wof:lastmodified":1542668447,
+    "wof:lastmodified":1557783775,
     "wof:name":"Air Nevada",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

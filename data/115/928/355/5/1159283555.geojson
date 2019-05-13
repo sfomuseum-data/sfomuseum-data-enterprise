@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"VV",
         "iata:code":"VV",
         "icao:code":"AEW",
         "wd:id":"Q381779",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159283555,
-    "wof:lastmodified":1557782735,
+    "wof:lastmodified":1557783765,
     "wof:name":"Aerosvit",
     "wof:parent_id":85633805,
     "wof:placetype":"enterprise",

@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"UB",
         "iata:code":"UB",
         "icao:code":"UBA",
         "wd:id":"Q1141636",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159284837,
-    "wof:lastmodified":1542668410,
+    "wof:lastmodified":1557783767,
     "wof:name":"Burma Airways",
     "wof:parent_id":421173357,
     "wof:placetype":"enterprise",

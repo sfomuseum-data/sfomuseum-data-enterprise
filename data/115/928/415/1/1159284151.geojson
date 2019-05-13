@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"RP",
         "iata:code":"RP",
         "icao:code":"CHQ",
         "wd:id":"Q183547",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284151,
-    "wof:lastmodified":1557782792,
+    "wof:lastmodified":1557783768,
     "wof:name":"Chautauqua Airlines",
     "wof:parent_id":85942569,
     "wof:placetype":"enterprise",

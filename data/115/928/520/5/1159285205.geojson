@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"BX",
         "iata:code":"BX",
         "icao:code":"BXS",
         "wd:id":"Q1968508",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159285205,
-    "wof:lastmodified":1557782884,
+    "wof:lastmodified":1557783773,
     "wof:name":"Spantax",
     "wof:parent_id":85633129,
     "wof:placetype":"enterprise",

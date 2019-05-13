@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"B6",
         "iata:code":"B6",
         "icao:callsign":"JETBLUE",
         "icao:code":"JBU",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284583,
-    "wof:lastmodified":1542762079,
+    "wof:lastmodified":1557783779,
     "wof:name":"JetBlue Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

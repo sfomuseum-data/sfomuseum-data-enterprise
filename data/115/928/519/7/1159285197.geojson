@@ -30,6 +30,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SJ",
         "iata:code":"SJ",
         "icao:code":"SJM",
         "wd:id":"Q7569594",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159285197,
-    "wof:lastmodified":1557782867,
+    "wof:lastmodified":1557783772,
     "wof:name":"Southern Air Transport",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"JO",
         "iata:code":"JO",
         "icao:code":"JAZ",
         "wd:id":"Q1319224",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159286273,
-    "wof:lastmodified":1557782792,
+    "wof:lastmodified":1557783768,
     "wof:name":"JALways",
     "wof:parent_id":85672817,
     "wof:placetype":"enterprise",

@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"TY",
         "iata:code":"TY",
         "icao:code":"TPC",
         "wd:id":"Q406942",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159283595,
-    "wof:lastmodified":1542675138,
+    "wof:lastmodified":1557783775,
     "wof:name":"Air Cal\u00e9donie",
     "wof:parent_id":85633147,
     "wof:placetype":"enterprise",

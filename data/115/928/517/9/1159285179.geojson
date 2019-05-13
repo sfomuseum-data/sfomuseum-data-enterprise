@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OO",
         "iata:code":"OO",
         "icao:code":"SKW",
         "wd:id":"Q773662",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285179,
-    "wof:lastmodified":1542668448,
+    "wof:lastmodified":1557783771,
     "wof:name":"SkyWest Airlines",
     "wof:parent_id":101727617,
     "wof:placetype":"enterprise",

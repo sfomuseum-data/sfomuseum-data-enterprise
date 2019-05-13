@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"QC",
         "iata:code":"QC",
         "icao:code":"AZR",
         "wd:id":"Q1169197",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159283779,
-    "wof:lastmodified":1557782862,
+    "wof:lastmodified":1557783771,
     "wof:name":"Air Zaire",
     "wof:parent_id":85632643,
     "wof:placetype":"enterprise",

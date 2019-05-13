@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"QI",
         "iata:code":"QI",
         "icao:code":"CIM",
         "wd:id":"Q958837",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284175,
-    "wof:lastmodified":1557782967,
+    "wof:lastmodified":1557783777,
     "wof:name":"Cimber Air",
     "wof:parent_id":85633121,
     "wof:placetype":"enterprise",

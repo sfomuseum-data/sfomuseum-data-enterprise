@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"FX",
         "iata:code":"FX",
         "icao:code":"GEC",
         "wd:id":"Q1321722",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284423,
-    "wof:lastmodified":1557783002,
+    "wof:lastmodified":1557783779,
     "wof:name":"German Cargo",
     "wof:parent_id":85633111,
     "wof:placetype":"enterprise",

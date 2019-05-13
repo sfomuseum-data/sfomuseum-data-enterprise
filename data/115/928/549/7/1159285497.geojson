@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"WD",
         "iata:code":"WD",
         "icao:code":"WDA",
         "wd:id":"Q428008",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159285497,
-    "wof:lastmodified":1557783063,
+    "wof:lastmodified":1557783782,
     "wof:name":"Wardair Canada",
     "wof:parent_id":85633041,
     "wof:placetype":"enterprise",

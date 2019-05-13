@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"UK",
         "iata:code":"UK",
         "icao:code":"UKA",
         "wd:id":"Q407863",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159283761,
-    "wof:lastmodified":1557782883,
+    "wof:lastmodified":1557783773,
     "wof:name":"Air UK",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

@@ -31,6 +31,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"IA",
         "iata:code":"IA",
         "icao:code":"IAW",
         "wd:id":"Q853937",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159284545,
-    "wof:lastmodified":1542668436,
+    "wof:lastmodified":1557783770,
     "wof:name":"Iraqi Airways",
     "wof:parent_id":85632191,
     "wof:placetype":"enterprise",

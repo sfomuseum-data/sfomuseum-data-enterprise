@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EC",
         "iata:code":"EC",
         "icao:code":"JND",
         "wd:id":"Q954747",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284301,
-    "wof:lastmodified":1557782809,
+    "wof:lastmodified":1557783769,
     "wof:name":"East African Airways",
     "wof:parent_id":85632329,
     "wof:placetype":"enterprise",

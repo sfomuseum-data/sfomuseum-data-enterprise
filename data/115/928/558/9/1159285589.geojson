@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SR",
         "iata:code":"SR",
         "icao:code":"SWR",
         "wd:id":"Q694098",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285589,
-    "wof:lastmodified":1557782700,
+    "wof:lastmodified":1557783764,
     "wof:name":"Swissair",
     "wof:parent_id":101748463,
     "wof:placetype":"enterprise",

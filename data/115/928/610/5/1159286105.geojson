@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"6Y",
         "iata:code":"6Y",
         "icao:code":"ART",
         "wd:id":"Q1586376",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159286105,
-    "wof:lastmodified":1542668452,
+    "wof:lastmodified":1557783767,
     "wof:name":"LatCharter",
     "wof:parent_id":85686007,
     "wof:placetype":"enterprise",

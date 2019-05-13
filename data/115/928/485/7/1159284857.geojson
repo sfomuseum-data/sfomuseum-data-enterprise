@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"NY",
         "iata:code":"NY",
         "icao:code":"NYA",
         "wd:id":"Q628658",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284857,
-    "wof:lastmodified":1557782752,
+    "wof:lastmodified":1557783766,
     "wof:name":"New York Air",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

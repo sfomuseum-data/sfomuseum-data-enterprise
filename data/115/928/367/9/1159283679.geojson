@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"ZV",
         "iata:code":"ZV",
         "icao:code":"AMW",
         "wd:id":"Q4033617",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159283679,
-    "wof:lastmodified":1557782940,
+    "wof:lastmodified":1557783776,
     "wof:name":"Air Midwest",
     "wof:parent_id":85945871,
     "wof:placetype":"enterprise",

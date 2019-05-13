@@ -43,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"JQ",
         "iata:code":"JQ",
         "icao:code":"JST",
         "wd:id":"Q767627",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1159284587,
-    "wof:lastmodified":1542668421,
+    "wof:lastmodified":1557783779,
     "wof:name":"Jetstar Airways",
     "wof:parent_id":101933229,
     "wof:placetype":"enterprise",

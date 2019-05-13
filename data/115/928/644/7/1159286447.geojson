@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PT",
         "iata:code":"PT",
         "icao:code":"PBA",
         "wd:id":"Q7252596",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159286447,
-    "wof:lastmodified":1557782757,
+    "wof:lastmodified":1557783766,
     "wof:name":"Provincetown-Boston Airline",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

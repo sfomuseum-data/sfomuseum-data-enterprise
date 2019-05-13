@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"GF",
         "iata:code":"GF",
         "icao:code":"GFA",
         "wd:id":"Q473231",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284467,
-    "wof:lastmodified":1542668396,
+    "wof:lastmodified":1557783768,
     "wof:name":"Gulf Air",
     "wof:parent_id":1125819119,
     "wof:placetype":"enterprise",

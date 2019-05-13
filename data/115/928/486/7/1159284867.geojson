@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"ZQ",
         "iata:code":"ZQ",
         "icao:code":"NZA",
         "wd:id":"Q19574836",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159284867,
-    "wof:lastmodified":1557782982,
+    "wof:lastmodified":1557783778,
     "wof:name":"Newmans Air",
     "wof:parent_id":85633345,
     "wof:placetype":"enterprise",

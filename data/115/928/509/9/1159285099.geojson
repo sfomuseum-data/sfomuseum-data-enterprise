@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"FR",
         "iata:code":"FR",
         "icao:code":"RYR",
         "wd:id":"Q170614",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285099,
-    "wof:lastmodified":1542668468,
+    "wof:lastmodified":1557783776,
     "wof:name":"Ryanair",
     "wof:parent_id":102547639,
     "wof:placetype":"enterprise",

@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"FU",
         "iata:code":"FU",
         "icao:code":"LIT",
         "wd:id":"Q407456",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159283665,
-    "wof:lastmodified":1557782911,
+    "wof:lastmodified":1557783775,
     "wof:name":"Air Littoral",
     "wof:parent_id":85633147,
     "wof:placetype":"enterprise",

@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AL",
         "iata:code":"AL",
         "icao:code":"SYX",
         "wd:id":"Q2293467",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159285177,
-    "wof:lastmodified":1557782860,
+    "wof:lastmodified":1557783771,
     "wof:name":"Skyway Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

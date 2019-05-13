@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"US",
         "iata:code":"US",
         "icao:code":"PDT",
         "wd:id":"Q15840489",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285019,
-    "wof:lastmodified":1542668415,
+    "wof:lastmodified":1557783775,
     "wof:name":"Piedmont Airlines",
     "wof:parent_id":85949177,
     "wof:placetype":"enterprise",

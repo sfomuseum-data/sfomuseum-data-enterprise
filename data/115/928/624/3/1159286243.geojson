@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"ZI",
         "iata:code":"ZI",
         "icao:code":"AAF",
         "wd:id":"Q212703",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159286243,
-    "wof:lastmodified":1542668468,
+    "wof:lastmodified":1557783779,
     "wof:name":"Aigle Azur",
     "wof:parent_id":101751119,
     "wof:placetype":"enterprise",

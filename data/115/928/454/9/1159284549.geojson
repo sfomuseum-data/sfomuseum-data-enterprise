@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"IS",
         "iata:code":"IS",
         "icao:code":"LVB",
         "wd:id":"Q2341726",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284549,
-    "wof:lastmodified":1542668436,
+    "wof:lastmodified":1557783770,
     "wof:name":"IRS Airlines",
     "wof:parent_id":85632735,
     "wof:placetype":"enterprise",

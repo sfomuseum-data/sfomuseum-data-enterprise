@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LG",
         "iata:code":"LG",
         "icao:code":"LGL",
         "wd:id":"Q726813",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284715,
-    "wof:lastmodified":1542668460,
+    "wof:lastmodified":1557783766,
     "wof:name":"Luxair",
     "wof:parent_id":1126007063,
     "wof:placetype":"enterprise",

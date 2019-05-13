@@ -32,6 +32,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"VC",
         "iata:code":"VC",
         "icao:code":"SVV",
         "wd:id":"Q3480558",
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1159285139,
-    "wof:lastmodified":1542668465,
+    "wof:lastmodified":1557783783,
     "wof:name":"Servivensa",
     "wof:parent_id":85632317,
     "wof:placetype":"enterprise",

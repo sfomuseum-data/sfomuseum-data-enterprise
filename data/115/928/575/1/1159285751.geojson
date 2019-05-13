@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LZ",
         "iata:code":"LZ",
         "icao:code":"LAZ",
         "wd:id":"Q278906",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285751,
-    "wof:lastmodified":1557782871,
+    "wof:lastmodified":1557783772,
     "wof:name":"Balkan Bulgarian Airlines",
     "wof:parent_id":101748887,
     "wof:placetype":"enterprise",

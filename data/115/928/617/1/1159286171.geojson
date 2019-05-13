@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"TE",
         "iata:code":"TE",
         "icao:code":"LIL",
         "wd:id":"Q1130153",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159286171,
-    "wof:lastmodified":1557782763,
+    "wof:lastmodified":1557783767,
     "wof:name":"Lithuanian Airlines",
     "wof:parent_id":101753031,
     "wof:placetype":"enterprise",

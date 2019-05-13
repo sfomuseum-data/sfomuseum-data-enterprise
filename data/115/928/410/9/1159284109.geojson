@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"CV",
         "iata:code":"CV",
         "icao:code":"CLX",
         "wd:id":"Q1036100",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284109,
-    "wof:lastmodified":1542668416,
+    "wof:lastmodified":1557783777,
     "wof:name":"Cargolux",
     "wof:parent_id":101751765,
     "wof:placetype":"enterprise",

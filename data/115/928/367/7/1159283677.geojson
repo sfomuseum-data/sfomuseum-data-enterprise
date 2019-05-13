@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"MK",
         "iata:code":"MK",
         "icao:code":"MAU",
         "wd:id":"Q407556",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159283677,
-    "wof:lastmodified":1542668465,
+    "wof:lastmodified":1557783776,
     "wof:name":"Air Mauritius",
     "wof:parent_id":1125952633,
     "wof:placetype":"enterprise",

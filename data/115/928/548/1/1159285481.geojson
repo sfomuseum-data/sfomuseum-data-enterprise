@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"VX",
         "iata:code":"VX",
         "icao:callsign":"REDWOOD",
         "icao:code":"VRD",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159285481,
-    "wof:lastmodified":1557783091,
+    "wof:lastmodified":1557783783,
     "wof:name":"Virgin America Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

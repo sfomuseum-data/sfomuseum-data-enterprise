@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"DB",
         "iata:code":"DB",
         "icao:code":"BZH",
         "wd:id":"Q918006",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159284013,
-    "wof:lastmodified":1557782803,
+    "wof:lastmodified":1557783768,
     "wof:name":"Brit Air",
     "wof:parent_id":85633147,
     "wof:placetype":"enterprise",

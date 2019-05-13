@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"N6",
         "iata:code":"N6",
         "icao:code":"ACQ",
         "wd:id":"Q161432",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159283507,
-    "wof:lastmodified":1557782913,
+    "wof:lastmodified":1557783775,
     "wof:name":"Aero Continente",
     "wof:parent_id":85632521,
     "wof:placetype":"enterprise",

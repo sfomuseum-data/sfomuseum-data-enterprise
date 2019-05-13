@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AE",
         "iata:code":"AE",
         "icao:code":"AOE",
         "wd:id":"Q407079",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159283621,
-    "wof:lastmodified":1557782709,
+    "wof:lastmodified":1557783764,
     "wof:name":"Air Europe",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

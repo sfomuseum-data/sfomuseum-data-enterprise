@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PC",
         "iata:code":"PC",
         "icao:code":"PCA",
         "wd:id":"Q7122283",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159284947,
-    "wof:lastmodified":1557783015,
+    "wof:lastmodified":1557783780,
     "wof:name":"Pacific Air Lines",
     "wof:parent_id":421176809,
     "wof:placetype":"enterprise",

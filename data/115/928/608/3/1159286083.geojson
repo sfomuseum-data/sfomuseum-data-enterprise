@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OB",
         "iata:code":"OB",
         "icao:code":"AAN",
         "wd:id":"Q7074416",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159286083,
-    "wof:lastmodified":1557783026,
+    "wof:lastmodified":1557783780,
     "wof:name":"Oasis Airlines",
     "wof:parent_id":85633129,
     "wof:placetype":"enterprise",

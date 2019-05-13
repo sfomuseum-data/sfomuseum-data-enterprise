@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LQ",
         "iata:code":"LQ",
         "icao:code":"LAQ",
         "wd:id":"Q6510840",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159286255,
-    "wof:lastmodified":1542668447,
+    "wof:lastmodified":1557783777,
     "wof:name":"Lebanese Air Transport",
     "wof:parent_id":102553293,
     "wof:placetype":"enterprise",

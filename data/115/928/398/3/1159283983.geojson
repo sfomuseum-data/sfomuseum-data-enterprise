@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PG",
         "iata:code":"PG",
         "icao:code":"BKP",
         "wd:id":"Q806487",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159283983,
-    "wof:lastmodified":1542668419,
+    "wof:lastmodified":1557783765,
     "wof:name":"Bangkok Airways",
     "wof:parent_id":85632293,
     "wof:placetype":"enterprise",

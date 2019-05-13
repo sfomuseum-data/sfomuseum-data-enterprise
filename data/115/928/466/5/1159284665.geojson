@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"QV",
         "iata:code":"QV",
         "icao:code":"LAO",
         "wd:id":"Q756172",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284665,
-    "wof:lastmodified":1542668467,
+    "wof:lastmodified":1557783781,
     "wof:name":"Lao Airlines",
     "wof:parent_id":421168913,
     "wof:placetype":"enterprise",

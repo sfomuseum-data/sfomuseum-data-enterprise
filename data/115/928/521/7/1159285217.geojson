@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SD",
         "iata:code":"SD",
         "icao:code":"SUD",
         "wd:id":"Q864117",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285217,
-    "wof:lastmodified":1542668425,
+    "wof:lastmodified":1557783771,
     "wof:name":"Sudan Airways",
     "wof:parent_id":890441687,
     "wof:placetype":"enterprise",

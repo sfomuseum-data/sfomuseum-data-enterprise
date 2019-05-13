@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EG",
         "iata:code":"EG",
         "icao:code":"JAA",
         "wd:id":"Q702200",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284571,
-    "wof:lastmodified":1557783042,
+    "wof:lastmodified":1557783781,
     "wof:name":"Japan Asia Airways",
     "wof:parent_id":85672817,
     "wof:placetype":"enterprise",

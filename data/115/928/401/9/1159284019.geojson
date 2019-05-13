@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"VF",
         "iata:code":"VF",
         "icao:code":"BAF",
         "wd:id":"Q920362",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284019,
-    "wof:lastmodified":1557782802,
+    "wof:lastmodified":1557783768,
     "wof:name":"British Air Ferries",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

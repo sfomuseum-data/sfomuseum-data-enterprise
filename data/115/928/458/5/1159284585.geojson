@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SG",
         "iata:code":"SG",
         "icao:code":"JGO",
         "wd:id":"Q1688507",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159284585,
-    "wof:lastmodified":1557783009,
+    "wof:lastmodified":1557783779,
     "wof:name":"Jetsgo",
     "wof:parent_id":101736545,
     "wof:placetype":"enterprise",

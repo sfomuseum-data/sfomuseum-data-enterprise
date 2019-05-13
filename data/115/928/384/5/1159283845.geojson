@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AQ",
         "iata:code":"AQ",
         "icao:code":"AAH",
         "wd:id":"Q167721",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159283845,
-    "wof:lastmodified":1557782867,
+    "wof:lastmodified":1557783772,
     "wof:name":"Aloha Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

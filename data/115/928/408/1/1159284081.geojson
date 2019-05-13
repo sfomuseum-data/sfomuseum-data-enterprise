@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"CS",
         "iata:code":"CS",
         "icao:code":"CAS",
         "wd:id":"Q13126523",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284081,
-    "wof:lastmodified":1557782812,
+    "wof:lastmodified":1557783769,
     "wof:name":"Cambrian Airways",
     "wof:parent_id":101750397,
     "wof:placetype":"enterprise",

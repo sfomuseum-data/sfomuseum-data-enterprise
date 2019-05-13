@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"U9",
         "iata:code":"U9",
         "icao:code":"TAK",
         "wd:id":"Q1785216",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159285283,
-    "wof:lastmodified":1557782861,
+    "wof:lastmodified":1557783771,
     "wof:name":"Tatarstan Airlines",
     "wof:parent_id":85632685,
     "wof:placetype":"enterprise",

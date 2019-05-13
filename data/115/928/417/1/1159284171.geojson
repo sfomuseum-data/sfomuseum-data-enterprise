@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"XO",
         "iata:code":"XO",
         "icao:code":"CXJ",
         "wd:id":"Q1760122",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284171,
-    "wof:lastmodified":1557782967,
+    "wof:lastmodified":1557783777,
     "wof:name":"China Xinjiang Airlines",
     "wof:parent_id":85632695,
     "wof:placetype":"enterprise",

@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LF",
         "iata:code":"LF",
         "icao:code":"LIN",
         "wd:id":"Q1826760",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284689,
-    "wof:lastmodified":1557783037,
+    "wof:lastmodified":1557783781,
     "wof:name":"Linjeflyg",
     "wof:parent_id":101752307,
     "wof:placetype":"enterprise",

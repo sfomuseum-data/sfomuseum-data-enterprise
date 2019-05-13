@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"CA",
         "iata:code":"CA",
         "icao:callsign":"AIR CHINA",
         "icao:code":"CCA",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159283605,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783777,
     "wof:name":"Air China",
     "wof:parent_id":85632695,
     "wof:placetype":"enterprise",

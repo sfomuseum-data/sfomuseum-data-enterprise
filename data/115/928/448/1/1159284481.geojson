@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"X3",
         "iata:code":"X3",
         "icao:code":"HLX",
         "wd:id":"Q699933",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159284481,
-    "wof:lastmodified":1557782778,
+    "wof:lastmodified":1557783767,
     "wof:name":"Hapag-Lloyd Express",
     "wof:parent_id":101748819,
     "wof:placetype":"enterprise",

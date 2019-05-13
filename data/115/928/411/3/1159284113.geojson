@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"KW",
         "iata:code":"KW",
         "icao:code":"CAA",
         "wd:id":"Q5044083",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284113,
-    "wof:lastmodified":1557782984,
+    "wof:lastmodified":1557783778,
     "wof:name":"Carnival Air Lines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

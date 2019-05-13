@@ -30,6 +30,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"RU",
         "iata:code":"RU",
         "icao:code":"BTA",
         "wd:id":"Q4971529",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159284041,
-    "wof:lastmodified":1557783060,
+    "wof:lastmodified":1557783782,
     "wof:name":"Britt Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"FG",
         "iata:code":"FG",
         "icao:code":"AFG",
         "wd:id":"Q654953",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159283905,
-    "wof:lastmodified":1542668454,
+    "wof:lastmodified":1557783766,
     "wof:name":"Ariana Afghan Airlines",
     "wof:parent_id":85632229,
     "wof:placetype":"enterprise",

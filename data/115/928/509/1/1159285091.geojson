@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"ZC",
         "iata:code":"ZC",
         "icao:code":"RSN",
         "wd:id":"Q1567702",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159285091,
-    "wof:lastmodified":1557782943,
+    "wof:lastmodified":1557783776,
     "wof:name":"Royal Swazi National Airways",
     "wof:parent_id":85632635,
     "wof:placetype":"enterprise",

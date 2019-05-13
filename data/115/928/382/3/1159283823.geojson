@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AZ",
         "iata:code":"AZ",
         "icao:callsign":"ALITALIA",
         "icao:code":"AZA",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159283823,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783773,
     "wof:name":"Alitalia",
     "wof:parent_id":101757057,
     "wof:placetype":"enterprise",

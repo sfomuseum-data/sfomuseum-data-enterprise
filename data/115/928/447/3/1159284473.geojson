@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"HU",
         "iata:code":"HU",
         "icao:code":"CHH",
         "wd:id":"Q292428",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159284473,
-    "wof:lastmodified":1542668446,
+    "wof:lastmodified":1557783766,
     "wof:name":"Hainan Airlines",
     "wof:parent_id":102027577,
     "wof:placetype":"enterprise",

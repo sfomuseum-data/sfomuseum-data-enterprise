@@ -44,6 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"HI",
         "iata:code":"HI",
         "icao:code":"HSL",
         "wd:id":"Q1252540",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1159286421,
-    "wof:lastmodified":1557782780,
+    "wof:lastmodified":1557783768,
     "wof:name":"Hispania L\u00edneas A\u00e9reas",
     "wof:parent_id":101748237,
     "wof:placetype":"enterprise",

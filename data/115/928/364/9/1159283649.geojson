@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AI",
         "iata:code":"AI",
         "icao:callsign":"AIRINDIA",
         "icao:code":"AIC",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159283649,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783766,
     "wof:name":"Air India",
     "wof:parent_id":85632469,
     "wof:placetype":"enterprise",

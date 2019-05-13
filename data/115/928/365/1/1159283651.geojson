@@ -43,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"IT",
         "iata:code":"IT",
         "icao:code":"ITF",
         "wd:id":"Q407368",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1159283651,
-    "wof:lastmodified":1557782707,
+    "wof:lastmodified":1557783764,
     "wof:name":"Air Inter",
     "wof:parent_id":101751005,
     "wof:placetype":"enterprise",

@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"KZ",
         "iata:code":"KZ",
         "icao:code":"NCA",
         "wd:id":"Q1364998",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284873,
-    "wof:lastmodified":1542668469,
+    "wof:lastmodified":1557783779,
     "wof:name":"Nippon Cargo Airlines",
     "wof:parent_id":102541685,
     "wof:placetype":"enterprise",

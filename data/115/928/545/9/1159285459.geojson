@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"NJ",
         "iata:code":"NJ",
         "icao:code":"VGD",
         "wd:id":"Q7914820",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159285459,
-    "wof:lastmodified":1557782892,
+    "wof:lastmodified":1557783774,
     "wof:name":"Vanguard Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

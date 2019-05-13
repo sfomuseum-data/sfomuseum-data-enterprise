@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"NN",
         "iata:code":"NN",
         "icao:code":"MOV",
         "wd:id":"Q1326062"
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1360700753,
-    "wof:lastmodified":1557782633,
+    "wof:lastmodified":1557783763,
     "wof:name":"VIM Airlines",
     "wof:parent_id":102003033,
     "wof:placetype":"enterprise",

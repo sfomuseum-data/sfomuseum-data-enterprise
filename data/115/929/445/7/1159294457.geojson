@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"GN",
         "iata:code":"GN",
         "icao:code":"AGN",
         "wd:id":"Q407255",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159294457,
-    "wof:lastmodified":1557782679,
+    "wof:lastmodified":1557783763,
     "wof:name":"Air Gabon",
     "wof:parent_id":421189663,
     "wof:placetype":"enterprise",

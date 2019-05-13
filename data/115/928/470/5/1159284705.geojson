@@ -28,6 +28,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LO",
         "iata:code":"LO",
         "icao:callsign":"POLLOT",
         "icao:code":"LOT",
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159284705,
-    "wof:lastmodified":1542762363,
+    "wof:lastmodified":1557783768,
     "wof:name":"LOT (Polish Airlines)",
     "wof:parent_id":85633723,
     "wof:placetype":"enterprise",

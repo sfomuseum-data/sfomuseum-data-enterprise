@@ -30,6 +30,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"UE",
         "iata:code":"UE",
         "icao:code":"UED",
         "wd:id":"Q4698052",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159283659,
-    "wof:lastmodified":1557782706,
+    "wof:lastmodified":1557783764,
     "wof:name":"Air LA",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

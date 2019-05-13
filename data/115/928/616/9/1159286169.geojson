@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"BO",
         "iata:code":"BO",
         "icao:code":"BOU",
         "wd:id":"Q895173",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159286169,
-    "wof:lastmodified":1557782798,
+    "wof:lastmodified":1557783768,
     "wof:name":"Bouraq Indonesia Airlines",
     "wof:parent_id":85632203,
     "wof:placetype":"enterprise",

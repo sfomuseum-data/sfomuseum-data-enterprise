@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"GY",
         "iata:code":"GY",
         "icao:code":"GYA",
         "wd:id":"Q5622731",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284471,
-    "wof:lastmodified":1557782746,
+    "wof:lastmodified":1557783766,
     "wof:name":"Guyana Airways",
     "wof:parent_id":85632397,
     "wof:placetype":"enterprise",

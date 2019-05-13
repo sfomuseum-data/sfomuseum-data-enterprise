@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OZ",
         "iata:code":"OZ",
         "icao:code":"OZA",
         "wd:id":"Q7116474",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284941,
-    "wof:lastmodified":1557783016,
+    "wof:lastmodified":1557783780,
     "wof:name":"Ozark Air Lines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

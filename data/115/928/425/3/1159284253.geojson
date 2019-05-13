@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"WD",
         "iata:code":"WD",
         "icao:code":"DSR",
         "wd:id":"Q2407905",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284253,
-    "wof:lastmodified":1557782764,
+    "wof:lastmodified":1557783767,
     "wof:name":"DAS Air Cargo",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

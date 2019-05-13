@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"YI",
         "iata:code":"YI",
         "icao:code":"RSI",
         "wd:id":"Q4033625",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159283743,
-    "wof:lastmodified":1542668406,
+    "wof:lastmodified":1557783783,
     "wof:name":"Air Sunshine",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

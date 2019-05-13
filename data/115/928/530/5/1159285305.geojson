@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"FF",
         "iata:code":"FF",
         "icao:code":"TOW",
         "wd:id":"Q937509",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159285305,
-    "wof:lastmodified":1557782910,
+    "wof:lastmodified":1557783775,
     "wof:name":"Tower Air",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

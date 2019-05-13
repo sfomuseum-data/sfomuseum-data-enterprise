@@ -46,6 +46,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EV",
         "iata:code":"EV",
         "icao:code":"ASQ",
         "wd:id":"Q46676",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1159284363,
-    "wof:lastmodified":1542668422,
+    "wof:lastmodified":1557783769,
     "wof:name":"Express Jet Airlines",
     "wof:parent_id":85936429,
     "wof:placetype":"enterprise",

@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"JS",
         "iata:code":"JS",
         "icao:code":"KOR",
         "wd:id":"Q257502",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159283657,
-    "wof:lastmodified":1542668454,
+    "wof:lastmodified":1557783764,
     "wof:name":"Air Koryo",
     "wof:parent_id":421188981,
     "wof:placetype":"enterprise",

@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OL",
         "iata:code":"OL",
         "icao:code":"PAO",
         "wd:id":"Q956449",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159285031,
-    "wof:lastmodified":1542668449,
+    "wof:lastmodified":1557783765,
     "wof:name":"Polynesian Airlines",
     "wof:parent_id":890416609,
     "wof:placetype":"enterprise",

@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PE",
         "iata:code":"PE",
         "icao:code":"PEX",
         "wd:id":"Q634777",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159285011,
-    "wof:lastmodified":1557782917,
+    "wof:lastmodified":1557783775,
     "wof:name":"People Express Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

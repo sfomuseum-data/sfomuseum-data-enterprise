@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"BR",
         "iata:code":"BR",
         "icao:code":"BCC",
         "wd:id":"Q918817",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284023,
-    "wof:lastmodified":1557783027,
+    "wof:lastmodified":1557783780,
     "wof:name":"British Caledonian Airways",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"XW",
         "iata:code":"XW",
         "icao:code":"CXH",
         "wd:id":"Q1073547",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159284169,
-    "wof:lastmodified":1542668458,
+    "wof:lastmodified":1557783778,
     "wof:name":"China Xinhua Airlines",
     "wof:parent_id":102027745,
     "wof:placetype":"enterprise",

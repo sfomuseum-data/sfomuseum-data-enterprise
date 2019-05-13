@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"DP",
         "iata:code":"DP",
         "wd:id":"Q5139328",
         "wk:page":"Cochise Airlines",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159285715,
-    "wof:lastmodified":1557783067,
+    "wof:lastmodified":1557783782,
     "wof:name":"Cochise Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

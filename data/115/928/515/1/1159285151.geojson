@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"3U",
         "iata:code":"3U",
         "icao:code":"CSC",
         "wd:id":"Q291944",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159285151,
-    "wof:lastmodified":1542668422,
+    "wof:lastmodified":1557783784,
     "wof:name":"Sichuan Airlines",
     "wof:parent_id":102027703,
     "wof:placetype":"enterprise",

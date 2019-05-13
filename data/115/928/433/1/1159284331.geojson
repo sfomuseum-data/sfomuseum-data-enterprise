@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EB",
         "iata:code":"EB",
         "icao:code":"EWW",
         "wd:id":"Q5371008",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159284331,
-    "wof:lastmodified":1557783031,
+    "wof:lastmodified":1557783780,
     "wof:name":"Emery Worldwide",
     "wof:parent_id":85922447,
     "wof:placetype":"enterprise",

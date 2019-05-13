@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"UK",
         "iata:code":"UK",
         "icao:code":"UKA",
         "wd:id":"Q1826431",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159284619,
-    "wof:lastmodified":1557783045,
+    "wof:lastmodified":1557783781,
     "wof:name":"KLM UK",
     "wof:parent_id":85633337,
     "wof:placetype":"enterprise",

@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"6H",
         "iata:code":"6H",
         "icao:code":"ISR",
         "wd:id":"Q558002",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284557,
-    "wof:lastmodified":1542668439,
+    "wof:lastmodified":1557783769,
     "wof:name":"Israir Airlines",
     "wof:parent_id":85632315,
     "wof:placetype":"enterprise",

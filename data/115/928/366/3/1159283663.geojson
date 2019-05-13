@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"IJ",
         "iata:code":"IJ",
         "icao:code":"LIB",
         "wd:id":"Q1585679",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1159283663,
-    "wof:lastmodified":1557782911,
+    "wof:lastmodified":1557783775,
     "wof:name":"Air Libert\u00e9",
     "wof:parent_id":101751077,
     "wof:placetype":"enterprise",

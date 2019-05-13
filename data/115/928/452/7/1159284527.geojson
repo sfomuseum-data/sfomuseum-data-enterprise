@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"IC",
         "iata:code":"IC",
         "icao:code":"IAC",
         "wd:id":"Q876323",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159284527,
-    "wof:lastmodified":1557782823,
+    "wof:lastmodified":1557783769,
     "wof:name":"Indian Airlines",
     "wof:parent_id":102030425,
     "wof:placetype":"enterprise",

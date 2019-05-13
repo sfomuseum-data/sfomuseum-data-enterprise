@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"KS",
         "iata:code":"KS",
         "wd:id":"Q7426775",
         "wk:page":"Saturn Airways",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159285119,
-    "wof:lastmodified":1557782889,
+    "wof:lastmodified":1557783773,
     "wof:name":"Saturn Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

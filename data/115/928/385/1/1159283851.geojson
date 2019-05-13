@@ -58,6 +58,7 @@
         "wof:hierarchy",
         "wof:parent_id"
     ],
+    "wof:coterminous":1159283849,    
     "wof:country":"US",
     "wof:geomhash":"7c05b537c1f21c76500bea5f0e3b8279",
     "wof:hierarchy":[
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1159283851,
-    "wof:lastmodified":1542668460,
+    "wof:lastmodified":1557783772,
     "wof:name":"American Air Lines",
     "wof:parent_id":101724443,
     "wof:placetype":"enterprise",

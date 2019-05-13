@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SC",
         "iata:code":"SC",
         "icao:code":"CDG",
         "wd:id":"Q1153602",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285143,
-    "wof:lastmodified":1542668447,
+    "wof:lastmodified":1557783783,
     "wof:name":"Shandong Airlines",
     "wof:parent_id":102027459,
     "wof:placetype":"enterprise",

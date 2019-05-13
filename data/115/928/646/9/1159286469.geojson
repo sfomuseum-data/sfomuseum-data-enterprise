@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"ZK",
         "iata:code":"ZK",
         "icao:code":"GLA",
         "wd:id":"Q945493",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159286469,
-    "wof:lastmodified":1542668411,
+    "wof:lastmodified":1557783779,
     "wof:name":"Great Lakes Airlines",
     "wof:parent_id":101734121,
     "wof:placetype":"enterprise",

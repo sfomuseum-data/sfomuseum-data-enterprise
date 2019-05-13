@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"QB",
         "iata:code":"QB",
         "icao:code":"QBA",
         "wd:id":"Q945198",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285047,
-    "wof:lastmodified":1557782732,
+    "wof:lastmodified":1557783765,
     "wof:name":"Quebecair",
     "wof:parent_id":101736545,
     "wof:placetype":"enterprise",

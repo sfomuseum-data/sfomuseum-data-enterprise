@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"7F",
         "iata:code":"7F",
         "icao:code":"FAB",
         "wd:id":"Q1419271",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159286221,
-    "wof:lastmodified":1542675098,
+    "wof:lastmodified":1557783777,
     "wof:name":"First Air",
     "wof:parent_id":85633041,
     "wof:placetype":"enterprise",

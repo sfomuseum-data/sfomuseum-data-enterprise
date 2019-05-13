@@ -44,6 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"HA",
         "iata:code":"HA",
         "icao:callsign":"HAWAIIAN",
         "icao:code":"HAL",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1159284489,
-    "wof:lastmodified":1551988282,
+    "wof:lastmodified":1557783767,
     "wof:name":"Hawaiian Airlines",
     "wof:parent_id":1141909415,
     "wof:placetype":"enterprise",

@@ -42,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"FX",
         "iata:code":"FX",
         "icao:code":"FDX",
         "wd:id":"Q782557",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159285989,
-    "wof:lastmodified":1542668451,
+    "wof:lastmodified":1557783777,
     "wof:name":"FedEx Express",
     "wof:parent_id":101722645,
     "wof:placetype":"enterprise",

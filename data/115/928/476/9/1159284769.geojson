@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"MZ",
         "iata:code":"MZ",
         "icao:code":"MNA",
         "wd:id":"Q619118",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159284769,
-    "wof:lastmodified":1557782758,
+    "wof:lastmodified":1557783767,
     "wof:name":"Merpati Nusantara Airlines",
     "wof:parent_id":85632203,
     "wof:placetype":"enterprise",

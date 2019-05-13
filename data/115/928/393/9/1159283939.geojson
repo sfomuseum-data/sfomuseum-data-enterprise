@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"XM",
         "iata:code":"XM",
         "icao:code":"XME",
         "wd:id":"Q781323",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159283939,
-    "wof:lastmodified":1557782942,
+    "wof:lastmodified":1557783776,
     "wof:name":"Australian Air Express",
     "wof:parent_id":85632793,
     "wof:placetype":"enterprise",

@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EA",
         "iata:code":"EA",
         "icao:code":"EAL",
         "wd:id":"Q611742",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159286433,
-    "wof:lastmodified":1557782751,
+    "wof:lastmodified":1557783766,
     "wof:name":"Eastern Air Lines",
     "wof:parent_id":85933669,
     "wof:placetype":"enterprise",

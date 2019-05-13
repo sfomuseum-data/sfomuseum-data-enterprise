@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OB",
         "iata:code":"OB",
         "icao:code":"ASZ",
         "wd:id":"Q1154839",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159283921,
-    "wof:lastmodified":1557782909,
+    "wof:lastmodified":1557783775,
     "wof:name":"Astrakhan Airlines",
     "wof:parent_id":85632685,
     "wof:placetype":"enterprise",

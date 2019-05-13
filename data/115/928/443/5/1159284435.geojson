@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"GH",
         "iata:code":"GH",
         "wd:id":"Q1521343",
         "wk:page":"Ghana Airways",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284435,
-    "wof:lastmodified":1557782974,
+    "wof:lastmodified":1557783778,
     "wof:name":"Ghana Airways",
     "wof:parent_id":85632189,
     "wof:placetype":"enterprise",

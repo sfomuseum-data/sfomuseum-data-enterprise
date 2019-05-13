@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"6I",
         "iata:code":"6I",
         "icao:code":"VVA",
         "wd:id":"Q980203",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159283959,
-    "wof:lastmodified":1557782907,
+    "wof:lastmodified":1557783774,
     "wof:name":"Aviast",
     "wof:parent_id":85632685,
     "wof:placetype":"enterprise",

@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"BN",
         "iata:code":"BN",
         "icao:code":"BNF",
         "wd:id":"Q898522",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284011,
-    "wof:lastmodified":1557782802,
+    "wof:lastmodified":1557783768,
     "wof:name":"Braniff Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

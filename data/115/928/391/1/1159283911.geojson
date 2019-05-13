@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"IZ",
         "iata:code":"IZ",
         "icao:code":"AIZ",
         "wd:id":"Q553915",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159283911,
-    "wof:lastmodified":1542668409,
+    "wof:lastmodified":1557783764,
     "wof:name":"Arkia Israel Airlines",
     "wof:parent_id":85632315,
     "wof:placetype":"enterprise",

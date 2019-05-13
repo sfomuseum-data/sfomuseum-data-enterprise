@@ -53,6 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PA",
         "iata:code":"PA",
         "icao:code":"PAA",
         "wd:id":"Q8681",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1159284991,
-    "wof:lastmodified":1557782821,
+    "wof:lastmodified":1557783769,
     "wof:name":"Pan American Airways",
     "wof:parent_id":85977539,
     "wof:placetype":"enterprise",

@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"MT",
         "iata:code":"MT",
         "icao:callsign":"KESTREL",
         "icao:code":"TCX",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159286107,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783767,
     "wof:name":"Thomas Cook Airlines",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

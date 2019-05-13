@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SO",
         "iata:code":"SO",
         "icao:code":"SOU",
         "wd:id":"Q3492303",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159285627,
-    "wof:lastmodified":1557782948,
+    "wof:lastmodified":1557783777,
     "wof:name":"Southern Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

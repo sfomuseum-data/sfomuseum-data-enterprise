@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"BG",
         "iata:code":"BG",
         "icao:code":"BBC",
         "wd:id":"Q863432",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159283995,
-    "wof:lastmodified":1542668442,
+    "wof:lastmodified":1557783765,
     "wof:name":"Biman Bangladesh Airlines",
     "wof:parent_id":421181477,
     "wof:placetype":"enterprise",

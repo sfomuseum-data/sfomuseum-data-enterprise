@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"B9",
         "iata:code":"B9",
         "icao:code":"CBC",
         "wd:id":"Q2894381",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159285853,
-    "wof:lastmodified":1542668452,
+    "wof:lastmodified":1557783782,
     "wof:name":"Caribair",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

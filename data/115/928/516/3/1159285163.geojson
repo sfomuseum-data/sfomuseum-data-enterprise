@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SQ",
         "iata:code":"SQ",
         "icao:callsign":"SINGCARGO",
         "icao:code":"SIA",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159285163,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783773,
     "wof:name":"Singapore Airlines",
     "wof:parent_id":102032341,
     "wof:placetype":"enterprise",

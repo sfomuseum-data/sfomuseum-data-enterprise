@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AP",
         "iata:code":"AP",
         "icao:code":"ADH",
         "wd:id":"Q407697",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159283707,
-    "wof:lastmodified":1557782865,
+    "wof:lastmodified":1557783771,
     "wof:name":"Air One",
     "wof:parent_id":101757057,
     "wof:placetype":"enterprise",

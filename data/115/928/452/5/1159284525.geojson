@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"DH",
         "iata:code":"DH",
         "icao:code":"IDE",
         "wd:id":"Q638066",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284525,
-    "wof:lastmodified":1557782823,
+    "wof:lastmodified":1557783769,
     "wof:name":"Independence Air",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PR",
         "iata:code":"PR",
         "icao:callsign":"PHILIPPINE",
         "icao:code":"PAL",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285015,
-    "wof:lastmodified":1542762078,
+    "wof:lastmodified":1557783775,
     "wof:name":"Philippine Airlines",
     "wof:parent_id":421169759,
     "wof:placetype":"enterprise",

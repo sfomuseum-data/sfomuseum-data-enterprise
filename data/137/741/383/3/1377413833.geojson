@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"IG",
         "iata:code":"IG",
         "icao:code":"ISS",
         "wd:id":"Q49547426"
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1377413833,
-    "wof:lastmodified":1555021873,
+    "wof:lastmodified":1557783763,
     "wof:name":"Air Italy",
     "wof:parent_id":101777479,
     "wof:placetype":"enterprise",

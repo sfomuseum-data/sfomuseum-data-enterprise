@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"WU",
         "iata:code":"WU",
         "icao:code":"CWU",
         "wd:id":"Q1622119",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159285557,
-    "wof:lastmodified":1557782920,
+    "wof:lastmodified":1557783775,
     "wof:name":"Wuhan Airlines",
     "wof:parent_id":85632695,
     "wof:placetype":"enterprise",

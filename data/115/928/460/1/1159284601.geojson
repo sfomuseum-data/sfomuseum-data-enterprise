@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"KR",
         "iata:code":"KR",
         "icao:code":"KAR",
         "wd:id":"Q6368011",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284601,
-    "wof:lastmodified":1557783014,
+    "wof:lastmodified":1557783780,
     "wof:name":"Kar-Air",
     "wof:parent_id":85633143,
     "wof:placetype":"enterprise",

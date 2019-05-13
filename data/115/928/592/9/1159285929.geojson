@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"CK",
         "iata:code":"CK",
         "wd:id":"Q5161733",
         "wk:page":"Connellan Airways",
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1159285929,
-    "wof:lastmodified":1557782722,
+    "wof:lastmodified":1557783765,
     "wof:name":"Connellan Airways",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

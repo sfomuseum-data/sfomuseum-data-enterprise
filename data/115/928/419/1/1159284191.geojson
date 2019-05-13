@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OH",
         "iata:code":"OH",
         "icao:code":"COM",
         "wd:id":"Q1113243",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159284191,
-    "wof:lastmodified":1557782958,
+    "wof:lastmodified":1557783777,
     "wof:name":"ComAir",
     "wof:parent_id":85947221,
     "wof:placetype":"enterprise",

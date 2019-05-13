@@ -42,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"TP",
         "iata:code":"TP",
         "icao:callsign":"AIR PORTUGAL",
         "icao:code":"TAP",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159285271,
-    "wof:lastmodified":1542762363,
+    "wof:lastmodified":1557783772,
     "wof:name":"TAP Air Portugal",
     "wof:parent_id":102535643,
     "wof:placetype":"enterprise",

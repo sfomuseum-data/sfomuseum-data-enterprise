@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"TS",
         "iata:code":"TS",
         "icao:code":"TSC",
         "wd:id":"Q407869",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159283753,
-    "wof:lastmodified":1542668460,
+    "wof:lastmodified":1557783784,
     "wof:name":"Air Transat",
     "wof:parent_id":101736545,
     "wof:placetype":"enterprise",

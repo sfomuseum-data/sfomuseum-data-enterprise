@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"JW",
         "iata:code":"JW",
         "icao:code":"APW",
         "wd:id":"Q702959",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159283913,
-    "wof:lastmodified":1557782702,
+    "wof:lastmodified":1557783764,
     "wof:name":"Arrow Air",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

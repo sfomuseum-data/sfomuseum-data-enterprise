@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SI",
         "iata:code":"SI",
         "icao:code":"JET",
         "wd:id":"Q4041839",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284579,
-    "wof:lastmodified":1557783041,
+    "wof:lastmodified":1557783781,
     "wof:name":"Jet America Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"KA",
         "iata:code":"KA",
         "icao:code":"HDA",
         "wd:id":"Q32436",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284297,
-    "wof:lastmodified":1542668422,
+    "wof:lastmodified":1557783778,
     "wof:name":"Dragonair",
     "wof:parent_id":85632695,
     "wof:placetype":"enterprise",

@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"MG",
         "iata:code":"MG",
         "icao:code":"CCP",
         "wd:id":"Q1061232",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284783,
-    "wof:lastmodified":1557782750,
+    "wof:lastmodified":1557783766,
     "wof:name":"MGM Grand Air",
     "wof:parent_id":85969239,
     "wof:placetype":"enterprise",

@@ -43,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"7P",
         "iata:code":"7P",
         "icao:code":"PST",
         "wd:id":"Q407708",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1159286477,
-    "wof:lastmodified":1542668456,
+    "wof:lastmodified":1557783778,
     "wof:name":"Air Panama",
     "wof:parent_id":85632179,
     "wof:placetype":"enterprise",

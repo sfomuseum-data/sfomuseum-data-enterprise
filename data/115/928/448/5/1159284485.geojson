@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"JH",
         "iata:code":"JH",
         "icao:code":"HLQ",
         "wd:id":"Q899512",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284485,
-    "wof:lastmodified":1557782778,
+    "wof:lastmodified":1557783767,
     "wof:name":"Harlequin Air",
     "wof:parent_id":85672817,
     "wof:placetype":"enterprise",

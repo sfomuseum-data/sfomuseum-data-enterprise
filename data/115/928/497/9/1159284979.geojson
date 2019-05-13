@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PK",
         "iata:code":"PK",
         "icao:code":"PIA",
         "wd:id":"Q204887",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284979,
-    "wof:lastmodified":1542668418,
+    "wof:lastmodified":1557783769,
     "wof:name":"Pakistan International Airlines",
     "wof:parent_id":85632659,
     "wof:placetype":"enterprise",

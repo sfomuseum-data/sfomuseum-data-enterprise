@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OC",
         "iata:code":"OC",
         "icao:code":"ACL",
         "wd:id":"Q968566",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159283793,
-    "wof:lastmodified":1557782858,
+    "wof:lastmodified":1557783771,
     "wof:name":"Air California",
     "wof:parent_id":85923075,
     "wof:placetype":"enterprise",

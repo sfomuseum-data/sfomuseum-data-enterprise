@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"6F",
         "iata:code":"6F",
         "icao:code":"FAO",
         "wd:id":"Q5431729",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284371,
-    "wof:lastmodified":1557782810,
+    "wof:lastmodified":1557783769,
     "wof:name":"Falcon Air Express",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

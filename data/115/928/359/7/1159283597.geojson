@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AC",
         "iata:code":"AC",
         "icao:callsign":"AIR CANADA",
         "icao:code":"ACA",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159283597,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783775,
     "wof:name":"Air Canada",
     "wof:parent_id":102554351,
     "wof:placetype":"enterprise",

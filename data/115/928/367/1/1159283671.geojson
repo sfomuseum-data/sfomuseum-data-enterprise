@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"KM",
         "iata:code":"KM",
         "icao:code":"AMC",
         "wd:id":"Q221604",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159283671,
-    "wof:lastmodified":1542668465,
+    "wof:lastmodified":1557783776,
     "wof:name":"Air Malta",
     "wof:parent_id":85633331,
     "wof:placetype":"enterprise",

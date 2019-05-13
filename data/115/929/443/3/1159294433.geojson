@@ -43,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"WA",
         "iata:code":"WA",
         "icao:code":"WAL",
         "wd:id":"Q1583020",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1159294433,
-    "wof:lastmodified":1557782675,
+    "wof:lastmodified":1557783763,
     "wof:name":"Western Air Express",
     "wof:parent_id":85923517,
     "wof:placetype":"enterprise",

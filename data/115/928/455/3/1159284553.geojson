@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"WP",
         "iata:code":"WP",
         "icao:code":"MKU",
         "wd:id":"Q2601293",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159284553,
-    "wof:lastmodified":1542668439,
+    "wof:lastmodified":1557783769,
     "wof:name":"Princeville Airways",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

@@ -45,6 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"NW",
         "iata:code":"NW",
         "icao:code":"NWA",
         "wd:id":"Q309174",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1159284907,
-    "wof:lastmodified":1557782819,
+    "wof:lastmodified":1557783769,
     "wof:name":"Northwest Airlines",
     "wof:parent_id":85968491,
     "wof:placetype":"enterprise",

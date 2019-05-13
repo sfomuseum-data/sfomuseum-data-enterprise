@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"KF",
         "iata:code":"KF",
         "icao:code":"ABB",
         "wd:id":"Q50399835",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159283589,
-    "wof:lastmodified":1542668401,
+    "wof:lastmodified":1557783776,
     "wof:name":"Air Belgium",
     "wof:parent_id":85632997,
     "wof:placetype":"enterprise",

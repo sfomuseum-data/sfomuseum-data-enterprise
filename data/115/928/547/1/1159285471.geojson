@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"VP",
         "iata:code":"VP",
         "icao:code":"VSP",
         "wd:id":"Q1371227",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159285471,
-    "wof:lastmodified":1557783068,
+    "wof:lastmodified":1557783782,
     "wof:name":"VASP",
     "wof:parent_id":85633009,
     "wof:placetype":"enterprise",

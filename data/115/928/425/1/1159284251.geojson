@@ -43,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"DA",
         "iata:code":"DA",
         "icao:code":"DAN",
         "wd:id":"Q1158942",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1159284251,
-    "wof:lastmodified":1557782763,
+    "wof:lastmodified":1557783767,
     "wof:name":"Dan Air",
     "wof:parent_id":101875421,
     "wof:placetype":"enterprise",

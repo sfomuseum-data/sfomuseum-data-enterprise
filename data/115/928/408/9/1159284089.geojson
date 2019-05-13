@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"KI",
         "iata:code":"KI",
         "icao:code":"CDR",
         "wd:id":"Q5030526",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159284089,
-    "wof:lastmodified":1557782812,
+    "wof:lastmodified":1557783769,
     "wof:name":"Canadian Regional Airlines",
     "wof:parent_id":85633041,
     "wof:placetype":"enterprise",

@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"BK",
         "iata:code":"BK",
         "icao:code":"PDI",
         "wd:id":"Q7134299",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284999,
-    "wof:lastmodified":1557782821,
+    "wof:lastmodified":1557783769,
     "wof:name":"Paradise Island Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

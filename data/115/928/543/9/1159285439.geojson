@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"HP",
         "iata:code":"HP",
         "icao:code":"AWE",
         "wd:id":"Q463157",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159285439,
-    "wof:lastmodified":1557782874,
+    "wof:lastmodified":1557783772,
     "wof:name":"America West Airlines",
     "wof:parent_id":85917469,
     "wof:placetype":"enterprise",

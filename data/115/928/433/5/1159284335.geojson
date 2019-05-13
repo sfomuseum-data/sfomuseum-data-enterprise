@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EM",
         "iata:code":"EM",
         "icao:code":"CFS",
         "wd:id":"Q5374027",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159284335,
-    "wof:lastmodified":1542668442,
+    "wof:lastmodified":1557783781,
     "wof:name":"Empire Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

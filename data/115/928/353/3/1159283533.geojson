@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EP",
         "iata:code":"EP",
         "icao:code":"PRU",
         "wd:id":"Q6711286",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159283533,
-    "wof:lastmodified":1557782717,
+    "wof:lastmodified":1557783765,
     "wof:name":"Aerolineas Peruanas",
     "wof:parent_id":85632521,
     "wof:placetype":"enterprise",

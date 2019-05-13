@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"6A",
         "iata:code":"6A",
         "icao:code":"CHP",
         "wd:id":"Q790772",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159283955,
-    "wof:lastmodified":1557782908,
+    "wof:lastmodified":1557783774,
     "wof:name":"Aviacsa",
     "wof:parent_id":85633293,
     "wof:placetype":"enterprise",

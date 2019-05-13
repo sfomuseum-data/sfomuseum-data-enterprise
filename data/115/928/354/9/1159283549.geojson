@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OT",
         "iata:code":"OT",
         "wd:id":"Q381606",
         "wk:page":"Aeropelican Air Services",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159283549,
-    "wof:lastmodified":1557782713,
+    "wof:lastmodified":1557783764,
     "wof:name":"Aeropelican Air Services",
     "wof:parent_id":85632793,
     "wof:placetype":"enterprise",

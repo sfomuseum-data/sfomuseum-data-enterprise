@@ -32,6 +32,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"FW",
         "iata:code":"FW",
         "icao:code":"WRT",
         "wd:id":"Q8038175",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159285555,
-    "wof:lastmodified":1542668469,
+    "wof:lastmodified":1557783776,
     "wof:name":"Wright Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

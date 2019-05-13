@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"GG",
         "iata:code":"GG",
         "icao:code":"KYE",
         "wd:id":"Q2447748",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285307,
-    "wof:lastmodified":1542668416,
+    "wof:lastmodified":1557783775,
     "wof:name":"Tradewinds Airlines",
     "wof:parent_id":85980391,
     "wof:placetype":"enterprise",

@@ -47,6 +47,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AB",
         "iata:code":"AB",
         "icao:code":"BER",
         "wd:id":"Q156829",
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1159283591,
-    "wof:lastmodified":1557782909,
+    "wof:lastmodified":1557783775,
     "wof:name":"Air Berlin",
     "wof:parent_id":420784289,
     "wof:placetype":"enterprise",

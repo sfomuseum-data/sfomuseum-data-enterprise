@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OW",
         "iata:code":"OW",
         "icao:code":"EGF",
         "wd:id":"Q3061897",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284361,
-    "wof:lastmodified":1557782828,
+    "wof:lastmodified":1557783769,
     "wof:name":"Executive Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

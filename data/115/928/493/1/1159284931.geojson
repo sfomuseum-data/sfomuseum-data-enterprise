@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"R2",
         "iata:code":"R2",
         "icao:code":"ORB",
         "wd:id":"Q1368516",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284931,
-    "wof:lastmodified":1557783010,
+    "wof:lastmodified":1557783780,
     "wof:name":"Orenburg Airlines",
     "wof:parent_id":102538279,
     "wof:placetype":"enterprise",

@@ -43,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"YV",
         "iata:code":"YV",
         "icao:code":"ASH",
         "wd:id":"Q1922297",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159284773,
-    "wof:lastmodified":1542668454,
+    "wof:lastmodified":1557783767,
     "wof:name":"Mesa Airlines",
     "wof:parent_id":85917479,
     "wof:placetype":"enterprise",

@@ -46,6 +46,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"US",
         "iata:code":"US",
         "icao:code":"AAL",
         "wd:id":"Q208046",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1159285447,
-    "wof:lastmodified":1557782877,
+    "wof:lastmodified":1557783772,
     "wof:name":"USAir",
     "wof:parent_id":85917469,
     "wof:placetype":"enterprise",

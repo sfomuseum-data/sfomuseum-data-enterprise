@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EX",
         "iata:code":"EX",
         "icao:code":"SDO",
         "wd:id":"Q948355",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159283733,
-    "wof:lastmodified":1557783080,
+    "wof:lastmodified":1557783783,
     "wof:name":"Air Santo Domingo",
     "wof:parent_id":85632713,
     "wof:placetype":"enterprise",

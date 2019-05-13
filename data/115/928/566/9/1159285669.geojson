@@ -44,6 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"9W",
         "iata:code":"9W",
         "icao:code":"JAI",
         "wd:id":"Q727066",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1159285669,
-    "wof:lastmodified":1542668436,
+    "wof:lastmodified":1557783765,
     "wof:name":"Jet Airways",
     "wof:parent_id":102030609,
     "wof:placetype":"enterprise",

@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"4T",
         "iata:code":"4T",
         "icao:code":"BHP",
         "wd:id":"Q339700",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159283991,
-    "wof:lastmodified":1557782730,
+    "wof:lastmodified":1557783765,
     "wof:name":"Belair Airlines",
     "wof:parent_id":85633051,
     "wof:placetype":"enterprise",

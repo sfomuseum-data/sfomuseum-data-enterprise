@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"JY",
         "iata:code":"JY",
         "wd:id":"Q6184744",
         "wk:page":"Jersey Airlines",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159286043,
-    "wof:lastmodified":1557782827,
+    "wof:lastmodified":1557783769,
     "wof:name":"Jersey Airlines",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

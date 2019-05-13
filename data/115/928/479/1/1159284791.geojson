@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"HO",
         "iata:code":"HO",
         "icao:code":"MPA",
         "wd:id":"Q6840994",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284791,
-    "wof:lastmodified":1557782786,
+    "wof:lastmodified":1557783768,
     "wof:name":"Mid Pacific Air",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

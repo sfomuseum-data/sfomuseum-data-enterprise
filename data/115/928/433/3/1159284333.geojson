@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EK",
         "iata:code":"EK",
         "icao:callsign":"EMIRATES",
         "icao:code":"UAE",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284333,
-    "wof:lastmodified":1542762363,
+    "wof:lastmodified":1557783781,
     "wof:name":"Emirates Airline",
     "wof:parent_id":85632573,
     "wof:placetype":"enterprise",

@@ -53,6 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AF",
         "iata:code":"AF",
         "icao:callsign":"AIRFRANS",
         "icao:code":"AFR",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1159283627,
-    "wof:lastmodified":1551988281,
+    "wof:lastmodified":1557783764,
     "wof:name":"Air France",
     "wof:parent_id":102544459,
     "wof:placetype":"enterprise",

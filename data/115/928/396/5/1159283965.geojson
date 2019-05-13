@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"GU",
         "iata:code":"GU",
         "icao:code":"GUG",
         "wd:id":"Q790807",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159283965,
-    "wof:lastmodified":1542668446,
+    "wof:lastmodified":1557783764,
     "wof:name":"Aviateca",
     "wof:parent_id":85632385,
     "wof:placetype":"enterprise",

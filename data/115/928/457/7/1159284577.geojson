@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"JU",
         "iata:code":"JU",
         "icao:code":"JAT",
         "wd:id":"Q12428657",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284577,
-    "wof:lastmodified":1557783042,
+    "wof:lastmodified":1557783781,
     "wof:name":"JAT Yugoslav Airlines",
     "wof:parent_id":890476941,
     "wof:placetype":"enterprise",

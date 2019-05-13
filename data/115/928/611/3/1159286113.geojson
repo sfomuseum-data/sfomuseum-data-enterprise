@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"M5",
         "iata:code":"M5",
         "icao:code":"KEN",
         "wd:id":"Q3195152",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159286113,
-    "wof:lastmodified":1542668408,
+    "wof:lastmodified":1557783768,
     "wof:name":"Kenmore Air",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

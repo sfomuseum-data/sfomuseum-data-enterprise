@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"L8",
         "iata:code":"L8",
         "icao:code":"LWD",
         "wd:id":"Q6520276",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284673,
-    "wof:lastmodified":1557783012,
+    "wof:lastmodified":1557783780,
     "wof:name":"Leisure Air",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

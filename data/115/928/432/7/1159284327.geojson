@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LY",
         "iata:code":"LY",
         "icao:callsign":"ELAL",
         "icao:code":"ELY",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159284327,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783781,
     "wof:name":"El Al Israel Airlines",
     "wof:parent_id":102542687,
     "wof:placetype":"enterprise",

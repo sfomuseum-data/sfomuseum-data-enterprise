@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LL",
         "iata:code":"LL",
         "icao:code":"GRO",
         "wd:id":"Q6711272",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159283839,
-    "wof:lastmodified":1557782861,
+    "wof:lastmodified":1557783771,
     "wof:name":"Allegro Airlines",
     "wof:parent_id":85633293,
     "wof:placetype":"enterprise",

@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"GI",
         "iata:code":"GI",
         "icao:code":"GIB",
         "wd:id":"Q597294",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159283639,
-    "wof:lastmodified":1557782736,
+    "wof:lastmodified":1557783766,
     "wof:name":"Air Guin\u00e9e",
     "wof:parent_id":421198917,
     "wof:placetype":"enterprise",

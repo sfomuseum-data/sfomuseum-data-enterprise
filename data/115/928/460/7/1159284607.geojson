@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"KP",
         "iata:code":"KP",
         "icao:code":"KIA",
         "wd:id":"Q6418891",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284607,
-    "wof:lastmodified":1557783014,
+    "wof:lastmodified":1557783780,
     "wof:name":"Kiwi International Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

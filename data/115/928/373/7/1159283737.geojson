@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"V7",
         "iata:code":"V7",
         "icao:code":"SNG",
         "wd:id":"Q407817",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159283737,
-    "wof:lastmodified":1557783079,
+    "wof:lastmodified":1557783783,
     "wof:name":"Air S\u00e9n\u00e9gal International",
     "wof:parent_id":85632365,
     "wof:placetype":"enterprise",

@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"6J",
         "iata:code":"6J",
         "icao:code":"JUB",
         "wd:id":"Q1517108",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284589,
-    "wof:lastmodified":1542668421,
+    "wof:lastmodified":1557783779,
     "wof:name":"Jubba Airways",
     "wof:parent_id":890449737,
     "wof:placetype":"enterprise",

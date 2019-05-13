@@ -46,6 +46,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"UN",
         "iata:code":"UN",
         "icao:code":"TSO",
         "wd:id":"Q509920",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1159285337,
-    "wof:lastmodified":1557782703,
+    "wof:lastmodified":1557783764,
     "wof:name":"Transaero Airlines",
     "wof:parent_id":102540741,
     "wof:placetype":"enterprise",

@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PI",
         "iata:code":"PI",
         "icao:code":"RKA",
         "wd:id":"Q2130889",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285029,
-    "wof:lastmodified":1542668454,
+    "wof:lastmodified":1557783764,
     "wof:name":"Polar Airlines",
     "wof:parent_id":102540471,
     "wof:placetype":"enterprise",

@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SP",
         "iata:code":"SP",
         "icao:code":"SAT",
         "wd:id":"Q1243903",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159285117,
-    "wof:lastmodified":1542668405,
+    "wof:lastmodified":1557783774,
     "wof:name":"SATA Air Azores",
     "wof:parent_id":101849933,
     "wof:placetype":"enterprise",

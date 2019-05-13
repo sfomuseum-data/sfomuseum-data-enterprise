@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"VN",
         "iata:code":"VN",
         "icao:code":"HVN",
         "wd:id":"Q174386",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159285479,
-    "wof:lastmodified":1542668446,
+    "wof:lastmodified":1557783782,
     "wof:name":"Vietnam Airlines",
     "wof:parent_id":1108780791,
     "wof:placetype":"enterprise",

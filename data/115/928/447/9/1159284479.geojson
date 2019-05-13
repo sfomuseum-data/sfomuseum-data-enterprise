@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"HF",
         "iata:code":"HF",
         "icao:code":"HLF",
         "wd:id":"Q2915439",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159284479,
-    "wof:lastmodified":1557782746,
+    "wof:lastmodified":1557783766,
     "wof:name":"Hapag-Lloyd Airlines",
     "wof:parent_id":101748819,
     "wof:placetype":"enterprise",

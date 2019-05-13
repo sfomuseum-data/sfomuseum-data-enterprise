@@ -45,6 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"MU",
         "iata:code":"MU",
         "icao:callsign":"CHINA EASTERN",
         "icao:code":"CES",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1159284157,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783768,
     "wof:name":"China Eastern Airlines",
     "wof:parent_id":102550333,
     "wof:placetype":"enterprise",

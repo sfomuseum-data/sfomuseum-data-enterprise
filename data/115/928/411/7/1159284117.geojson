@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"XP",
         "iata:code":"XP",
         "icao:code":"CXP",
         "wd:id":"Q8045045",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284117,
-    "wof:lastmodified":1542668458,
+    "wof:lastmodified":1557783778,
     "wof:name":"Casino Express Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

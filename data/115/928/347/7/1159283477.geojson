@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"M3",
         "iata:code":"M3",
         "icao:code":"LTG",
         "wd:id":"Q1189545",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159283477,
-    "wof:lastmodified":1542668438,
+    "wof:lastmodified":1557783773,
     "wof:name":"ABSA Cargo Airline",
     "wof:parent_id":101956069,
     "wof:placetype":"enterprise",

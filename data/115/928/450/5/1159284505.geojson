@@ -42,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"QX",
         "iata:code":"QX",
         "icao:code":"QXE",
         "wd:id":"Q1200062",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284505,
-    "wof:lastmodified":1551988282,
+    "wof:lastmodified":1557783781,
     "wof:name":"Horizon Air",
     "wof:parent_id":101730401,
     "wof:placetype":"enterprise",

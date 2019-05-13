@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"VH",
         "iata:code":"VH",
         "icao:code":"ALV",
         "wd:id":"Q1826405",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159283553,
-    "wof:lastmodified":1542668437,
+    "wof:lastmodified":1557783765,
     "wof:name":"Aeropostal",
     "wof:parent_id":890442147,
     "wof:placetype":"enterprise",

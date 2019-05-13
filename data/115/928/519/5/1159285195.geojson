@@ -32,6 +32,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SL",
         "iata:code":"SL",
         "icao:code":"SNK",
         "wd:id":"Q7569284",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159285195,
-    "wof:lastmodified":1542668453,
+    "wof:lastmodified":1557783772,
     "wof:name":"Southeast Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

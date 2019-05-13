@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"WT",
         "iata:code":"WT",
         "wd:id":"Q7984253",
         "wk:page":"West African Airways Corporation",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159285501,
-    "wof:lastmodified":1542668461,
+    "wof:lastmodified":1557783765,
     "wof:name":"West African Airways Corporation",
     "wof:parent_id":85632735,
     "wof:placetype":"enterprise",

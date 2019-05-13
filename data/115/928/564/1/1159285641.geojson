@@ -30,6 +30,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LA",
         "iata:code":"LA",
         "icao:callsign":"LAN CHILE",
         "icao:code":"LAN",
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159285641,
-    "wof:lastmodified":1542843001,
+    "wof:lastmodified":1557783776,
     "wof:name":"LAN-Chile (Linea Aerea Nacional)",
     "wof:parent_id":85633057,
     "wof:placetype":"enterprise",

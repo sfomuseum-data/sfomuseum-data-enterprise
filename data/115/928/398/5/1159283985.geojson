@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"QO",
         "iata:code":"QO",
         "wd:id":"Q4857929",
         "wk:page":"Bar Harbor Airlines",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159283985,
-    "wof:lastmodified":1557782715,
+    "wof:lastmodified":1557783765,
     "wof:name":"Bar Harbor Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

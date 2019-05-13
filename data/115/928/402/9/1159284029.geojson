@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"KT",
         "iata:code":"KT",
         "wd:id":"Q3644995",
         "wk:page":"British Airtours",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284029,
-    "wof:lastmodified":1557783026,
+    "wof:lastmodified":1557783780,
     "wof:name":"BEA Airtours",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

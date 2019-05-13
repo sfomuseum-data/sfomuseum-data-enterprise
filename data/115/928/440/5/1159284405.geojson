@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"7O",
         "iata:code":"7O",
         "icao:code":"GAL",
         "wd:id":"Q4425053",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159284405,
-    "wof:lastmodified":1557782744,
+    "wof:lastmodified":1557783766,
     "wof:name":"Galaxy Air",
     "wof:parent_id":85632761,
     "wof:placetype":"enterprise",

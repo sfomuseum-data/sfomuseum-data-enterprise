@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"ET",
         "iata:code":"ET",
         "icao:callsign":"ETHIOPIAN",
         "icao:code":"ETH",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159284341,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783780,
     "wof:name":"Ethiopian Airlines",
     "wof:parent_id":102551565,
     "wof:placetype":"enterprise",

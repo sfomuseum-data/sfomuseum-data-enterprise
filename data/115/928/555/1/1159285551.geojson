@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"WO",
         "iata:code":"WO",
         "icao:code":"WOA",
         "wd:id":"Q1188319",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285551,
-    "wof:lastmodified":1557782921,
+    "wof:lastmodified":1557783776,
     "wof:name":"World Airways",
     "wof:parent_id":85936021,
     "wof:placetype":"enterprise",

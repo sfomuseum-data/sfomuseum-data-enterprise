@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OZ",
         "iata:code":"OZ",
         "icao:callsign":"OZARK",
         "icao:code":"AAR",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159283917,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783764,
     "wof:name":"Asiana Airlines",
     "wof:parent_id":85632231,
     "wof:placetype":"enterprise",

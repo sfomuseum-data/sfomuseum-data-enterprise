@@ -43,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SU",
         "iata:code":"SU",
         "icao:callsign":"AEROFLOT",
         "icao:code":"AFL",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1159283525,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783765,
     "wof:name":"Aeroflot Russian Airlines",
     "wof:parent_id":102003033,
     "wof:placetype":"enterprise",
@@ -77,7 +78,9 @@
         1159288379
     ],
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+	1159283525
+    ],
     "wof:tags":[
         "airline",
         "state-owned enterprise"

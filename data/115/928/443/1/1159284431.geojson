@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"ST",
         "iata:code":"ST",
         "icao:code":"GMI",
         "wd:id":"Q699945",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159284431,
-    "wof:lastmodified":1557782974,
+    "wof:lastmodified":1557783778,
     "wof:name":"Germania Fluggesellschaft mbH",
     "wof:parent_id":85682499,
     "wof:placetype":"enterprise",

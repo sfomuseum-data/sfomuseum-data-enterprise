@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"HD",
         "iata:code":"HD",
         "icao:code":"HLN",
         "wd:id":"Q407298",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159286363,
-    "wof:lastmodified":1557783060,
+    "wof:lastmodified":1557783782,
     "wof:name":"Air Holland",
     "wof:parent_id":1158822841,
     "wof:placetype":"enterprise",

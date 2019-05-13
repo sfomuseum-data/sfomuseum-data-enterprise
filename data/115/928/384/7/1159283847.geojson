@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AK",
         "iata:code":"AK",
         "wd:id":"Q4736090",
         "wk:page":"Altair Airlines",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159283847,
-    "wof:lastmodified":1557782867,
+    "wof:lastmodified":1557783772,
     "wof:name":"Altair Airlines",
     "wof:parent_id":101718083,
     "wof:placetype":"enterprise",

@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"BU",
         "iata:code":"BU",
         "icao:code":"BRA",
         "wd:id":"Q1334889",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159284007,
-    "wof:lastmodified":1557782837,
+    "wof:lastmodified":1557783770,
     "wof:name":"Braathens SAFE",
     "wof:parent_id":85633341,
     "wof:placetype":"enterprise",

@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PF",
         "iata:code":"PF",
         "icao:code":"PNW",
         "wd:id":"Q1355503",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284983,
-    "wof:lastmodified":1542668442,
+    "wof:lastmodified":1557783770,
     "wof:name":"Palestinian Airlines",
     "wof:parent_id":1126020031,
     "wof:placetype":"enterprise",

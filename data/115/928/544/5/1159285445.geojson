@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"U5",
         "iata:code":"U5",
         "icao:code":"GWY",
         "wd:id":"Q2000608",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159285445,
-    "wof:lastmodified":1557782878,
+    "wof:lastmodified":1557783772,
     "wof:name":"USA 3000",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

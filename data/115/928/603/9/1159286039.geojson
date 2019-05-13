@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LR",
         "iata:code":"LR",
         "icao:code":"LRC",
         "wd:id":"Q1028575",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159286039,
-    "wof:lastmodified":1542668450,
+    "wof:lastmodified":1557783770,
     "wof:name":"LACSA",
     "wof:parent_id":421171925,
     "wof:placetype":"enterprise",

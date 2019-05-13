@@ -42,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PS",
         "iata:code":"PS",
         "icao:code":"AUI",
         "wd:id":"Q836560",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159286091,
-    "wof:lastmodified":1542668449,
+    "wof:lastmodified":1557783782,
     "wof:name":"Ukraine International Airlines",
     "wof:parent_id":101752489,
     "wof:placetype":"enterprise",

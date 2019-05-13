@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"GT",
         "iata:code":"GT",
         "icao:code":"GBL",
         "wd:id":"Q1484885",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284419,
-    "wof:lastmodified":1557782787,
+    "wof:lastmodified":1557783768,
     "wof:name":"GB Airways",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

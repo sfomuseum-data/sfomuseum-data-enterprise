@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"CS",
         "iata:code":"CS",
         "icao:code":"CMI",
         "wd:id":"Q1128848",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159286011,
-    "wof:lastmodified":1557783032,
+    "wof:lastmodified":1557783781,
     "wof:name":"Air Micronesia",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

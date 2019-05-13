@@ -44,6 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"CZ",
         "iata:code":"CZ",
         "icao:callsign":"CHINA SOUTHERN",
         "icao:code":"CSN",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1159284165,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783778,
     "wof:name":"China Southern Airlines",
     "wof:parent_id":102027597,
     "wof:placetype":"enterprise",

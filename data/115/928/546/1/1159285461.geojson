@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"RG",
         "iata:code":"RG",
         "icao:code":"VRG",
         "wd:id":"Q861197",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285461,
-    "wof:lastmodified":1557783089,
+    "wof:lastmodified":1557783783,
     "wof:name":"VARIG",
     "wof:parent_id":101960525,
     "wof:placetype":"enterprise",

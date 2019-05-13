@@ -43,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PW",
         "iata:code":"PW",
         "icao:code":"KFK",
         "wd:id":"Q895800",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1159285947,
-    "wof:lastmodified":1557782698,
+    "wof:lastmodified":1557783764,
     "wof:name":"German Wings",
     "wof:parent_id":101756219,
     "wof:placetype":"enterprise",

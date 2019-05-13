@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"VJ",
         "iata:code":"VJ",
         "icao:code":"RAC",
         "wd:id":"Q3445859",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159285073,
-    "wof:lastmodified":1557782938,
+    "wof:lastmodified":1557783776,
     "wof:name":"Royal Air Cambodge",
     "wof:parent_id":85632359,
     "wof:placetype":"enterprise",

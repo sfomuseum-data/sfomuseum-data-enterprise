@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"DL",
         "iata:code":"DL",
         "icao:code":"DAL",
         "wd:id":"Q5254629",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159284265,
-    "wof:lastmodified":1557782961,
+    "wof:lastmodified":1557783777,
     "wof:name":"Delta Express",
     "wof:parent_id":85936429,
     "wof:placetype":"enterprise",

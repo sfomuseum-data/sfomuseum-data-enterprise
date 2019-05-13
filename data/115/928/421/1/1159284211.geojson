@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"CM",
         "iata:code":"CM",
         "icao:callsign":"COPA",
         "icao:code":"CMP",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284211,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783777,
     "wof:name":"Copa Airlines",
     "wof:parent_id":890445081,
     "wof:placetype":"enterprise",

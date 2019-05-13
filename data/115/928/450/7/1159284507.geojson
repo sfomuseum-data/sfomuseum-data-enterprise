@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"RW",
         "iata:code":"RW",
         "wd:id":"Q5933323",
         "wk:page":"Hughes Airwest",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159284507,
-    "wof:lastmodified":1557783034,
+    "wof:lastmodified":1557783781,
     "wof:name":"Hughes Airwest",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

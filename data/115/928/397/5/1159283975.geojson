@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"X3",
         "iata:code":"X3",
         "icao:code":"BKL",
         "wd:id":"Q4075518",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159283975,
-    "wof:lastmodified":1557782736,
+    "wof:lastmodified":1557783766,
     "wof:name":"Baikal Airlines",
     "wof:parent_id":85632685,
     "wof:placetype":"enterprise",

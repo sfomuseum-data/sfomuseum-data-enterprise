@@ -30,6 +30,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OQ",
         "iata:code":"OQ",
         "icao:code":"RAY",
         "wd:id":"Q7375100",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159285097,
-    "wof:lastmodified":1557782943,
+    "wof:lastmodified":1557783776,
     "wof:name":"Royale Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

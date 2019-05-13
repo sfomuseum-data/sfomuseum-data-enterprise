@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"7M",
         "iata:code":"7M",
         "icao:code":"AAG",
         "wd:id":"Q131897",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159283577,
-    "wof:lastmodified":1542668438,
+    "wof:lastmodified":1557783775,
     "wof:name":"Air Atlantique",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

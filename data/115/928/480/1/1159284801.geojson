@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"YX",
         "iata:code":"YX",
         "icao:code":"MEP",
         "wd:id":"Q642873",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284801,
-    "wof:lastmodified":1557782999,
+    "wof:lastmodified":1557783779,
     "wof:name":"Midwest Airlines",
     "wof:parent_id":101733079,
     "wof:placetype":"enterprise",

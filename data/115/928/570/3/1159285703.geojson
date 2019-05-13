@@ -32,6 +32,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"7A",
         "iata:code":"7A",
         "wd:id":"Q4708515",
         "wk:page":"Alaska Coastal Airlines",
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1159285703,
-    "wof:lastmodified":1542668409,
+    "wof:lastmodified":1557783783,
     "wof:name":"Alaska Coastal Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

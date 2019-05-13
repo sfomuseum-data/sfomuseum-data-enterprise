@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"HX",
         "iata:code":"HX",
         "icao:code":"HAS",
         "wd:id":"Q1572872",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159284477,
-    "wof:lastmodified":1557782746,
+    "wof:lastmodified":1557783766,
     "wof:name":"Hamburg Airlines",
     "wof:parent_id":85633111,
     "wof:placetype":"enterprise",

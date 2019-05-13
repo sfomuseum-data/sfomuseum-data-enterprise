@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PV",
         "iata:code":"PV",
         "icao:code":"PNR",
         "wd:id":"Q2514756",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159284985,
-    "wof:lastmodified":1557782844,
+    "wof:lastmodified":1557783770,
     "wof:name":"PAN Air",
     "wof:parent_id":101748283,
     "wof:placetype":"enterprise",

@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AH",
         "iata:code":"AH",
         "icao:code":"DAH",
         "wd:id":"Q406764",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159283569,
-    "wof:lastmodified":1542668416,
+    "wof:lastmodified":1557783776,
     "wof:name":"Air Alg\u00e9rie",
     "wof:parent_id":421174649,
     "wof:placetype":"enterprise",

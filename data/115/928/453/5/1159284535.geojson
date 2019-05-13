@@ -42,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"IF",
         "iata:code":"IF",
         "icao:code":"IFL",
         "wd:id":"Q573915",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284535,
-    "wof:lastmodified":1557782846,
+    "wof:lastmodified":1557783770,
     "wof:name":"Interflug",
     "wof:parent_id":101756499,
     "wof:placetype":"enterprise",

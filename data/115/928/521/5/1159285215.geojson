@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"NB",
         "iata:code":"NB",
         "icao:code":"SNB",
         "wd:id":"Q978831",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159285215,
-    "wof:lastmodified":1557782864,
+    "wof:lastmodified":1557783771,
     "wof:name":"Sterling Airlines",
     "wof:parent_id":101749159,
     "wof:placetype":"enterprise",

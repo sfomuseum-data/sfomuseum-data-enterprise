@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EM",
         "iata:code":"EM",
         "icao:code":"WWM",
         "wd:id":"Q14628825",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159285541,
-    "wof:lastmodified":1557782956,
+    "wof:lastmodified":1557783777,
     "wof:name":"Wings West Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

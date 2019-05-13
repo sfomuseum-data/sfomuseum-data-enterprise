@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"J4",
         "iata:code":"J4",
         "icao:code":"BFL",
         "wd:id":"Q622029",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284045,
-    "wof:lastmodified":1542668454,
+    "wof:lastmodified":1557783782,
     "wof:name":"Buffalo Airways",
     "wof:parent_id":85633041,
     "wof:placetype":"enterprise",

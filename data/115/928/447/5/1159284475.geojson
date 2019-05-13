@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"TV",
         "iata:code":"TV",
         "icao:code":"HTC",
         "wd:id":"Q5688491",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159284475,
-    "wof:lastmodified":1557782747,
+    "wof:lastmodified":1557783766,
     "wof:name":"Haiti Trans Air",
     "wof:parent_id":85632433,
     "wof:placetype":"enterprise",

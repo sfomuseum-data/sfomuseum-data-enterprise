@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"NX",
         "iata:code":"NX",
         "icao:code":"AMU",
         "wd:id":"Q407478",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159286099,
-    "wof:lastmodified":1542668449,
+    "wof:lastmodified":1557783782,
     "wof:name":"Air Macau",
     "wof:parent_id":1125927021,
     "wof:placetype":"enterprise",

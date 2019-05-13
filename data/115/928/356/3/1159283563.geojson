@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"DP",
         "iata:code":"DP",
         "icao:code":"AMM",
         "wd:id":"Q4033613",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159283563,
-    "wof:lastmodified":1557782936,
+    "wof:lastmodified":1557783776,
     "wof:name":"Air 2000",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

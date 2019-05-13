@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"NK",
         "iata:code":"NK",
         "icao:code":"NKS",
         "wd:id":"Q1190598",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159285209,
-    "wof:lastmodified":1542668456,
+    "wof:lastmodified":1557783773,
     "wof:name":"Spirit Airlines",
     "wof:parent_id":85932323,
     "wof:placetype":"enterprise",

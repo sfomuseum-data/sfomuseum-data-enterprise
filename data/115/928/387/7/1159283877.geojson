@@ -42,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AN",
         "iata:code":"AN",
         "icao:code":"AAA",
         "wd:id":"Q247116",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1159283877,
-    "wof:lastmodified":1557783080,
+    "wof:lastmodified":1557783783,
     "wof:name":"Ansett Australia",
     "wof:parent_id":101933229,
     "wof:placetype":"enterprise",

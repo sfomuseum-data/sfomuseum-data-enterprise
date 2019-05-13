@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"E2",
         "iata:code":"E2",
         "icao:code":"KMP",
         "wd:id":"Q6359372",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284599,
-    "wof:lastmodified":1557783047,
+    "wof:lastmodified":1557783781,
     "wof:name":"Kampuchea Airlines",
     "wof:parent_id":85632359,
     "wof:placetype":"enterprise",

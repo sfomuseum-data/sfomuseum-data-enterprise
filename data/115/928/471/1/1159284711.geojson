@@ -46,6 +46,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LH",
         "iata:code":"LH",
         "icao:callsign":"LUFTHANSA CARGO",
         "icao:code":"DLH",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1159284711,
-    "wof:lastmodified":1551988285,
+    "wof:lastmodified":1557783766,
     "wof:name":"Lufthansa",
     "wof:parent_id":101752771,
     "wof:placetype":"enterprise",

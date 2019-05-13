@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"M6",
         "iata:code":"M6",
         "icao:code":"AJT",
         "wd:id":"Q901317",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159283873,
-    "wof:lastmodified":1542668468,
+    "wof:lastmodified":1557783783,
     "wof:name":"Amerijet International",
     "wof:parent_id":85932397,
     "wof:placetype":"enterprise",

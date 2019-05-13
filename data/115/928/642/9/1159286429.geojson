@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"Q7",
         "iata:code":"Q7",
         "icao:code":"SLR",
         "wd:id":"Q2554316",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159286429,
-    "wof:lastmodified":1557782779,
+    "wof:lastmodified":1557783768,
     "wof:name":"Sobelair",
     "wof:parent_id":85632997,
     "wof:placetype":"enterprise",

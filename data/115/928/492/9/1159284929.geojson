@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OY",
         "iata:code":"OY",
         "icao:code":"OAE",
         "wd:id":"Q593931",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284929,
-    "wof:lastmodified":1542668410,
+    "wof:lastmodified":1557783781,
     "wof:name":"Omni Air International",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"TV",
         "iata:code":"TV",
         "icao:code":"TVA",
         "wd:id":"Q4804058",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159285341,
-    "wof:lastmodified":1557782711,
+    "wof:lastmodified":1557783764,
     "wof:name":"Transamerica Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

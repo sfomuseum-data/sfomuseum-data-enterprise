@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AV",
         "iata:code":"AV",
         "icao:code":"AVA",
         "wd:id":"Q308911",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159283957,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783774,
     "wof:name":"Avianca Airlines",
     "wof:parent_id":421186687,
     "wof:placetype":"enterprise",

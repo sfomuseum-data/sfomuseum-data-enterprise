@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LT",
         "iata:code":"LT",
         "icao:code":"LTU",
         "wd:id":"Q707568",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284709,
-    "wof:lastmodified":1557782781,
+    "wof:lastmodified":1557783768,
     "wof:name":"LTU International Airlines",
     "wof:parent_id":101748671,
     "wof:placetype":"enterprise",

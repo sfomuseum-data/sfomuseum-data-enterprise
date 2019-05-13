@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AE",
         "iata:code":"AE",
         "wd:id":"Q1530156",
         "wk:page":"Air Ceylon",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159286079,
-    "wof:lastmodified":1557783054,
+    "wof:lastmodified":1557783782,
     "wof:name":"Air Ceylon",
     "wof:parent_id":85632313,
     "wof:placetype":"enterprise",

@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"XJ",
         "iata:code":"XJ",
         "icao:code":"MES",
         "wd:id":"Q1535675",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284775,
-    "wof:lastmodified":1557782774,
+    "wof:lastmodified":1557783767,
     "wof:name":"Mesaba Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

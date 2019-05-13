@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"ED",
         "iata:code":"ED",
         "icao:code":"RDO",
         "wd:id":"Q3819110",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159283613,
-    "wof:lastmodified":1557782904,
+    "wof:lastmodified":1557783774,
     "wof:name":"Air Dominicana",
     "wof:parent_id":85632713,
     "wof:placetype":"enterprise",

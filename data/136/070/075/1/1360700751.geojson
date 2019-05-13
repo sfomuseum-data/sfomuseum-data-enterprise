@@ -30,12 +30,13 @@
     ],
     "wof:belongsto":[
         102191577,
-        421174285,
         85632505,
+        421174285,
         85668081
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"4M",
         "iata:code":"4M",
         "icao:code":"DSM",
         "wd:id":"Q180562"
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1360700751,
-    "wof:lastmodified":1542763852,
+    "wof:lastmodified":1557783763,
     "wof:name":"LATAM Argentina",
     "wof:parent_id":421174285,
     "wof:placetype":"enterprise",

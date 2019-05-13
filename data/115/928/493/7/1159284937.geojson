@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OJ",
         "iata:code":"OJ",
         "icao:code":"OLA",
         "wd:id":"Q1987495",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159284937,
-    "wof:lastmodified":1542668450,
+    "wof:lastmodified":1557783780,
     "wof:name":"Overland Airways",
     "wof:parent_id":85632735,
     "wof:placetype":"enterprise",

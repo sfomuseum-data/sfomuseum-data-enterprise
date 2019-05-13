@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LX",
         "iata:code":"LX",
         "icao:code":"CRX",
         "wd:id":"Q667656",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159284221,
-    "wof:lastmodified":1557782761,
+    "wof:lastmodified":1557783767,
     "wof:name":"Crossair",
     "wof:parent_id":101748463,
     "wof:placetype":"enterprise",

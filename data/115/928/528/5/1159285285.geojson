@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"ZN",
         "iata:code":"ZN",
         "icao:code":"TEN",
         "wd:id":"Q7700012",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159285285,
-    "wof:lastmodified":1557782861,
+    "wof:lastmodified":1557783771,
     "wof:name":"Tennessee Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

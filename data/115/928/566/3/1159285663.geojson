@@ -42,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"WA",
         "iata:code":"WA",
         "icao:code":"WAL",
         "wd:id":"Q1583020",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159285663,
-    "wof:lastmodified":1557782721,
+    "wof:lastmodified":1557783765,
     "wof:name":"Western Air Lines",
     "wof:parent_id":85923517,
     "wof:placetype":"enterprise",

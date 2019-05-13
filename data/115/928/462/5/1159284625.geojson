@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"KE",
         "iata:code":"KE",
         "icao:code":"KAL",
         "wd:id":"Q213147",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159284625,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783771,
     "wof:name":"Korean Air",
     "wof:parent_id":85632231,
     "wof:placetype":"enterprise",

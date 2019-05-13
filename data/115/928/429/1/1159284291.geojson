@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"ZD",
         "iata:code":"ZD",
         "icao:code":"FDN",
         "wd:id":"Q3712742",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159284291,
-    "wof:lastmodified":1557782985,
+    "wof:lastmodified":1557783778,
     "wof:name":"Dolphin Air",
     "wof:parent_id":421174961,
     "wof:placetype":"enterprise",

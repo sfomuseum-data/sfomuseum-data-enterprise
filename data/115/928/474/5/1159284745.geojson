@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"ML",
         "iata:code":"ML",
         "icao:code":"MSA",
         "wd:id":"Q1060578",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284745,
-    "wof:lastmodified":1557782998,
+    "wof:lastmodified":1557783779,
     "wof:name":"Malaysia-Singapore Airlines",
     "wof:parent_id":102032341,
     "wof:placetype":"enterprise",

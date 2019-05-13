@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"FV",
         "iata:code":"FV",
         "icao:code":"VIV",
         "wd:id":"Q1556184",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159285489,
-    "wof:lastmodified":1557783091,
+    "wof:lastmodified":1557783783,
     "wof:name":"Viva Air",
     "wof:parent_id":85633129,
     "wof:placetype":"enterprise",

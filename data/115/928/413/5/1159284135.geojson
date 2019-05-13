@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OP",
         "iata:code":"OP",
         "icao:code":"CHK",
         "wd:id":"Q1059869",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159284135,
-    "wof:lastmodified":1557782771,
+    "wof:lastmodified":1557783767,
     "wof:name":"Chalk's International Airlines",
     "wof:parent_id":85932397,
     "wof:placetype":"enterprise",

@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"VG",
         "iata:code":"VG",
         "wd:id":"Q407779",
         "wk:page":"Air Siam",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159283739,
-    "wof:lastmodified":1557783079,
+    "wof:lastmodified":1557783783,
     "wof:name":"Air Siam",
     "wof:parent_id":85632293,
     "wof:placetype":"enterprise",

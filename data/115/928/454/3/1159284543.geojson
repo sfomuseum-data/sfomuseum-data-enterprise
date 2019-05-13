@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"IR",
         "iata:code":"IR",
         "icao:code":"IRA",
         "wd:id":"Q461631",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159284543,
-    "wof:lastmodified":1542668436,
+    "wof:lastmodified":1557783770,
     "wof:name":"Iran Air",
     "wof:parent_id":421204533,
     "wof:placetype":"enterprise",

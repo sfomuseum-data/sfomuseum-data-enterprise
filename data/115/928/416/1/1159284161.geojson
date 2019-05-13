@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"CJ",
         "iata:code":"CJ",
         "icao:code":"CBF",
         "wd:id":"Q1138118",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284161,
-    "wof:lastmodified":1557782987,
+    "wof:lastmodified":1557783778,
     "wof:name":"China Northern Airlines",
     "wof:parent_id":102027875,
     "wof:placetype":"enterprise",

@@ -42,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"TT",
         "iata:code":"TT",
         "icao:code":"KLA",
         "wd:id":"Q384550",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159286097,
-    "wof:lastmodified":1557783062,
+    "wof:lastmodified":1557783782,
     "wof:name":"Air Lithuania",
     "wof:parent_id":101752745,
     "wof:placetype":"enterprise",

@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"RV",
         "iata:code":"RV",
         "icao:code":"RVV",
         "wd:id":"Q7307037",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159285955,
-    "wof:lastmodified":1557782724,
+    "wof:lastmodified":1557783765,
     "wof:name":"Reeve Aleutian Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

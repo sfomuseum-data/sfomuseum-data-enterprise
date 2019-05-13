@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"8E",
         "iata:code":"8E",
         "icao:code":"BRG",
         "wd:id":"Q4035042",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159286205,
-    "wof:lastmodified":1542668424,
+    "wof:lastmodified":1557783768,
     "wof:name":"Bering Air",
     "wof:parent_id":85915489,
     "wof:placetype":"enterprise",

@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"F8",
         "iata:code":"F8",
         "icao:code":"FRL",
         "wd:id":"Q1453518",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284399,
-    "wof:lastmodified":1557782806,
+    "wof:lastmodified":1557783769,
     "wof:name":"Freedom Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

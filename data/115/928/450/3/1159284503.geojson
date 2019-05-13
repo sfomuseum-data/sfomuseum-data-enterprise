@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"HW",
         "iata:code":"HW",
         "icao:code":"HLD",
         "wd:id":"Q5880366",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284503,
-    "wof:lastmodified":1557783034,
+    "wof:lastmodified":1557783781,
     "wof:name":"Holiday Airlines",
     "wof:parent_id":85632393,
     "wof:placetype":"enterprise",

@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"RZ",
         "iata:code":"RZ",
         "wd:id":"Q7293499",
         "wk:page":"Ransome Airlines",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285051,
-    "wof:lastmodified":1557782718,
+    "wof:lastmodified":1557783765,
     "wof:name":"Ransome Airlines",
     "wof:parent_id":101718083,
     "wof:placetype":"enterprise",

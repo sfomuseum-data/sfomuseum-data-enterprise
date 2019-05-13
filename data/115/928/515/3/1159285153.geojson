@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LJ",
         "iata:code":"LJ",
         "icao:code":"SLA",
         "wd:id":"Q305308",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159285153,
-    "wof:lastmodified":1557783104,
+    "wof:lastmodified":1557783784,
     "wof:name":"Sierra Leone Airlines",
     "wof:parent_id":85632467,
     "wof:placetype":"enterprise",

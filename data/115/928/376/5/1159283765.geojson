@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"6U",
         "iata:code":"6U",
         "icao:code":"UKR",
         "wd:id":"Q1813946",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159283765,
-    "wof:lastmodified":1557782883,
+    "wof:lastmodified":1557783773,
     "wof:name":"Air Ukraine",
     "wof:parent_id":85633805,
     "wof:placetype":"enterprise",

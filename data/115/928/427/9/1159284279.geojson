@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"DI",
         "iata:code":"DI",
         "icao:code":"BAG",
         "wd:id":"Q265102",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284279,
-    "wof:lastmodified":1557782994,
+    "wof:lastmodified":1557783779,
     "wof:name":"Deutsche BA",
     "wof:parent_id":101748479,
     "wof:placetype":"enterprise",

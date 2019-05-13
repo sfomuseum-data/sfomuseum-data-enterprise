@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"CP",
         "iata:code":"CP",
         "icao:code":"CDN",
         "wd:id":"Q627115",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284085,
-    "wof:lastmodified":1557782813,
+    "wof:lastmodified":1557783769,
     "wof:name":"Canadian Airlines International",
     "wof:parent_id":85633041,
     "wof:placetype":"enterprise",

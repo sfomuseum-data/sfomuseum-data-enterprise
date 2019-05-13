@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"RN",
         "iata:code":"RN",
         "icao:code":"ERL",
         "wd:id":"Q3060496",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284343,
-    "wof:lastmodified":1557783029,
+    "wof:lastmodified":1557783780,
     "wof:name":"Euralair",
     "wof:parent_id":85633147,
     "wof:placetype":"enterprise",

@@ -31,6 +31,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"VW",
         "iata:code":"VW",
         "icao:code":"TAO",
         "wd:id":"Q53082",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159283535,
-    "wof:lastmodified":1542668412,
+    "wof:lastmodified":1557783765,
     "wof:name":"Aeromar",
     "wof:parent_id":85633293,
     "wof:placetype":"enterprise",

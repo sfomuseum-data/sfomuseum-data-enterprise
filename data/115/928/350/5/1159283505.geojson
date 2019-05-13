@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"JR",
         "iata:code":"JR",
         "icao:code":"SER",
         "wd:id":"Q381278",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159283505,
-    "wof:lastmodified":1557782913,
+    "wof:lastmodified":1557783775,
     "wof:name":"Aero California",
     "wof:parent_id":85633293,
     "wof:placetype":"enterprise",

@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"KT",
         "iata:code":"KT",
         "icao:code":"BHY",
         "wd:id":"Q734872",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159286089,
-    "wof:lastmodified":1557783025,
+    "wof:lastmodified":1557783780,
     "wof:name":"Birgenair",
     "wof:parent_id":890460455,
     "wof:placetype":"enterprise",

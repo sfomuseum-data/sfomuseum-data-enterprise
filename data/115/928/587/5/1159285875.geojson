@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AZ",
         "iata:code":"AZ",
         "icao:code":"AZA",
         "wd:id":"Q1056100",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159285875,
-    "wof:lastmodified":1557782901,
+    "wof:lastmodified":1557783774,
     "wof:name":"Linee Aeree Italiane",
     "wof:parent_id":101752607,
     "wof:placetype":"enterprise",

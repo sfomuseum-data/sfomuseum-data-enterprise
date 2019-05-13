@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"TZ",
         "iata:code":"TZ",
         "icao:code":"AMT",
         "wd:id":"Q298738",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159283923,
-    "wof:lastmodified":1557782910,
+    "wof:lastmodified":1557783775,
     "wof:name":"ATA Airlines",
     "wof:parent_id":85942569,
     "wof:placetype":"enterprise",

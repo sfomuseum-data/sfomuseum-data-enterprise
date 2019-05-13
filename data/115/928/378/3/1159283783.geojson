@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"UM",
         "iata:code":"UM",
         "icao:code":"AZW",
         "wd:id":"Q407920",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159283783,
-    "wof:lastmodified":1557782891,
+    "wof:lastmodified":1557783774,
     "wof:name":"Air Zimbabwe",
     "wof:parent_id":421201479,
     "wof:placetype":"enterprise",

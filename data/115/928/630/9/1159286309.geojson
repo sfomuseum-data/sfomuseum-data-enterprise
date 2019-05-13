@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"MO",
         "iata:code":"MO",
         "icao:code":"MOW",
         "wd:id":"Q1942813",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159286309,
-    "wof:lastmodified":1557783026,
+    "wof:lastmodified":1557783780,
     "wof:name":"Robinson Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"I4",
         "iata:code":"I4",
         "icao:code":"FWA",
         "wd:id":"Q1063314",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284541,
-    "wof:lastmodified":1557782841,
+    "wof:lastmodified":1557783770,
     "wof:name":"Interstate Airlines",
     "wof:parent_id":85633337,
     "wof:placetype":"enterprise",

@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"VA",
         "iata:code":"VA",
         "icao:code":"VOZ",
         "wd:id":"Q727074",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159285485,
-    "wof:lastmodified":1542668438,
+    "wof:lastmodified":1557783783,
     "wof:name":"Virgin Blue Airlines",
     "wof:parent_id":85632793,
     "wof:placetype":"enterprise",

@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"JM",
         "iata:code":"JM",
         "icao:code":"AJM",
         "wd:id":"Q407402",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159283653,
-    "wof:lastmodified":1557782707,
+    "wof:lastmodified":1557783764,
     "wof:name":"Air Jamaica",
     "wof:parent_id":421186515,
     "wof:placetype":"enterprise",

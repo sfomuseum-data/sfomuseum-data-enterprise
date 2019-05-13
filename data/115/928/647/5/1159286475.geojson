@@ -48,6 +48,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LX",
         "iata:code":"LX",
         "icao:callsign":"SWISS",
         "icao:code":"SWR",
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1159286475,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783778,
     "wof:name":"SWISS",
     "wof:parent_id":102544737,
     "wof:placetype":"enterprise",

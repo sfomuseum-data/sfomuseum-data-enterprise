@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"DO",
         "iata:code":"DO",
         "icao:code":"DOA",
         "wd:id":"Q5290891",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284295,
-    "wof:lastmodified":1542668422,
+    "wof:lastmodified":1557783778,
     "wof:name":"Dominicana de Aviaci\u00f3n",
     "wof:parent_id":85632713,
     "wof:placetype":"enterprise",

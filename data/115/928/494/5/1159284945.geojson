@@ -31,6 +31,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PE",
         "iata:code":"PE",
         "icao:code":"PAQ",
         "wd:id":"Q14628812",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159284945,
-    "wof:lastmodified":1542668421,
+    "wof:lastmodified":1557783780,
     "wof:name":"Pacific Air Express",
     "wof:parent_id":85632591,
     "wof:placetype":"enterprise",

@@ -32,6 +32,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"DK",
         "iata:code":"DK",
         "icao:code":"VKG",
         "wd:id":"Q1777812",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159285601,
-    "wof:lastmodified":1557782697,
+    "wof:lastmodified":1557783764,
     "wof:name":"Scanair",
     "wof:parent_id":85633121,
     "wof:placetype":"enterprise",

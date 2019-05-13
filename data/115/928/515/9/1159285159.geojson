@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"MI",
         "iata:code":"MI",
         "icao:code":"SLK",
         "wd:id":"Q284748",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159285159,
-    "wof:lastmodified":1542668422,
+    "wof:lastmodified":1557783784,
     "wof:name":"SilkAir",
     "wof:parent_id":102032341,
     "wof:placetype":"enterprise",

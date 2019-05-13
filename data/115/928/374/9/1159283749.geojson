@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"TC",
         "iata:code":"TC",
         "icao:code":"ATC",
         "wd:id":"Q407842",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159283749,
-    "wof:lastmodified":1557783083,
+    "wof:lastmodified":1557783783,
     "wof:name":"Air Tanzania",
     "wof:parent_id":85632227,
     "wof:placetype":"enterprise",

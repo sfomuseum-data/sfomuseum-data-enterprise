@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"DT",
         "iata:code":"DT",
         "icao:code":"DTA",
         "wd:id":"Q1050518",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159285253,
-    "wof:lastmodified":1542668423,
+    "wof:lastmodified":1557783783,
     "wof:name":"TAAG Angola Airlines",
     "wof:parent_id":85632281,
     "wof:placetype":"enterprise",

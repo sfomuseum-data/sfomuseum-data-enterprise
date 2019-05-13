@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"9U",
         "iata:code":"9U",
         "icao:code":"MLD",
         "wd:id":"Q407606",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159283681,
-    "wof:lastmodified":1542668447,
+    "wof:lastmodified":1557783775,
     "wof:name":"Air Moldova",
     "wof:parent_id":101751793,
     "wof:placetype":"enterprise",

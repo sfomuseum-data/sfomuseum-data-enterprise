@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"NU",
         "iata:code":"NU",
         "icao:code":"JTA",
         "wd:id":"Q574659",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159284575,
-    "wof:lastmodified":1542668416,
+    "wof:lastmodified":1557783781,
     "wof:name":"Japan TransOcean Air",
     "wof:parent_id":85672867,
     "wof:placetype":"enterprise",

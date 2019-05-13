@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"ZQ",
         "iata:code":"ZQ",
         "icao:code":"NZA",
         "wd:id":"Q4770646",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159283887,
-    "wof:lastmodified":1557783105,
+    "wof:lastmodified":1557783784,
     "wof:name":"Ansett New Zealand",
     "wof:parent_id":101933229,
     "wof:placetype":"enterprise",

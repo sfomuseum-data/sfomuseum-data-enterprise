@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"RE",
         "iata:code":"RE",
         "icao:code":"REA",
         "wd:id":"Q381078",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159283491,
-    "wof:lastmodified":1557782886,
+    "wof:lastmodified":1557783773,
     "wof:name":"Aer Arann",
     "wof:parent_id":101751737,
     "wof:placetype":"enterprise",

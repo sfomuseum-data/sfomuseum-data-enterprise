@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"WI",
         "iata:code":"WI",
         "wd:id":"Q7656001",
         "wk:page":"Swift Aire Lines",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159285245,
-    "wof:lastmodified":1557783097,
+    "wof:lastmodified":1557783784,
     "wof:name":"Swift Aire Lines",
     "wof:parent_id":85922295,
     "wof:placetype":"enterprise",

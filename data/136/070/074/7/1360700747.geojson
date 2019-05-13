@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"WW",
         "iata:code":"WW",
         "icao:code":"WOW",
         "wd:id":"Q1156931"
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1360700747,
-    "wof:lastmodified":1557782631,
+    "wof:lastmodified":1557783763,
     "wof:name":"WOW",
     "wof:parent_id":101751753,
     "wof:placetype":"enterprise",

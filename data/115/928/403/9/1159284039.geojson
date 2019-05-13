@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"BW",
         "iata:code":"BW",
         "icao:code":"BWA",
         "wd:id":"Q797197",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284039,
-    "wof:lastmodified":1557783056,
+    "wof:lastmodified":1557783782,
     "wof:name":"BWIA International Airways",
     "wof:parent_id":85632271,
     "wof:placetype":"enterprise",

@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"QK",
         "iata:code":"QK",
         "icao:code":"ARN",
         "wd:id":"Q4381038",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159283705,
-    "wof:lastmodified":1557782866,
+    "wof:lastmodified":1557783771,
     "wof:name":"Air Nova",
     "wof:parent_id":85633041,
     "wof:placetype":"enterprise",

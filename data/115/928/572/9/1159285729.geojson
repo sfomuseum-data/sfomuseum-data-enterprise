@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"OM",
         "iata:code":"OM",
         "icao:code":"MGL",
         "wd:id":"Q564717",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285729,
-    "wof:lastmodified":1542668450,
+    "wof:lastmodified":1557783772,
     "wof:name":"MIAT Mongolian Airlines",
     "wof:parent_id":421186169,
     "wof:placetype":"enterprise",

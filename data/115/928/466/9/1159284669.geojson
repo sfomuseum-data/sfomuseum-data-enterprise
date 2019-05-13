@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"NG",
         "iata:code":"NG",
         "icao:code":"AUA",
         "wd:id":"Q1807298",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284669,
-    "wof:lastmodified":1557783049,
+    "wof:lastmodified":1557783781,
     "wof:name":"Lauda Air",
     "wof:parent_id":85632785,
     "wof:placetype":"enterprise",

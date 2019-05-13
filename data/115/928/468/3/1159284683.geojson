@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LN",
         "iata:code":"LN",
         "icao:code":"LAA",
         "wd:id":"Q1056939",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284683,
-    "wof:lastmodified":1542668433,
+    "wof:lastmodified":1557783781,
     "wof:name":"Libyan Arab Airlines",
     "wof:parent_id":85632627,
     "wof:placetype":"enterprise",

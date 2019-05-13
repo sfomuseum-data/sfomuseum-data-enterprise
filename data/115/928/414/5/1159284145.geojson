@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"LS",
         "iata:code":"LS",
         "icao:code":"EXS",
         "wd:id":"Q1062248",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284145,
-    "wof:lastmodified":1557782772,
+    "wof:lastmodified":1557783767,
     "wof:name":"Channel Express",
     "wof:parent_id":101874047,
     "wof:placetype":"enterprise",

@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"NF",
         "iata:code":"NF",
         "icao:code":"AVN",
         "wd:id":"Q407886",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159283769,
-    "wof:lastmodified":1542668449,
+    "wof:lastmodified":1557783773,
     "wof:name":"Air Vanuatu",
     "wof:parent_id":890416453,
     "wof:placetype":"enterprise",

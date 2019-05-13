@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"FI",
         "iata:code":"FI",
         "icao:callsign":"ICEAIR",
         "icao:code":"ICE",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159284513,
-    "wof:lastmodified":1542762363,
+    "wof:lastmodified":1557783780,
     "wof:name":"IcelandAir",
     "wof:parent_id":101751753,
     "wof:placetype":"enterprise",

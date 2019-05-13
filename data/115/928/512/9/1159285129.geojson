@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SK",
         "iata:code":"SK",
         "icao:callsign":"SCANOR",
         "icao:code":"SAS",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285129,
-    "wof:lastmodified":1542762363,
+    "wof:lastmodified":1557783784,
     "wof:name":"Scandinavian Airlines System (SAS)",
     "wof:parent_id":85633789,
     "wof:placetype":"enterprise",

@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"JK",
         "iata:code":"JK",
         "icao:code":"JKK",
         "wd:id":"Q204122",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285201,
-    "wof:lastmodified":1557782884,
+    "wof:lastmodified":1557783773,
     "wof:name":"Spanair",
     "wof:parent_id":101748323,
     "wof:placetype":"enterprise",

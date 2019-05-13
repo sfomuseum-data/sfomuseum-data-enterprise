@@ -44,6 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SB",
         "iata:code":"SB",
         "icao:code":"SEW",
         "wd:id":"Q1410859",
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1159286377,
-    "wof:lastmodified":1557783024,
+    "wof:lastmodified":1557783780,
     "wof:name":"Seaboard & Western Airlines",
     "wof:parent_id":85977539,
     "wof:placetype":"enterprise",

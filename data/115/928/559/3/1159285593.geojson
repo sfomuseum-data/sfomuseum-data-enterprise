@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"QN",
         "iata:code":"QN",
         "icao:code":"AQN",
         "wd:id":"Q4698156",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159285593,
-    "wof:lastmodified":1557782723,
+    "wof:lastmodified":1557783765,
     "wof:name":"Air Queensland",
     "wof:parent_id":85632793,
     "wof:placetype":"enterprise",

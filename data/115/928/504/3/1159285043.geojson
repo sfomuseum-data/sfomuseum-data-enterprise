@@ -52,6 +52,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"QF",
         "iata:code":"QF",
         "icao:callsign":"SUNSTATE",
         "icao:code":"QFA",
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1159285043,
-    "wof:lastmodified":1551988298,
+    "wof:lastmodified":1557783765,
     "wof:name":"Qantas Airways",
     "wof:parent_id":101931173,
     "wof:placetype":"enterprise",

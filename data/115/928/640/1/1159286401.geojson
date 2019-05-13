@@ -29,6 +29,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"DY",
         "iata:callsign":"NOR SHUTTLE",
         "iata:code":"DY",
         "icao:code":"NAX",
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":1159286401,
-    "wof:lastmodified":1557510394,
+    "wof:lastmodified":1557783778,
     "wof:name":"Norwegian Air Shuttle",
     "wof:parent_id":85633341,
     "wof:placetype":"enterprise",

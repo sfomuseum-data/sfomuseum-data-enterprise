@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"UP",
         "iata:code":"UP",
         "icao:code":"BHS",
         "wd:id":"Q800208",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159283973,
-    "wof:lastmodified":1542668455,
+    "wof:lastmodified":1557783766,
     "wof:name":"Bahamasair",
     "wof:parent_id":1125983123,
     "wof:placetype":"enterprise",

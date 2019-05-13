@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"II",
         "iata:code":"II",
         "wd:id":"Q6006348",
         "wk:page":"Imperial Airlines",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284517,
-    "wof:lastmodified":1557783023,
+    "wof:lastmodified":1557783780,
     "wof:name":"Imperial Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

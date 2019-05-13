@@ -44,6 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"CO",
         "iata:code":"CO",
         "icao:code":"COA",
         "wd:id":"Q216486",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1159284203,
-    "wof:lastmodified":1557782990,
+    "wof:lastmodified":1557783779,
     "wof:name":"Continental Air Lines",
     "wof:parent_id":101725629,
     "wof:placetype":"enterprise",

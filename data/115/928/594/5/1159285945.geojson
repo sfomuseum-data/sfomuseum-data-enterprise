@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"MT",
         "iata:code":"MT",
         "wd:id":"Q6914814",
         "wk:page":"Morton Air Services",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159285945,
-    "wof:lastmodified":1557782699,
+    "wof:lastmodified":1557783764,
     "wof:name":"Morton Air Services",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"ND",
         "iata:code":"ND",
         "icao:code":"NDR",
         "wd:id":"Q3343575",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159284883,
-    "wof:lastmodified":1557782975,
+    "wof:lastmodified":1557783778,
     "wof:name":"Nordair",
     "wof:parent_id":85633041,
     "wof:placetype":"enterprise",

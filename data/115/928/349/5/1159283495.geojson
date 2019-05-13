@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EI",
         "iata:code":"EI",
         "icao:callsign":"SHAMROCK",
         "icao:code":"EIN",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159283495,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783773,
     "wof:name":"Aer Lingus",
     "wof:parent_id":102547639,
     "wof:placetype":"enterprise",

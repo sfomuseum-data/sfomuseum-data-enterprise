@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PZ",
         "iata:code":"PZ",
         "icao:code":"LAP",
         "wd:id":"Q6711284",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159285795,
-    "wof:lastmodified":1557783087,
+    "wof:lastmodified":1557783783,
     "wof:name":"Lineas Aereas Paraguayas",
     "wof:parent_id":85632355,
     "wof:placetype":"enterprise",

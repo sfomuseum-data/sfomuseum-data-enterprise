@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"BF",
         "iata:code":"BF",
         "icao:code":"MRK",
         "wd:id":"Q6766382",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159284755,
-    "wof:lastmodified":1557782977,
+    "wof:lastmodified":1557783778,
     "wof:name":"MarkAir",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

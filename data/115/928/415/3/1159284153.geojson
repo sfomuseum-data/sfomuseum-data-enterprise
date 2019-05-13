@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"CI",
         "iata:code":"CI",
         "icao:code":"CAL",
         "wd:id":"Q51756",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284153,
-    "wof:lastmodified":1551988282,
+    "wof:lastmodified":1557783768,
     "wof:name":"China Airlines",
     "wof:parent_id":85632403,
     "wof:placetype":"enterprise",

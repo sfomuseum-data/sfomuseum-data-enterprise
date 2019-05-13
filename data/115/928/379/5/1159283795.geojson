@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"SB",
         "iata:code":"SB",
         "icao:code":"ACI",
         "wd:id":"Q408408",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159283795,
-    "wof:lastmodified":1542668444,
+    "wof:lastmodified":1557783771,
     "wof:name":"Aircalin",
     "wof:parent_id":85633147,
     "wof:placetype":"enterprise",

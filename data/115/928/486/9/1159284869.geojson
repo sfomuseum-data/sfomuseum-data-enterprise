@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"6Y",
         "iata:code":"6Y",
         "icao:code":"NIS",
         "wd:id":"Q4210887",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159284869,
-    "wof:lastmodified":1557782981,
+    "wof:lastmodified":1557783778,
     "wof:name":"Nicarag\u00fcense de Aviaci\u00f3n",
     "wof:parent_id":85632599,
     "wof:placetype":"enterprise",

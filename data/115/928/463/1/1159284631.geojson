@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"GW",
         "iata:code":"GW",
         "icao:code":"KIL",
         "wd:id":"Q606738",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159284631,
-    "wof:lastmodified":1557782815,
+    "wof:lastmodified":1557783769,
     "wof:name":"Kuban Airlines",
     "wof:parent_id":85632685,
     "wof:placetype":"enterprise",

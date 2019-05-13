@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"VI",
         "iata:code":"VI",
         "icao:code":"VDA",
         "wd:id":"Q765297",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159285493,
-    "wof:lastmodified":1542668443,
+    "wof:lastmodified":1557783782,
     "wof:name":"Volga-Dnepr Airlines",
     "wof:parent_id":102009997,
     "wof:placetype":"enterprise",

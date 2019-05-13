@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"WS",
         "iata:code":"WS",
         "icao:callsign":"WESTJET",
         "icao:code":"WJA",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285523,
-    "wof:lastmodified":1542762363,
+    "wof:lastmodified":1557783776,
     "wof:name":"WestJet Airlines",
     "wof:parent_id":890458845,
     "wof:placetype":"enterprise",

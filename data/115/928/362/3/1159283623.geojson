@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"QH",
         "iata:code":"QH",
         "icao:code":"FLA",
         "wd:id":"Q2828197",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159283623,
-    "wof:lastmodified":1557782709,
+    "wof:lastmodified":1557783764,
     "wof:name":"Air Florida",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

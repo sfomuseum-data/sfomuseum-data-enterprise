@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"MP",
         "iata:code":"MP",
         "icao:code":"MPH",
         "wd:id":"Q426851",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284757,
-    "wof:lastmodified":1542668466,
+    "wof:lastmodified":1557783778,
     "wof:name":"Martinair",
     "wof:parent_id":1158822847,
     "wof:placetype":"enterprise",

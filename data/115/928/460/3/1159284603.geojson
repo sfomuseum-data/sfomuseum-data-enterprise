@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"KQ",
         "iata:code":"KQ",
         "icao:code":"KQA",
         "wd:id":"Q638900",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284603,
-    "wof:lastmodified":1542668450,
+    "wof:lastmodified":1557783780,
     "wof:name":"Kenya Airways",
     "wof:parent_id":421171939,
     "wof:placetype":"enterprise",

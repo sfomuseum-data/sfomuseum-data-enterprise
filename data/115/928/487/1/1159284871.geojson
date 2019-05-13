@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"WT",
         "iata:code":"WT",
         "icao:code":"NGA",
         "wd:id":"Q1189310",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159284871,
-    "wof:lastmodified":1557782994,
+    "wof:lastmodified":1557783779,
     "wof:name":"Nigeria Airways",
     "wof:parent_id":890437283,
     "wof:placetype":"enterprise",

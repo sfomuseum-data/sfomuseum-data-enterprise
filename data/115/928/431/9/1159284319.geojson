@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EU",
         "iata:code":"EU",
         "icao:code":"EEA",
         "wd:id":"Q5334424",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159284319,
-    "wof:lastmodified":1557782830,
+    "wof:lastmodified":1557783770,
     "wof:name":"Ecuatoriana de Aviaci\u00f3n",
     "wof:parent_id":85632261,
     "wof:placetype":"enterprise",

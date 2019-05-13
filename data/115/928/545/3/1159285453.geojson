@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"HY",
         "iata:code":"HY",
         "icao:code":"UZB",
         "wd:id":"Q610003",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159285453,
-    "wof:lastmodified":1542668466,
+    "wof:lastmodified":1557783774,
     "wof:name":"Uzbekistan Airways",
     "wof:parent_id":421168855,
     "wof:placetype":"enterprise",

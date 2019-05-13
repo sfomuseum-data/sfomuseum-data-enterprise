@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"G4",
         "iata:code":"G4",
         "icao:code":"AAY",
         "wd:id":"Q1319601",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159283831,
-    "wof:lastmodified":1542668413,
+    "wof:lastmodified":1557783771,
     "wof:name":"Allegiant Air",
     "wof:parent_id":85975017,
     "wof:placetype":"enterprise",

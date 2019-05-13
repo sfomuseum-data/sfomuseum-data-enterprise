@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EZ",
         "iata:code":"EZ",
         "icao:code":"EIA",
         "wd:id":"Q1188127",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159284353,
-    "wof:lastmodified":1557783054,
+    "wof:lastmodified":1557783782,
     "wof:name":"Evergreen International Airlines",
     "wof:parent_id":101716117,
     "wof:placetype":"enterprise",

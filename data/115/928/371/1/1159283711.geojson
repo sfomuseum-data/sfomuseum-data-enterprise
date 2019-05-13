@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"GX",
         "iata:code":"GX",
         "icao:code":"ONT",
         "wd:id":"Q2828219",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159283711,
-    "wof:lastmodified":1557782881,
+    "wof:lastmodified":1557783772,
     "wof:name":"Air Ontario",
     "wof:parent_id":85633041,
     "wof:placetype":"enterprise",

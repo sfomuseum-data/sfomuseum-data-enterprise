@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"UU",
         "iata:code":"UU",
         "icao:code":"REU",
         "wd:id":"Q406847",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159283581,
-    "wof:lastmodified":1542668402,
+    "wof:lastmodified":1557783776,
     "wof:name":"Air Austral",
     "wof:parent_id":85633147,
     "wof:placetype":"enterprise",

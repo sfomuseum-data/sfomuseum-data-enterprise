@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"3Q",
         "iata:code":"3Q",
         "icao:code":"CYH",
         "wd:id":"Q71988",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284173,
-    "wof:lastmodified":1557782967,
+    "wof:lastmodified":1557783777,
     "wof:name":"China Yunnan Airlines",
     "wof:parent_id":85632695,
     "wof:placetype":"enterprise",

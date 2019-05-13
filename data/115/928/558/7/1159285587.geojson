@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"EY",
         "iata:code":"EY",
         "icao:code":"ETD",
         "wd:id":"Q212304",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159285587,
-    "wof:lastmodified":1542668418,
+    "wof:lastmodified":1557783764,
     "wof:name":"Etihad Airways",
     "wof:parent_id":421179641,
     "wof:placetype":"enterprise",

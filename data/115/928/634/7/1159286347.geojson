@@ -35,6 +35,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PY",
         "iata:code":"PY",
         "icao:code":"SLM",
         "wd:id":"Q1059033",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159286347,
-    "wof:lastmodified":1542668467,
+    "wof:lastmodified":1557783768,
     "wof:name":"Surinam Airways",
     "wof:parent_id":890444597,
     "wof:placetype":"enterprise",

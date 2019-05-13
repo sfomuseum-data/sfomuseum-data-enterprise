@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"4O",
         "iata:code":"4O",
         "icao:callsign":"ABC Aerolineas",
         "icao:code":"AIJ",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159286485,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783779,
     "wof:name":"Interjet",
     "wof:parent_id":857683023,
     "wof:placetype":"enterprise",

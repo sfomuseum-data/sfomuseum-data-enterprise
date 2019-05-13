@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"GE",
         "iata:code":"GE",
         "icao:code":"TNA",
         "wd:id":"Q383707",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159285343,
-    "wof:lastmodified":1557782711,
+    "wof:lastmodified":1557783764,
     "wof:name":"TransAsia Airways",
     "wof:parent_id":890468701,
     "wof:placetype":"enterprise",

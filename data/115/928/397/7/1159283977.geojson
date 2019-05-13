@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"BB",
         "iata:code":"BB",
         "icao:code":"BBB",
         "wd:id":"Q2880459",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159283977,
-    "wof:lastmodified":1557782735,
+    "wof:lastmodified":1557783765,
     "wof:name":"Balair",
     "wof:parent_id":101748463,
     "wof:placetype":"enterprise",

@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"RK",
         "iata:code":"RK",
         "icao:code":"RKA",
         "wd:id":"Q406741",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159283567,
-    "wof:lastmodified":1557782935,
+    "wof:lastmodified":1557783776,
     "wof:name":"Air Afrique",
     "wof:parent_id":85632449,
     "wof:placetype":"enterprise",

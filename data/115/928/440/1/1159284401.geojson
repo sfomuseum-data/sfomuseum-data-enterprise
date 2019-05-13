@@ -41,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"F9",
         "iata:code":"F9",
         "icao:callsign":"FRONTIER FLIGHT",
         "icao:code":"FFT",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284401,
-    "wof:lastmodified":1542762364,
+    "wof:lastmodified":1557783766,
     "wof:name":"Frontier Airlines",
     "wof:parent_id":85928879,
     "wof:placetype":"enterprise",

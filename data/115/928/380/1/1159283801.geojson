@@ -34,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"RD",
         "iata:code":"RD",
         "icao:code":"AIR",
         "wd:id":"Q2828729",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159283801,
-    "wof:lastmodified":1557783082,
+    "wof:lastmodified":1557783783,
     "wof:name":"Airlift International",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

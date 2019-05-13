@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"QQ",
         "iata:code":"QQ",
         "icao:code":"ROA",
         "wd:id":"Q2144214",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159285065,
-    "wof:lastmodified":1557782915,
+    "wof:lastmodified":1557783775,
     "wof:name":"Reno Air",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

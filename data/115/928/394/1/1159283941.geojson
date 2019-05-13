@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"AO",
         "iata:code":"AO",
         "icao:code":"AUZ",
         "wd:id":"Q1369534",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159283941,
-    "wof:lastmodified":1557782944,
+    "wof:lastmodified":1557783776,
     "wof:name":"Australian Airlines",
     "wof:parent_id":85632793,
     "wof:placetype":"enterprise",

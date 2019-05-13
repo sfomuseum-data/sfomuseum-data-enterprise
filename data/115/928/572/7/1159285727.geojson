@@ -36,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"JD",
         "iata:code":"JD",
         "icao:code":"JAS",
         "wd:id":"Q1138263",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159285727,
-    "wof:lastmodified":1557782869,
+    "wof:lastmodified":1557783772,
     "wof:name":"Japan Air System",
     "wof:parent_id":85632429,
     "wof:placetype":"enterprise",

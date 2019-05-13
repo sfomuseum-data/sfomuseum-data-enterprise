@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"NZ",
         "iata:code":"NZ",
         "icao:callsign":"EAGLE",
         "icao:code":"ANZ",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159283697,
-    "wof:lastmodified":1542762363,
+    "wof:lastmodified":1557783776,
     "wof:name":"Air New Zealand",
     "wof:parent_id":101914257,
     "wof:placetype":"enterprise",

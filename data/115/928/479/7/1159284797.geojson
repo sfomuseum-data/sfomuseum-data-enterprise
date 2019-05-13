@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"IU",
         "iata:code":"IU",
         "icao:code":"MIS",
         "wd:id":"Q14628809",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284797,
-    "wof:lastmodified":1557782786,
+    "wof:lastmodified":1557783768,
     "wof:name":"Midstate Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"MO",
         "iata:code":"MO",
         "icao:code":"MOW",
         "wd:id":"Q1942813",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284819,
-    "wof:lastmodified":1557782976,
+    "wof:lastmodified":1557783778,
     "wof:name":"Mohawk Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

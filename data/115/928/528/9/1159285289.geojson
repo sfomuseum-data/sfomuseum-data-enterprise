@@ -37,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"TI",
         "iata:code":"TI",
         "icao:code":"TIA",
         "wd:id":"Q539218",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159285289,
-    "wof:lastmodified":1557782861,
+    "wof:lastmodified":1557783771,
     "wof:name":"Texas International Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

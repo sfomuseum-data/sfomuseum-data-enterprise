@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"T2",
         "iata:code":"T2",
         "icao:code":"TMA",
         "wd:id":"Q609818",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285301,
-    "wof:lastmodified":1557782910,
+    "wof:lastmodified":1557783775,
     "wof:name":"Trans Mediterranean Airways",
     "wof:parent_id":890442383,
     "wof:placetype":"enterprise",

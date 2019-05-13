@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"DJ",
         "iata:code":"DJ",
         "icao:code":"PBN",
         "wd:id":"Q1061085",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159284943,
-    "wof:lastmodified":1557783016,
+    "wof:lastmodified":1557783780,
     "wof:name":"Pacific Blue Airlines",
     "wof:parent_id":101914521,
     "wof:placetype":"enterprise",

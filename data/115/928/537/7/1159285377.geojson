@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"T3",
         "iata:code":"T3",
         "wd:id":"Q26916579",
         "wk:page":"TriStar Airlines",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159285377,
-    "wof:lastmodified":1557782906,
+    "wof:lastmodified":1557783774,
     "wof:name":"TriStar Airlines",
     "wof:parent_id":85974801,
     "wof:placetype":"enterprise",

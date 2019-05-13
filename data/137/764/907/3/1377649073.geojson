@@ -38,9 +38,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"BF",
         "iata:code":"BF",
+        "icao:callsign":"FRENCH BEE",
         "icao:code":"FBU",
-	"icao:callsign":"FRENCH BEE",		
         "wd:id":"Q23979091"
     },
     "wof:country":"FR",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1377649073,
-    "wof:lastmodified":1557528278,
+    "wof:lastmodified":1557783763,
     "wof:name":"French Bee",
     "wof:parent_id":404391427,
     "wof:placetype":"enterprise",

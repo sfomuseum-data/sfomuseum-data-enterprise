@@ -38,6 +38,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"ON",
         "iata:code":"ON",
         "icao:code":"RON",
         "wd:id":"Q192459",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159283687,
-    "wof:lastmodified":1542668447,
+    "wof:lastmodified":1557783775,
     "wof:name":"Air Nauru",
     "wof:parent_id":102536219,
     "wof:placetype":"enterprise",

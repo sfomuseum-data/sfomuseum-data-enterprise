@@ -43,6 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"CX",
         "iata:code":"CX",
         "icao:callsign":"CATHAY",
         "icao:code":"CPA",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159284127,
-    "wof:lastmodified":1551988282,
+    "wof:lastmodified":1557783768,
     "wof:name":"Cathay Pacific Airways",
     "wof:parent_id":85632695,
     "wof:placetype":"enterprise",

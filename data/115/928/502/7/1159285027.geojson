@@ -40,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"PO",
         "iata:code":"PO",
         "icao:code":"PAC",
         "wd:id":"Q1186574",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159285027,
-    "wof:lastmodified":1542668454,
+    "wof:lastmodified":1557783764,
     "wof:name":"Polar Air Cargo",
     "wof:parent_id":1125816673,
     "wof:placetype":"enterprise",
