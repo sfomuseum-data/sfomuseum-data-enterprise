@@ -44,6 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"MH",    
         "iata:code":"MH",
         "icao:callsign":"MALAYSIAN",
         "icao:code":"MAS",
