@@ -39,6 +39,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "flysfo:code":"RJ",    
         "iata:code":"RJ",
         "icao:callsign":"JORDANIAN",
         "icao:code":"RJA",
