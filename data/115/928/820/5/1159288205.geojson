@@ -2,9 +2,11 @@
   "id": 1159288205,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"2010-01-01",
+    "date:cessation_upper":"2010-12-31",
     "date:inception_lower":"1921-01-01",
     "date:inception_upper":"1921-12-31",
-    "edtf:cessation":"open",
+    "edtf:cessation":"2010",
     "edtf:inception":"1921",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -14,7 +16,7 @@
     "iso:country":"MX",
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:unk_x_preferred":[
         "Mexicana de Aviaci\u00f3n"
     ],
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1159288205,
-    "wof:lastmodified":1542668440,
+    "wof:lastmodified":1557782749,
     "wof:name":"Mexicana de Aviacion",
     "wof:parent_id":857683023,
     "wof:placetype":"enterprise",

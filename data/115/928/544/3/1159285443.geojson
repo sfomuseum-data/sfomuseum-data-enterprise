@@ -2,11 +2,11 @@
   "id": 1159285443,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-10-17",
-    "date:cessation_upper":"2015-10-17",
+    "date:cessation_lower":"2015-01-01",
+    "date:cessation_upper":"2015-12-31",
     "date:inception_lower":"1961-01-01",
     "date:inception_upper":"1961-12-31",
-    "edtf:cessation":"2015-10-17",
+    "edtf:cessation":"2015",
     "edtf:inception":"1961",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1159285443,
-    "wof:lastmodified":1542668436,
+    "wof:lastmodified":1557782877,
     "wof:name":"US Airways Shuttle",
     "wof:parent_id":101729469,
     "wof:placetype":"enterprise",

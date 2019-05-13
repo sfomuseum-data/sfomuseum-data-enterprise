@@ -2,9 +2,11 @@
   "id": 1159293823,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"1967-01-01",
+    "date:cessation_upper":"1967-12-31",
     "date:inception_lower":"1939-01-01",
     "date:inception_upper":"1939-12-31",
-    "edtf:cessation":"open",
+    "edtf:cessation":"1967",
     "edtf:inception":"1939",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -14,7 +16,7 @@
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfomuseum:aircraft_id":842,
     "sfomuseum:hashtags":[
         "mcdonnell"
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1159293823,
-    "wof:lastmodified":1551988285,
+    "wof:lastmodified":1557782660,
     "wof:name":"McDonnell",
     "wof:parent_id":85971343,
     "wof:placetype":"enterprise",

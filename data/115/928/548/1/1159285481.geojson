@@ -2,11 +2,11 @@
   "id": 1159285481,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-04-28",
-    "date:cessation_upper":"2018-04-28",
+    "date:cessation_lower":"2018-01-01",
+    "date:cessation_upper":"2018-12-31",
     "date:inception_lower":"2007-08-08",
     "date:inception_upper":"2007-08-08",
-    "edtf:cessation":"2018-04-28",
+    "edtf:cessation":"2018",
     "edtf:inception":"2007-08-08",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -55,7 +55,7 @@
         }
     ],
     "wof:id":1159285481,
-    "wof:lastmodified":1542675095,
+    "wof:lastmodified":1557783091,
     "wof:name":"Virgin America Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

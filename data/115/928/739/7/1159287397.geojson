@@ -6,7 +6,7 @@
     "date:cessation_upper":"1989-12-31",
     "date:inception_lower":"1982-01-01",
     "date:inception_upper":"1982-12-31",
-    "edtf:cessation":"open",
+    "edtf:cessation":"1989",
     "edtf:inception":"1982",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -16,7 +16,7 @@
     "iso:country":"ES",
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:unk_x_preferred":[
         "Hispania L\u00edneas A\u00e9reas"
     ],
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1159287397,
-    "wof:lastmodified":1542668454,
+    "wof:lastmodified":1557782707,
     "wof:name":"Hispania Lineas Aereas",
     "wof:parent_id":101748237,
     "wof:placetype":"enterprise",

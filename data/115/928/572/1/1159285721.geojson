@@ -2,11 +2,11 @@
   "id": 1159285721,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1980-01-01",
-    "date:cessation_upper":"1980-12-31",
+    "date:cessation_lower":"1984-01-01",
+    "date:cessation_upper":"1984-12-31",
     "date:inception_lower":"1957-01-01",
     "date:inception_upper":"1957-12-31",
-    "edtf:cessation":"1980",
+    "edtf:cessation":"1984",
     "edtf:inception":"1957",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -53,7 +53,7 @@
         }
     ],
     "wof:id":1159285721,
-    "wof:lastmodified":1542668450,
+    "wof:lastmodified":1557782870,
     "wof:name":"Commuter Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

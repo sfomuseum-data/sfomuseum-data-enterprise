@@ -2,9 +2,11 @@
   "id": 1159286979,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"2002-01-01",
+    "date:cessation_upper":"2002-12-31",
     "date:inception_lower":"1960-01-01",
     "date:inception_upper":"1960-12-31",
-    "edtf:cessation":"open",
+    "edtf:cessation":"2002",
     "edtf:inception":"1960",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -14,7 +16,7 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:unk_x_preferred":[
         "Air Guin\u00e9e"
     ],
@@ -57,7 +59,7 @@
         }
     ],
     "wof:id":1159286979,
-    "wof:lastmodified":1542668445,
+    "wof:lastmodified":1557783020,
     "wof:name":"Air Guinee",
     "wof:parent_id":421198917,
     "wof:placetype":"enterprise",

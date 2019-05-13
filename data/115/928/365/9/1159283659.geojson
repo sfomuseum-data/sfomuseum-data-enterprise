@@ -2,7 +2,7 @@
   "id": 1159283659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"1985",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -12,7 +12,7 @@
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sfomuseum:airline_id":84,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air LA",
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1159283659,
-    "wof:lastmodified":1542668454,
+    "wof:lastmodified":1557782706,
     "wof:name":"Air LA",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

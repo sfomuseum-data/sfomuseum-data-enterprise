@@ -2,9 +2,11 @@
   "id": 1159287563,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"2009-01-01",
+    "date:cessation_upper":"2009-12-31",
     "date:inception_lower":"1971-01-01",
     "date:inception_upper":"1971-12-31",
-    "edtf:cessation":"open",
+    "edtf:cessation":"2009",
     "edtf:inception":"1971",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -14,7 +16,7 @@
     "iso:country":"SN",
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:unk_x_preferred":[
         "Air S\u00e9n\u00e9gal International"
     ],
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1159287563,
-    "wof:lastmodified":1542668409,
+    "wof:lastmodified":1557782928,
     "wof:name":"Air Senegal International",
     "wof:parent_id":85632365,
     "wof:placetype":"enterprise",

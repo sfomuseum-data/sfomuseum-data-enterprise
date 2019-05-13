@@ -2,11 +2,11 @@
   "id": 1159284083,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2001-11-08",
-    "date:cessation_upper":"2001-11-08",
+    "date:cessation_lower":"2001-01-01",
+    "date:cessation_upper":"2001-12-31",
     "date:inception_lower":"1988-01-01",
     "date:inception_upper":"1988-12-31",
-    "edtf:cessation":"2001-11-08",
+    "edtf:cessation":"2001",
     "edtf:inception":"1988",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -54,7 +54,7 @@
         }
     ],
     "wof:id":1159284083,
-    "wof:lastmodified":1542668468,
+    "wof:lastmodified":1557782813,
     "wof:name":"Canada 3000",
     "wof:parent_id":101735835,
     "wof:placetype":"enterprise",
