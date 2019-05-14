@@ -37,6 +37,8 @@
     "wof:concordances":{
         "flysfo:code":"HN",
         "iata:code":"HN",
+        "icao:callsign":"HEAVY CARGO",
+        "icao:code":"HVY",
         "wd:id":"Q5694995",
         "wk:page":"HeavyLift Cargo Airlines",
         "wk:pageid":3303973
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1159284495,
-    "wof:lastmodified":1557783767,
+    "wof:lastmodified":1557857305,
     "wof:name":"Heavylift Cargo Airlines",
     "wof:parent_id":85632793,
     "wof:placetype":"enterprise",
