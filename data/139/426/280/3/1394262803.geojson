@@ -41,7 +41,8 @@
     "wof:concordances":{
         "iata:code":"SE",
         "icao:code":"XLF",
-        "wd:id":"Q1783588"
+        "wd:id":"Q1783588",
+	"flysfo:code":"SE"
     },
     "wof:country":"FR",
     "wof:created":1565027748,
