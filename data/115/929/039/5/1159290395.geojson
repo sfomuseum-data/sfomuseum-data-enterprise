@@ -24,8 +24,11 @@
     "sfomuseum:placetype":"company",
     "src:geom":"unknown",
     "wof:belongsto":[
-        1,
-        85923817
+        85688637,
+        102191575,
+        85633793,
+        85923817,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,13 +42,16 @@
     "wof:geomhash":"81b5a2ac9dcfc0772cfeb31ec196057c",
     "wof:hierarchy":[
         {
-            "actor_id":1159290395,
-            "country_id":1,
-            "enterprise_id":1159290395
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "enterprise_id":1159290395,
+            "locality_id":85923817,
+            "region_id":85688637
         }
     ],
     "wof:id":1159290395,
-    "wof:lastmodified":1581621590,
+    "wof:lastmodified":1581621706,
     "wof:name":"Douglas",
     "wof:parent_id":85923817,
     "wof:placetype":"enterprise",
