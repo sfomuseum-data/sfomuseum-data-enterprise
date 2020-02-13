@@ -2,31 +2,41 @@
   "id": 1159290395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"1967-01-01",
+    "date:cessation_upper":"1967-12-31",
+    "date:inception_lower":"1921-01-01",
+    "date:inception_upper":"1921-12-31",
+    "edtf:cessation":"1967",
+    "edtf:inception":"1921",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "iso:country":"XN",
+    "geom:bbox":"-118.479052,34.021711,-118.479052,34.021711",
+    "geom:latitude":34.021711,
+    "geom:longitude":-118.479052,
+    "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:aircraft_id":477,
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Douglas",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:placetype":"company",
+    "src:geom":"unknown",
     "wof:belongsto":[
-        1
+        1,
+        85923817
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q651778"
+    },
     "wof:controlled":[
         "wof:hierarchy",
         "wof:parent_id"
     ],
-    "wof:country":"XN",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:country":"US",
+    "wof:geomhash":"81b5a2ac9dcfc0772cfeb31ec196057c",
     "wof:hierarchy":[
         {
             "actor_id":1159290395,
@@ -35,22 +45,24 @@
         }
     ],
     "wof:id":1159290395,
-    "wof:lastmodified":1544649542,
+    "wof:lastmodified":1581621590,
     "wof:name":"Douglas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85923817,
     "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:repo":"sfomuseum-data-enterprise",
     "wof:subordinate_of":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1159293561
+    ],
     "wof:supersedes":[],
     "wof:tags":[],
     "wtf:brand_id":1125159231
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -118.479052,
+    34.021711,
+    -118.479052,
+    34.021711
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-118.479052,34.021711],"type":"Point"}
 }

@@ -64,14 +64,16 @@
         }
     ],
     "wof:id":1159293561,
-    "wof:lastmodified":1557782665,
+    "wof:lastmodified":1581621278,
     "wof:name":"McDonnell Douglas",
     "wof:parent_id":85971343,
     "wof:placetype":"enterprise",
     "wof:repo":"sfomuseum-data-enterprise",
     "wof:subordinate_of":[],
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159290395
+    ],
     "wof:tags":[
         "aerospace manufacturer",
         "defense contractor"
