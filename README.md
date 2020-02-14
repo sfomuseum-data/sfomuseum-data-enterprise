@@ -13,3 +13,5 @@ This data is published under the [Community Data License Agreement – Permissiv
 ## See also
 
 * https://millsfield.sfomuseum.org/
+* https://www.iata.org/en/publications/directories/code-search/?airline.search={CODE}
+* http://www.avcodes.co.uk/airlcodesearch.asp
