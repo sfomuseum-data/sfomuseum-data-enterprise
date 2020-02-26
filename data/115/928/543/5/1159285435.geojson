@@ -46,7 +46,7 @@
     "wof:concordances":{
         "flysfo:code":"US",
         "iata:code":"US",
-        "icao:code":"AAL",
+        "icao:code":"USA",
         "wd:id":"Q208046",
         "wk:page":"US Airways",
         "wk:pageid":291315
@@ -68,14 +68,16 @@
         }
     ],
     "wof:id":1159285435,
-    "wof:lastmodified":1557783772,
+    "wof:lastmodified":1582749225,
     "wof:name":"US Airways",
     "wof:parent_id":85917469,
     "wof:placetype":"enterprise",
     "wof:repo":"sfomuseum-data-enterprise",
     "wof:subordinate_of":[],
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159284973
+    ],
     "wof:tags":[
         "airline"
     ]
