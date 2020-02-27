@@ -24,8 +24,10 @@
     "sfomuseum:placetype":"airline",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85688637,
         102191575,
         85633793,
+        85922227,
         136253057
     ],
     "wof:breaches":[],
@@ -45,13 +47,15 @@
             "continent_id":102191575,
             "country_id":85633793,
             "empire_id":136253057,
-            "enterprise_id":1159284973
+            "enterprise_id":1159284973,
+            "locality_id":85922227,
+            "region_id":85688637
         }
     ],
     "wof:id":1159284973,
-    "wof:lastmodified":1582749215,
+    "wof:lastmodified":1582766514,
     "wof:name":"Pacific Southwest Airlines (PSA)",
-    "wof:parent_id":85633793,
+    "wof:parent_id":85922227,
     "wof:placetype":"enterprise",
     "wof:repo":"sfomuseum-data-enterprise",
     "wof:subordinate_of":[
