@@ -20,13 +20,18 @@
     "sfomuseum:placetype":"airline",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85688637,
         102191575,
-        1159288051,
         85633793,
-        136253057
+        85921881,
+        136253057,
+        1159288051
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iata:code":"SFO",
+        "wd:id":"Q7414143"
+    },
     "wof:controlled":[
         "wof:hierarchy",
         "wof:parent_id"
@@ -38,13 +43,15 @@
             "continent_id":102191575,
             "country_id":85633793,
             "empire_id":136253057,
-            "enterprise_id":1159288051
+            "enterprise_id":1159288051,
+            "locality_id":85921881,
+            "region_id":85688637
         }
     ],
     "wof:id":1159285141,
-    "wof:lastmodified":1542668447,
+    "wof:lastmodified":1582769375,
     "wof:name":"SFO Helicopter Airlines",
-    "wof:parent_id":85633793,
+    "wof:parent_id":85921881,
     "wof:placetype":"enterprise",
     "wof:repo":"sfomuseum-data-enterprise",
     "wof:subordinate_of":[
