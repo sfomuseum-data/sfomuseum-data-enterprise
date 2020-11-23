@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":599,
+    "sfomuseum:count_objects_public":38,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Midway Airlines",
     "sfomuseum:name":"Midway Airlines",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159284799,
-    "wof:lastmodified":1542668447,
+    "wof:lastmodified":1606164126,
     "wof:name":"Midway Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

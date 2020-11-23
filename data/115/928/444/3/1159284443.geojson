@@ -15,6 +15,7 @@
     "mz:is_current":-1,
     "mz:is_nullisland":1,
     "sfomuseum:airline_id":436,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Golden Carriage-Aire",
     "sfomuseum:name":"Golden Carriage-Aire",
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159284443,
-    "wof:lastmodified":1542668439,
+    "wof:lastmodified":1606164123,
     "wof:name":"Golden Carriage-Aire",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

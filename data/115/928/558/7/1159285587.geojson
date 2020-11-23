@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":962,
+    "sfomuseum:count_objects_public":6,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Etihad Airways",
     "sfomuseum:name":"Etihad Airways",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159285587,
-    "wof:lastmodified":1557783764,
+    "wof:lastmodified":1606164133,
     "wof:name":"Etihad Airways",
     "wof:parent_id":421179641,
     "wof:placetype":"enterprise",

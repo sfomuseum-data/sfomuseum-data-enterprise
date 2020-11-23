@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":343,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Cyrus Airways",
     "sfomuseum:name":"Cyrus Airways",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159284235,
-    "wof:lastmodified":1542675079,
+    "wof:lastmodified":1606164121,
     "wof:name":"Cyrus Airways",
     "wof:parent_id":85632437,
     "wof:placetype":"enterprise",

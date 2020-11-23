@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":697,
+    "sfomuseum:count_objects_public":5,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"PEOPLExpress  (People Express Airlines)",
     "sfomuseum:name":"PEOPLExpress",
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159285013,
-    "wof:lastmodified":1542668415,
+    "wof:lastmodified":1606164128,
     "wof:name":"PEOPLExpress",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

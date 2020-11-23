@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":321,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Colonial Air Transport",
     "sfomuseum:name":"Colonial Air Transport",
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1159284185,
-    "wof:lastmodified":1557782992,
+    "wof:lastmodified":1606164120,
     "wof:name":"Colonial Air Transport",
     "wof:parent_id":85977539,
     "wof:placetype":"enterprise",

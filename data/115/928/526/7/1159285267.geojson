@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":813,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"TAN Airlines",
     "sfomuseum:name":"TAN Airlines",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159285267,
-    "wof:lastmodified":1557783771,
+    "wof:lastmodified":1606164130,
     "wof:name":"TAN Airlines",
     "wof:parent_id":85632323,
     "wof:placetype":"enterprise",

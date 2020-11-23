@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":694,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Pegasus Airlines",
     "sfomuseum:name":"Pegasus Airlines",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159285007,
-    "wof:lastmodified":1557783776,
+    "wof:lastmodified":1606164128,
     "wof:name":"Pegasus Airlines",
     "wof:parent_id":890460455,
     "wof:placetype":"enterprise",

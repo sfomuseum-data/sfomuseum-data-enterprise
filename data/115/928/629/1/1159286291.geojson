@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":1300,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Curtiss Aeroplane Co.",
     "sfomuseum:name":"Curtiss Aeroplane Co.",
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159286291,
-    "wof:lastmodified":1542675140,
+    "wof:lastmodified":1606164140,
     "wof:name":"Curtiss Aeroplane Co.",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

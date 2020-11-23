@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":754,
+    "sfomuseum:count_objects_public":141,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"SFO Helicopter Airlines",
     "sfomuseum:name":"SFO Helicopter Airlines",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159285141,
-    "wof:lastmodified":1582769442,
+    "wof:lastmodified":1606164129,
     "wof:name":"SFO Helicopter Airlines",
     "wof:parent_id":85921881,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":1350,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Czechoslovakia",
     "sfomuseum:hub":"Prague",
     "sfomuseum:is_sfo":1,
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1159286397,
-    "wof:lastmodified":1542668405,
+    "wof:lastmodified":1606164141,
     "wof:name":"\u010cSA (Czechoslovak Airlines)",
     "wof:parent_id":101748113,
     "wof:placetype":"enterprise",

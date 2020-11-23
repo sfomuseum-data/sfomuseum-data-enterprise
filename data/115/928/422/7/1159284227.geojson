@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":340,
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Cubana Airlines",
     "sfomuseum:name":"Cubana Airlines",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284227,
-    "wof:lastmodified":1557786690,
+    "wof:lastmodified":1606164121,
     "wof:name":"Cubana Airlines",
     "wof:parent_id":1125939059,
     "wof:placetype":"enterprise",

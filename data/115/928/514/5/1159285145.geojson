@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":756,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Shawnee International Airlines",
     "sfomuseum:name":"Shawnee International Airlines",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159285145,
-    "wof:lastmodified":1542668447,
+    "wof:lastmodified":1606164129,
     "wof:name":"Shawnee International Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

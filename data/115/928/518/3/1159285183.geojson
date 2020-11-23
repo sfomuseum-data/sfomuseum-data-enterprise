@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":773,
+    "sfomuseum:count_objects_public":14,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"South African Airways (SAA)",
     "sfomuseum:name":"South African Airways (SAA)",
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159285183,
-    "wof:lastmodified":1557783773,
+    "wof:lastmodified":1606164129,
     "wof:name":"South African Airways (SAA)",
     "wof:parent_id":85633813,
     "wof:placetype":"enterprise",

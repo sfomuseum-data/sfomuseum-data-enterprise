@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":479,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Inter Island Airways",
     "sfomuseum:name":"Inter Island Airways",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159284533,
-    "wof:lastmodified":1542668465,
+    "wof:lastmodified":1606164123,
     "wof:name":"Inter Island Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

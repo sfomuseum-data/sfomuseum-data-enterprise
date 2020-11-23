@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1207,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Macau",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Macau",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159286099,
-    "wof:lastmodified":1557783782,
+    "wof:lastmodified":1606164138,
     "wof:name":"Air Macau",
     "wof:parent_id":1125927021,
     "wof:placetype":"enterprise",

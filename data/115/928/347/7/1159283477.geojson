@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":3,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Brazil",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"ABSA Cargo Airline",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159283477,
-    "wof:lastmodified":1557783773,
+    "wof:lastmodified":1606164114,
     "wof:name":"ABSA Cargo Airline",
     "wof:parent_id":101956069,
     "wof:placetype":"enterprise",

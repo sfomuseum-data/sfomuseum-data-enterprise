@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1061,
+    "sfomuseum:count_objects_public":7,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Garuda Indonesian Airways  (Garuda Indonesia)",
     "sfomuseum:name":"Garuda Indonesian Airways",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1159285777,
-    "wof:lastmodified":1557786690,
+    "wof:lastmodified":1606164135,
     "wof:name":"Garuda Indonesian Airways",
     "wof:parent_id":102552069,
     "wof:placetype":"enterprise",

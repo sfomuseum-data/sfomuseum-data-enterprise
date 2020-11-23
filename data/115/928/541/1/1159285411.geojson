@@ -17,6 +17,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":882,
     "sfomuseum:brand":"Union de Transports A\u00e9riens (UTA)",
+    "sfomuseum:count_objects_public":16,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Union de Transports A\u00e9riens (UTA)",
     "sfomuseum:name":"Union de Transports A\u00e9riens (UTA)",
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1159285411,
-    "wof:lastmodified":1542675075,
+    "wof:lastmodified":1606164131,
     "wof:name":"Union de Transports A\u00e9riens (UTA)",
     "wof:parent_id":85633147,
     "wof:placetype":"enterprise",

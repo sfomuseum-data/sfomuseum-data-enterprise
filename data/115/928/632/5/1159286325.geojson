@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1315,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Societa Italiana Servizi Aerei",
     "sfomuseum:name":"Societa Italiana Servizi Aerei",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159286325,
-    "wof:lastmodified":1542675098,
+    "wof:lastmodified":1606164141,
     "wof:name":"Societa Italiana Servizi Aerei",
     "wof:parent_id":85633253,
     "wof:placetype":"enterprise",

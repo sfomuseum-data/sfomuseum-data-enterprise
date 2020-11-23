@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":45,
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air America",
     "sfomuseum:name":"Air America",
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1159283571,
-    "wof:lastmodified":1542668438,
+    "wof:lastmodified":1606164115,
     "wof:name":"Air America",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

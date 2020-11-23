@@ -2,6 +2,8 @@
   "id": 1159283527,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"1994-01-01",
+    "date:cessation_upper":"1994-12-31",
     "date:inception_lower":"1932-01-01",
     "date:inception_upper":"1932-12-31",
     "edtf:cessation":"1994~",
@@ -16,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":26,
+    "sfomuseum:count_objects_public":14,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Aeroflot Soviet Airlines  (Aeroflot Russian Airlines)",
     "sfomuseum:name":"Aeroflot Soviet Airlines",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1159283527,
-    "wof:lastmodified":1557783765,
+    "wof:lastmodified":1606164114,
     "wof:name":"Aeroflot Soviet Airlines",
     "wof:parent_id":102003033,
     "wof:placetype":"enterprise",
@@ -74,7 +77,7 @@
         1159288379
     ],
     "wof:superseded_by":[
-	1159283525
+        1159283525
     ],
     "wof:supersedes":[],
     "wof:tags":[

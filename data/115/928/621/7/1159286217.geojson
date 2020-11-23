@@ -19,6 +19,7 @@
     "mz:is_current":0,
     "sfomuseum:airline_id":1264,
     "sfomuseum:brand":"Empire Air Lines",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Empire Air Lines",
     "sfomuseum:name":"Empire Air Lines",
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159286217,
-    "wof:lastmodified":1542668460,
+    "wof:lastmodified":1606164139,
     "wof:name":"Empire Air Lines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

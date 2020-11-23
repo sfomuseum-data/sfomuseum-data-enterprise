@@ -19,6 +19,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":70,
     "sfomuseum:brand":"Air France",
+    "sfomuseum:count_objects_public":77,
     "sfomuseum:hashtags":[
         "airfrance"
     ],
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1159283627,
-    "wof:lastmodified":1557783764,
+    "wof:lastmodified":1606164115,
     "wof:name":"Air France",
     "wof:parent_id":102544459,
     "wof:placetype":"enterprise",

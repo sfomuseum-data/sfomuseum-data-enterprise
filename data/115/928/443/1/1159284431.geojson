@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":430,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Germania Fluggesellschaft mbH  (Germania)",
     "sfomuseum:name":"Germania Fluggesellschaft mbH",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284431,
-    "wof:lastmodified":1557783778,
+    "wof:lastmodified":1606164122,
     "wof:name":"Germania Fluggesellschaft mbH",
     "wof:parent_id":85682499,
     "wof:placetype":"enterprise",

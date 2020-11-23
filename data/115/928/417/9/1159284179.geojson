@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":318,
+    "sfomuseum:count_objects_public":10,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Civil Air Transport (CAT)",
     "sfomuseum:name":"Civil Air Transport (CAT)",
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159284179,
-    "wof:lastmodified":1542675086,
+    "wof:lastmodified":1606164120,
     "wof:name":"Civil Air Transport (CAT)",
     "wof:parent_id":85632695,
     "wof:placetype":"enterprise",

@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":646,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Northern Express Airlines",
     "sfomuseum:name":"Northern Express Airlines",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159284905,
-    "wof:lastmodified":1542668439,
+    "wof:lastmodified":1606164127,
     "wof:name":"Northern Express Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

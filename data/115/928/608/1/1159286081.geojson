@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1199,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"United States",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Matson Navigation Company  (Matson Navigation Company, Air Division)",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159286081,
-    "wof:lastmodified":1542675113,
+    "wof:lastmodified":1606164138,
     "wof:name":"Matson Navigation Company",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

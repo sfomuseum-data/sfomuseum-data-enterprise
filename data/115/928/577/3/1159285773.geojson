@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1059,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Faucett Peruvian Airlines  (Faucett Airlines)",
     "sfomuseum:name":"Faucett Peruvian Airlines",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159285773,
-    "wof:lastmodified":1542668415,
+    "wof:lastmodified":1606164135,
     "wof:name":"Faucett Peruvian Airlines",
     "wof:parent_id":85632521,
     "wof:placetype":"enterprise",

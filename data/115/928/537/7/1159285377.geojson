@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":867,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"TriStar Airlines",
     "sfomuseum:name":"TriStar Airlines",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285377,
-    "wof:lastmodified":1557783774,
+    "wof:lastmodified":1606164131,
     "wof:name":"TriStar Airlines",
     "wof:parent_id":85974801,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":909,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"VASP",
     "sfomuseum:name":"VASP",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159285471,
-    "wof:lastmodified":1557783782,
+    "wof:lastmodified":1606164132,
     "wof:name":"VASP",
     "wof:parent_id":85633009,
     "wof:placetype":"enterprise",

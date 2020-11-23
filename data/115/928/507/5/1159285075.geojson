@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":725,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Royal Air Force (RAF)",
     "sfomuseum:name":"Royal Air Force (RAF)",
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159285075,
-    "wof:lastmodified":1542675089,
+    "wof:lastmodified":1606164128,
     "wof:name":"Royal Air Force (RAF)",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

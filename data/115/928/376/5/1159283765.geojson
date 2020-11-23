@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":131,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Ukraine",
     "sfomuseum:name":"Air Ukraine",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159283765,
-    "wof:lastmodified":1557783773,
+    "wof:lastmodified":1606164117,
     "wof:name":"Air Ukraine",
     "wof:parent_id":85633805,
     "wof:placetype":"enterprise",

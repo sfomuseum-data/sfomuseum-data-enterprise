@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":46,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Aruba",
     "sfomuseum:name":"Air Aruba",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159283573,
-    "wof:lastmodified":1557783775,
+    "wof:lastmodified":1606164115,
     "wof:name":"Air Aruba",
     "wof:parent_id":85633337,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":372,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Druck Air (Royal Bhutan Airlines)",
     "sfomuseum:name":"Druck Air (Royal Bhutan Airlines)",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159284299,
-    "wof:lastmodified":1542675084,
+    "wof:lastmodified":1606164121,
     "wof:name":"Druck Air (Royal Bhutan Airlines)",
     "wof:parent_id":85632171,
     "wof:placetype":"enterprise",

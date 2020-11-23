@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1266,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Canada",
     "sfomuseum:hub":"Ottawa",
     "sfomuseum:is_sfo":1,
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159286221,
-    "wof:lastmodified":1557783777,
+    "wof:lastmodified":1606164139,
     "wof:name":"First Air",
     "wof:parent_id":85633041,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":325,
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Condor",
     "sfomuseum:name":"Condor",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159284193,
-    "wof:lastmodified":1542668458,
+    "wof:lastmodified":1606164120,
     "wof:name":"Condor",
     "wof:parent_id":101913837,
     "wof:placetype":"enterprise",

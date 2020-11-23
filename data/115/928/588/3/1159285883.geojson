@@ -17,6 +17,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":1109,
     "sfomuseum:brand":"Real (Redes Estaduais A\u00e9reas Limitadas) Transportes A\u00e9reos",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Real S.A. Transportes Aereos  (Real (Redes Estaduais A\u00e9reas Limitadas) Transportes A\u00e9reos)",
     "sfomuseum:name":"Real S.A. Transportes Aereos",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159285883,
-    "wof:lastmodified":1542675069,
+    "wof:lastmodified":1606164135,
     "wof:name":"Real S.A. Transportes Aereos",
     "wof:parent_id":85633009,
     "wof:placetype":"enterprise",

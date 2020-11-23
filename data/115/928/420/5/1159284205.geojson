@@ -20,6 +20,7 @@
     "mz:is_nullisland":1,
     "sfomuseum:airline_id":330,
     "sfomuseum:brand":"Continental Airlines",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Continental Micronesia  (Continental Airlines)",
     "sfomuseum:name":"Continental Micronesia",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284205,
-    "wof:lastmodified":1557783779,
+    "wof:lastmodified":1606164121,
     "wof:name":"Continental Micronesia",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

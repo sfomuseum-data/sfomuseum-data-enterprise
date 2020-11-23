@@ -19,6 +19,7 @@
     "mz:is_current":0,
     "mz:is_nullisland":1,
     "sfomuseum:airline_id":1189,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Guyana",
     "sfomuseum:hub":"Georgetown / JFK",
     "sfomuseum:is_sfo":1,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1159286061,
-    "wof:lastmodified":1542668468,
+    "wof:lastmodified":1606164137,
     "wof:name":"Guy-America",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

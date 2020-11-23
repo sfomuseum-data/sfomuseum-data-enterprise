@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":523,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Kuban Airlines",
     "sfomuseum:name":"Kuban Airlines",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284631,
-    "wof:lastmodified":1557783769,
+    "wof:lastmodified":1606164124,
     "wof:name":"Kuban Airlines",
     "wof:parent_id":85632685,
     "wof:placetype":"enterprise",

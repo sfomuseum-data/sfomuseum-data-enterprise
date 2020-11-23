@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":244,
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"British Eagle International Airlines",
     "sfomuseum:name":"British Eagle International Airlines",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284017,
-    "wof:lastmodified":1557782802,
+    "wof:lastmodified":1606164119,
     "wof:name":"British Eagle International Airlines",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

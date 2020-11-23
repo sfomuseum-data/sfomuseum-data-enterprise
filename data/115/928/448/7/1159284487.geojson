@@ -15,6 +15,7 @@
     "mz:is_current":-1,
     "mz:is_nullisland":1,
     "sfomuseum:airline_id":455,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Havasu Airlines",
     "sfomuseum:name":"Havasu Airlines",
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159284487,
-    "wof:lastmodified":1542668423,
+    "wof:lastmodified":1606164123,
     "wof:name":"Havasu Airlines",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

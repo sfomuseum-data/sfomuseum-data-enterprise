@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1384,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"United States",
     "sfomuseum:hub":"Denver, CO",
     "sfomuseum:is_sfo":1,
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159286469,
-    "wof:lastmodified":1557783779,
+    "wof:lastmodified":1606164143,
     "wof:name":"Great Lakes Airlines",
     "wof:parent_id":101734121,
     "wof:placetype":"enterprise",

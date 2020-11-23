@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":139,
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Zimbabwe",
     "sfomuseum:name":"Air Zimbabwe",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159283783,
-    "wof:lastmodified":1557783774,
+    "wof:lastmodified":1606164117,
     "wof:name":"Air Zimbabwe",
     "wof:parent_id":421201479,
     "wof:placetype":"enterprise",

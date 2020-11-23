@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1046,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Avianca  (Avianca Airlines)",
     "sfomuseum:name":"Avianca",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159285749,
-    "wof:lastmodified":1557786690,
+    "wof:lastmodified":1606164134,
     "wof:name":"Avianca",
     "wof:parent_id":421186687,
     "wof:placetype":"enterprise",

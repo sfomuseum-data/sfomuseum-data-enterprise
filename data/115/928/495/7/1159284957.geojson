@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":669,
+    "sfomuseum:count_objects_public":5,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Pacific Alaska Airways",
     "sfomuseum:name":"Pacific Alaska Airways",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159284957,
-    "wof:lastmodified":1542668416,
+    "wof:lastmodified":1606164127,
     "wof:name":"Pacific Alaska Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

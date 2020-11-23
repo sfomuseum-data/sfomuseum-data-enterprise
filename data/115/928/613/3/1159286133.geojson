@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1223,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Latvia",
     "sfomuseum:hub":"Riga",
     "sfomuseum:is_sfo":1,
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159286133,
-    "wof:lastmodified":1542674299,
+    "wof:lastmodified":1606164138,
     "wof:name":"AirBaltic (airBaltic)",
     "wof:parent_id":102544349,
     "wof:placetype":"enterprise",

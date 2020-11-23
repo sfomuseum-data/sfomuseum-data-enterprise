@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":371,
+    "sfomuseum:count_objects_public":9,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Dragonair",
     "sfomuseum:name":"Dragonair",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284297,
-    "wof:lastmodified":1557783778,
+    "wof:lastmodified":1606164121,
     "wof:name":"Dragonair",
     "wof:parent_id":85632695,
     "wof:placetype":"enterprise",

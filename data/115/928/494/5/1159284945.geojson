@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":664,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Pacific Air Express",
     "sfomuseum:name":"Pacific Air Express",
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1159284945,
-    "wof:lastmodified":1557783780,
+    "wof:lastmodified":1606164127,
     "wof:name":"Pacific Air Express",
     "wof:parent_id":85632591,
     "wof:placetype":"enterprise",

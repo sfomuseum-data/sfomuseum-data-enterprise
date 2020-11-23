@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":512,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Kitty Hawk Air Cargo",
     "sfomuseum:name":"Kitty Hawk Air Cargo",
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159284605,
-    "wof:lastmodified":1542675117,
+    "wof:lastmodified":1606164124,
     "wof:name":"Kitty Hawk Air Cargo",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1048,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"BMI British Midland",
     "sfomuseum:name":"BMI British Midland",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285753,
-    "wof:lastmodified":1557783772,
+    "wof:lastmodified":1606164135,
     "wof:name":"BMI British Midland",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

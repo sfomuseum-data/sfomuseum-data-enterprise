@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1293,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Slovenia",
     "sfomuseum:hub":"Ljubljana Jo\u017ee Pu\u010dnik Airport",
     "sfomuseum:is_sfo":1,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159286275,
-    "wof:lastmodified":1557786690,
+    "wof:lastmodified":1606164140,
     "wof:name":"Adria Airways",
     "wof:parent_id":102552009,
     "wof:placetype":"enterprise",

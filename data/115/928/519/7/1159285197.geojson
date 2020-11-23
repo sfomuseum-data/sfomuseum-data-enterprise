@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":779,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Southern Air Transport",
     "sfomuseum:name":"Southern Air Transport",
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1159285197,
-    "wof:lastmodified":1557783772,
+    "wof:lastmodified":1606164130,
     "wof:name":"Southern Air Transport",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

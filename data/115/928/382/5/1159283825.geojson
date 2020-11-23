@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":158,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Aero Trasporti Italiani (ATI)  (Alitalia)",
     "sfomuseum:name":"Aero Trasporti Italiani (ATI)",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159283825,
-    "wof:lastmodified":1542668418,
+    "wof:lastmodified":1606164117,
     "wof:name":"Aero Trasporti Italiani (ATI)",
     "wof:parent_id":101757057,
     "wof:placetype":"enterprise",

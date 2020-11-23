@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":682,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Palestinian Airlines",
     "sfomuseum:name":"Palestinian Airlines",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159284983,
-    "wof:lastmodified":1557783770,
+    "wof:lastmodified":1606164128,
     "wof:name":"Palestinian Airlines",
     "wof:parent_id":1126020031,
     "wof:placetype":"enterprise",

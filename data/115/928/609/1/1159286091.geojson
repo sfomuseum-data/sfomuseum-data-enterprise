@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1203,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Ukraine",
     "sfomuseum:hub":"Kiev",
     "sfomuseum:is_sfo":1,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159286091,
-    "wof:lastmodified":1557783782,
+    "wof:lastmodified":1606164138,
     "wof:name":"Ukraine International Airlines",
     "wof:parent_id":101752489,
     "wof:placetype":"enterprise",

@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":651,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"NSW Air",
     "sfomuseum:name":"NSW Air",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159284917,
-    "wof:lastmodified":1542668441,
+    "wof:lastmodified":1606164127,
     "wof:name":"NSW Air",
     "wof:parent_id":85632793,
     "wof:placetype":"enterprise",

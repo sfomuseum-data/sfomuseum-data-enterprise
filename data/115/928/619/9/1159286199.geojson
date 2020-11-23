@@ -19,6 +19,7 @@
     "mz:is_current":0,
     "mz:is_nullisland":1,
     "sfomuseum:airline_id":1256,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"United States",
     "sfomuseum:hub":"Anchorage, AK",
     "sfomuseum:is_sfo":1,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1159286199,
-    "wof:lastmodified":1542668433,
+    "wof:lastmodified":1606164139,
     "wof:name":"Seair Alaska Airlines",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

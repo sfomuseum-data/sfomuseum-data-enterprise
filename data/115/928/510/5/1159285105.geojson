@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":738,
+    "sfomuseum:count_objects_public":34,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Sabena Belgian World Airlines  (Sabena)",
     "sfomuseum:name":"Sabena Belgian World Airlines",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1159285105,
-    "wof:lastmodified":1557783771,
+    "wof:lastmodified":1606164129,
     "wof:name":"Sabena Belgian World Airlines",
     "wof:parent_id":85802033,
     "wof:placetype":"enterprise",

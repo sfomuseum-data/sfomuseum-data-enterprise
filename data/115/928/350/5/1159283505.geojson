@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":16,
+    "sfomuseum:count_objects_public":5,
     "sfomuseum:country":"USA",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Aero California",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159283505,
-    "wof:lastmodified":1557783775,
+    "wof:lastmodified":1606164114,
     "wof:name":"Aero California",
     "wof:parent_id":85633293,
     "wof:placetype":"enterprise",

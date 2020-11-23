@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1232,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Qatar",
     "sfomuseum:hub":"Hamad International Airport",
     "sfomuseum:is_sfo":1,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1159286153,
-    "wof:lastmodified":1557783779,
+    "wof:lastmodified":1606164139,
     "wof:name":"Qatar Airways",
     "wof:parent_id":890441607,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":5,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Aces Columbia",
     "sfomuseum:name":"Aces Columbia",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159283481,
-    "wof:lastmodified":1542675105,
+    "wof:lastmodified":1606164114,
     "wof:name":"Aces Columbia",
     "wof:parent_id":85632519,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1178,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"France",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Touraine Air Transport (TAT)  (TAT European Airlines)",
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1159286037,
-    "wof:lastmodified":1542668450,
+    "wof:lastmodified":1606164137,
     "wof:name":"Touraine Air Transport (TAT)",
     "wof:parent_id":101750899,
     "wof:placetype":"enterprise",

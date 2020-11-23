@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":877,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Tyrolean Jet Services",
     "sfomuseum:name":"Tyrolean Jet Services",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159285399,
-    "wof:lastmodified":1542668461,
+    "wof:lastmodified":1606164131,
     "wof:name":"Tyrolean Jet Services",
     "wof:parent_id":101748061,
     "wof:placetype":"enterprise",

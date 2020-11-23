@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":160,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Allegheny Commuter  (Allegheny Airlines)",
     "sfomuseum:name":"Allegheny Commuter",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159283829,
-    "wof:lastmodified":1557782885,
+    "wof:lastmodified":1606164117,
     "wof:name":"Allegheny Commuter",
     "wof:parent_id":101718083,
     "wof:placetype":"enterprise",

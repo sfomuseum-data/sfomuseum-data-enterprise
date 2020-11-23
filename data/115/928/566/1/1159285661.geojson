@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1004,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Philippines",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Philippine Air Lines  (Philippine Airlines)",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285661,
-    "wof:lastmodified":1557786691,
+    "wof:lastmodified":1606164134,
     "wof:name":"Philippine Air Lines",
     "wof:parent_id":421169759,
     "wof:placetype":"enterprise",

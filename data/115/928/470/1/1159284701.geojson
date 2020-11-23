@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":555,
+    "sfomuseum:count_objects_public":4,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Los Angeles Helicopter",
     "sfomuseum:name":"Los Angeles Helicopter",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159284701,
-    "wof:lastmodified":1542668417,
+    "wof:lastmodified":1606164125,
     "wof:name":"Los Angeles Helicopter",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

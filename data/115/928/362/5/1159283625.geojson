@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":69,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Foyle",
     "sfomuseum:name":"Air Foyle",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159283625,
-    "wof:lastmodified":1542668420,
+    "wof:lastmodified":1606164115,
     "wof:name":"Air Foyle",
     "wof:parent_id":85684331,
     "wof:placetype":"enterprise",

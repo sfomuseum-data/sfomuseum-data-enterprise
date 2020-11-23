@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1259,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"United States",
     "sfomuseum:hub":"Nome Airport, Wien Memorial Arport, UnalKleet Airport",
     "sfomuseum:is_sfo":1,
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159286205,
-    "wof:lastmodified":1557783768,
+    "wof:lastmodified":1606164139,
     "wof:name":"Bering Air",
     "wof:parent_id":85915489,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":645,
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Northern Consolidated Airlines",
     "sfomuseum:name":"Northern Consolidated Airlines",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284903,
-    "wof:lastmodified":1557782819,
+    "wof:lastmodified":1606164127,
     "wof:name":"Northern Consolidated Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":116,
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Rhodesia",
     "sfomuseum:name":"Air Rhodesia",
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159283731,
-    "wof:lastmodified":1557786691,
+    "wof:lastmodified":1606164116,
     "wof:name":"Air Rhodesia",
     "wof:parent_id":85632243,
     "wof:placetype":"enterprise",

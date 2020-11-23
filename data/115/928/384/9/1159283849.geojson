@@ -19,6 +19,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":169,
     "sfomuseum:brand":"American Airlines",
+    "sfomuseum:count_objects_public":362,
     "sfomuseum:hashtags":[
         "americanairlines"
     ],
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1159283849,
-    "wof:lastmodified":1557783771,
+    "wof:lastmodified":1606164117,
     "wof:name":"American Airlines",
     "wof:parent_id":101724443,
     "wof:placetype":"enterprise",

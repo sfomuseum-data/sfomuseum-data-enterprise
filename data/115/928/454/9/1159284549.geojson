@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":486,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Nigeria",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"IRS Airlines",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284549,
-    "wof:lastmodified":1557783770,
+    "wof:lastmodified":1606164124,
     "wof:name":"IRS Airlines",
     "wof:parent_id":85632735,
     "wof:placetype":"enterprise",

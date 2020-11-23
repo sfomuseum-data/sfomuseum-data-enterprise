@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":654,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Odyssey International Airlines",
     "sfomuseum:name":"Odyssey International Airlines",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159284923,
-    "wof:lastmodified":1542675071,
+    "wof:lastmodified":1606164127,
     "wof:name":"Odyssey International Airlines",
     "wof:parent_id":85633041,
     "wof:placetype":"enterprise",

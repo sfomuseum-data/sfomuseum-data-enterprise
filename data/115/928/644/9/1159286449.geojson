@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1375,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"USA",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"TAG Airlines",
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159286449,
-    "wof:lastmodified":1542668402,
+    "wof:lastmodified":1606164142,
     "wof:name":"TAG Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

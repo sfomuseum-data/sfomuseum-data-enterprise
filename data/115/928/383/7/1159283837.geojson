@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":163,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Harrah's  (Allegiant Air)",
     "sfomuseum:name":"Harrah's",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159283837,
-    "wof:lastmodified":1542668413,
+    "wof:lastmodified":1606164117,
     "wof:name":"Harrah's",
     "wof:parent_id":85975017,
     "wof:placetype":"enterprise",

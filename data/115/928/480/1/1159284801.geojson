@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":600,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Midwest Airlines",
     "sfomuseum:name":"Midwest Airlines",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159284801,
-    "wof:lastmodified":1557783779,
+    "wof:lastmodified":1606164126,
     "wof:name":"Midwest Airlines",
     "wof:parent_id":101733079,
     "wof:placetype":"enterprise",

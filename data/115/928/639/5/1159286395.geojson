@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1349,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"USA",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Aloha Pacific Air  (Aloha Airlines)",
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1159286395,
-    "wof:lastmodified":1542668405,
+    "wof:lastmodified":1606164141,
     "wof:name":"Aloha Pacific Air",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

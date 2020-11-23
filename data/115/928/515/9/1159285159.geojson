@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":762,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"SilkAir",
     "sfomuseum:name":"SilkAir",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159285159,
-    "wof:lastmodified":1557783784,
+    "wof:lastmodified":1606164129,
     "wof:name":"SilkAir",
     "wof:parent_id":102032341,
     "wof:placetype":"enterprise",

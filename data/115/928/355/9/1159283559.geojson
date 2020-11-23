@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":40,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Aerovias Centrales",
     "sfomuseum:name":"Aerovias Centrales",
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159283559,
-    "wof:lastmodified":1542668437,
+    "wof:lastmodified":1606164115,
     "wof:name":"Aerovias Centrales",
     "wof:parent_id":85633293,
     "wof:placetype":"enterprise",

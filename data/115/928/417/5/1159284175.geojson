@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":317,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Denmark",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Cimber Air",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284175,
-    "wof:lastmodified":1557783777,
+    "wof:lastmodified":1606164120,
     "wof:name":"Cimber Air",
     "wof:parent_id":85633121,
     "wof:placetype":"enterprise",

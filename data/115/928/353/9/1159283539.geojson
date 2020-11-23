@@ -19,6 +19,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":31,
     "sfomuseum:brand":"AeroM\u00e9xico",
+    "sfomuseum:count_objects_public":37,
     "sfomuseum:hashtags":[
         "aeromexico",
         "aerom\u00e9xico"
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1159283539,
-    "wof:lastmodified":1557783765,
+    "wof:lastmodified":1606164114,
     "wof:name":"AeroM\u00e9xico",
     "wof:parent_id":857683023,
     "wof:placetype":"enterprise",

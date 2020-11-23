@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1039,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"StatesWest  (States West Airlines)",
     "sfomuseum:name":"StatesWest",
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1159285735,
-    "wof:lastmodified":1542668448,
+    "wof:lastmodified":1606164134,
     "wof:name":"StatesWest",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

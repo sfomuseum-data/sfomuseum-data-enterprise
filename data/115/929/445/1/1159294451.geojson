@@ -15,6 +15,7 @@
     "mz:is_current":-1,
     "mz:is_nullisland":1,
     "sfomuseum:airline_id":1023,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air U.S.",
     "sfomuseum:name":"Air U.S.",
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159294451,
-    "wof:lastmodified":1542668475,
+    "wof:lastmodified":1606164134,
     "wof:name":"Air U.S.",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1231,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"The Netherlands",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"VLM  (Vlaamase Luchttransportmaatschappij)",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159286151,
-    "wof:lastmodified":1542675107,
+    "wof:lastmodified":1606164139,
     "wof:name":"VLM",
     "wof:parent_id":85632997,
     "wof:placetype":"enterprise",

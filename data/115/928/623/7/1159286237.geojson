@@ -15,6 +15,7 @@
     "mz:is_current":-1,
     "mz:is_nullisland":1,
     "sfomuseum:airline_id":1273,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Sierra Nevada Helicopters",
     "sfomuseum:name":"Sierra Nevada Helicopters",
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159286237,
-    "wof:lastmodified":1542668469,
+    "wof:lastmodified":1606164140,
     "wof:name":"Sierra Nevada Helicopters",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

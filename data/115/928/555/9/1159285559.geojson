@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":948,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Xiamen Airlines",
     "sfomuseum:name":"Xiamen Airlines",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159285559,
-    "wof:lastmodified":1557783775,
+    "wof:lastmodified":1606164133,
     "wof:name":"Xiamen Airlines",
     "wof:parent_id":102027043,
     "wof:placetype":"enterprise",

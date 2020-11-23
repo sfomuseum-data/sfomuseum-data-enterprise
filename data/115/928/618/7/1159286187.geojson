@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":1248,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"United States",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"California Air Shuttle",
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159286187,
-    "wof:lastmodified":1542668469,
+    "wof:lastmodified":1606164139,
     "wof:name":"California Air Shuttle",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

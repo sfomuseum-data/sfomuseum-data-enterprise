@@ -17,6 +17,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":433,
     "sfomuseum:brand":"Gilpin Air Lines",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Gilpin Air Lines",
     "sfomuseum:name":"Gilpin Air Lines",
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1159284437,
-    "wof:lastmodified":1542668470,
+    "wof:lastmodified":1606164123,
     "wof:name":"Gilpin Air Lines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

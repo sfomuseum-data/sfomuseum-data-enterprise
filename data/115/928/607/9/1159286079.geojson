@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1197,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:country":"Sri Lanka",
     "sfomuseum:hub":"Ratmalana Airport, Bandaranaike International Airport, Colombo",
     "sfomuseum:is_sfo":1,
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159286079,
-    "wof:lastmodified":1557783782,
+    "wof:lastmodified":1606164138,
     "wof:name":"Air Ceylon",
     "wof:parent_id":85632313,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1211,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Russia",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"VASO Airlines",
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1159286109,
-    "wof:lastmodified":1542668452,
+    "wof:lastmodified":1606164138,
     "wof:name":"VASO Airlines",
     "wof:parent_id":85632685,
     "wof:placetype":"enterprise",

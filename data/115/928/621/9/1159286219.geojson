@@ -15,6 +15,7 @@
     "mz:is_current":-1,
     "mz:is_nullisland":1,
     "sfomuseum:airline_id":1265,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Fisher Island Airways",
     "sfomuseum:name":"Fisher Island Airways",
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159286219,
-    "wof:lastmodified":1542668460,
+    "wof:lastmodified":1606164139,
     "wof:name":"Fisher Island Airways",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

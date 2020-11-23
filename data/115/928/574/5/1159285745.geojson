@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1044,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Ansett Airlines of Australia  (Ansett Airlines)",
     "sfomuseum:name":"Ansett Airlines of Australia",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1159285745,
-    "wof:lastmodified":1557783774,
+    "wof:lastmodified":1606164134,
     "wof:name":"Ansett Airlines of Australia",
     "wof:parent_id":101933229,
     "wof:placetype":"enterprise",

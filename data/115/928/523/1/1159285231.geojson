@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":795,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Sun Jet International",
     "sfomuseum:name":"Sun Jet International",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159285231,
-    "wof:lastmodified":1542668464,
+    "wof:lastmodified":1606164130,
     "wof:name":"Sun Jet International",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

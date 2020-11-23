@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":677,
+    "sfomuseum:count_objects_public":242,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Pacific Southwest Airlines (PSA)",
     "sfomuseum:name":"Pacific Southwest Airlines (PSA)",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159284973,
-    "wof:lastmodified":1582766514,
+    "wof:lastmodified":1606164127,
     "wof:name":"Pacific Southwest Airlines (PSA)",
     "wof:parent_id":85922227,
     "wof:placetype":"enterprise",

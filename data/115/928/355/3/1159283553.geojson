@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":37,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Venezuela",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Aeropostal",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159283553,
-    "wof:lastmodified":1557783765,
+    "wof:lastmodified":1606164115,
     "wof:name":"Aeropostal",
     "wof:parent_id":890442147,
     "wof:placetype":"enterprise",

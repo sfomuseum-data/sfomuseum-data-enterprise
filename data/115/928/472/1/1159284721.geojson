@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":564,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Mackey Airlines  (Mackey International Airlines)",
     "sfomuseum:name":"Mackey Airlines",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159284721,
-    "wof:lastmodified":1542668469,
+    "wof:lastmodified":1606164125,
     "wof:name":"Mackey Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

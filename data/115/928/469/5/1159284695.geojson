@@ -19,6 +19,7 @@
     "mz:is_current":0,
     "sfomuseum:airline_id":553,
     "sfomuseum:brand":"Loftlei\u00f0ir HF",
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:country":"Iceland",
     "sfomuseum:hub":"Reykjavik Airport",
     "sfomuseum:is_sfo":1,
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284695,
-    "wof:lastmodified":1557857376,
+    "wof:lastmodified":1606164125,
     "wof:name":"Icelandic Airlines",
     "wof:parent_id":85633249,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":855,
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Transcontinental Air Transport (TAT)",
     "sfomuseum:name":"Transcontinental Air Transport (TAT)",
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159285357,
-    "wof:lastmodified":1542675121,
+    "wof:lastmodified":1606164131,
     "wof:name":"Transcontinental Air Transport (TAT)",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

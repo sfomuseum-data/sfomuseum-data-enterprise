@@ -17,6 +17,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":1246,
     "sfomuseum:brand":"Holyman\u2019s Airways",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Australia",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Holyman\u2019s Airways",
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1159286183,
-    "wof:lastmodified":1542668469,
+    "wof:lastmodified":1606164139,
     "wof:name":"Holyman\u2019s Airways",
     "wof:parent_id":85632793,
     "wof:placetype":"enterprise",

@@ -15,6 +15,7 @@
     "mz:is_current":-1,
     "mz:is_nullisland":1,
     "sfomuseum:airline_id":996,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:country":"USA",
     "sfomuseum:hub":"Sitka, AK",
     "sfomuseum:is_sfo":1,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159285647,
-    "wof:lastmodified":1542668448,
+    "wof:lastmodified":1606164134,
     "wof:name":"Eagle Air, Inc.",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":388,
+    "sfomuseum:count_objects_public":11,
     "sfomuseum:country":"Idaho, USA",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Empire Airlines",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284335,
-    "wof:lastmodified":1557783781,
+    "wof:lastmodified":1606164122,
     "wof:name":"Empire Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

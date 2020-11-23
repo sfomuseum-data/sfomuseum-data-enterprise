@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":883,
+    "sfomuseum:count_objects_public":586,
     "sfomuseum:hashtags":[
         "united",
         "unitedairlines"
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159285413,
-    "wof:lastmodified":1557783783,
+    "wof:lastmodified":1606164131,
     "wof:name":"United Airlines",
     "wof:parent_id":85940195,
     "wof:placetype":"enterprise",

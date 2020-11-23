@@ -19,6 +19,7 @@
     "mz:is_current":0,
     "sfomuseum:airline_id":1141,
     "sfomuseum:brand":"L\u00f3ide A\u00e9reo Nacional",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Brazil",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"L\u00f3ide A\u00e9reo Nacional",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159285953,
-    "wof:lastmodified":1557782724,
+    "wof:lastmodified":1606164136,
     "wof:name":"L\u00f3ide A\u00e9reo Nacional",
     "wof:parent_id":85633009,
     "wof:placetype":"enterprise",

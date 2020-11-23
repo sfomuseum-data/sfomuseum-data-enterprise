@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":1096,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"USA",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"All Star Airlines",
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159285857,
-    "wof:lastmodified":1542668452,
+    "wof:lastmodified":1606164135,
     "wof:name":"All Star Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

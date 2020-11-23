@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":1098,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:hashtags":[
         "icelandair"
     ],
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159285861,
-    "wof:lastmodified":1551988282,
+    "wof:lastmodified":1606164135,
     "wof:name":"Iceland Airways",
     "wof:parent_id":85633249,
     "wof:placetype":"enterprise",

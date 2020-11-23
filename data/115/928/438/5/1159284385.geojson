@@ -17,6 +17,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":410,
     "sfomuseum:brand":"FedEx",
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"FedEx",
     "sfomuseum:name":"FedEx",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159284385,
-    "wof:lastmodified":1542668410,
+    "wof:lastmodified":1606164122,
     "wof:name":"FedEx",
     "wof:parent_id":101722645,
     "wof:placetype":"enterprise",

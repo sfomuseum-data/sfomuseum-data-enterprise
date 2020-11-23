@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":946,
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Wright Airlines",
     "sfomuseum:name":"Wright Airlines",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159285555,
-    "wof:lastmodified":1557783776,
+    "wof:lastmodified":1606164133,
     "wof:name":"Wright Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

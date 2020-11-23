@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":730,
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Royal Jordanian Airlines",
     "sfomuseum:name":"Royal Jordanian Airlines",
@@ -39,7 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "flysfo:code":"RJ",    
+        "flysfo:code":"RJ",
         "iata:code":"RJ",
         "icao:callsign":"JORDANIAN",
         "icao:code":"RJA",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285087,
-    "wof:lastmodified":1557786691,
+    "wof:lastmodified":1606164129,
     "wof:name":"Royal Jordanian Airlines",
     "wof:parent_id":421200421,
     "wof:placetype":"enterprise",

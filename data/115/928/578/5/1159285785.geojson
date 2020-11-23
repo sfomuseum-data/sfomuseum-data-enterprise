@@ -17,6 +17,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":1064,
     "sfomuseum:brand":"JAL (Japan Air Lines)",
+    "sfomuseum:count_objects_public":89,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"JAL (Japan Air Lines)",
     "sfomuseum:name":"JAL (Japan Air Lines)",
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159285785,
-    "wof:lastmodified":1542668450,
+    "wof:lastmodified":1606164135,
     "wof:name":"JAL",
     "wof:parent_id":102031379,
     "wof:placetype":"enterprise",

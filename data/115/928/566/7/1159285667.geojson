@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1008,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Hungary",
     "sfomuseum:hub":"Budapest",
     "sfomuseum:is_sfo":1,
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1159285667,
-    "wof:lastmodified":1542668436,
+    "wof:lastmodified":1606164134,
     "wof:name":"Magyar Legikozlekedesi",
     "wof:parent_id":101751703,
     "wof:placetype":"enterprise",

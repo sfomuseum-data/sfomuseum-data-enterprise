@@ -15,6 +15,7 @@
     "mz:is_current":-1,
     "mz:is_nullisland":1,
     "sfomuseum:airline_id":13,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Aerial Transit Cargo",
     "sfomuseum:name":"Aerial Transit Cargo",
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159283499,
-    "wof:lastmodified":1542668460,
+    "wof:lastmodified":1606164114,
     "wof:name":"Aerial Transit Cargo",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":316,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"China Yunnan Airlines",
     "sfomuseum:name":"China Yunnan Airlines",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284173,
-    "wof:lastmodified":1557783777,
+    "wof:lastmodified":1606164120,
     "wof:name":"China Yunnan Airlines",
     "wof:parent_id":85632695,
     "wof:placetype":"enterprise",

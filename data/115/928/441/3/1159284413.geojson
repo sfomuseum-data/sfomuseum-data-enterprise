@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":422,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:country":"Greece",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Galaxy Airways",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159284413,
-    "wof:lastmodified":1542668450,
+    "wof:lastmodified":1606164122,
     "wof:name":"Galaxy Airways",
     "wof:parent_id":85633171,
     "wof:placetype":"enterprise",

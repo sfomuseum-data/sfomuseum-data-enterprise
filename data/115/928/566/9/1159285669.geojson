@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1010,
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Jet Airways",
     "sfomuseum:name":"Jet Airways",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1159285669,
-    "wof:lastmodified":1557783765,
+    "wof:lastmodified":1606164134,
     "wof:name":"Jet Airways",
     "wof:parent_id":102030609,
     "wof:placetype":"enterprise",

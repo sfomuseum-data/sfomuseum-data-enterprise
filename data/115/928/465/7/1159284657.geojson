@@ -15,6 +15,7 @@
     "mz:is_current":-1,
     "sfomuseum:airline_id":535,
     "sfomuseum:brand":"LAMSA (L\u00edneas A\u00e9reas Mexicanas)",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"LAMSA (L\u00edneas A\u00e9reas Mexicanas)",
     "sfomuseum:name":"LAMSA (L\u00edneas A\u00e9reas Mexicanas)",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159284657,
-    "wof:lastmodified":1542668428,
+    "wof:lastmodified":1606164125,
     "wof:name":"LAMSA (L\u00edneas A\u00e9reas Mexicanas)",
     "wof:parent_id":85633293,
     "wof:placetype":"enterprise",

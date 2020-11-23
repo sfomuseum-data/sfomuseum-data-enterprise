@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":586,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Merpati Nusantara Airlines  (Merpati Airlines)",
     "sfomuseum:name":"Merpati Nusantara Airlines",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284769,
-    "wof:lastmodified":1557783767,
+    "wof:lastmodified":1606164126,
     "wof:name":"Merpati Nusantara Airlines",
     "wof:parent_id":85632203,
     "wof:placetype":"enterprise",

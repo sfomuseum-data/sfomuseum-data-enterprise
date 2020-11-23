@@ -15,6 +15,7 @@
     "mz:is_current":-1,
     "mz:is_nullisland":1,
     "sfomuseum:airline_id":1125,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Caribbean International Airways",
     "sfomuseum:name":"Caribbean International Airways",
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159285919,
-    "wof:lastmodified":1542668395,
+    "wof:lastmodified":1606164136,
     "wof:name":"Caribbean International Airways",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

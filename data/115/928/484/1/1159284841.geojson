@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":618,
+    "sfomuseum:count_objects_public":65,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"National Airlines",
     "sfomuseum:name":"National Airlines",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159284841,
-    "wof:lastmodified":1542668446,
+    "wof:lastmodified":1606164126,
     "wof:name":"National Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":816,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Portugal  (TAP Air Portugal)",
     "sfomuseum:name":"Air Portugal",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285273,
-    "wof:lastmodified":1557786714,
+    "wof:lastmodified":1606164130,
     "wof:name":"Air Portugal",
     "wof:parent_id":102535643,
     "wof:placetype":"enterprise",

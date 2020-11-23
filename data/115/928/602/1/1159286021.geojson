@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1171,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"United Kingdom",
     "sfomuseum:hub":"London",
     "sfomuseum:is_sfo":1,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159286021,
-    "wof:lastmodified":1542668440,
+    "wof:lastmodified":1606164137,
     "wof:name":"S. Instone & Company Limited",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

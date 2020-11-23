@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1267,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"United States",
     "sfomuseum:hub":"Cape May, NJ",
     "sfomuseum:is_sfo":1,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159286223,
-    "wof:lastmodified":1542675097,
+    "wof:lastmodified":1606164139,
     "wof:name":"United States Overseas Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

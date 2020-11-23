@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1307,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Mid-West Airlines",
     "sfomuseum:name":"Mid-West Airlines",
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159286307,
-    "wof:lastmodified":1542675076,
+    "wof:lastmodified":1606164140,
     "wof:name":"Mid-West Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

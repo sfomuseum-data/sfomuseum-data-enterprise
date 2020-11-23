@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":990,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Australia",
     "sfomuseum:hub":"Bathhurst, New South Wales",
     "sfomuseum:is_sfo":1,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159285637,
-    "wof:lastmodified":1542668417,
+    "wof:lastmodified":1606164134,
     "wof:name":"Ansett NSW (New South Wales)",
     "wof:parent_id":101931173,
     "wof:placetype":"enterprise",

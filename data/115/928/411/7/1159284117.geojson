@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":291,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Casino Express Airlines",
     "sfomuseum:name":"Casino Express Airlines",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159284117,
-    "wof:lastmodified":1557783778,
+    "wof:lastmodified":1606164120,
     "wof:name":"Casino Express Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

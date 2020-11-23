@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":490,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Istanbul Airlines",
     "sfomuseum:name":"Istanbul Airlines",
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159284559,
-    "wof:lastmodified":1542668439,
+    "wof:lastmodified":1606164124,
     "wof:name":"Istanbul Airlines",
     "wof:parent_id":85632393,
     "wof:placetype":"enterprise",

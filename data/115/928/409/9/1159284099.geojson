@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":283,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Capitol International Airways  (Capitol Air)",
     "sfomuseum:name":"Capitol International Airways",
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1159284099,
-    "wof:lastmodified":1557786690,
+    "wof:lastmodified":1606164120,
     "wof:name":"Capitol International Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

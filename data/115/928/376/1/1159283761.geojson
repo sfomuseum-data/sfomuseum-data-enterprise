@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":130,
+    "sfomuseum:count_objects_public":4,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air UK",
     "sfomuseum:name":"Air UK",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159283761,
-    "wof:lastmodified":1557783773,
+    "wof:lastmodified":1606164117,
     "wof:name":"Air UK",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

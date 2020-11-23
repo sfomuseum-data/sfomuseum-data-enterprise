@@ -17,6 +17,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":522,
     "sfomuseum:brand":"Korean Air Lines",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Korean Air Cargo  (Korean Air Lines)",
     "sfomuseum:name":"Korean Air Cargo",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284629,
-    "wof:lastmodified":1557786691,
+    "wof:lastmodified":1606164124,
     "wof:name":"Korean Air Cargo",
     "wof:parent_id":85632231,
     "wof:placetype":"enterprise",

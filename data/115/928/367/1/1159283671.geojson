@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":90,
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Malta",
     "sfomuseum:name":"Air Malta",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159283671,
-    "wof:lastmodified":1557783776,
+    "wof:lastmodified":1606164116,
     "wof:name":"Air Malta",
     "wof:parent_id":85633331,
     "wof:placetype":"enterprise",

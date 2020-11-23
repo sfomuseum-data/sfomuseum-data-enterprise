@@ -19,6 +19,7 @@
     "mz:is_current":0,
     "sfomuseum:airline_id":238,
     "sfomuseum:brand":"Bonanza Air Lines",
+    "sfomuseum:count_objects_public":33,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Bonanza Air Lines",
     "sfomuseum:name":"Bonanza Air Lines",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159284003,
-    "wof:lastmodified":1557782837,
+    "wof:lastmodified":1606164119,
     "wof:name":"Bonanza Air Lines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

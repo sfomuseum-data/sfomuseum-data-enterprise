@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":431,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Geyserland Airways",
     "sfomuseum:name":"Geyserland Airways",
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159284433,
-    "wof:lastmodified":1542668470,
+    "wof:lastmodified":1606164123,
     "wof:name":"Geyserland Airways",
     "wof:parent_id":85633345,
     "wof:placetype":"enterprise",

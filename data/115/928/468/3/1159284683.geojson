@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":546,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Libyan Arab Airlines",
     "sfomuseum:name":"Libyan Arab Airlines",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159284683,
-    "wof:lastmodified":1557783781,
+    "wof:lastmodified":1606164125,
     "wof:name":"Libyan Arab Airlines",
     "wof:parent_id":85632627,
     "wof:placetype":"enterprise",

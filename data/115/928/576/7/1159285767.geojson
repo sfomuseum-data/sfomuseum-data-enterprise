@@ -17,6 +17,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":1056,
     "sfomuseum:brand":"Eastern Air Lines",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Eastern Express  (Eastern Air Lines)",
     "sfomuseum:name":"Eastern Express",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159285767,
-    "wof:lastmodified":1542668435,
+    "wof:lastmodified":1606164135,
     "wof:name":"Eastern Express",
     "wof:parent_id":85933669,
     "wof:placetype":"enterprise",

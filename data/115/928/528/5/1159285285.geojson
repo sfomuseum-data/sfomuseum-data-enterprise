@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":821,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Tennessee Airways",
     "sfomuseum:name":"Tennessee Airways",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159285285,
-    "wof:lastmodified":1557783771,
+    "wof:lastmodified":1606164130,
     "wof:name":"Tennessee Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":794,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:country":"Turkey",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"SunExpress Airlines",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159285229,
-    "wof:lastmodified":1542675107,
+    "wof:lastmodified":1606164130,
     "wof:name":"SunExpress Airlines",
     "wof:parent_id":85632393,
     "wof:placetype":"enterprise",

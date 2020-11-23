@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":742,
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:country":"Costa Rica",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Sansa Regional",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159285115,
-    "wof:lastmodified":1542675068,
+    "wof:lastmodified":1606164129,
     "wof:name":"Sansa Regional",
     "wof:parent_id":85632487,
     "wof:placetype":"enterprise",

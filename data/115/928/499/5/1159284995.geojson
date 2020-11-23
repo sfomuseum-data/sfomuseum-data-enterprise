@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":689,
+    "sfomuseum:count_objects_public":26,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Panair do Brasil",
     "sfomuseum:name":"Panair do Brasil",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159284995,
-    "wof:lastmodified":1557783769,
+    "wof:lastmodified":1606164128,
     "wof:name":"Panair do Brasil",
     "wof:parent_id":101953261,
     "wof:placetype":"enterprise",

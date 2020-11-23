@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":675,
+    "sfomuseum:count_objects_public":8,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Pacific Northern Airlines",
     "sfomuseum:name":"Pacific Northern Airlines",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159284967,
-    "wof:lastmodified":1557783770,
+    "wof:lastmodified":1606164127,
     "wof:name":"Pacific Northern Airlines",
     "wof:parent_id":85923517,
     "wof:placetype":"enterprise",

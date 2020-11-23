@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1340,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Seaboard & Western Airlines  (Seaboard World Airlines)",
     "sfomuseum:name":"Seaboard & Western Airlines",
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1159286377,
-    "wof:lastmodified":1557783780,
+    "wof:lastmodified":1606164141,
     "wof:name":"Seaboard & Western Airlines",
     "wof:parent_id":85977539,
     "wof:placetype":"enterprise",

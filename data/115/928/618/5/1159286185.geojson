@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":1247,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"United States",
     "sfomuseum:hub":"Texas: Dallas Love Field, Houston Hobby",
     "sfomuseum:is_sfo":1,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1159286185,
-    "wof:lastmodified":1542675144,
+    "wof:lastmodified":1606164139,
     "wof:name":"TransStar Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

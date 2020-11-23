@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":806,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"TAAG Angola Airlines",
     "sfomuseum:name":"TAAG Angola Airlines",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159285253,
-    "wof:lastmodified":1557783783,
+    "wof:lastmodified":1606164130,
     "wof:name":"TAAG Angola Airlines",
     "wof:parent_id":85632281,
     "wof:placetype":"enterprise",

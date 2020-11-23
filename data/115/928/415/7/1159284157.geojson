@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":309,
+    "sfomuseum:count_objects_public":9,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"China Eastern Airlines",
     "sfomuseum:name":"China Eastern Airlines",
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1159284157,
-    "wof:lastmodified":1557783768,
+    "wof:lastmodified":1606164120,
     "wof:name":"China Eastern Airlines",
     "wof:parent_id":102550333,
     "wof:placetype":"enterprise",

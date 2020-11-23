@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":925,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"West Coast Empire Airlines",
     "sfomuseum:name":"West Coast Empire Airlines",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159285507,
-    "wof:lastmodified":1542668461,
+    "wof:lastmodified":1606164132,
     "wof:name":"West Coast Empire Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

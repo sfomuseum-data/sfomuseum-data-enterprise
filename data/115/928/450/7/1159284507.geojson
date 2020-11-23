@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":466,
+    "sfomuseum:count_objects_public":69,
     "sfomuseum:hashtags":[
         "hughesairwest"
     ],
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284507,
-    "wof:lastmodified":1557783781,
+    "wof:lastmodified":1606164123,
     "wof:name":"Hughes Airwest",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

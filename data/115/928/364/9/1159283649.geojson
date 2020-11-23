@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":80,
+    "sfomuseum:count_objects_public":17,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air India",
     "sfomuseum:name":"Air India",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159283649,
-    "wof:lastmodified":1557783766,
+    "wof:lastmodified":1606164116,
     "wof:name":"Air India",
     "wof:parent_id":85632469,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":614,
+    "sfomuseum:count_objects_public":18,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Muse Air",
     "sfomuseum:name":"Muse Air",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284833,
-    "wof:lastmodified":1557783767,
+    "wof:lastmodified":1606164126,
     "wof:name":"Muse Air",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

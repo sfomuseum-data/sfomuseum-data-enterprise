@@ -17,6 +17,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":370,
     "sfomuseum:brand":"Dominicana de Aviaci\u00f3n",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Dominicana de Aviaci\u00f3n",
     "sfomuseum:name":"Dominicana de Aviaci\u00f3n",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284295,
-    "wof:lastmodified":1557783778,
+    "wof:lastmodified":1606164121,
     "wof:name":"Dominicana de Aviaci\u00f3n",
     "wof:parent_id":85632713,
     "wof:placetype":"enterprise",

@@ -22,6 +22,7 @@
     ],
     "sfomuseum:airline_id":1364,
     "sfomuseum:brand":"Norwegian Air Lines",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Norway",
     "sfomuseum:hub":"Oslo",
     "sfomuseum:is_sfo":1,
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159286423,
-    "wof:lastmodified":1557783768,
+    "wof:lastmodified":1606164142,
     "wof:name":"Norwegian Air Lines",
     "wof:parent_id":85633341,
     "wof:placetype":"enterprise",

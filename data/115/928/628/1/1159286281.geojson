@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1296,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Italy",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Ala Littoria",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159286281,
-    "wof:lastmodified":1557782762,
+    "wof:lastmodified":1606164140,
     "wof:name":"Ala Littoria",
     "wof:parent_id":101752607,
     "wof:placetype":"enterprise",

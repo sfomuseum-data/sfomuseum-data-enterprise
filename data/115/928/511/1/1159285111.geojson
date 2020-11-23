@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":741,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"San Juan Airlines",
     "sfomuseum:name":"San Juan Airlines",
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1159285111,
-    "wof:lastmodified":1542668406,
+    "wof:lastmodified":1606164129,
     "wof:name":"San Juan Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

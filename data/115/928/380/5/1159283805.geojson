@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":149,
+    "sfomuseum:count_objects_public":5,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"AirTran Airways",
     "sfomuseum:name":"AirTran Airways",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1159283805,
-    "wof:lastmodified":1557783783,
+    "wof:lastmodified":1606164117,
     "wof:name":"AirTran Airways",
     "wof:parent_id":101724385,
     "wof:placetype":"enterprise",

@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":294,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Catalina Amphibian Airlines",
     "sfomuseum:name":"Catalina Amphibian Airlines",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159284125,
-    "wof:lastmodified":1542668446,
+    "wof:lastmodified":1606164120,
     "wof:name":"Catalina Amphibian Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

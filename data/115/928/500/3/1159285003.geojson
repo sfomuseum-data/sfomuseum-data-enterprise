@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":693,
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"PBA (Provincetown-Boston Airlines)",
     "sfomuseum:name":"PBA (Provincetown-Boston Airlines)",
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1159285003,
-    "wof:lastmodified":1542675111,
+    "wof:lastmodified":1606164128,
     "wof:name":"PBA (Provincetown-Boston Airlines)",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

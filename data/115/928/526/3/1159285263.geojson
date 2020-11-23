@@ -17,6 +17,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":811,
     "sfomuseum:brand":"TAME (Transportes A\u00e9reos Militares Ecuatorianos)",
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"TAME (Transportes A\u00e9reos Militares Ecuatorianos)",
     "sfomuseum:name":"TAME (Transportes A\u00e9reos Militares Ecuatorianos)",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159285263,
-    "wof:lastmodified":1542675128,
+    "wof:lastmodified":1606164130,
     "wof:name":"TAME (Transportes A\u00e9reos Militares Ecuatorianos)",
     "wof:parent_id":85632261,
     "wof:placetype":"enterprise",

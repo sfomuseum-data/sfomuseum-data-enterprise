@@ -19,6 +19,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":1388,
     "sfomuseum:brand":"Swiss International Air Lines AG",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Switzerland",
     "sfomuseum:hub":"Zurich",
     "sfomuseum:is_sfo":1,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1159286475,
-    "wof:lastmodified":1557783778,
+    "wof:lastmodified":1606164143,
     "wof:name":"SWISS",
     "wof:parent_id":102544737,
     "wof:placetype":"enterprise",

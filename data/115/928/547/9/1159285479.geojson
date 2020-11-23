@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":912,
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Vietnam Airlines",
     "sfomuseum:name":"Vietnam Airlines",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285479,
-    "wof:lastmodified":1557783782,
+    "wof:lastmodified":1606164132,
     "wof:name":"Vietnam Airlines",
     "wof:parent_id":1108780791,
     "wof:placetype":"enterprise",

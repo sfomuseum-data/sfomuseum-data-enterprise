@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":89,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Mali",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Mali International  (Air Mali)",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159283669,
-    "wof:lastmodified":1557783775,
+    "wof:lastmodified":1606164116,
     "wof:name":"Air Mali International",
     "wof:parent_id":85632553,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1187,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Haiti",
     "sfomuseum:hub":"Port-au-Prince",
     "sfomuseum:is_sfo":1,
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159286057,
-    "wof:lastmodified":1557783769,
+    "wof:lastmodified":1606164137,
     "wof:name":"Air Haiti",
     "wof:parent_id":85632433,
     "wof:placetype":"enterprise",

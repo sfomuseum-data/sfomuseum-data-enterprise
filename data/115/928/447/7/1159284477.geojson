@@ -20,6 +20,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":451,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Hamburg Airlines",
     "sfomuseum:name":"Hamburg Airlines",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284477,
-    "wof:lastmodified":1557783766,
+    "wof:lastmodified":1606164123,
     "wof:name":"Hamburg Airlines",
     "wof:parent_id":85633111,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":129,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Transport International (Cargo)  (Air Transport International (ATI))",
     "sfomuseum:name":"Air Transport International (Cargo)",
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159283759,
-    "wof:lastmodified":1542675130,
+    "wof:lastmodified":1606164117,
     "wof:name":"Air Transport International (Cargo)",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

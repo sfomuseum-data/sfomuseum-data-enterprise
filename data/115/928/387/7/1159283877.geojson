@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":182,
+    "sfomuseum:count_objects_public":19,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Ansett Australia",
     "sfomuseum:name":"Ansett Australia",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1159283877,
-    "wof:lastmodified":1557783783,
+    "wof:lastmodified":1606164118,
     "wof:name":"Ansett Australia",
     "wof:parent_id":101933229,
     "wof:placetype":"enterprise",

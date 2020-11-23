@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1182,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Switzerland",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Ad Astra Aero",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159286045,
-    "wof:lastmodified":1557782828,
+    "wof:lastmodified":1606164137,
     "wof:name":"Ad Astra Aero",
     "wof:parent_id":101748463,
     "wof:placetype":"enterprise",

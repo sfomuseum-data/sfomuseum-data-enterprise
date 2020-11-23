@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":740,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"San Francisco Helicopter Tours",
     "sfomuseum:name":"San Francisco Helicopter Tours",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159285109,
-    "wof:lastmodified":1542668445,
+    "wof:lastmodified":1606164129,
     "wof:name":"San Francisco Helicopter Tours",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

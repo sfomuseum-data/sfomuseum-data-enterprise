@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":622,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Nepal Airlines",
     "sfomuseum:name":"Nepal Airlines",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1159284851,
-    "wof:lastmodified":1557783766,
+    "wof:lastmodified":1606164126,
     "wof:name":"Nepal Airlines",
     "wof:parent_id":421168831,
     "wof:placetype":"enterprise",

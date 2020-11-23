@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1209,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Latvia",
     "sfomuseum:hub":"Mazrudas",
     "sfomuseum:is_sfo":1,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159286105,
-    "wof:lastmodified":1557783767,
+    "wof:lastmodified":1606164138,
     "wof:name":"LatCharter",
     "wof:parent_id":85686007,
     "wof:placetype":"enterprise",

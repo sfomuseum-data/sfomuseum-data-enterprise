@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":152,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Alaska Aeronautical Industries",
     "sfomuseum:name":"Alaska Aeronautical Industries",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159283811,
-    "wof:lastmodified":1542668467,
+    "wof:lastmodified":1606164117,
     "wof:name":"Alaska Aeronautical Industries",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

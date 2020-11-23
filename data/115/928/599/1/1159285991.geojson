@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1158,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:hub":"Savannah, GA",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Key Airlines",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159285991,
-    "wof:lastmodified":1557782926,
+    "wof:lastmodified":1606164136,
     "wof:name":"Key Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

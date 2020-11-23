@@ -15,6 +15,7 @@
     "mz:is_current":-1,
     "mz:is_nullisland":1,
     "sfomuseum:airline_id":921,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Wearne's Air Services",
     "sfomuseum:name":"Wearne's Air Services",
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159285499,
-    "wof:lastmodified":1542668443,
+    "wof:lastmodified":1606164132,
     "wof:name":"Wearne's Air Services",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

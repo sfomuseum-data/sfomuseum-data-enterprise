@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":7,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Aden Airways",
     "sfomuseum:name":"Aden Airways",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159283485,
-    "wof:lastmodified":1557782864,
+    "wof:lastmodified":1606164114,
     "wof:name":"Aden Airways",
     "wof:parent_id":85632499,
     "wof:placetype":"enterprise",

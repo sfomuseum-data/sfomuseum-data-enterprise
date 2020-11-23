@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":681,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Pakistan International Cargo  (Pakistan International Airlines)",
     "sfomuseum:name":"Pakistan International Cargo",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159284981,
-    "wof:lastmodified":1542668442,
+    "wof:lastmodified":1606164128,
     "wof:name":"Pakistan International Cargo",
     "wof:parent_id":85632659,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":783,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Spanish Air Taxi  (Spantax)",
     "sfomuseum:name":"Spanish Air Taxi",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159285207,
-    "wof:lastmodified":1542668456,
+    "wof:lastmodified":1606164130,
     "wof:name":"Spanish Air Taxi",
     "wof:parent_id":85633129,
     "wof:placetype":"enterprise",

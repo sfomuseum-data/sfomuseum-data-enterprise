@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":533,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Linhas A\u00e9reas de Mo\u00e7ambique  (LAM Mozambique Airlines)",
     "sfomuseum:name":"Linhas A\u00e9reas de Mo\u00e7ambique",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284653,
-    "wof:lastmodified":1557786714,
+    "wof:lastmodified":1606164125,
     "wof:name":"Linhas A\u00e9reas de Mo\u00e7ambique",
     "wof:parent_id":421167893,
     "wof:placetype":"enterprise",

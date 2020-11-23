@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":469,
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"IcelandAir",
     "sfomuseum:name":"IcelandAir",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159284513,
-    "wof:lastmodified":1557783780,
+    "wof:lastmodified":1606164123,
     "wof:name":"IcelandAir",
     "wof:parent_id":101751753,
     "wof:placetype":"enterprise",

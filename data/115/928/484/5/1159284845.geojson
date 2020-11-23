@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":619,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"South Africa",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"National Airways Corporation",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159284845,
-    "wof:lastmodified":1542668446,
+    "wof:lastmodified":1606164126,
     "wof:name":"National Airways Corporation",
     "wof:parent_id":85633345,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":25,
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Aeroflot Russian Airlines",
     "sfomuseum:name":"Aeroflot Russian Airlines",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1159283525,
-    "wof:lastmodified":1557783765,
+    "wof:lastmodified":1606164114,
     "wof:name":"Aeroflot Russian Airlines",
     "wof:parent_id":102003033,
     "wof:placetype":"enterprise",
@@ -79,7 +80,7 @@
     ],
     "wof:superseded_by":[],
     "wof:supersedes":[
-	1159283525
+        1159283525
     ],
     "wof:tags":[
         "airline",

@@ -15,6 +15,7 @@
     "mz:is_current":-1,
     "sfomuseum:airline_id":1095,
     "sfomuseum:brand":"DNL Norwegian Air Lines ",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"DNL Norwegian Air Lines  (DNL Norwegian Air Lines )",
     "sfomuseum:name":"DNL Norwegian Air Lines",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159285855,
-    "wof:lastmodified":1542668452,
+    "wof:lastmodified":1606164135,
     "wof:name":"DNL Norwegian Air Lines",
     "wof:parent_id":85633341,
     "wof:placetype":"enterprise",

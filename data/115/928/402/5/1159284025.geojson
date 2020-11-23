@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":248,
+    "sfomuseum:count_objects_public":45,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"British Commonwealth Pacific Airlines (BCPA)",
     "sfomuseum:name":"British Commonwealth Pacific Airlines (BCPA)",
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159284025,
-    "wof:lastmodified":1542675100,
+    "wof:lastmodified":1606164119,
     "wof:name":"British Commonwealth Pacific Airlines (BCPA)",
     "wof:parent_id":85632793,
     "wof:placetype":"enterprise",

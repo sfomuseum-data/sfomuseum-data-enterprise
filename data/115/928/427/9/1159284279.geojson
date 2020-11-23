@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":363,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Deutsche BA",
     "sfomuseum:name":"Deutsche BA",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159284279,
-    "wof:lastmodified":1557783779,
+    "wof:lastmodified":1606164121,
     "wof:name":"Deutsche BA",
     "wof:parent_id":101748479,
     "wof:placetype":"enterprise",

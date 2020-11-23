@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":950,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Yemen Airways",
     "sfomuseum:name":"Yemen Airways",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159294449,
-    "wof:lastmodified":1557786690,
+    "wof:lastmodified":1606164133,
     "wof:name":"Yemen Airways",
     "wof:parent_id":85632499,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1201,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Ireland",
     "sfomuseum:hub":"Dublin",
     "sfomuseum:is_sfo":1,
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159286087,
-    "wof:lastmodified":1542668449,
+    "wof:lastmodified":1606164138,
     "wof:name":"Aer Turas",
     "wof:parent_id":85633241,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":219,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Russia",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Aviast",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159283959,
-    "wof:lastmodified":1557783774,
+    "wof:lastmodified":1606164118,
     "wof:name":"Aviast",
     "wof:parent_id":85632685,
     "wof:placetype":"enterprise",

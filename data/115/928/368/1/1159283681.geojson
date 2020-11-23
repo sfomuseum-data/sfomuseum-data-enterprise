@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":94,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Moldova",
     "sfomuseum:name":"Air Moldova",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159283681,
-    "wof:lastmodified":1557783775,
+    "wof:lastmodified":1606164116,
     "wof:name":"Air Moldova",
     "wof:parent_id":101751793,
     "wof:placetype":"enterprise",

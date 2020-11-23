@@ -17,6 +17,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":407,
     "sfomuseum:brand":"Farman Air Lines",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Belgium",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Farman Air Lines",
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159284379,
-    "wof:lastmodified":1542668451,
+    "wof:lastmodified":1606164122,
     "wof:name":"Farman Air Lines",
     "wof:parent_id":1125768175,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1006,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Canada",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Norcanair",
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1159285665,
-    "wof:lastmodified":1557782721,
+    "wof:lastmodified":1606164134,
     "wof:name":"Norcanair",
     "wof:parent_id":85633041,
     "wof:placetype":"enterprise",

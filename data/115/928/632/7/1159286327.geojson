@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1316,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Avio Linee Italiane",
     "sfomuseum:name":"Avio Linee Italiane",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159286327,
-    "wof:lastmodified":1557782836,
+    "wof:lastmodified":1606164141,
     "wof:name":"Avio Linee Italiane",
     "wof:parent_id":101752703,
     "wof:placetype":"enterprise",

@@ -15,6 +15,7 @@
     "mz:is_current":-1,
     "mz:is_nullisland":1,
     "sfomuseum:airline_id":190,
+    "sfomuseum:count_objects_public":13,
     "sfomuseum:country":"USA",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Apollo Airways",
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159283895,
-    "wof:lastmodified":1542668413,
+    "wof:lastmodified":1606164118,
     "wof:name":"Apollo Airways",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

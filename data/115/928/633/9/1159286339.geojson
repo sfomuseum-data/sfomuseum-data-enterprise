@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1321,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Magyar Legiforgalmi",
     "sfomuseum:name":"Magyar Legiforgalmi",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159286339,
-    "wof:lastmodified":1542675110,
+    "wof:lastmodified":1606164141,
     "wof:name":"Magyar Legiforgalmi",
     "wof:parent_id":85633237,
     "wof:placetype":"enterprise",

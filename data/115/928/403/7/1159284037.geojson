@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":254,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"British United Airways (BUA)",
     "sfomuseum:name":"British United Airways (BUA)",
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159284037,
-    "wof:lastmodified":1542675108,
+    "wof:lastmodified":1606164119,
     "wof:name":"British United Airways (BUA)",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

@@ -15,6 +15,7 @@
     "mz:is_current":-1,
     "sfomuseum:airline_id":1108,
     "sfomuseum:brand":"Services Aeriens Internationaux D\u2019Egypte (S.A.I.D.E.)",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Services Aeriens Internationaux D\u2019Egypte (S.A.I.D.E.)",
     "sfomuseum:name":"Services Aeriens Internationaux D\u2019Egypte (S.A.I.D.E.)",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159285881,
-    "wof:lastmodified":1542668408,
+    "wof:lastmodified":1606164135,
     "wof:name":"Services Aeriens Internationaux D\u2019Egypte (S.A.I.D.E.)",
     "wof:parent_id":85632581,
     "wof:placetype":"enterprise",

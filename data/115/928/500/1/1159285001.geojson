@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":692,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"PayAm Air",
     "sfomuseum:name":"PayAm Air",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159285001,
-    "wof:lastmodified":1542675111,
+    "wof:lastmodified":1606164128,
     "wof:name":"PayAm Air",
     "wof:parent_id":85632361,
     "wof:placetype":"enterprise",

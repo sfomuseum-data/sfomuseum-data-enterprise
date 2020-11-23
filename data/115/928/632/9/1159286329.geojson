@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1317,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Japan Air Transport Corporation",
     "sfomuseum:name":"Japan Air Transport Corporation",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159286329,
-    "wof:lastmodified":1542668439,
+    "wof:lastmodified":1606164141,
     "wof:name":"Japan Air Transport Corporation",
     "wof:parent_id":85632429,
     "wof:placetype":"enterprise",

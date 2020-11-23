@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":809,
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"TAM Airlines",
     "sfomuseum:name":"TAM Airlines",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159285259,
-    "wof:lastmodified":1557786690,
+    "wof:lastmodified":1606164130,
     "wof:name":"TAM Airlines",
     "wof:parent_id":85633009,
     "wof:placetype":"enterprise",

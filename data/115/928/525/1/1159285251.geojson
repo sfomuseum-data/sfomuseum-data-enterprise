@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":805,
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Syrian Arab Airlines  (Syrianair)",
     "sfomuseum:name":"Syrian Arab Airlines",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159285251,
-    "wof:lastmodified":1557786691,
+    "wof:lastmodified":1606164130,
     "wof:name":"Syrian Arab Airlines",
     "wof:parent_id":421202165,
     "wof:placetype":"enterprise",

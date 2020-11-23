@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":281,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"USA",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Capital Cargo International",
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1159284095,
-    "wof:lastmodified":1542675133,
+    "wof:lastmodified":1606164120,
     "wof:name":"Capital Cargo International",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

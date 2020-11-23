@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":832,
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Tradewinds Airlines",
     "sfomuseum:name":"Tradewinds Airlines",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159285307,
-    "wof:lastmodified":1557783775,
+    "wof:lastmodified":1606164130,
     "wof:name":"Tradewinds Airlines",
     "wof:parent_id":85980391,
     "wof:placetype":"enterprise",

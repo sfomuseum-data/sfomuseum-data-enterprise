@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":255,
+    "sfomuseum:count_objects_public":5,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"BWIA International Airways",
     "sfomuseum:name":"BWIA International Airways",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159284039,
-    "wof:lastmodified":1557783782,
+    "wof:lastmodified":1606164119,
     "wof:name":"BWIA International Airways",
     "wof:parent_id":85632271,
     "wof:placetype":"enterprise",

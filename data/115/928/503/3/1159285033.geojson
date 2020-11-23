@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":706,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Presidential Airways",
     "sfomuseum:name":"Presidential Airways",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159285033,
-    "wof:lastmodified":1542668449,
+    "wof:lastmodified":1606164128,
     "wof:name":"Presidential Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

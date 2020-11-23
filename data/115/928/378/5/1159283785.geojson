@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":140,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Malaysia",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"AirAsia",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1159283785,
-    "wof:lastmodified":1557783774,
+    "wof:lastmodified":1606164117,
     "wof:name":"AirAsia",
     "wof:parent_id":102551991,
     "wof:placetype":"enterprise",

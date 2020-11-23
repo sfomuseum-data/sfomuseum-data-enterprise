@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":143,
+    "sfomuseum:count_objects_public":66,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"AirCal",
     "sfomuseum:name":"AirCal",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159283791,
-    "wof:lastmodified":1557783771,
+    "wof:lastmodified":1606164117,
     "wof:name":"AirCal",
     "wof:parent_id":85923075,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":850,
+    "sfomuseum:count_objects_public":10,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Trans Australia Airlines (TAA)",
     "sfomuseum:name":"Trans Australia Airlines (TAA)",
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159285345,
-    "wof:lastmodified":1542675119,
+    "wof:lastmodified":1606164131,
     "wof:name":"Trans Australia Airlines (TAA)",
     "wof:parent_id":85632793,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1159,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"France",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"XL Airways  (XL Airways France)",
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1159285993,
-    "wof:lastmodified":1542668425,
+    "wof:lastmodified":1606164136,
     "wof:name":"XL Airways",
     "wof:parent_id":102544459,
     "wof:placetype":"enterprise",

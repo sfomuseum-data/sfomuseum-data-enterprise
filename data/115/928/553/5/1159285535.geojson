@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":937,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Wien Consolidated Airlines  (Wien Air Alaska)",
     "sfomuseum:name":"Wien Consolidated Airlines",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159285535,
-    "wof:lastmodified":1557782953,
+    "wof:lastmodified":1606164133,
     "wof:name":"Wien Consolidated Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

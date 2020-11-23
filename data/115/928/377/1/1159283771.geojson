@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":134,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Vietnam",
     "sfomuseum:name":"Air Vietnam",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159283771,
-    "wof:lastmodified":1557783771,
+    "wof:lastmodified":1606164117,
     "wof:name":"Air Vietnam",
     "wof:parent_id":85632763,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":221,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Aviateca",
     "sfomuseum:name":"Aviateca",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159283965,
-    "wof:lastmodified":1557783764,
+    "wof:lastmodified":1606164118,
     "wof:name":"Aviateca",
     "wof:parent_id":85632385,
     "wof:placetype":"enterprise",

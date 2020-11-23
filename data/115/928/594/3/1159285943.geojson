@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1136,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Argentina",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Lineas Aereas Del Estado (LADE)",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159285943,
-    "wof:lastmodified":1542675120,
+    "wof:lastmodified":1606164136,
     "wof:name":"Lineas Aereas Del Estado (LADE)",
     "wof:parent_id":85632505,
     "wof:placetype":"enterprise",

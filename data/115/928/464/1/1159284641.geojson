@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":528,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Ladeco Airlines",
     "sfomuseum:name":"Ladeco Airlines",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159284641,
-    "wof:lastmodified":1542675096,
+    "wof:lastmodified":1606164124,
     "wof:name":"Ladeco Airlines",
     "wof:parent_id":85633057,
     "wof:placetype":"enterprise",

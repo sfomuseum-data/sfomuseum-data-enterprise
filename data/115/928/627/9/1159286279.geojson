@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1295,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Italy",
     "sfomuseum:hub":"Catania-Fontanarossa",
     "sfomuseum:is_sfo":1,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159286279,
-    "wof:lastmodified":1542668460,
+    "wof:lastmodified":1606164140,
     "wof:name":"Airone",
     "wof:parent_id":101757057,
     "wof:placetype":"enterprise",

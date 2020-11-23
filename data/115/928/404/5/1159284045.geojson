@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":258,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Buffalo Airways",
     "sfomuseum:name":"Buffalo Airways",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159284045,
-    "wof:lastmodified":1557783782,
+    "wof:lastmodified":1606164119,
     "wof:name":"Buffalo Airways",
     "wof:parent_id":85633041,
     "wof:placetype":"enterprise",

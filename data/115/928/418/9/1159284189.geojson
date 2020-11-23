@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":323,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"USA",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Canadian Colonial Airways  (Colonial Airlines)",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159284189,
-    "wof:lastmodified":1557782991,
+    "wof:lastmodified":1606164120,
     "wof:name":"Canadian Colonial Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

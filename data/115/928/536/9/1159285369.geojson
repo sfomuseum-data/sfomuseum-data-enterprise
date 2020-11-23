@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":861,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Russia",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Transportes Aereos Portugueses",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159285369,
-    "wof:lastmodified":1557786714,
+    "wof:lastmodified":1606164131,
     "wof:name":"Transportes Aereos Portugueses",
     "wof:parent_id":102535643,
     "wof:placetype":"enterprise",

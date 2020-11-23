@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":204,
+    "sfomuseum:count_objects_public":20,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"American Trans Air  (ATA Airlines)",
     "sfomuseum:name":"American Trans Air",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159283927,
-    "wof:lastmodified":1557783775,
+    "wof:lastmodified":1606164118,
     "wof:name":"American Trans Air",
     "wof:parent_id":85942569,
     "wof:placetype":"enterprise",

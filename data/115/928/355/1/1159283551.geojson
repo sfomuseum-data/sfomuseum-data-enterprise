@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":36,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Aeroperu",
     "sfomuseum:name":"Aeroperu",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159283551,
-    "wof:lastmodified":1557783765,
+    "wof:lastmodified":1606164115,
     "wof:name":"Aeroperu",
     "wof:parent_id":421186805,
     "wof:placetype":"enterprise",

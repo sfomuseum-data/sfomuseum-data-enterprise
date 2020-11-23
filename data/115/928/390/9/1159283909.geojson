@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":196,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Arista Airlines",
     "sfomuseum:name":"Arista Airlines",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159283909,
-    "wof:lastmodified":1542668454,
+    "wof:lastmodified":1606164118,
     "wof:name":"Arista Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

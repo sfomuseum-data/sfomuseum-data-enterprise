@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1365,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"United Kingdom",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Invicta International Airlines",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159286425,
-    "wof:lastmodified":1557783768,
+    "wof:lastmodified":1606164142,
     "wof:name":"Invicta International Airlines",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

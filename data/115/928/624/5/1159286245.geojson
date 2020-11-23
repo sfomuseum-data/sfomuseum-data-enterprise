@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1278,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Trans Sierra Airlines  (Sierra Pacific Airlines)",
     "sfomuseum:name":"Trans Sierra Airlines",
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1159286245,
-    "wof:lastmodified":1542668468,
+    "wof:lastmodified":1606164140,
     "wof:name":"Trans Sierra Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

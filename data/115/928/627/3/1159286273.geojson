@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1292,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Japan",
     "sfomuseum:hub":"Narita International Airport",
     "sfomuseum:is_sfo":1,
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159286273,
-    "wof:lastmodified":1557783768,
+    "wof:lastmodified":1606164140,
     "wof:name":"JALways",
     "wof:parent_id":85672817,
     "wof:placetype":"enterprise",

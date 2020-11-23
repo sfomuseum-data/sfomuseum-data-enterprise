@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":545,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Antigua",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Leeward Islands Air Transport (LIAT)",
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159284679,
-    "wof:lastmodified":1542674299,
+    "wof:lastmodified":1606164125,
     "wof:name":"Leeward Islands Air Transport (LIAT)",
     "wof:parent_id":890445621,
     "wof:placetype":"enterprise",

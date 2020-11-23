@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":784,
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Spirit Airlines",
     "sfomuseum:name":"Spirit Airlines",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159285209,
-    "wof:lastmodified":1557783773,
+    "wof:lastmodified":1606164130,
     "wof:name":"Spirit Airlines",
     "wof:parent_id":85932323,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1280,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"United States",
     "sfomuseum:hub":"Montauk, Long Island, New York",
     "sfomuseum:is_sfo":1,
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159286251,
-    "wof:lastmodified":1542668447,
+    "wof:lastmodified":1606164140,
     "wof:name":"Montauk Caribbean Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

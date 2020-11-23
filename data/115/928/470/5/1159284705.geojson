@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":557,
+    "sfomuseum:count_objects_public":11,
     "sfomuseum:country":"Poland",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"LOT (Polish Airlines)",
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159284705,
-    "wof:lastmodified":1557783768,
+    "wof:lastmodified":1606164125,
     "wof:name":"LOT (Polish Airlines)",
     "wof:parent_id":85633723,
     "wof:placetype":"enterprise",

@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":477,
+    "sfomuseum:count_objects_public":19,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Inland Empire Airlines (IEA)",
     "sfomuseum:name":"Inland Empire Airlines (IEA)",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159284531,
-    "wof:lastmodified":1542668466,
+    "wof:lastmodified":1606164123,
     "wof:name":"Inland Empire Airlines (IEA)",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

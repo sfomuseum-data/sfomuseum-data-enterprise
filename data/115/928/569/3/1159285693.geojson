@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1020,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"airline",
     "src:geom":"woedb",
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1159285693,
-    "wof:lastmodified":1542674299,
+    "wof:lastmodified":1606164134,
     "wof:name":"Air Polyn\u00e9sie",
     "wof:parent_id":102558779,
     "wof:placetype":"enterprise",

@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":442,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Great American Airways",
     "sfomuseum:name":"Great American Airways",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159284457,
-    "wof:lastmodified":1542668441,
+    "wof:lastmodified":1606164123,
     "wof:name":"Great American Airways",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

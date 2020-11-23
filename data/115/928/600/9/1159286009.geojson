@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1166,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"SriLankan Airlines",
     "sfomuseum:name":"SriLankan Airlines",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159286009,
-    "wof:lastmodified":1557786714,
+    "wof:lastmodified":1606164136,
     "wof:name":"SriLankan Airlines",
     "wof:parent_id":85632313,
     "wof:placetype":"enterprise",

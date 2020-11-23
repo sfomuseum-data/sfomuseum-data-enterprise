@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":213,
+    "sfomuseum:count_objects_public":13,
     "sfomuseum:hashtags":[
         "austrianairlines"
     ],
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1159283947,
-    "wof:lastmodified":1557783776,
+    "wof:lastmodified":1606164118,
     "wof:name":"Austrian Airlines",
     "wof:parent_id":102556267,
     "wof:placetype":"enterprise",

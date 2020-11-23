@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":1116,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Sivewright Airways LTD",
     "sfomuseum:name":"Sivewright Airways LTD",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159285899,
-    "wof:lastmodified":1542668407,
+    "wof:lastmodified":1606164136,
     "wof:name":"Sivewright Airways LTD",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":135,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Viking Airlines",
     "sfomuseum:name":"Air Viking Airlines",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159283773,
-    "wof:lastmodified":1542675089,
+    "wof:lastmodified":1606164117,
     "wof:name":"Air Viking Airlines",
     "wof:parent_id":85633041,
     "wof:placetype":"enterprise",

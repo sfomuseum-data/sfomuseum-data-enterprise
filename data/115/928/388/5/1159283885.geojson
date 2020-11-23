@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":186,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Ansett Express Shuttle  (Ansett Australia)",
     "sfomuseum:name":"Ansett Express Shuttle",
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1159283885,
-    "wof:lastmodified":1542668417,
+    "wof:lastmodified":1606164118,
     "wof:name":"Ansett Express Shuttle",
     "wof:parent_id":101933229,
     "wof:placetype":"enterprise",

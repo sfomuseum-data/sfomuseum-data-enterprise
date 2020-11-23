@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":514,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"New Zealand",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Kiwi Travel International Airlines",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284611,
-    "wof:lastmodified":1557786690,
+    "wof:lastmodified":1606164124,
     "wof:name":"Kiwi Travel International Airlines",
     "wof:parent_id":85633345,
     "wof:placetype":"enterprise",

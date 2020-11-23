@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":639,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"North American Aviation",
     "sfomuseum:name":"North American Aviation",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284889,
-    "wof:lastmodified":1557782975,
+    "wof:lastmodified":1606164127,
     "wof:name":"North American Aviation",
     "wof:parent_id":85923517,
     "wof:placetype":"enterprise",

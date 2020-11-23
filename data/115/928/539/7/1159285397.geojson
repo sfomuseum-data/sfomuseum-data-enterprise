@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":876,
+    "sfomuseum:count_objects_public":4,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"TW Express  (TWA (Trans World Airlines))",
     "sfomuseum:name":"TW Express",
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159285397,
-    "wof:lastmodified":1542675134,
+    "wof:lastmodified":1606164131,
     "wof:name":"TW Express",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":66,
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:country":"Spain",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Europa",
@@ -42,7 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "flysfo:code":"UX",    
+        "flysfo:code":"UX",
         "iata:code":"UX",
         "icao:callsign":"EUROPA",
         "icao:code":"AEA",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1159283617,
-    "wof:lastmodified":1557786714,
+    "wof:lastmodified":1606164115,
     "wof:name":"Air Europa",
     "wof:parent_id":101777747,
     "wof:placetype":"enterprise",

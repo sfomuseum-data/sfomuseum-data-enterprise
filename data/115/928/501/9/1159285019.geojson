@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":700,
+    "sfomuseum:count_objects_public":76,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Piedmont Airlines",
     "sfomuseum:name":"Piedmont Airlines",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159285019,
-    "wof:lastmodified":1557783775,
+    "wof:lastmodified":1606164128,
     "wof:name":"Piedmont Airlines",
     "wof:parent_id":85949177,
     "wof:placetype":"enterprise",

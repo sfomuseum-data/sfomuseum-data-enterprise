@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1137,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"United Kingdom",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Morton Air Services",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159285945,
-    "wof:lastmodified":1557783764,
+    "wof:lastmodified":1606164136,
     "wof:name":"Morton Air Services",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

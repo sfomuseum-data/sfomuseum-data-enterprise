@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":764,
+    "sfomuseum:count_objects_public":44,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Singapore Airlines",
     "sfomuseum:name":"Singapore Airlines",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159285163,
-    "wof:lastmodified":1557783773,
+    "wof:lastmodified":1606164129,
     "wof:name":"Singapore Airlines",
     "wof:parent_id":102032341,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":595,
+    "sfomuseum:count_objects_public":4,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Mid Pacific Air",
     "sfomuseum:name":"Mid Pacific Air",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284791,
-    "wof:lastmodified":1557783768,
+    "wof:lastmodified":1606164126,
     "wof:name":"Mid Pacific Air",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

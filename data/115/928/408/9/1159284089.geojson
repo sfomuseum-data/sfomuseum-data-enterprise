@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":278,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Canadian Regional Airlines",
     "sfomuseum:name":"Canadian Regional Airlines",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159284089,
-    "wof:lastmodified":1557783769,
+    "wof:lastmodified":1606164120,
     "wof:name":"Canadian Regional Airlines",
     "wof:parent_id":85633041,
     "wof:placetype":"enterprise",

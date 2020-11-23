@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":532,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"LAM Mozambique Airlines",
     "sfomuseum:name":"LAM Mozambique Airlines",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159284651,
-    "wof:lastmodified":1557786714,
+    "wof:lastmodified":1606164125,
     "wof:name":"LAM Mozambique Airlines",
     "wof:parent_id":421167893,
     "wof:placetype":"enterprise",

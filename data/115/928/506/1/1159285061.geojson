@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":718,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Regional Express Air (REX)",
     "sfomuseum:name":"Regional Express Air (REX)",
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159285061,
-    "wof:lastmodified":1542675095,
+    "wof:lastmodified":1606164128,
     "wof:name":"Regional Express Air (REX)",
     "wof:parent_id":85632793,
     "wof:placetype":"enterprise",

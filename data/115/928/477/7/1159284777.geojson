@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":589,
+    "sfomuseum:count_objects_public":7,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Mexican Aviation Company",
     "sfomuseum:name":"Mexican Aviation Company",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159284777,
-    "wof:lastmodified":1542668454,
+    "wof:lastmodified":1606164126,
     "wof:name":"Mexican Aviation Company",
     "wof:parent_id":85633293,
     "wof:placetype":"enterprise",

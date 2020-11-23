@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":421,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"USA",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Galaxy Airlines (USA)",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159284409,
-    "wof:lastmodified":1542675072,
+    "wof:lastmodified":1606164122,
     "wof:name":"Galaxy Airlines (USA)",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

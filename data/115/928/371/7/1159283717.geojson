@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":110,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Fiji Airways  (Air Pacific)",
     "sfomuseum:name":"Fiji Airways",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159283717,
-    "wof:lastmodified":1557783772,
+    "wof:lastmodified":1606164116,
     "wof:name":"Fiji Airways",
     "wof:parent_id":102555575,
     "wof:placetype":"enterprise",

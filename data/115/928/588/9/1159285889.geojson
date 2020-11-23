@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1111,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Hong Kong Airways",
     "sfomuseum:name":"Hong Kong Airways",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159285889,
-    "wof:lastmodified":1557782872,
+    "wof:lastmodified":1606164135,
     "wof:name":"Hong Kong Airways",
     "wof:parent_id":85632483,
     "wof:placetype":"enterprise",

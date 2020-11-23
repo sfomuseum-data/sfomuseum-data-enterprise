@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":346,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"\u010ceskoslovensk\u00e9 Statni Aerolinie  (Czech Airlines)",
     "sfomuseum:name":"\u010ceskoslovensk\u00e9 Statni Aerolinie",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159284241,
-    "wof:lastmodified":1542668444,
+    "wof:lastmodified":1606164121,
     "wof:name":"\u010ceskoslovensk\u00e9 Statni Aerolinie",
     "wof:parent_id":101748113,
     "wof:placetype":"enterprise",

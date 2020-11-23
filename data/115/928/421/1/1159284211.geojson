@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":333,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Panama",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Copa Airlines",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159284211,
-    "wof:lastmodified":1557783777,
+    "wof:lastmodified":1606164121,
     "wof:name":"Copa Airlines",
     "wof:parent_id":890445081,
     "wof:placetype":"enterprise",

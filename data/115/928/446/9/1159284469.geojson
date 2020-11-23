@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":447,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Guyana Air 2000",
     "sfomuseum:name":"Guyana Air 2000",
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159284469,
-    "wof:lastmodified":1542668396,
+    "wof:lastmodified":1606164123,
     "wof:name":"Guyana Air 2000",
     "wof:parent_id":85632397,
     "wof:placetype":"enterprise",

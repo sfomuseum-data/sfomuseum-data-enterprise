@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":8,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"AECA Carga",
     "sfomuseum:name":"AECA Carga",
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159283487,
-    "wof:lastmodified":1542668443,
+    "wof:lastmodified":1606164114,
     "wof:name":"AECA Carga",
     "wof:parent_id":85632261,
     "wof:placetype":"enterprise",

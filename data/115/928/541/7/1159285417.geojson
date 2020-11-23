@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":885,
+    "sfomuseum:count_objects_public":115,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"United Express  (United Airlines)",
     "sfomuseum:name":"United Express",
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159285417,
-    "wof:lastmodified":1542668416,
+    "wof:lastmodified":1606164131,
     "wof:name":"United Express",
     "wof:parent_id":85940195,
     "wof:placetype":"enterprise",

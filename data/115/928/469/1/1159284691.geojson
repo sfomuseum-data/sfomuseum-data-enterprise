@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":551,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Lloyd Aereo Boliviano (LAB)",
     "sfomuseum:name":"Lloyd Aereo Boliviano (LAB)",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159284691,
-    "wof:lastmodified":1542675101,
+    "wof:lastmodified":1606164125,
     "wof:name":"Lloyd Aereo Boliviano (LAB)",
     "wof:parent_id":85632623,
     "wof:placetype":"enterprise",

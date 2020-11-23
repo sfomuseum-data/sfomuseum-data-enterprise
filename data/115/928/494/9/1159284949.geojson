@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":666,
+    "sfomuseum:count_objects_public":25,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Southwest Airways  (Pacific Air Lines)",
     "sfomuseum:name":"Southwest Airways",
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159284949,
-    "wof:lastmodified":1542676076,
+    "wof:lastmodified":1606164127,
     "wof:name":"Southwest Airways",
     "wof:parent_id":421176809,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":650,
+    "sfomuseum:count_objects_public":150,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Northwest Orient Airlines",
     "sfomuseum:name":"Northwest Orient Airlines",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159284913,
-    "wof:lastmodified":1557783770,
+    "wof:lastmodified":1606164127,
     "wof:name":"Northwest Orient Airlines",
     "wof:parent_id":85968491,
     "wof:placetype":"enterprise",

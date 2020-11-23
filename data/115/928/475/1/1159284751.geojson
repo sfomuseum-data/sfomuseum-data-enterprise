@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":578,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Maof Airlines",
     "sfomuseum:name":"Maof Airlines",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159284751,
-    "wof:lastmodified":1542668466,
+    "wof:lastmodified":1606164126,
     "wof:name":"Maof Airlines",
     "wof:parent_id":85632315,
     "wof:placetype":"enterprise",

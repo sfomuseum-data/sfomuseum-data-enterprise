@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":273,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Calm Air International",
     "sfomuseum:name":"Calm Air International",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159284077,
-    "wof:lastmodified":1557783770,
+    "wof:lastmodified":1606164119,
     "wof:name":"Calm Air International",
     "wof:parent_id":85633041,
     "wof:placetype":"enterprise",

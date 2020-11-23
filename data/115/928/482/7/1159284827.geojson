@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":611,
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Mount Cook Airlines",
     "sfomuseum:name":"Mount Cook Airlines",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159284827,
-    "wof:lastmodified":1557783766,
+    "wof:lastmodified":1606164126,
     "wof:name":"Mount Cook Airlines",
     "wof:parent_id":101914521,
     "wof:placetype":"enterprise",

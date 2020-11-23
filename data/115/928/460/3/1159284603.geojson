@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":511,
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Kenya Airways",
     "sfomuseum:name":"Kenya Airways",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159284603,
-    "wof:lastmodified":1557783780,
+    "wof:lastmodified":1606164124,
     "wof:name":"Kenya Airways",
     "wof:parent_id":421171939,
     "wof:placetype":"enterprise",

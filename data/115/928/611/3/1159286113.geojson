@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1213,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"United States",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Kenmore Air",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159286113,
-    "wof:lastmodified":1557783768,
+    "wof:lastmodified":1606164138,
     "wof:name":"Kenmore Air",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

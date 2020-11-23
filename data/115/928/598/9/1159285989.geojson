@@ -19,6 +19,7 @@
     "mz:is_current":1,
     "sfomuseum:airline_id":1157,
     "sfomuseum:brand":"FedEx",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"USA",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"FedEx Express  (FedEx)",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159285989,
-    "wof:lastmodified":1557783777,
+    "wof:lastmodified":1606164136,
     "wof:name":"FedEx Express",
     "wof:parent_id":101722645,
     "wof:placetype":"enterprise",

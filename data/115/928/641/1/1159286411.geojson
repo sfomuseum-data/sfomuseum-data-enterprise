@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1358,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Corse Air International  (Corsair International)",
     "sfomuseum:name":"Corse Air International",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1159286411,
-    "wof:lastmodified":1557786691,
+    "wof:lastmodified":1606164142,
     "wof:name":"Corse Air International",
     "wof:parent_id":101751077,
     "wof:placetype":"enterprise",

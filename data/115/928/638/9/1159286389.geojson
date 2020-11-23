@@ -17,6 +17,7 @@
     "mz:is_current":-1,
     "mz:is_nullisland":1,
     "sfomuseum:airline_id":1346,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Great Britain",
     "sfomuseum:hub":"Croydon Airport",
     "sfomuseum:is_sfo":1,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159286389,
-    "wof:lastmodified":1542668457,
+    "wof:lastmodified":1606164141,
     "wof:name":"Air Couriers",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

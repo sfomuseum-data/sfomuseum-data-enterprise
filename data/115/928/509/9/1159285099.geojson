@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":735,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Ryanair",
     "sfomuseum:name":"Ryanair",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159285099,
-    "wof:lastmodified":1557783776,
+    "wof:lastmodified":1606164129,
     "wof:name":"Ryanair",
     "wof:parent_id":102547639,
     "wof:placetype":"enterprise",

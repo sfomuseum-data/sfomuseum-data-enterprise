@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1287,
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Avensa  (Aerovias Venezolanas S.A.)",
     "sfomuseum:name":"Avensa",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159286263,
-    "wof:lastmodified":1557783767,
+    "wof:lastmodified":1606164140,
     "wof:name":"Avensa",
     "wof:parent_id":85632317,
     "wof:placetype":"enterprise",

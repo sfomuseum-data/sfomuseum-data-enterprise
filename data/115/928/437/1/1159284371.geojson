@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":404,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Falcon Air Express",
     "sfomuseum:name":"Falcon Air Express",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159284371,
-    "wof:lastmodified":1557783769,
+    "wof:lastmodified":1606164122,
     "wof:name":"Falcon Air Express",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

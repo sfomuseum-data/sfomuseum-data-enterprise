@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":758,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Sichuan Airlines",
     "sfomuseum:name":"Sichuan Airlines",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159285151,
-    "wof:lastmodified":1557783784,
+    "wof:lastmodified":1606164129,
     "wof:name":"Sichuan Airlines",
     "wof:parent_id":102027703,
     "wof:placetype":"enterprise",

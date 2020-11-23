@@ -19,6 +19,7 @@
     "mz:is_current":0,
     "sfomuseum:airline_id":119,
     "sfomuseum:brand":"Air S\u00e9n\u00e9gal International",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air S\u00e9n\u00e9gal International",
     "sfomuseum:name":"Air S\u00e9n\u00e9gal International",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159283737,
-    "wof:lastmodified":1557783783,
+    "wof:lastmodified":1606164116,
     "wof:name":"Air S\u00e9n\u00e9gal International",
     "wof:parent_id":85632365,
     "wof:placetype":"enterprise",

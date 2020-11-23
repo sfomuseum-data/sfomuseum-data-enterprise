@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:airline_id":1281,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Northwest Airways",
     "sfomuseum:name":"Northwest Airways",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159286253,
-    "wof:lastmodified":1557783777,
+    "wof:lastmodified":1606164140,
     "wof:name":"Northwest Airways",
     "wof:parent_id":85968491,
     "wof:placetype":"enterprise",

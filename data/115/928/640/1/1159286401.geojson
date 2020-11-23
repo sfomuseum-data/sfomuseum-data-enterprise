@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1354,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"Norway",
     "sfomuseum:hub":"Oslo",
     "sfomuseum:is_sfo":1,
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159286401,
-    "wof:lastmodified":1557783778,
+    "wof:lastmodified":1606164141,
     "wof:name":"Norwegian Air Shuttle",
     "wof:parent_id":85633341,
     "wof:placetype":"enterprise",

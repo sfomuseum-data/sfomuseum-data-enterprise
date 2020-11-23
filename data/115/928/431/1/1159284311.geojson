@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":377,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:country":"England",
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Eastern Airways",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159284311,
-    "wof:lastmodified":1557783770,
+    "wof:lastmodified":1606164121,
     "wof:name":"Eastern Airways",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

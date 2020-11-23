@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":517,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"KLM cityhopper  (KLM (Royal Dutch Airlines))",
     "sfomuseum:name":"KLM cityhopper",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159284617,
-    "wof:lastmodified":1557783781,
+    "wof:lastmodified":1606164124,
     "wof:name":"KLM cityhopper",
     "wof:parent_id":85633337,
     "wof:placetype":"enterprise",

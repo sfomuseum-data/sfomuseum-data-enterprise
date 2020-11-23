@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":851,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"TransAvia Airlines",
     "sfomuseum:name":"TransAvia Airlines",
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159285349,
-    "wof:lastmodified":1542675118,
+    "wof:lastmodified":1606164131,
     "wof:name":"TransAvia Airlines",
     "wof:parent_id":85633337,
     "wof:placetype":"enterprise",

@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":605,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Missionary Flights International",
     "sfomuseum:name":"Missionary Flights International",
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":1159284813,
-    "wof:lastmodified":1542668420,
+    "wof:lastmodified":1606164126,
     "wof:name":"Missionary Flights International",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

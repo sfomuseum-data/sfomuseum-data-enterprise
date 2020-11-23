@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":905,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Rio Sul VARIG  (VARIG)",
     "sfomuseum:name":"Rio Sul VARIG",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159285463,
-    "wof:lastmodified":1542668461,
+    "wof:lastmodified":1606164132,
     "wof:name":"Rio Sul VARIG",
     "wof:parent_id":101960525,
     "wof:placetype":"enterprise",

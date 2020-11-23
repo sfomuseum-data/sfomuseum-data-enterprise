@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":819,
+    "sfomuseum:count_objects_public":5,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Tasman Empire Airways Limited (TEAL)",
     "sfomuseum:name":"Tasman Empire Airways Limited (TEAL)",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159285281,
-    "wof:lastmodified":1542668405,
+    "wof:lastmodified":1606164130,
     "wof:name":"Tasman Empire Airways Limited (TEAL)",
     "wof:parent_id":85633345,
     "wof:placetype":"enterprise",

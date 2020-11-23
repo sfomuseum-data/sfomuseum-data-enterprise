@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":30,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Aeromech Airlines",
     "sfomuseum:name":"Aeromech Airlines",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159283537,
-    "wof:lastmodified":1542668412,
+    "wof:lastmodified":1606164114,
     "wof:name":"Aeromech Airlines",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

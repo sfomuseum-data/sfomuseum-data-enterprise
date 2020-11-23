@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:airline_id":1294,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Balkan Bulgarian Air  (Bulgaria Air)",
     "sfomuseum:name":"Balkan Bulgarian Air",
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159286277,
-    "wof:lastmodified":1542668460,
+    "wof:lastmodified":1606164140,
     "wof:name":"Balkan Bulgarian Air",
     "wof:parent_id":101748887,
     "wof:placetype":"enterprise",

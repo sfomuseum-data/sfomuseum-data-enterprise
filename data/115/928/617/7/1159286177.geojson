@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:airline_id":1242,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:label":"Air Canada Cargo",
     "sfomuseum:name":"Air Canada Cargo",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159286177,
-    "wof:lastmodified":1542668425,
+    "wof:lastmodified":1606164139,
     "wof:name":"Air Canada Cargo",
     "wof:parent_id":102554351,
     "wof:placetype":"enterprise",
