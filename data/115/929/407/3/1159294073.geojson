@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:aircraft_id":614,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"quattroshapes",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159294073,
-    "wof:lastmodified":1544645281,
+    "wof:lastmodified":1606835772,
     "wof:name":"Friedrichshafen",
     "wof:parent_id":85633111,
     "wof:placetype":"enterprise",

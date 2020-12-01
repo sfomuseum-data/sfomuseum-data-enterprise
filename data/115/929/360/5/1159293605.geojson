@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:aircraft_id":375,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"mz",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159293605,
-    "wof:lastmodified":1557782669,
+    "wof:lastmodified":1606835771,
     "wof:name":"Convair",
     "wof:parent_id":85922227,
     "wof:placetype":"enterprise",

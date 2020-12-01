@@ -17,6 +17,7 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":0,
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:hashtags":[
         "mcdonnelldouglas"
     ],
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159293561,
-    "wof:lastmodified":1581621278,
+    "wof:lastmodified":1606835775,
     "wof:name":"McDonnell Douglas",
     "wof:parent_id":85971343,
     "wof:placetype":"enterprise",

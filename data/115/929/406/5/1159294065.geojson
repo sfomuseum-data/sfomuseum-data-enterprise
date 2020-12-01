@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:aircraft_id":1353,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"frgov",
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159294065,
-    "wof:lastmodified":1544649039,
+    "wof:lastmodified":1606835779,
     "wof:name":"CAMS (Chantiers A\u00e9ro-Maritimes de la Seine)",
     "wof:parent_id":85633147,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:aircraft_id":725,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"quattroshapes",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159294201,
-    "wof:lastmodified":1557782678,
+    "wof:lastmodified":1606835773,
     "wof:name":"Hunting Percival",
     "wof:parent_id":101750401,
     "wof:placetype":"enterprise",

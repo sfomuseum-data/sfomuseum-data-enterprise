@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:aircraft_id":339,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"quattroshapes",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159293665,
-    "wof:lastmodified":1557782663,
+    "wof:lastmodified":1606835770,
     "wof:name":"B\u00fccker",
     "wof:parent_id":101819585,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:aircraft_id":768,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"quattroshapes",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159294277,
-    "wof:lastmodified":1557782678,
+    "wof:lastmodified":1606835774,
     "wof:name":"LFG Roland",
     "wof:parent_id":85633111,
     "wof:placetype":"enterprise",

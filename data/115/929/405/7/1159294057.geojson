@@ -13,6 +13,7 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":-1,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"whosonfirst",
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159294057,
-    "wof:lastmodified":1542668476,
+    "wof:lastmodified":1606835769,
     "wof:name":"Blackburn",
     "wof:parent_id":85633159,
     "wof:placetype":"enterprise",

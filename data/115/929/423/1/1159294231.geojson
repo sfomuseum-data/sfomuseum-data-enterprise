@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:aircraft_id":1257,
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"frgov",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159294231,
-    "wof:lastmodified":1544645280,
+    "wof:lastmodified":1606835768,
     "wof:name":"Antoinette",
     "wof:parent_id":101751123,
     "wof:placetype":"enterprise",

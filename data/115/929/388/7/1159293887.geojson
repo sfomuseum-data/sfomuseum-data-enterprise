@@ -15,6 +15,7 @@
     "mz:is_current":-1,
     "mz:is_nullisland":1,
     "sfomuseum:aircraft_id":1076,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"nullisland",
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159293887,
-    "wof:lastmodified":1544649039,
+    "wof:lastmodified":1606835776,
     "wof:name":"Solar Powered Aircraft Development",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

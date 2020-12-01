@@ -17,6 +17,8 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Aeronautica Lombarda",
     "sfomuseum:aircraft_variant":"Lombarda",
+    "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294121,
     "sfomuseum:placetype":"company",
     "wof:belongsto":[
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":1159289371,
-    "wof:lastmodified":1544649542,
+    "wof:lastmodified":1606835768,
     "wof:name":"Aeronautica Lombarda",
     "wof:parent_id":1,
     "wof:placetype":"enterprise",

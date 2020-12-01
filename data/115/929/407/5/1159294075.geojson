@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:aircraft_id":926,
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"quattroshapes",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159294075,
-    "wof:lastmodified":1544645281,
+    "wof:lastmodified":1606835775,
     "wof:name":"Northrop",
     "wof:parent_id":85923599,
     "wof:placetype":"enterprise",

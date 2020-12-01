@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:aircraft_id":1039,
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"quattroshapes",
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159293917,
-    "wof:lastmodified":1544649039,
+    "wof:lastmodified":1606835776,
     "wof:name":"Sikorsky (USA)",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

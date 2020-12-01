@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:aircraft_id":842,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:hashtags":[
         "mcdonnell"
     ],
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1159293823,
-    "wof:lastmodified":1557782660,
+    "wof:lastmodified":1606835774,
     "wof:name":"McDonnell",
     "wof:parent_id":85971343,
     "wof:placetype":"enterprise",

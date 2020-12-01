@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:aircraft_id":709,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"quattroshapes",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159293875,
-    "wof:lastmodified":1544645283,
+    "wof:lastmodified":1606835773,
     "wof:name":"Helio",
     "wof:parent_id":85633793,
     "wof:placetype":"enterprise",

@@ -18,6 +18,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:aircraft_id":308,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"quattroshapes",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159294051,
-    "wof:lastmodified":1557782679,
+    "wof:lastmodified":1606835770,
     "wof:name":"Boulton Paul",
     "wof:parent_id":101750483,
     "wof:placetype":"enterprise",

@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:aircraft_id":777,
+    "sfomuseum:count_objects_public":12,
     "sfomuseum:hashtags":[
         "lockheed"
     ],
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159293697,
-    "wof:lastmodified":1551988284,
+    "wof:lastmodified":1606835774,
     "wof:name":"Lockheed",
     "wof:parent_id":85923691,
     "wof:placetype":"enterprise",

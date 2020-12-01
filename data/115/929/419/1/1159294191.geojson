@@ -17,6 +17,7 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":0,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"quattroshapes",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159294191,
-    "wof:lastmodified":1557782670,
+    "wof:lastmodified":1606835774,
     "wof:name":"Martinsyde",
     "wof:parent_id":101751589,
     "wof:placetype":"enterprise",

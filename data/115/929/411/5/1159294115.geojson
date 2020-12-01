@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:aircraft_id":354,
+    "sfomuseum:count_objects_public":4,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"quattroshapes",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159294115,
-    "wof:lastmodified":1544645282,
+    "wof:lastmodified":1606835770,
     "wof:name":"Cessna",
     "wof:parent_id":85945871,
     "wof:placetype":"enterprise",

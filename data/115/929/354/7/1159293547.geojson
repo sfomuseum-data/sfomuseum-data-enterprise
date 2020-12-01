@@ -16,6 +16,7 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "sfomuseum:aircraft_id":1078,
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"quattroshapes",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159293547,
-    "wof:lastmodified":1544645279,
+    "wof:lastmodified":1606835776,
     "wof:name":"Sopwith",
     "wof:parent_id":85788611,
     "wof:placetype":"enterprise",

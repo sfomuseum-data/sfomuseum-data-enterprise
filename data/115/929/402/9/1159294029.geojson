@@ -14,6 +14,7 @@
     "mz:is_approximate":1,
     "mz:is_current":0,
     "sfomuseum:aircraft_id":1086,
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"company",
     "src:geom":"whosonfirst",
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159294029,
-    "wof:lastmodified":1557782680,
+    "wof:lastmodified":1606835776,
     "wof:name":"Spartan",
     "wof:parent_id":85633171,
     "wof:placetype":"enterprise",
