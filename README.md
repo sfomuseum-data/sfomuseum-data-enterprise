@@ -1,4 +1,4 @@
-# sfomuseum-brands-enterprise
+# sfomuseum-data-enterprise
 
 Enterprises that are part of the SFO Museum Collection.
 
