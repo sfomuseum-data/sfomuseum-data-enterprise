@@ -2,92 +2,93 @@
   "id": 1159286713,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1989-01-01",
-    "date:inception_upper":"1989-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1989",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"138.562508,-34.923592,138.562508,-34.923592",
-    "geom:latitude":-34.923592,
-    "geom:longitude":138.562508,
-    "iso:country":"",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"woedb",
-    "wd:airline_hub":[
-        "Q14302",
-        "Q17609",
-        "Q474632",
-        "Q45935"
+    "date:inception_lower": "1989-01-01",
+    "date:inception_upper": "1989-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1989",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "138.562508,-34.923592,138.562508,-34.923592",
+    "geom:latitude": -34.923592,
+    "geom:longitude": 138.562508,
+    "iso:country": "",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "woedb",
+    "wd:airline_hub": [
+      "Q14302",
+      "Q17609",
+      "Q474632",
+      "Q45935"
     ],
-    "wd:country":"Q408",
-    "wd:headquarters":"Q14302",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q408",
+    "wd:headquarters": "Q14302",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102557785,
-        85771283,
-        102191583,
-        404546433,
-        85632793,
-        101936685,
-        136253039,
-        102049621,
-        85681519
+    "wof:belongsto": [
+      102557785,
+      85771283,
+      102191583,
+      404546433,
+      85632793,
+      101936685,
+      136253039,
+      102049621,
+      85681519
     ],
-    "wof:brand_name":"National Jet",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"NC",
-        "icao:code":"JTE",
-        "wd:id":"Q1536655",
-        "wk:page":"Cobham Aviation Services Australia",
-        "wk:pageid":1595498
+    "wof:brand_name": "National Jet",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "NC",
+      "icao:code": "JTE",
+      "wd:id": "Q1536655",
+      "wk:page": "Cobham Aviation Services Australia",
+      "wk:pageid": 1595498
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"",
-    "wof:geomhash":"32ed94dcb738b33515a5f69eda817809",
-    "wof:hierarchy":[
-        {
-            "campus_id":102557785,
-            "continent_id":102191583,
-            "country_id":85632793,
-            "county_id":102049621,
-            "empire_id":136253039,
-            "enterprise_id":1159286713,
-            "localadmin_id":404546433,
-            "locality_id":101936685,
-            "neighbourhood_id":85771283,
-            "region_id":85681519
-        }
+    "wof:country": "",
+    "wof:created": 1619636478,
+    "wof:geomhash": "32ed94dcb738b33515a5f69eda817809",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102557785,
+        "continent_id": 102191583,
+        "country_id": 85632793,
+        "county_id": 102049621,
+        "empire_id": 136253039,
+        "enterprise_id": 1159286713,
+        "localadmin_id": 404546433,
+        "locality_id": 101936685,
+        "neighbourhood_id": 85771283,
+        "region_id": 85681519
+      }
     ],
-    "wof:id":1159286713,
-    "wof:lastmodified":1542668467,
-    "wof:name":"National Jet",
-    "wof:parent_id":102557785,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159286713,
+    "wof:lastmodified": 1619636478,
+    "wof:name": "National Jet",
+    "wof:parent_id": 102557785,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     138.562508,
     -34.923592,
     138.562508,
     -34.923592
-],
-  "geometry": {"coordinates":[138.56250800000001,-34.923592],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[138.562508,-34.923592],"type":"Point"}
 }

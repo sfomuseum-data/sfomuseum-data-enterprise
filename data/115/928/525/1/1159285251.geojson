@@ -2,85 +2,86 @@
   "id": 1159285251,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1961-01-01",
-    "date:inception_upper":"1961-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1961",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"36.29128,33.5102,36.29128,33.5102",
-    "geom:latitude":33.5102,
-    "geom:longitude":36.29128,
-    "iso:country":"SY",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":805,
-    "sfomuseum:count_objects_public":2,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Syrian Arab Airlines  (Syrianair)",
-    "sfomuseum:name":"Syrian Arab Airlines",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q570873"
+    "date:inception_lower": "1961-01-01",
+    "date:inception_upper": "1961-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1961",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "36.291280,33.510200,36.291280,33.510200",
+    "geom:latitude": 33.5102,
+    "geom:longitude": 36.29128,
+    "iso:country": "SY",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 805,
+    "sfomuseum:count_objects_public": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Syrian Arab Airlines  (Syrianair)",
+    "sfomuseum:name": "Syrian Arab Airlines",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q570873"
     ],
-    "wd:country":"Q858",
-    "wd:headquarters":"Q3766",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q858",
+    "wd:headquarters": "Q3766",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85678403,
-        102191569,
-        85632413,
-        421202165,
-        1108779107
+    "wof:belongsto": [
+      85678403,
+      102191569,
+      85632413,
+      421202165,
+      1108779107
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"RB",
-        "icao:code":"SYR",
-        "wd:id":"Q859245",
-        "wk:page":"Syrian Air",
-        "wk:pageid":378029
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "RB",
+      "icao:code": "SYR",
+      "wd:id": "Q859245",
+      "wk:page": "Syrian Air",
+      "wk:pageid": 378029
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"SY",
-    "wof:geomhash":"d7d7d83efbbfcddeb45a45a475512385",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632413,
-            "county_id":1108779107,
-            "enterprise_id":1159285251,
-            "locality_id":421202165,
-            "region_id":85678403
-        }
+    "wof:country": "SY",
+    "wof:created": 1619636479,
+    "wof:geomhash": "d7d7d83efbbfcddeb45a45a475512385",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632413,
+        "county_id": 1108779107,
+        "enterprise_id": 1159285251,
+        "locality_id": 421202165,
+        "region_id": 85678403
+      }
     ],
-    "wof:id":1159285251,
-    "wof:lastmodified":1606847653,
-    "wof:name":"Syrian Arab Airlines",
-    "wof:parent_id":421202165,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288921
+    "wof:id": 1159285251,
+    "wof:lastmodified": 1619636479,
+    "wof:name": "Syrian Arab Airlines",
+    "wof:parent_id": 421202165,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288921
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     36.29128,
     33.5102,
     36.29128,
     33.5102
-],
+  ],
   "geometry": {"coordinates":[36.29128,33.5102],"type":"Point"}
 }

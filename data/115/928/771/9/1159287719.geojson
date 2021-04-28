@@ -2,67 +2,68 @@
   "id": 1159287719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-3.464618,40.09095,-3.464618,40.09095",
-    "geom:latitude":40.09095,
-    "geom:longitude":-3.464618,
-    "iso:country":"ES",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"whosonfirst",
-    "wd:country":"Q29",
-    "wd:instance_of":[
-        "Q34763"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.464618,40.090950,-3.464618,40.090950",
+    "geom:latitude": 40.09095,
+    "geom:longitude": -3.464618,
+    "iso:country": "ES",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "whosonfirst",
+    "wd:country": "Q29",
+    "wd:instance_of": [
+      "Q34763"
     ],
-    "wof:belongsto":[
-        102191581,
-        85633129
+    "wof:belongsto": [
+      102191581,
+      85633129
     ],
-    "wof:brand_name":"Iberia",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q12837",
-        "wk:page":"Iberian Peninsula",
-        "wk:pageid":14883
+    "wof:brand_name": "Iberia",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q12837",
+      "wk:page": "Iberian Peninsula",
+      "wk:pageid": 14883
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"ES",
-    "wof:geomhash":"92f8bed2128be1c9d197ed975c7975d3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633129,
-            "enterprise_id":1159287719
-        }
+    "wof:country": "ES",
+    "wof:created": 1619636478,
+    "wof:geomhash": "92f8bed2128be1c9d197ed975c7975d3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633129,
+        "enterprise_id": 1159287719
+      }
     ],
-    "wof:id":1159287719,
-    "wof:lastmodified":1542668436,
-    "wof:name":"Iberia",
-    "wof:parent_id":85633129,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "peninsula"
+    "wof:id": 1159287719,
+    "wof:lastmodified": 1619636478,
+    "wof:name": "Iberia",
+    "wof:parent_id": 85633129,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "peninsula"
     ]
-},
+  },
   "bbox": [
     -3.464618,
     40.09095,
     -3.464618,
     40.09095
-],
+  ],
   "geometry": {"coordinates":[-3.464618,40.09095],"type":"Point"}
 }

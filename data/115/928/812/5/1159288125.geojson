@@ -2,75 +2,76 @@
   "id": 1159288125,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1989-01-01",
-    "date:inception_upper":"1989-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1989",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.955426,23.798532,120.955426,23.798532",
-    "geom:latitude":23.798532,
-    "geom:longitude":120.955426,
-    "iso:country":"TW",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q44856"
+    "date:inception_lower": "1989-01-01",
+    "date:inception_upper": "1989-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1989",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "120.955426,23.798532,120.955426,23.798532",
+    "geom:latitude": 23.798532,
+    "geom:longitude": 120.955426,
+    "iso:country": "TW",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q44856"
     ],
-    "wd:country":"Q865",
-    "wd:headquarters":"Q713367",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q865",
+    "wd:headquarters": "Q713367",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191569,
-        85632403
+    "wof:belongsto": [
+      102191569,
+      85632403
     ],
-    "wof:brand_name":"EVA Air",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"BR",
-        "icao:code":"EVA",
-        "wd:id":"Q715113",
-        "wk:page":"EVA Air",
-        "wk:pageid":388176
+    "wof:brand_name": "EVA Air",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "BR",
+      "icao:code": "EVA",
+      "wd:id": "Q715113",
+      "wk:page": "EVA Air",
+      "wk:pageid": 388176
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"TW",
-    "wof:geomhash":"1c9999c57ca5016fd4508146ec6571bb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632403,
-            "enterprise_id":1159288125
-        }
+    "wof:country": "TW",
+    "wof:created": 1619636501,
+    "wof:geomhash": "1c9999c57ca5016fd4508146ec6571bb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632403,
+        "enterprise_id": 1159288125
+      }
     ],
-    "wof:id":1159288125,
-    "wof:lastmodified":1542668420,
-    "wof:name":"EVA Air",
-    "wof:parent_id":85632403,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159288125,
+    "wof:lastmodified": 1619636501,
+    "wof:name": "EVA Air",
+    "wof:parent_id": 85632403,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     120.955426,
     23.798532,
     120.955426,
     23.798532
-],
+  ],
   "geometry": {"coordinates":[120.955426,23.798532],"type":"Point"}
 }

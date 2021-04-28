@@ -2,85 +2,85 @@
   "id": 1159283917,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1988-01-01",
-    "date:inception_upper":"1988-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1988",
-    "flysfo:airline_code":"OZ",
-    "flysfo:is_sfo":1,
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"128.123986,36.382192,128.123986,36.382192",
-    "geom:latitude":36.382192,
-    "geom:longitude":128.123986,
-    "iso:country":"KR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":200,
-    "sfomuseum:count_objects_public":10,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Asiana Airlines",
-    "sfomuseum:name":"Asiana Airlines",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q20932",
-        "Q482493"
+    "date:inception_lower": "1988-01-01",
+    "date:inception_upper": "1988-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1988",
+    "flysfo:airline_code": "OZ",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "128.123986,36.382192,128.123986,36.382192",
+    "geom:latitude": 36.382192,
+    "geom:longitude": 128.123986,
+    "iso:country": "KR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 200,
+    "sfomuseum:count_objects_public": 10,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Asiana Airlines",
+    "sfomuseum:name": "Asiana Airlines",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q20932",
+      "Q482493"
     ],
-    "wd:country":"Q884",
-    "wd:headquarters":"Q2647427",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q884",
+    "wd:headquarters": "Q2647427",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191569,
-        1159287865,
-        85632231
+    "wof:belongsto": [
+      102191569,
+      85632231
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"OZ",
-        "iata:code":"OZ",
-        "icao:callsign":"OZARK",
-        "icao:code":"AAR",
-        "wd:id":"Q211165",
-        "wk:page":"Asiana Airlines",
-        "wk:pageid":331239
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "OZ",
+      "iata:code": "OZ",
+      "icao:callsign": "OZARK",
+      "icao:code": "AAR",
+      "wd:id": "Q211165",
+      "wk:page": "Asiana Airlines",
+      "wk:pageid": 331239
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"KR",
-    "wof:geomhash":"3346e7f06f4d018e5161a8ab8ad72800",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632231,
-            "enterprise_id":1159287865
-        }
+    "wof:country": "KR",
+    "wof:created": 1619636477,
+    "wof:geomhash": "3346e7f06f4d018e5161a8ab8ad72800",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632231,
+        "enterprise_id": 1159283917
+      }
     ],
-    "wof:id":1159283917,
-    "wof:lastmodified":1606847641,
-    "wof:name":"Asiana Airlines",
-    "wof:parent_id":85632231,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287865
+    "wof:id": 1159283917,
+    "wof:lastmodified": 1619636477,
+    "wof:name": "Asiana Airlines",
+    "wof:parent_id": 85632231,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287865
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     128.123986,
     36.382192,
     128.123986,
     36.382192
-],
+  ],
   "geometry": {"coordinates":[128.123986,36.382192],"type":"Point"}
 }

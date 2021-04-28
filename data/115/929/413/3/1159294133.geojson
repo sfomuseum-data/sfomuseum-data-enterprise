@@ -2,93 +2,94 @@
   "id": 1159294133,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1927-01-01",
-    "date:inception_upper":"1927-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1927",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.42473,27.64443,-80.42473,27.64443",
-    "geom:latitude":27.64443,
-    "geom:longitude":-80.42473,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:aircraft_id":951,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"woedb",
-    "wd:country":"Q30",
-    "wd:headquarters":"Q2087441",
-    "wd:instance_of":[
-        "Q936518"
+    "date:inception_lower": "1927-01-01",
+    "date:inception_upper": "1927-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1927",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.424730,27.644430,-80.424730,27.644430",
+    "geom:latitude": 27.64443,
+    "geom:longitude": -80.42473,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 951,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "woedb",
+    "wd:country": "Q30",
+    "wd:headquarters": "Q2087441",
+    "wd:instance_of": [
+      "Q936518"
     ],
-    "wof:belongsto":[
-        102527921,
-        85889873,
-        102191575,
-        85633793,
-        85932725,
-        102085837,
-        85688651,
-        420514039
+    "wof:belongsto": [
+      102527921,
+      85889873,
+      102191575,
+      85633793,
+      85932725,
+      102085837,
+      85688651,
+      420514039
     ],
-    "wof:brand_name":"Piper",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q225788",
-        "wk:page":"Piper",
-        "wk:pageid":4344035
+    "wof:brand_name": "Piper",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q225788",
+      "wk:page": "Piper",
+      "wk:pageid": 4344035
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"435bb9441b920680a87c090f2423f23e",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527921,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085837,
-            "enterprise_id":1159294133,
-            "locality_id":85932725,
-            "neighbourhood_id":85889873,
-            "region_id":85688651
-        },
-        {
-            "campus_id":102527921,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085837,
-            "enterprise_id":1159294133,
-            "locality_id":85932725,
-            "neighbourhood_id":420514039,
-            "region_id":85688651
-        }
+    "wof:country": "US",
+    "wof:created": 1619636479,
+    "wof:geomhash": "435bb9441b920680a87c090f2423f23e",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527921,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085837,
+        "enterprise_id": 1159294133,
+        "locality_id": 85932725,
+        "neighbourhood_id": 85889873,
+        "region_id": 85688651
+      },
+      {
+        "campus_id": 102527921,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085837,
+        "enterprise_id": 1159294133,
+        "locality_id": 85932725,
+        "neighbourhood_id": 420514039,
+        "region_id": 85688651
+      }
     ],
-    "wof:id":1159294133,
-    "wof:lastmodified":1606835775,
-    "wof:name":"Piper",
-    "wof:parent_id":102527921,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "aerospace manufacturer"
+    "wof:id": 1159294133,
+    "wof:lastmodified": 1619636479,
+    "wof:name": "Piper",
+    "wof:parent_id": 102527921,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "aerospace manufacturer"
     ]
-},
+  },
   "bbox": [
     -80.42473,
     27.64443,
     -80.42473,
     27.64443
-],
+  ],
   "geometry": {"coordinates":[-80.42473,27.64443],"type":"Point"}
 }

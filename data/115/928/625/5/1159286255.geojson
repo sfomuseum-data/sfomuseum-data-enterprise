@@ -2,84 +2,85 @@
   "id": 1159286255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"35.490452,33.82558,35.490452,33.82558",
-    "geom:latitude":33.82558,
-    "geom:longitude":35.490452,
-    "iso:country":"",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:airline_id":1282,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Lebanese Air Transport",
-    "sfomuseum:name":"Lebanese Air Transport",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"woedb",
-    "wd:airline_hub":[
-        "Q668329"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "35.490452,33.825580,35.490452,33.825580",
+    "geom:latitude": 33.82558,
+    "geom:longitude": 35.490452,
+    "iso:country": "",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:airline_id": 1282,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Lebanese Air Transport",
+    "sfomuseum:name": "Lebanese Air Transport",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "woedb",
+    "wd:airline_hub": [
+      "Q668329"
     ],
-    "wd:country":"Q822",
-    "wd:headquarters":"Q668329",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q822",
+    "wd:headquarters": "Q668329",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102553293,
-        85673491,
-        102191569,
-        85632533,
-        1108691409
+    "wof:belongsto": [
+      102553293,
+      85673491,
+      102191569,
+      85632533,
+      1108691409
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"LQ",
-        "iata:code":"LQ",
-        "icao:code":"LAQ",
-        "wd:id":"Q6510840",
-        "wk:page":"Lebanese Air Transport",
-        "wk:pageid":2038521
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "LQ",
+      "iata:code": "LQ",
+      "icao:code": "LAQ",
+      "wd:id": "Q6510840",
+      "wk:page": "Lebanese Air Transport",
+      "wk:pageid": 2038521
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"",
-    "wof:geomhash":"4bc7da2e888015c00982d679ccb1b6e6",
-    "wof:hierarchy":[
-        {
-            "campus_id":102553293,
-            "continent_id":102191569,
-            "country_id":85632533,
-            "county_id":1108691409,
-            "enterprise_id":1159286255,
-            "region_id":85673491
-        }
+    "wof:country": "",
+    "wof:created": 1619636477,
+    "wof:geomhash": "4bc7da2e888015c00982d679ccb1b6e6",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102553293,
+        "continent_id": 102191569,
+        "country_id": 85632533,
+        "county_id": 1108691409,
+        "enterprise_id": 1159286255,
+        "region_id": 85673491
+      }
     ],
-    "wof:id":1159286255,
-    "wof:lastmodified":1606847663,
-    "wof:name":"Lebanese Air Transport",
-    "wof:parent_id":102553293,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159286743
+    "wof:id": 1159286255,
+    "wof:lastmodified": 1619636477,
+    "wof:name": "Lebanese Air Transport",
+    "wof:parent_id": 102553293,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159286743
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     35.490452,
     33.82558,
     35.490452,
     33.82558
-],
+  ],
   "geometry": {"coordinates":[35.490452,33.82558],"type":"Point"}
 }

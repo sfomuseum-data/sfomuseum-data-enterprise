@@ -2,85 +2,86 @@
   "id": 1159287205,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1986-01-01",
-    "date:inception_upper":"1986-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1986",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.068108,30.652751,104.068108,30.652751",
-    "geom:latitude":30.652751,
-    "geom:longitude":104.068108,
-    "iso:country":"CN",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q387560",
-        "Q788417",
-        "Q1371636"
+    "date:inception_lower": "1986-01-01",
+    "date:inception_upper": "1986-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1986",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "104.068108,30.652751,104.068108,30.652751",
+    "geom:latitude": 30.652751,
+    "geom:longitude": 104.068108,
+    "iso:country": "CN",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q387560",
+      "Q788417",
+      "Q1371636"
     ],
-    "wd:country":"Q148",
-    "wd:headquarters":"Q30002",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q148",
+    "wd:headquarters": "Q30002",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        102027703,
-        136253041,
-        890516567
+    "wof:belongsto": [
+      85669787,
+      102191569,
+      85632695,
+      102027703,
+      136253041,
+      890516567
     ],
-    "wof:brand_name":"Sichuan Airlines",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"3U",
-        "icao:code":"CSC",
-        "wd:id":"Q291944",
-        "wk:page":"Sichuan Airlines",
-        "wk:pageid":1591325
+    "wof:brand_name": "Sichuan Airlines",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "3U",
+      "icao:code": "CSC",
+      "wd:id": "Q291944",
+      "wk:page": "Sichuan Airlines",
+      "wk:pageid": 1591325
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"CN",
-    "wof:geomhash":"58bce5a7b039860f77531d6ab147c864",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516567,
-            "empire_id":136253041,
-            "enterprise_id":1159287205,
-            "locality_id":102027703,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:created": 1619636478,
+    "wof:geomhash": "58bce5a7b039860f77531d6ab147c864",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516567,
+        "empire_id": 136253041,
+        "enterprise_id": 1159287205,
+        "locality_id": 102027703,
+        "region_id": 85669787
+      }
     ],
-    "wof:id":1159287205,
-    "wof:lastmodified":1542668420,
-    "wof:name":"Sichuan Airlines",
-    "wof:parent_id":102027703,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287205,
+    "wof:lastmodified": 1619636478,
+    "wof:name": "Sichuan Airlines",
+    "wof:parent_id": 102027703,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     104.068108,
     30.652751,
     104.068108,
     30.652751
-],
+  ],
   "geometry": {"coordinates":[104.068108,30.652751],"type":"Point"}
 }

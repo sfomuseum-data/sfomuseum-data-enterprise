@@ -2,77 +2,78 @@
   "id": 1159285139,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1990-01-01",
-    "date:inception_upper":"1990-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1990",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-64.568705,7.18646,-64.568705,7.18646",
-    "geom:latitude":7.18646,
-    "geom:longitude":-64.568705,
-    "iso:country":"VE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":753,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:country":"Venezuela",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Servivensa",
-    "sfomuseum:name":"Servivensa",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q717",
-    "wd:instance_of":[
-        "Q46970"
+    "date:inception_lower": "1990-01-01",
+    "date:inception_upper": "1990-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1990",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-64.568705,7.186460,-64.568705,7.186460",
+    "geom:latitude": 7.18646,
+    "geom:longitude": -64.568705,
+    "iso:country": "VE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 753,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:country": "Venezuela",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Servivensa",
+    "sfomuseum:name": "Servivensa",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q717",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191577,
-        85632317
+    "wof:belongsto": [
+      102191577,
+      85632317
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"VC",
-        "iata:code":"VC",
-        "icao:code":"SVV",
-        "wd:id":"Q3480558",
-        "wk:page":"Servivensa",
-        "wk:pageid":2070238
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "VC",
+      "iata:code": "VC",
+      "icao:code": "SVV",
+      "wd:id": "Q3480558",
+      "wk:page": "Servivensa",
+      "wk:pageid": 2070238
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"VE",
-    "wof:geomhash":"351c458f67f63a7eeb08c1fc1643b57b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191577,
-            "country_id":85632317,
-            "enterprise_id":1159285139
-        }
+    "wof:country": "VE",
+    "wof:created": 1619636477,
+    "wof:geomhash": "351c458f67f63a7eeb08c1fc1643b57b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191577,
+        "country_id": 85632317,
+        "enterprise_id": 1159285139
+      }
     ],
-    "wof:id":1159285139,
-    "wof:lastmodified":1606847652,
-    "wof:name":"Servivensa",
-    "wof:parent_id":85632317,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288805
+    "wof:id": 1159285139,
+    "wof:lastmodified": 1619636477,
+    "wof:name": "Servivensa",
+    "wof:parent_id": 85632317,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288805
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -64.568705,
     7.18646,
     -64.568705,
     7.18646
-],
-  "geometry": {"coordinates":[-64.56870499999999,7.18646],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-64.568705,7.18646],"type":"Point"}
 }

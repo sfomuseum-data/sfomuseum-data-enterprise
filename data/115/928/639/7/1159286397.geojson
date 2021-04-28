@@ -2,66 +2,66 @@
   "id": 1159286397,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1923-01-01",
-    "date:inception_upper":"1923-12-31",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"1923",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"14.460249,50.06694,14.460249,50.06694",
-    "geom:latitude":50.06694,
-    "geom:longitude":14.460249,
-    "iso:country":"CZ",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:airline_id":1350,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:country":"Czechoslovakia",
-    "sfomuseum:hub":"Prague",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"\u010cSA (Czechoslovak Airlines)  (Czech Airlines)",
-    "sfomuseum:name":"\u010cSA (Czechoslovak Airlines)",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wof:belongsto":[
-        102191581,
-        85633105,
-        101748113
+    "date:inception_lower": "1923-01-01",
+    "date:inception_upper": "1923-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1923",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "14.460249,50.066940,14.460249,50.066940",
+    "geom:latitude": 50.06694,
+    "geom:longitude": 14.460249,
+    "iso:country": "CZ",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:airline_id": 1350,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:country": "Czechoslovakia",
+    "sfomuseum:hub": "Prague",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "ČSA (Czechoslovak Airlines)  (Czech Airlines)",
+    "sfomuseum:name": "ČSA (Czechoslovak Airlines)",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      102191581,
+      85633105
     ],
-    "wof:breaches":[],
-    "wof:concordances":{},
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:concordances": {},
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"CZ",
-    "wof:geomhash":"e98e8608905e716b136ed6eb19ec64d9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633105,
-            "enterprise_id":1159286397
-        }
+    "wof:country": "CZ",
+    "wof:created": 1619636477,
+    "wof:geomhash": "e98e8608905e716b136ed6eb19ec64d9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633105,
+        "enterprise_id": 1159286397
+      }
     ],
-    "wof:id":1159286397,
-    "wof:lastmodified":1606847664,
-    "wof:name":"\u010cSA (Czechoslovak Airlines)",
-    "wof:parent_id":101748113,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288321
+    "wof:id": 1159286397,
+    "wof:lastmodified": 1619636477,
+    "wof:name": "ČSA (Czechoslovak Airlines)",
+    "wof:parent_id": 101748113,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288321
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     14.460249,
     50.06694,
     14.460249,
     50.06694
-],
+  ],
   "geometry": {"coordinates":[14.460249,50.06694],"type":"Point"}
 }

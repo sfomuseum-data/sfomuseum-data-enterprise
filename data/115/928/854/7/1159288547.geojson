@@ -2,83 +2,84 @@
   "id": 1159288547,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1994-01-01",
-    "date:inception_upper":"1994-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1994",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.54611,22.20056,113.54611,22.20056",
-    "geom:latitude":22.20056,
-    "geom:longitude":113.54611,
-    "iso:country":"MO",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"qs_pg",
-    "wd:airline_hub":[
-        "Q525486"
+    "date:inception_lower": "1994-01-01",
+    "date:inception_upper": "1994-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1994",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "113.546110,22.200560,113.546110,22.200560",
+    "geom:latitude": 22.20056,
+    "geom:longitude": 113.54611,
+    "iso:country": "MO",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "qs_pg",
+    "wd:airline_hub": [
+      "Q525486"
     ],
-    "wd:country":"Q148",
-    "wd:headquarters":"Q14773",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q148",
+    "wd:headquarters": "Q14773",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        1125927021,
-        136253041,
-        890516343
+    "wof:belongsto": [
+      85669743,
+      102191569,
+      85632695,
+      1125927021,
+      136253041,
+      890516343
     ],
-    "wof:brand_name":"Air Macau",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"NX",
-        "icao:code":"AMU",
-        "wd:id":"Q407478",
-        "wk:page":"Air Macau",
-        "wk:pageid":1289381
+    "wof:brand_name": "Air Macau",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "NX",
+      "icao:code": "AMU",
+      "wd:id": "Q407478",
+      "wk:page": "Air Macau",
+      "wk:pageid": 1289381
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"MO",
-    "wof:geomhash":"9874675b3fb715d865fc77ecec9986bb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516343,
-            "empire_id":136253041,
-            "enterprise_id":1159288547,
-            "locality_id":1125927021,
-            "region_id":85669743
-        }
+    "wof:country": "MO",
+    "wof:created": 1619636478,
+    "wof:geomhash": "9874675b3fb715d865fc77ecec9986bb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516343,
+        "empire_id": 136253041,
+        "enterprise_id": 1159288547,
+        "locality_id": 1125927021,
+        "region_id": 85669743
+      }
     ],
-    "wof:id":1159288547,
-    "wof:lastmodified":1542668441,
-    "wof:name":"Air Macau",
-    "wof:parent_id":1125927021,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159288547,
+    "wof:lastmodified": 1619636478,
+    "wof:name": "Air Macau",
+    "wof:parent_id": 1125927021,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     113.54611,
     22.20056,
     113.54611,
     22.20056
-],
+  ],
   "geometry": {"coordinates":[113.54611,22.20056],"type":"Point"}
 }

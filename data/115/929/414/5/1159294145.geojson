@@ -2,80 +2,81 @@
   "id": 1159294145,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1939-01-01",
-    "date:inception_upper":"1939-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1939",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.985586,39.98072,-82.985586,39.98072",
-    "geom:latitude":39.98072,
-    "geom:longitude":-82.985586,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:aircraft_id":395,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q30",
-    "wd:headquarters":"Q16567",
-    "wd:instance_of":[
-        "Q4830453"
+    "date:inception_lower": "1939-01-01",
+    "date:inception_upper": "1939-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1939",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.985586,39.980720,-82.985586,39.980720",
+    "geom:latitude": 39.98072,
+    "geom:longitude": -82.985586,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 395,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q30",
+    "wd:headquarters": "Q16567",
+    "wd:instance_of": [
+      "Q4830453"
     ],
-    "wof:belongsto":[
-        85688485,
-        102191575,
-        404524625,
-        85633793,
-        101712381,
-        102080969
+    "wof:belongsto": [
+      85688485,
+      102191575,
+      404524625,
+      85633793,
+      101712381,
+      102080969
     ],
-    "wof:brand_name":"Culver",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q402313",
-        "wk:page":"Culver",
-        "wk:pageid":308104
+    "wof:brand_name": "Culver",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q402313",
+      "wk:page": "Culver",
+      "wk:pageid": 308104
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"c81f4f7ee7979b8a457fa00513a2521d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080969,
-            "enterprise_id":1159294145,
-            "localadmin_id":404524625,
-            "locality_id":101712381,
-            "region_id":85688485
-        }
+    "wof:country": "US",
+    "wof:created": 1619636479,
+    "wof:geomhash": "c81f4f7ee7979b8a457fa00513a2521d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080969,
+        "enterprise_id": 1159294145,
+        "localadmin_id": 404524625,
+        "locality_id": 101712381,
+        "region_id": 85688485
+      }
     ],
-    "wof:id":1159294145,
-    "wof:lastmodified":1606835771,
-    "wof:name":"Culver",
-    "wof:parent_id":101712381,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "business"
+    "wof:id": 1159294145,
+    "wof:lastmodified": 1619636479,
+    "wof:name": "Culver",
+    "wof:parent_id": 101712381,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "business"
     ]
-},
+  },
   "bbox": [
     -82.985586,
     39.98072,
     -82.985586,
     39.98072
-],
+  ],
   "geometry": {"coordinates":[-82.985586,39.98072],"type":"Point"}
 }

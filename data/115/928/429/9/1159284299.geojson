@@ -2,63 +2,64 @@
   "id": 1159284299,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1981-01-01",
-    "date:inception_upper":"1981-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1981",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"89.92561,27.454772,89.92561,27.454772",
-    "geom:latitude":27.454772,
-    "geom:longitude":89.92561,
-    "iso:country":"BT",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":372,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Druck Air (Royal Bhutan Airlines)",
-    "sfomuseum:name":"Druck Air (Royal Bhutan Airlines)",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wof:belongsto":[
-        102191569,
-        85632171
+    "date:inception_lower": "1981-01-01",
+    "date:inception_upper": "1981-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1981",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "89.925610,27.454772,89.925610,27.454772",
+    "geom:latitude": 27.454772,
+    "geom:longitude": 89.92561,
+    "iso:country": "BT",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 372,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Druck Air (Royal Bhutan Airlines)",
+    "sfomuseum:name": "Druck Air (Royal Bhutan Airlines)",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      102191569,
+      85632171
     ],
-    "wof:breaches":[],
-    "wof:concordances":{},
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:concordances": {},
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"BT",
-    "wof:geomhash":"d02b84fe1002df45169d3c3c3df2c02e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632171,
-            "enterprise_id":1159284299
-        }
+    "wof:country": "BT",
+    "wof:created": 1619636477,
+    "wof:geomhash": "d02b84fe1002df45169d3c3c3df2c02e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632171,
+        "enterprise_id": 1159284299
+      }
     ],
-    "wof:id":1159284299,
-    "wof:lastmodified":1606847644,
-    "wof:name":"Druck Air (Royal Bhutan Airlines)",
-    "wof:parent_id":85632171,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288415
+    "wof:id": 1159284299,
+    "wof:lastmodified": 1619636477,
+    "wof:name": "Druck Air (Royal Bhutan Airlines)",
+    "wof:parent_id": 85632171,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288415
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     89.92561,
     27.454772,
     89.92561,
     27.454772
-],
-  "geometry": {"coordinates":[89.92561000000001,27.454772],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[89.92561,27.454772],"type":"Point"}
 }

@@ -2,71 +2,72 @@
   "id": 1159293759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
-    "geom:latitude":39.715956,
-    "geom:longitude":-96.999668,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":896,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q30",
-    "wd:instance_of":[
-        "Q936518"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude": 39.715956,
+    "geom:longitude": -96.999668,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 896,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q30",
+    "wd:instance_of": [
+      "Q936518"
     ],
-    "wof:belongsto":[
-        102191575,
-        85633793,
-        136253057
+    "wof:belongsto": [
+      102191575,
+      85633793,
+      136253057
     ],
-    "wof:brand_name":"Monocoupe",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q6901476",
-        "wk:page":"Monocoupe Aircraft",
-        "wk:pageid":13529092
+    "wof:brand_name": "Monocoupe",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q6901476",
+      "wk:page": "Monocoupe Aircraft",
+      "wk:pageid": 13529092
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "enterprise_id":1159293759
-        }
+    "wof:country": "US",
+    "wof:created": 1619636478,
+    "wof:geomhash": "bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "empire_id": 136253057,
+        "enterprise_id": 1159293759
+      }
     ],
-    "wof:id":1159293759,
-    "wof:lastmodified":1606835775,
-    "wof:name":"Monocoupe",
-    "wof:parent_id":85633793,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "aerospace manufacturer"
+    "wof:id": 1159293759,
+    "wof:lastmodified": 1619636478,
+    "wof:name": "Monocoupe",
+    "wof:parent_id": 85633793,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "aerospace manufacturer"
     ]
-},
+  },
   "bbox": [
     -96.999668,
     39.715956,
     -96.999668,
     39.715956
-],
+  ],
   "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
 }

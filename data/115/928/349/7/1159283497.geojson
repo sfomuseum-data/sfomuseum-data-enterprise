@@ -2,63 +2,64 @@
   "id": 1159283497,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"2011-01-01",
-    "date:inception_upper":"2011-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"2011",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-3.464618,40.09095,-3.464618,40.09095",
-    "geom:latitude":40.09095,
-    "geom:longitude":-3.464618,
-    "iso:country":"ES",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":12,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Aer Lingus Cargo",
-    "sfomuseum:name":"Aer Lingus Cargo",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"whosonfirst",
-    "wof:belongsto":[
-        102191581,
-        85633129
+    "date:inception_lower": "2011-01-01",
+    "date:inception_upper": "2011-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2011",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.464618,40.090950,-3.464618,40.090950",
+    "geom:latitude": 40.09095,
+    "geom:longitude": -3.464618,
+    "iso:country": "ES",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 12,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Aer Lingus Cargo",
+    "sfomuseum:name": "Aer Lingus Cargo",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "whosonfirst",
+    "wof:belongsto": [
+      102191581,
+      85633129
     ],
-    "wof:breaches":[],
-    "wof:concordances":{},
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:concordances": {},
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"ES",
-    "wof:geomhash":"92f8bed2128be1c9d197ed975c7975d3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633129,
-            "enterprise_id":1159283497
-        }
+    "wof:country": "ES",
+    "wof:created": 1619636479,
+    "wof:geomhash": "92f8bed2128be1c9d197ed975c7975d3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633129,
+        "enterprise_id": 1159283497
+      }
     ],
-    "wof:id":1159283497,
-    "wof:lastmodified":1606847637,
-    "wof:name":"Aer Lingus Cargo",
-    "wof:parent_id":85633129,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288669
+    "wof:id": 1159283497,
+    "wof:lastmodified": 1619636479,
+    "wof:name": "Aer Lingus Cargo",
+    "wof:parent_id": 85633129,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288669
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -3.464618,
     40.09095,
     -3.464618,
     40.09095
-],
+  ],
   "geometry": {"coordinates":[-3.464618,40.09095],"type":"Point"}
 }

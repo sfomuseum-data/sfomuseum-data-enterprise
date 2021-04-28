@@ -2,93 +2,94 @@
   "id": 1159286477,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1990-01-01",
-    "date:cessation_upper":"1990-12-31",
-    "date:inception_lower":"1980-01-01",
-    "date:inception_upper":"1980-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1980",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.338454,8.72491,-80.338454,8.72491",
-    "geom:latitude":8.72491,
-    "geom:longitude":-80.338454,
-    "iso:country":"",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":1389,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:country":"Panama",
-    "sfomuseum:hub":"Tocumen International Airport",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Air Panama  (Air Panama Internacional)",
-    "sfomuseum:name":"Air Panama",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q3496541"
+    "date:cessation_lower": "1990-01-01",
+    "date:cessation_upper": "1990-12-31",
+    "date:inception_lower": "1980-01-01",
+    "date:inception_upper": "1980-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1980",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.338454,8.724910,-80.338454,8.724910",
+    "geom:latitude": 8.72491,
+    "geom:longitude": -80.338454,
+    "iso:country": "",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 1389,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:country": "Panama",
+    "sfomuseum:hub": "Tocumen International Airport",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Air Panama  (Air Panama Internacional)",
+    "sfomuseum:name": "Air Panama",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q3496541"
     ],
-    "wd:country":"Q804",
-    "wd:headquarters":"Q3496541",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q804",
+    "wd:headquarters": "Q3496541",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102547023,
-        85763949,
-        102191575,
-        85632179,
-        421196975,
-        85675789
+    "wof:belongsto": [
+      102547023,
+      85763949,
+      102191575,
+      85632179,
+      421196975,
+      85675789
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"7P",
-        "iata:code":"7P",
-        "icao:code":"PST",
-        "wd:id":"Q407708",
-        "wk:page":"Air Panama",
-        "wk:pageid":1243112
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "7P",
+      "iata:code": "7P",
+      "icao:code": "PST",
+      "wd:id": "Q407708",
+      "wk:page": "Air Panama",
+      "wk:pageid": 1243112
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"",
-    "wof:geomhash":"230146a06f05a399fadd97a7c2ea3c27",
-    "wof:hierarchy":[
-        {
-            "campus_id":102547023,
-            "continent_id":102191575,
-            "country_id":85632179,
-            "county_id":421196975,
-            "enterprise_id":1159286477,
-            "locality_id":-1,
-            "neighbourhood_id":85763949,
-            "region_id":85675789
-        }
+    "wof:country": "",
+    "wof:created": 1619636501,
+    "wof:geomhash": "230146a06f05a399fadd97a7c2ea3c27",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102547023,
+        "continent_id": 102191575,
+        "country_id": 85632179,
+        "county_id": 421196975,
+        "enterprise_id": 1159286477,
+        "locality_id": -1,
+        "neighbourhood_id": 85763949,
+        "region_id": 85675789
+      }
     ],
-    "wof:id":1159286477,
-    "wof:lastmodified":1606847666,
-    "wof:name":"Air Panama",
-    "wof:parent_id":85632179,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287043
+    "wof:id": 1159286477,
+    "wof:lastmodified": 1619636501,
+    "wof:name": "Air Panama",
+    "wof:parent_id": 85632179,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287043
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -80.338454,
     8.72491,
     -80.338454,
     8.72491
-],
+  ],
   "geometry": {"coordinates":[-80.338454,8.72491],"type":"Point"}
 }

@@ -2,62 +2,62 @@
   "id": 1159285161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"37.918308,0.543716,37.918308,0.543716",
-    "geom:latitude":0.543716,
-    "geom:longitude":37.918308,
-    "iso:country":"KE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:airline_id":763,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Sincereways of Kenya",
-    "sfomuseum:name":"Sincereways of Kenya",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wof:belongsto":[
-        102191573,
-        1159287437,
-        85632329
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "37.918308,0.543716,37.918308,0.543716",
+    "geom:latitude": 0.543716,
+    "geom:longitude": 37.918308,
+    "iso:country": "KE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:airline_id": 763,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Sincereways of Kenya",
+    "sfomuseum:name": "Sincereways of Kenya",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      102191573,
+      85632329
     ],
-    "wof:breaches":[],
-    "wof:concordances":{},
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:concordances": {},
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"KE",
-    "wof:geomhash":"1fde27cba426f994b90e3e28bb4525a8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191573,
-            "country_id":85632329,
-            "enterprise_id":1159287437
-        }
+    "wof:country": "KE",
+    "wof:created": 1619636479,
+    "wof:geomhash": "1fde27cba426f994b90e3e28bb4525a8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191573,
+        "country_id": 85632329,
+        "enterprise_id": 1159285161
+      }
     ],
-    "wof:id":1159285161,
-    "wof:lastmodified":1606847652,
-    "wof:name":"Sincereways of Kenya",
-    "wof:parent_id":85632329,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287437
+    "wof:id": 1159285161,
+    "wof:lastmodified": 1619636479,
+    "wof:name": "Sincereways of Kenya",
+    "wof:parent_id": 85632329,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287437
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     37.918308,
     0.543716,
     37.918308,
     0.543716
-],
+  ],
   "geometry": {"coordinates":[37.918308,0.543716],"type":"Point"}
 }

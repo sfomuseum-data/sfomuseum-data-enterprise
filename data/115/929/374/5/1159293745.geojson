@@ -2,77 +2,78 @@
   "id": 1159293745,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1988-01-01",
-    "date:inception_upper":"1988-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1988",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-88.248762,42.734123,-88.248762,42.734123",
-    "geom:latitude":42.734123,
-    "geom:longitude":-88.248762,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:headquarters":"Q428882",
-    "wd:instance_of":[
-        "Q4830453"
+    "date:inception_lower": "1988-01-01",
+    "date:inception_upper": "1988-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1988",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-88.248762,42.734123,-88.248762,42.734123",
+    "geom:latitude": 42.734123,
+    "geom:longitude": -88.248762,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:headquarters": "Q428882",
+    "wd:instance_of": [
+      "Q4830453"
     ],
-    "wof:belongsto":[
-        85688517,
-        102191575,
-        404494989,
-        85633793,
-        101732343,
-        102081763
+    "wof:belongsto": [
+      85688517,
+      102191575,
+      404494989,
+      85633793,
+      101732343,
+      102081763
     ],
-    "wof:brand_name":"American Champion",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q4743337",
-        "wk:page":"American Champion",
-        "wk:pageid":2550402
+    "wof:brand_name": "American Champion",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q4743337",
+      "wk:page": "American Champion",
+      "wk:pageid": 2550402
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"850dbd1f51c729432446f772fcd4e568",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081763,
-            "enterprise_id":1159293745,
-            "localadmin_id":404494989,
-            "locality_id":101732343,
-            "region_id":85688517
-        }
+    "wof:country": "US",
+    "wof:created": 1619636478,
+    "wof:geomhash": "850dbd1f51c729432446f772fcd4e568",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081763,
+        "enterprise_id": 1159293745,
+        "localadmin_id": 404494989,
+        "locality_id": 101732343,
+        "region_id": 85688517
+      }
     ],
-    "wof:id":1159293745,
-    "wof:lastmodified":1542668470,
-    "wof:name":"American Champion",
-    "wof:parent_id":101732343,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "business"
+    "wof:id": 1159293745,
+    "wof:lastmodified": 1619636478,
+    "wof:name": "American Champion",
+    "wof:parent_id": 101732343,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "business"
     ]
-},
+  },
   "bbox": [
     -88.248762,
     42.734123,
     -88.248762,
     42.734123
-],
+  ],
   "geometry": {"coordinates":[-88.248762,42.734123],"type":"Point"}
 }

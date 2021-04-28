@@ -2,71 +2,72 @@
   "id": 1159288783,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1971-01-01",
-    "date:inception_upper":"1971-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1971",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"4.792712,50.780688,4.792712,50.780688",
-    "geom:latitude":50.780688,
-    "geom:longitude":4.792712,
-    "iso:country":"BE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q31",
-    "wd:instance_of":[
-        "Q46970"
+    "date:inception_lower": "1971-01-01",
+    "date:inception_upper": "1971-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1971",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "4.792712,50.780688,4.792712,50.780688",
+    "geom:latitude": 50.780688,
+    "geom:longitude": 4.792712,
+    "iso:country": "BE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q31",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191581,
-        85632997
+    "wof:belongsto": [
+      102191581,
+      85632997
     ],
-    "wof:brand_name":"Trans European Airways",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"HE",
-        "icao:code":"TEA",
-        "wd:id":"Q2731894",
-        "wk:page":"Trans European Airways",
-        "wk:pageid":11018497
+    "wof:brand_name": "Trans European Airways",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "HE",
+      "icao:code": "TEA",
+      "wd:id": "Q2731894",
+      "wk:page": "Trans European Airways",
+      "wk:pageid": 11018497
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"BE",
-    "wof:geomhash":"dc381c4158ce0bdf3b8406555d8e0d5a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85632997,
-            "enterprise_id":1159288783
-        }
+    "wof:country": "BE",
+    "wof:created": 1619636478,
+    "wof:geomhash": "dc381c4158ce0bdf3b8406555d8e0d5a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85632997,
+        "enterprise_id": 1159288783
+      }
     ],
-    "wof:id":1159288783,
-    "wof:lastmodified":1542668410,
-    "wof:name":"Trans European Airways",
-    "wof:parent_id":85632997,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159288783,
+    "wof:lastmodified": 1619636478,
+    "wof:name": "Trans European Airways",
+    "wof:parent_id": 85632997,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     4.792712,
     50.780688,
     4.792712,
     50.780688
-],
+  ],
   "geometry": {"coordinates":[4.792712,50.780688],"type":"Point"}
 }

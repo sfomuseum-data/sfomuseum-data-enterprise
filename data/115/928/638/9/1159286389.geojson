@@ -2,65 +2,65 @@
   "id": 1159286389,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1940-01-01",
-    "date:inception_upper":"1940-04-30",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"1940-01/1940-04~",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "iso:country":"XN",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "mz:is_nullisland":1,
-    "sfomuseum:airline_id":1346,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:country":"Great Britain",
-    "sfomuseum:hub":"Croydon Airport",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Air Couriers",
-    "sfomuseum:name":"Air Couriers",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"nullisland",
-    "wof:belongsto":[
-        1159286701,
-        1
+    "date:inception_lower": "1940-01-01",
+    "date:inception_upper": "1940-04-30",
+    "edtf:cessation": "",
+    "edtf:inception": "1940-01/1940-~04",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "iso:country": "XN",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "mz:is_nullisland": 1,
+    "sfomuseum:airline_id": 1346,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:country": "Great Britain",
+    "sfomuseum:hub": "Croydon Airport",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Air Couriers",
+    "sfomuseum:name": "Air Couriers",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "nullisland",
+    "wof:belongsto": [
+      1
     ],
-    "wof:breaches":[],
-    "wof:concordances":{},
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:concordances": {},
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"XN",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
-    "wof:hierarchy":[
-        {
-            "country_id":1,
-            "enterprise_id":1159286701
-        }
+    "wof:country": "XN",
+    "wof:created": 1619636501,
+    "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy": [
+      {
+        "country_id": 1,
+        "enterprise_id": 1159286389
+      }
     ],
-    "wof:id":1159286389,
-    "wof:lastmodified":1606847664,
-    "wof:name":"Air Couriers",
-    "wof:parent_id":1,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159286701
+    "wof:id": 1159286389,
+    "wof:lastmodified": 1619636501,
+    "wof:name": "Air Couriers",
+    "wof:parent_id": 1,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159286701
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

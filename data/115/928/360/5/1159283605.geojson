@@ -2,88 +2,88 @@
   "id": 1159283605,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1988-01-01",
-    "date:inception_upper":"1988-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1988",
-    "flysfo:airline_code":"CA",
-    "flysfo:is_sfo":1,
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.802874,32.529718,106.802874,32.529718",
-    "geom:latitude":32.529718,
-    "geom:longitude":106.802874,
-    "iso:country":"CN",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":60,
-    "sfomuseum:count_objects_public":15,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Air China",
-    "sfomuseum:name":"Air China",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"wof",
-    "wd:airline_hub":[
-        "Q32190",
-        "Q387560",
-        "Q36420"
+    "date:inception_lower": "1988-01-01",
+    "date:inception_upper": "1988-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1988",
+    "flysfo:airline_code": "CA",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "106.802874,32.529718,106.802874,32.529718",
+    "geom:latitude": 32.529718,
+    "geom:longitude": 106.802874,
+    "iso:country": "CN",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 60,
+    "sfomuseum:count_objects_public": 15,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Air China",
+    "sfomuseum:name": "Air China",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "wof",
+    "wd:airline_hub": [
+      "Q32190",
+      "Q387560",
+      "Q36420"
     ],
-    "wd:country":"Q148",
-    "wd:headquarters":"Q393482",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q148",
+    "wd:headquarters": "Q393482",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191569,
-        1159287599,
-        85632695,
-        136253041
+    "wof:belongsto": [
+      102191569,
+      85632695,
+      136253041
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"CA",
-        "iata:code":"CA",
-        "icao:callsign":"AIR CHINA",
-        "icao:code":"CCA",
-        "wd:id":"Q51747",
-        "wk:page":"Air China",
-        "wk:pageid":297958
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "CA",
+      "iata:code": "CA",
+      "icao:callsign": "AIR CHINA",
+      "icao:code": "CCA",
+      "wd:id": "Q51747",
+      "wk:page": "Air China",
+      "wk:pageid": 297958
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"CN",
-    "wof:geomhash":"c631fc6ab83322ccfcf4c4957e92cbf0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "empire_id":136253041,
-            "enterprise_id":1159287599
-        }
+    "wof:country": "CN",
+    "wof:created": 1619636479,
+    "wof:geomhash": "c631fc6ab83322ccfcf4c4957e92cbf0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "empire_id": 136253041,
+        "enterprise_id": 1159283605
+      }
     ],
-    "wof:id":1159283605,
-    "wof:lastmodified":1606847638,
-    "wof:name":"Air China",
-    "wof:parent_id":85632695,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287599
+    "wof:id": 1159283605,
+    "wof:lastmodified": 1619636479,
+    "wof:name": "Air China",
+    "wof:parent_id": 85632695,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287599
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     106.802874,
     32.529718,
     106.802874,
     32.529718
-],
+  ],
   "geometry": {"coordinates":[106.802874,32.529718],"type":"Point"}
 }

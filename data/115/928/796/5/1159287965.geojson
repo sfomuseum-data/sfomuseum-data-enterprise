@@ -2,70 +2,71 @@
   "id": 1159287965,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1993-01-01",
-    "date:inception_upper":"1993-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1993",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"93.884016,63.314401,93.884016,63.314401",
-    "geom:latitude":63.314401,
-    "geom:longitude":93.884016,
-    "iso:country":"RU",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"whosonfirst",
-    "wd:country":"Q159",
-    "wd:headquarters":"Q3426",
-    "wd:instance_of":[
-        "Q46970"
+    "date:inception_lower": "1993-01-01",
+    "date:inception_upper": "1993-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1993",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "93.884016,63.314401,93.884016,63.314401",
+    "geom:latitude": 63.314401,
+    "geom:longitude": 93.884016,
+    "iso:country": "RU",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "whosonfirst",
+    "wd:country": "Q159",
+    "wd:headquarters": "Q3426",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191581,
-        85632685,
-        874393555
+    "wof:belongsto": [
+      102191581,
+      85632685,
+      874393555
     ],
-    "wof:brand_name":"VASO Airlines",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "icao:code":"VSO"
+    "wof:brand_name": "VASO Airlines",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "icao:code": "VSO"
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"RU",
-    "wof:geomhash":"16fbe557e7395f697b1dd0d66544a7e8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85632685,
-            "empire_id":874393555,
-            "enterprise_id":1159287965
-        }
+    "wof:country": "RU",
+    "wof:created": 1619636478,
+    "wof:geomhash": "16fbe557e7395f697b1dd0d66544a7e8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85632685,
+        "empire_id": 874393555,
+        "enterprise_id": 1159287965
+      }
     ],
-    "wof:id":1159287965,
-    "wof:lastmodified":1542668452,
-    "wof:name":"VASO Airlines",
-    "wof:parent_id":85632685,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287965,
+    "wof:lastmodified": 1619636478,
+    "wof:name": "VASO Airlines",
+    "wof:parent_id": 85632685,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     93.884016,
     63.314401,
     93.884016,
     63.314401
-],
+  ],
   "geometry": {"coordinates":[93.884016,63.314401],"type":"Point"}
 }

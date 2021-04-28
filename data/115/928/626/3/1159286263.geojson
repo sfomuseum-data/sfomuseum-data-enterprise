@@ -2,80 +2,80 @@
   "id": 1159286263,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1943-01-01",
-    "date:inception_upper":"1943-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1943",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-64.568705,7.18646,-64.568705,7.18646",
-    "geom:latitude":7.18646,
-    "geom:longitude":-64.568705,
-    "iso:country":"VE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":1287,
-    "sfomuseum:count_objects_public":3,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Avensa  (Aerovias Venezolanas S.A.)",
-    "sfomuseum:name":"Avensa",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q1058344"
+    "date:inception_lower": "1943-01-01",
+    "date:inception_upper": "1943-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1943",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-64.568705,7.186460,-64.568705,7.186460",
+    "geom:latitude": 7.18646,
+    "geom:longitude": -64.568705,
+    "iso:country": "VE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 1287,
+    "sfomuseum:count_objects_public": 3,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Avensa  (Aerovias Venezolanas S.A.)",
+    "sfomuseum:name": "Avensa",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q1058344"
     ],
-    "wd:country":"Q717",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q717",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191577,
-        1159287601,
-        85632317
+    "wof:belongsto": [
+      102191577,
+      85632317
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"VE",
-        "iata:code":"VE",
-        "icao:code":"AVE",
-        "wd:id":"Q300138",
-        "wk:page":"Avensa",
-        "wk:pageid":351964
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "VE",
+      "iata:code": "VE",
+      "icao:code": "AVE",
+      "wd:id": "Q300138",
+      "wk:page": "Avensa",
+      "wk:pageid": 351964
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"VE",
-    "wof:geomhash":"351c458f67f63a7eeb08c1fc1643b57b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191577,
-            "country_id":85632317,
-            "enterprise_id":1159287601
-        }
+    "wof:country": "VE",
+    "wof:created": 1619636477,
+    "wof:geomhash": "351c458f67f63a7eeb08c1fc1643b57b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191577,
+        "country_id": 85632317,
+        "enterprise_id": 1159286263
+      }
     ],
-    "wof:id":1159286263,
-    "wof:lastmodified":1606847663,
-    "wof:name":"Avensa",
-    "wof:parent_id":85632317,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287601
+    "wof:id": 1159286263,
+    "wof:lastmodified": 1619636477,
+    "wof:name": "Avensa",
+    "wof:parent_id": 85632317,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287601
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -64.568705,
     7.18646,
     -64.568705,
     7.18646
-],
-  "geometry": {"coordinates":[-64.56870499999999,7.18646],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-64.568705,7.18646],"type":"Point"}
 }

@@ -2,72 +2,73 @@
   "id": 1159287113,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1996-01-01",
-    "date:inception_upper":"1996-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1996",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.43651,53.832259,28.43651,53.832259",
-    "geom:latitude":53.832259,
-    "geom:longitude":28.43651,
-    "iso:country":"BY",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"unknown",
-    "wd:airline_hub":[
-        "Q777855"
+    "date:inception_lower": "1996-01-01",
+    "date:inception_upper": "1996-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1996",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "28.436510,53.832259,28.436510,53.832259",
+    "geom:latitude": 53.832259,
+    "geom:longitude": 28.43651,
+    "iso:country": "BY",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "unknown",
+    "wd:airline_hub": [
+      "Q777855"
     ],
-    "wd:country":"Q184",
-    "wd:headquarters":"Q2280",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q184",
+    "wd:headquarters": "Q2280",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191581,
-        85632395
+    "wof:belongsto": [
+      102191581,
+      85632395
     ],
-    "wof:brand_name":"Belavia Belarusian Airlines",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"B2",
-        "icao:code":"BRU"
+    "wof:brand_name": "Belavia Belarusian Airlines",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "B2",
+      "icao:code": "BRU"
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"BY",
-    "wof:geomhash":"dec7b120663e9a2135ff10b1c1de286b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85632395,
-            "enterprise_id":1159287113
-        }
+    "wof:country": "BY",
+    "wof:created": 1619636531,
+    "wof:geomhash": "dec7b120663e9a2135ff10b1c1de286b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85632395,
+        "enterprise_id": 1159287113
+      }
     ],
-    "wof:id":1159287113,
-    "wof:lastmodified":1542675075,
-    "wof:name":"Belavia Belarusian Airlines",
-    "wof:parent_id":85632395,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287113,
+    "wof:lastmodified": 1619636531,
+    "wof:name": "Belavia Belarusian Airlines",
+    "wof:parent_id": 85632395,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     28.43651,
     53.832259,
     28.43651,
     53.832259
-],
+  ],
   "geometry": {"coordinates":[28.43651,53.832259],"type":"Point"}
 }

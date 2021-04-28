@@ -2,88 +2,89 @@
   "id": 1159286205,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1979-01-01",
-    "date:inception_upper":"1979-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1979",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-165.399028,64.508575,-165.399028,64.508575",
-    "geom:latitude":64.508575,
-    "geom:longitude":-165.399028,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":1259,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:country":"United States",
-    "sfomuseum:hub":"Nome Airport, Wien Memorial Arport, UnalKleet Airport",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Bering Air",
-    "sfomuseum:name":"Bering Air",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q2502241"
+    "date:inception_lower": "1979-01-01",
+    "date:inception_upper": "1979-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1979",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-165.399028,64.508575,-165.399028,64.508575",
+    "geom:latitude": 64.508575,
+    "geom:longitude": -165.399028,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 1259,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:country": "United States",
+    "sfomuseum:hub": "Nome Airport, Wien Memorial Arport, UnalKleet Airport",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Bering Air",
+    "sfomuseum:name": "Bering Air",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q2502241"
     ],
-    "wd:country":"Q30",
-    "wd:headquarters":"Q79996",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q30",
+    "wd:headquarters": "Q79996",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85688573,
-        102191575,
-        85633793,
-        85915489,
-        102081401
+    "wof:belongsto": [
+      85688573,
+      102191575,
+      85633793,
+      85915489,
+      102081401
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"8E",
-        "iata:code":"8E",
-        "icao:code":"BRG",
-        "wd:id":"Q4035042",
-        "wk:page":"Bering Air",
-        "wk:pageid":2199412
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "8E",
+      "iata:code": "8E",
+      "icao:code": "BRG",
+      "wd:id": "Q4035042",
+      "wk:page": "Bering Air",
+      "wk:pageid": 2199412
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"0c7fd80c6b06905293c419b29e681e19",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081401,
-            "enterprise_id":1159286205,
-            "locality_id":85915489,
-            "region_id":85688573
-        }
+    "wof:country": "US",
+    "wof:created": 1619636477,
+    "wof:geomhash": "0c7fd80c6b06905293c419b29e681e19",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081401,
+        "enterprise_id": 1159286205,
+        "locality_id": 85915489,
+        "region_id": 85688573
+      }
     ],
-    "wof:id":1159286205,
-    "wof:lastmodified":1606847662,
-    "wof:name":"Bering Air",
-    "wof:parent_id":85915489,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288581
+    "wof:id": 1159286205,
+    "wof:lastmodified": 1619636477,
+    "wof:name": "Bering Air",
+    "wof:parent_id": 85915489,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288581
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -165.399028,
     64.508575,
     -165.399028,
     64.508575
-],
-  "geometry": {"coordinates":[-165.39902799999999,64.50857499999999],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-165.399028,64.508575],"type":"Point"}
 }

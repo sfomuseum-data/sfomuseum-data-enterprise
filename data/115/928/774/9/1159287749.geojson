@@ -2,70 +2,71 @@
   "id": 1159287749,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1969-01-01",
-    "date:inception_upper":"1969-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1969",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"9.62743,51.196755,9.62743,51.196755",
-    "geom:latitude":51.196755,
-    "geom:longitude":9.62743,
-    "iso:country":"DE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q183",
-    "wd:headquarters":"Q586",
-    "wd:instance_of":[
-        "Q1529128"
+    "date:inception_lower": "1969-01-01",
+    "date:inception_upper": "1969-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1969",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "9.627430,51.196755,9.627430,51.196755",
+    "geom:latitude": 51.196755,
+    "geom:longitude": 9.62743,
+    "iso:country": "DE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q183",
+    "wd:headquarters": "Q586",
+    "wd:instance_of": [
+      "Q1529128"
     ],
-    "wof:belongsto":[
-        102191581,
-        85633111
+    "wof:belongsto": [
+      102191581,
+      85633111
     ],
-    "wof:brand_name":"DHL Worldwide Express",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q489815",
-        "wk:page":"DHL Express",
-        "wk:pageid":375954
+    "wof:brand_name": "DHL Worldwide Express",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q489815",
+      "wk:page": "DHL Express",
+      "wk:pageid": 375954
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"DE",
-    "wof:geomhash":"2405f23b99b9767895cd5c5991257042",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "enterprise_id":1159287749
-        }
+    "wof:country": "DE",
+    "wof:created": 1619636478,
+    "wof:geomhash": "2405f23b99b9767895cd5c5991257042",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "enterprise_id": 1159287749
+      }
     ],
-    "wof:id":1159287749,
-    "wof:lastmodified":1542668427,
-    "wof:name":"DHL Worldwide Express",
-    "wof:parent_id":85633111,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "postal service"
+    "wof:id": 1159287749,
+    "wof:lastmodified": 1619636478,
+    "wof:name": "DHL Worldwide Express",
+    "wof:parent_id": 85633111,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "postal service"
     ]
-},
+  },
   "bbox": [
     9.62743,
     51.196755,
     9.62743,
     51.196755
-],
+  ],
   "geometry": {"coordinates":[9.62743,51.196755],"type":"Point"}
 }

@@ -2,84 +2,85 @@
   "id": 1159285031,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1959-01-01",
-    "date:inception_upper":"1959-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1959",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-171.76666,-13.83333,-171.76666,-13.83333",
-    "geom:latitude":-13.83333,
-    "geom:longitude":-171.76666,
-    "iso:country":"WS",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":705,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Polynesian Airlines",
-    "sfomuseum:name":"Polynesian Airlines",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"unknown",
-    "wd:airline_hub":[
-        "Q197933"
+    "date:inception_lower": "1959-01-01",
+    "date:inception_upper": "1959-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1959",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-171.766660,-13.833330,-171.766660,-13.833330",
+    "geom:latitude": -13.83333,
+    "geom:longitude": -171.76666,
+    "iso:country": "WS",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 705,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Polynesian Airlines",
+    "sfomuseum:name": "Polynesian Airlines",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "unknown",
+    "wd:airline_hub": [
+      "Q197933"
     ],
-    "wd:country":"Q683",
-    "wd:headquarters":"Q36260",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q683",
+    "wd:headquarters": "Q36260",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191583,
-        85632681,
-        890416609,
-        85680915
+    "wof:belongsto": [
+      102191583,
+      85632681,
+      890416609,
+      85680915
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"OL",
-        "iata:code":"OL",
-        "icao:code":"PAO",
-        "wd:id":"Q956449",
-        "wk:page":"Samoa Airways",
-        "wk:pageid":764473
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "OL",
+      "iata:code": "OL",
+      "icao:code": "PAO",
+      "wd:id": "Q956449",
+      "wk:page": "Samoa Airways",
+      "wk:pageid": 764473
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"WS",
-    "wof:geomhash":"703e3c2973676e532c9140f9611cee05",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191583,
-            "country_id":85632681,
-            "enterprise_id":1159285031,
-            "locality_id":890416609,
-            "region_id":85680915
-        }
+    "wof:country": "WS",
+    "wof:created": 1619636479,
+    "wof:geomhash": "703e3c2973676e532c9140f9611cee05",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191583,
+        "country_id": 85632681,
+        "enterprise_id": 1159285031,
+        "locality_id": 890416609,
+        "region_id": 85680915
+      }
     ],
-    "wof:id":1159285031,
-    "wof:lastmodified":1606847651,
-    "wof:name":"Polynesian Airlines",
-    "wof:parent_id":890416609,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287019
+    "wof:id": 1159285031,
+    "wof:lastmodified": 1619636479,
+    "wof:name": "Polynesian Airlines",
+    "wof:parent_id": 890416609,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287019
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -171.76666,
     -13.83333,
     -171.76666,
     -13.83333
-],
+  ],
   "geometry": {"coordinates":[-171.76666,-13.83333],"type":"Point"}
 }

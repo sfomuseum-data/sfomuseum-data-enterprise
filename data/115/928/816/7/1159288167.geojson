@@ -2,82 +2,83 @@
   "id": 1159288167,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1995-01-01",
-    "date:inception_upper":"1995-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1995",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-0.378606,51.867374,-0.378606,51.867374",
-    "geom:latitude":51.867374,
-    "geom:longitude":-0.378606,
-    "iso:country":"",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"woedb",
-    "wd:airline_hub":[
-        "Q8712",
-        "Q60910"
+    "date:inception_lower": "1995-01-01",
+    "date:inception_upper": "1995-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1995",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.378606,51.867374,-0.378606,51.867374",
+    "geom:latitude": 51.867374,
+    "geom:longitude": -0.378606,
+    "iso:country": "",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "woedb",
+    "wd:airline_hub": [
+      "Q8712",
+      "Q60910"
     ],
-    "wd:country":"Q145",
-    "wd:headquarters":"Q8712",
-    "wd:instance_of":[
-        "Q190915",
-        "Q46970"
+    "wd:country": "Q145",
+    "wd:headquarters": "Q8712",
+    "wd:instance_of": [
+      "Q190915",
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85633159,
-        102556835,
-        85791331,
-        85684331
+    "wof:belongsto": [
+      85633159,
+      102556835,
+      85791331,
+      85684331
     ],
-    "wof:brand_name":"easyJet",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"U2",
-        "icao:code":"EZY",
-        "wd:id":"Q191551",
-        "wk:page":"EasyJet",
-        "wk:pageid":180466
+    "wof:brand_name": "easyJet",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "U2",
+      "icao:code": "EZY",
+      "wd:id": "Q191551",
+      "wk:page": "EasyJet",
+      "wk:pageid": 180466
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"",
-    "wof:geomhash":"ed87585645cea7fdd0b6caacc93087d6",
-    "wof:hierarchy":[
-        {
-            "campus_id":102556835,
-            "country_id":85633159,
-            "enterprise_id":1159288167,
-            "neighbourhood_id":85791331,
-            "region_id":85684331
-        }
+    "wof:country": "",
+    "wof:created": 1619636478,
+    "wof:geomhash": "ed87585645cea7fdd0b6caacc93087d6",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102556835,
+        "country_id": 85633159,
+        "enterprise_id": 1159288167,
+        "neighbourhood_id": 85791331,
+        "region_id": 85684331
+      }
     ],
-    "wof:id":1159288167,
-    "wof:lastmodified":1542668413,
-    "wof:name":"easyJet",
-    "wof:parent_id":102556835,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "low-cost airline",
-        "airline"
+    "wof:id": 1159288167,
+    "wof:lastmodified": 1619636478,
+    "wof:name": "easyJet",
+    "wof:parent_id": 102556835,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "low-cost airline",
+      "airline"
     ]
-},
+  },
   "bbox": [
     -0.378606,
     51.867374,
     -0.378606,
     51.867374
-],
+  ],
   "geometry": {"coordinates":[-0.378606,51.867374],"type":"Point"}
 }

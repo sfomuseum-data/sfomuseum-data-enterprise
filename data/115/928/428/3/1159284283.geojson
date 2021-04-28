@@ -2,83 +2,83 @@
   "id": 1159284283,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1969-01-01",
-    "date:inception_upper":"1969-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1969",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.114887,50.724104,7.114887,50.724104",
-    "geom:latitude":50.724104,
-    "geom:longitude":7.114887,
-    "iso:country":"DE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":365,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"DHL Express  (DHL Airways)",
-    "sfomuseum:name":"DHL Express",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q183",
-    "wd:headquarters":"Q586",
-    "wd:instance_of":[
-        "Q1529128"
+    "date:inception_lower": "1969-01-01",
+    "date:inception_upper": "1969-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1969",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "7.114887,50.724104,7.114887,50.724104",
+    "geom:latitude": 50.724104,
+    "geom:longitude": 7.114887,
+    "iso:country": "DE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 365,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "DHL Express  (DHL Airways)",
+    "sfomuseum:name": "DHL Express",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q183",
+    "wd:headquarters": "Q586",
+    "wd:instance_of": [
+      "Q1529128"
     ],
-    "wof:belongsto":[
-        85682513,
-        102191581,
-        85633111,
-        404227541,
-        101748595,
-        102063661,
-        1159287449
+    "wof:belongsto": [
+      85682513,
+      102191581,
+      85633111,
+      404227541,
+      101748595,
+      102063661
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q489815",
-        "wk:page":"DHL Express",
-        "wk:pageid":375954
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q489815",
+      "wk:page": "DHL Express",
+      "wk:pageid": 375954
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"DE",
-    "wof:geomhash":"9f0897e8660235f73b7300a44b303141",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102063661,
-            "enterprise_id":1159287449,
-            "locality_id":101748595,
-            "macrocounty_id":404227541,
-            "region_id":85682513
-        }
+    "wof:country": "DE",
+    "wof:created": 1619636477,
+    "wof:geomhash": "9f0897e8660235f73b7300a44b303141",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063661,
+        "enterprise_id": 1159284283,
+        "locality_id": 101748595,
+        "macrocounty_id": 404227541,
+        "region_id": 85682513
+      }
     ],
-    "wof:id":1159284283,
-    "wof:lastmodified":1606847644,
-    "wof:name":"DHL Express",
-    "wof:parent_id":101748595,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287449
+    "wof:id": 1159284283,
+    "wof:lastmodified": 1619636477,
+    "wof:name": "DHL Express",
+    "wof:parent_id": 101748595,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287449
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "postal service"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "postal service"
     ]
-},
+  },
   "bbox": [
     7.114887,
     50.724104,
     7.114887,
     50.724104
-],
+  ],
   "geometry": {"coordinates":[7.114887,50.724104],"type":"Point"}
 }

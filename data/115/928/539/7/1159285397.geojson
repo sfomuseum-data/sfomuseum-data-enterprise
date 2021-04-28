@@ -2,74 +2,75 @@
   "id": 1159285397,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1926-01-01",
-    "date:inception_upper":"1926-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1926",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
-    "geom:latitude":39.715956,
-    "geom:longitude":-96.999668,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":876,
-    "sfomuseum:count_objects_public":4,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"TW Express  (TWA (Trans World Airlines))",
-    "sfomuseum:name":"TW Express",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:instance_of":[
-        "Q740752"
+    "date:inception_lower": "1926-01-01",
+    "date:inception_upper": "1926-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1926",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude": 39.715956,
+    "geom:longitude": -96.999668,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 876,
+    "sfomuseum:count_objects_public": 4,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "TW Express  (TWA (Trans World Airlines))",
+    "sfomuseum:name": "TW Express",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:instance_of": [
+      "Q740752"
     ],
-    "wof:belongsto":[
-        102191575,
-        85633793,
-        136253057
+    "wof:belongsto": [
+      102191575,
+      85633793,
+      136253057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q1114367",
-        "wk:page":"Trans World Express",
-        "wk:pageid":1858849
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q1114367",
+      "wk:page": "Trans World Express",
+      "wk:pageid": 1858849
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "enterprise_id":1159285397
-        }
+    "wof:country": "US",
+    "wof:created": 1619636477,
+    "wof:geomhash": "bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "empire_id": 136253057,
+        "enterprise_id": 1159285397
+      }
     ],
-    "wof:id":1159285397,
-    "wof:lastmodified":1606847654,
-    "wof:name":"TW Express",
-    "wof:parent_id":85633793,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287531
+    "wof:id": 1159285397,
+    "wof:lastmodified": 1619636477,
+    "wof:name": "TW Express",
+    "wof:parent_id": 85633793,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287531
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "transport company"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "transport company"
     ]
-},
+  },
   "bbox": [
     -96.999668,
     39.715956,
     -96.999668,
     39.715956
-],
+  ],
   "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
 }

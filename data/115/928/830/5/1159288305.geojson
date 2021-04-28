@@ -2,75 +2,76 @@
   "id": 1159288305,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1994-01-01",
-    "date:inception_upper":"1994-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1994",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"96.06596,21.576814,96.06596,21.576814",
-    "geom:latitude":21.576814,
-    "geom:longitude":96.06596,
-    "iso:country":"MM",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q174764"
+    "date:inception_lower": "1994-01-01",
+    "date:inception_upper": "1994-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1994",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "96.065960,21.576814,96.065960,21.576814",
+    "geom:latitude": 21.576814,
+    "geom:longitude": 96.06596,
+    "iso:country": "MM",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q174764"
     ],
-    "wd:country":"Q836",
-    "wd:headquarters":"Q37995",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q836",
+    "wd:headquarters": "Q37995",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191569,
-        85632181
+    "wof:belongsto": [
+      102191569,
+      85632181
     ],
-    "wof:brand_name":"Air Mandalay",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"6T",
-        "icao:code":"AMY",
-        "wd:id":"Q407508",
-        "wk:page":"Air Mandalay",
-        "wk:pageid":1526174
+    "wof:brand_name": "Air Mandalay",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "6T",
+      "icao:code": "AMY",
+      "wd:id": "Q407508",
+      "wk:page": "Air Mandalay",
+      "wk:pageid": 1526174
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"MM",
-    "wof:geomhash":"5d51de74e5ea8e542f6261c0682594f8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632181,
-            "enterprise_id":1159288305
-        }
+    "wof:country": "MM",
+    "wof:created": 1619636478,
+    "wof:geomhash": "5d51de74e5ea8e542f6261c0682594f8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632181,
+        "enterprise_id": 1159288305
+      }
     ],
-    "wof:id":1159288305,
-    "wof:lastmodified":1542668425,
-    "wof:name":"Air Mandalay",
-    "wof:parent_id":85632181,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159288305,
+    "wof:lastmodified": 1619636478,
+    "wof:name": "Air Mandalay",
+    "wof:parent_id": 85632181,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     96.06596,
     21.576814,
     96.06596,
     21.576814
-],
+  ],
   "geometry": {"coordinates":[96.06596,21.576814],"type":"Point"}
 }

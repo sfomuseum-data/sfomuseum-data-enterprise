@@ -2,75 +2,75 @@
   "id": 1159285825,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1920-01-01",
-    "date:inception_upper":"1920-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1920",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"151.176373,-33.939229,151.176373,-33.939229",
-    "geom:latitude":-33.939229,
-    "geom:longitude":151.176373,
-    "iso:country":"AU",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":1082,
-    "sfomuseum:count_objects_public":24,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Qantas Empire Airways  (Qantas Airways)",
-    "sfomuseum:name":"Qantas Empire Airways",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:instance_of":[
-        "Q17524420"
+    "date:inception_lower": "1920-01-01",
+    "date:inception_upper": "1920-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1920",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "151.176373,-33.939229,151.176373,-33.939229",
+    "geom:latitude": -33.939229,
+    "geom:longitude": 151.176373,
+    "iso:country": "AU",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 1082,
+    "sfomuseum:count_objects_public": 24,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Qantas Empire Airways  (Qantas Airways)",
+    "sfomuseum:name": "Qantas Empire Airways",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:instance_of": [
+      "Q17524420"
     ],
-    "wof:belongsto":[
-        102191583,
-        85632793,
-        136253039,
-        101931173
+    "wof:belongsto": [
+      102191583,
+      85632793,
+      136253039
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q5866111",
-        "wk:page":"History of Qantas",
-        "wk:pageid":28472523
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q5866111",
+      "wk:page": "History of Qantas",
+      "wk:pageid": 28472523
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"AU",
-    "wof:geomhash":"533f6147df24fbe6bb5af8d1db2cc7e9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191583,
-            "country_id":85632793,
-            "empire_id":136253039,
-            "enterprise_id":1159285825
-        }
+    "wof:country": "AU",
+    "wof:created": 1619636477,
+    "wof:geomhash": "533f6147df24fbe6bb5af8d1db2cc7e9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191583,
+        "country_id": 85632793,
+        "empire_id": 136253039,
+        "enterprise_id": 1159285825
+      }
     ],
-    "wof:id":1159285825,
-    "wof:lastmodified":1606847658,
-    "wof:name":"Qantas Empire Airways",
-    "wof:parent_id":101931173,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287479
+    "wof:id": 1159285825,
+    "wof:lastmodified": 1619636477,
+    "wof:name": "Qantas Empire Airways",
+    "wof:parent_id": 101931173,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287479
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "aspect of history"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "aspect of history"
     ]
-},
+  },
   "bbox": [
     151.176373,
     -33.939229,
     151.176373,
     -33.939229
-],
-  "geometry": {"coordinates":[151.17637300000001,-33.939229],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[151.176373,-33.939229],"type":"Point"}
 }

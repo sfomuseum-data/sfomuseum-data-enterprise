@@ -2,84 +2,85 @@
   "id": 1159283973,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1973-01-01",
-    "date:inception_upper":"1973-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1973",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-77.34306,25.05823,-77.34306,25.05823",
-    "geom:latitude":25.05823,
-    "geom:longitude":-77.34306,
-    "iso:country":"BS",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":225,
-    "sfomuseum:count_objects_public":2,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Bahamasair",
-    "sfomuseum:name":"Bahamasair",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"qs_pg",
-    "wd:airline_hub":[
-        "Q1415006"
+    "date:inception_lower": "1973-01-01",
+    "date:inception_upper": "1973-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1973",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-77.343060,25.058230,-77.343060,25.058230",
+    "geom:latitude": 25.05823,
+    "geom:longitude": -77.34306,
+    "iso:country": "BS",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 225,
+    "sfomuseum:count_objects_public": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Bahamasair",
+    "sfomuseum:name": "Bahamasair",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "qs_pg",
+    "wd:airline_hub": [
+      "Q1415006"
     ],
-    "wd:country":"Q778",
-    "wd:headquarters":"Q2467",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q778",
+    "wd:headquarters": "Q2467",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191575,
-        85632339,
-        1125983123,
-        85669063
+    "wof:belongsto": [
+      102191575,
+      85632339,
+      1125983123,
+      85669063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"UP",
-        "iata:code":"UP",
-        "icao:code":"BHS",
-        "wd:id":"Q800208",
-        "wk:page":"Bahamasair",
-        "wk:pageid":167910
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "UP",
+      "iata:code": "UP",
+      "icao:code": "BHS",
+      "wd:id": "Q800208",
+      "wk:page": "Bahamasair",
+      "wk:pageid": 167910
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"BS",
-    "wof:geomhash":"77ed8145dce3d96bfcbea32de7140f05",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85632339,
-            "enterprise_id":1159283973,
-            "locality_id":1125983123,
-            "region_id":85669063
-        }
+    "wof:country": "BS",
+    "wof:created": 1619636477,
+    "wof:geomhash": "77ed8145dce3d96bfcbea32de7140f05",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85632339,
+        "enterprise_id": 1159283973,
+        "locality_id": 1125983123,
+        "region_id": 85669063
+      }
     ],
-    "wof:id":1159283973,
-    "wof:lastmodified":1606847641,
-    "wof:name":"Bahamasair",
-    "wof:parent_id":1125983123,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288807
+    "wof:id": 1159283973,
+    "wof:lastmodified": 1619636477,
+    "wof:name": "Bahamasair",
+    "wof:parent_id": 1125983123,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288807
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -77.34306,
     25.05823,
     -77.34306,
     25.05823
-],
-  "geometry": {"coordinates":[-77.34305999999999,25.05823],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-77.34306,25.05823],"type":"Point"}
 }

@@ -2,78 +2,79 @@
   "id": 1159287863,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1932-01-01",
-    "date:inception_upper":"1932-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1932",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"79.029432,22.364293,79.029432,22.364293",
-    "geom:latitude":22.364293,
-    "geom:longitude":79.029432,
-    "iso:country":"IN",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"wof",
-    "wd:airline_hub":[
-        "Q504368",
-        "Q821275",
-        "Q502670",
-        "Q388535"
+    "date:inception_lower": "1932-01-01",
+    "date:inception_upper": "1932-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1932",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "79.029432,22.364293,79.029432,22.364293",
+    "geom:latitude": 22.364293,
+    "geom:longitude": 79.029432,
+    "iso:country": "IN",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "wof",
+    "wd:airline_hub": [
+      "Q504368",
+      "Q821275",
+      "Q502670",
+      "Q388535"
     ],
-    "wd:country":"Q668",
-    "wd:headquarters":"Q987",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q668",
+    "wd:headquarters": "Q987",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191569,
-        85632469
+    "wof:belongsto": [
+      102191569,
+      85632469
     ],
-    "wof:brand_name":"Air India",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"AI",
-        "icao:code":"AIC",
-        "wd:id":"Q69906",
-        "wk:page":"Air India",
-        "wk:pageid":26457880
+    "wof:brand_name": "Air India",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "AI",
+      "icao:code": "AIC",
+      "wd:id": "Q69906",
+      "wk:page": "Air India",
+      "wk:pageid": 26457880
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"IN",
-    "wof:geomhash":"b499eda2ff19b33d630a730bbfce85a3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632469,
-            "enterprise_id":1159287863
-        }
+    "wof:country": "IN",
+    "wof:created": 1619636478,
+    "wof:geomhash": "b499eda2ff19b33d630a730bbfce85a3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632469,
+        "enterprise_id": 1159287863
+      }
     ],
-    "wof:id":1159287863,
-    "wof:lastmodified":1542668447,
-    "wof:name":"Air India",
-    "wof:parent_id":85632469,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287863,
+    "wof:lastmodified": 1619636478,
+    "wof:name": "Air India",
+    "wof:parent_id": 85632469,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     79.029432,
     22.364293,
     79.029432,
     22.364293
-],
+  ],
   "geometry": {"coordinates":[79.029432,22.364293],"type":"Point"}
 }

@@ -2,78 +2,79 @@
   "id": 1377649073,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"2016-01-01",
-    "date:inception_upper":"2016-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"2016",
-    "flysfo:airline_code":"BF",
-    "flysfo:is_sfo":1,
-    "geom:area":0.0,
-    "geom:bbox":"-1.433617,46.775131,-1.433617,46.775131",
-    "geom:latitude":46.775131,
-    "geom:longitude":-1.433617,
-    "iso:country":"FR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":"-1",
-    "sfomuseum:is_sfo":0,
-    "sfomuseum:placetype":"airline",
-    "wd:airline_hub":[
-        "Q223416"
+    "date:inception_lower": "2016-01-01",
+    "date:inception_upper": "2016-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2016",
+    "flysfo:airline_code": "BF",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0,
+    "geom:bbox": "-1.433617,46.775131,-1.433617,46.775131",
+    "geom:latitude": 46.775131,
+    "geom:longitude": -1.433617,
+    "iso:country": "FR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": "-1",
+    "sfomuseum:is_sfo": 0,
+    "sfomuseum:placetype": "airline",
+    "src:geom": "unknown",
+    "wd:airline_hub": [
+      "Q223416"
     ],
-    "wd:country":"Q142",
-    "wd:headquarters":"Q470826",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q142",
+    "wd:headquarters": "Q470826",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85683409,
-        102191581,
-        85633147,
-        404391427,
-        404227983,
-        404227423,
-        102068051
+    "wof:belongsto": [
+      85683409,
+      102191581,
+      85633147,
+      404391427,
+      404227983,
+      404227423,
+      102068051
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"BF",
-        "iata:code":"BF",
-        "icao:callsign":"FRENCH BEE",
-        "icao:code":"FBU",
-        "wd:id":"Q23979091"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "BF",
+      "iata:code": "BF",
+      "icao:callsign": "FRENCH BEE",
+      "icao:code": "FBU",
+      "wd:id": "Q23979091"
     },
-    "wof:country":"FR",
-    "wof:created":1557528278,
-    "wof:geomhash":"88d789d792e185a6b6cbd8395382323c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "county_id":102068051,
-            "enterprise_id":1377649073,
-            "localadmin_id":404391427,
-            "macrocounty_id":404227983,
-            "macroregion_id":404227423,
-            "region_id":85683409
-        }
+    "wof:country": "FR",
+    "wof:created": 1557528278,
+    "wof:geomhash": "88d789d792e185a6b6cbd8395382323c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102068051,
+        "enterprise_id": 1377649073,
+        "localadmin_id": 404391427,
+        "macrocounty_id": 404227983,
+        "macroregion_id": 404227423,
+        "region_id": 85683409
+      }
     ],
-    "wof:id":1377649073,
-    "wof:lastmodified":1557783763,
-    "wof:name":"French Bee",
-    "wof:parent_id":404391427,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1377649073,
+    "wof:lastmodified": 1619636501,
+    "wof:name": "French Bee",
+    "wof:parent_id": 404391427,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -1.433617,
     46.775131,
     -1.433617,
     46.775131
-],
+  ],
   "geometry": {"coordinates":[-1.433617,46.775131],"type":"Point"}
 }

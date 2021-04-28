@@ -2,81 +2,82 @@
   "id": 1159288753,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1976-01-01",
-    "date:inception_upper":"1976-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1976",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.6,17.96667,102.6,17.96667",
-    "geom:latitude":17.96667,
-    "geom:longitude":102.6,
-    "iso:country":"LA",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q221279"
+    "date:inception_lower": "1976-01-01",
+    "date:inception_upper": "1976-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1976",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "102.600000,17.966670,102.600000,17.966670",
+    "geom:latitude": 17.96667,
+    "geom:longitude": 102.6,
+    "iso:country": "LA",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q221279"
     ],
-    "wd:country":"Q819",
-    "wd:headquarters":"Q9326",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q819",
+    "wd:headquarters": "Q9326",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85673433,
-        102191569,
-        85632241,
-        421168913,
-        1092027747
+    "wof:belongsto": [
+      85673433,
+      102191569,
+      85632241,
+      421168913,
+      1092027747
     ],
-    "wof:brand_name":"Lao Airlines",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"QV",
-        "icao:code":"LAO",
-        "wd:id":"Q756172",
-        "wk:page":"Lao Airlines",
-        "wk:pageid":876022
+    "wof:brand_name": "Lao Airlines",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "QV",
+      "icao:code": "LAO",
+      "wd:id": "Q756172",
+      "wk:page": "Lao Airlines",
+      "wk:pageid": 876022
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"LA",
-    "wof:geomhash":"7dc576f8939655001c8060bad7e630b7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632241,
-            "county_id":1092027747,
-            "enterprise_id":1159288753,
-            "locality_id":421168913,
-            "region_id":85673433
-        }
+    "wof:country": "LA",
+    "wof:created": 1619636478,
+    "wof:geomhash": "7dc576f8939655001c8060bad7e630b7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632241,
+        "county_id": 1092027747,
+        "enterprise_id": 1159288753,
+        "locality_id": 421168913,
+        "region_id": 85673433
+      }
     ],
-    "wof:id":1159288753,
-    "wof:lastmodified":1542668456,
-    "wof:name":"Lao Airlines",
-    "wof:parent_id":421168913,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159288753,
+    "wof:lastmodified": 1619636478,
+    "wof:name": "Lao Airlines",
+    "wof:parent_id": 421168913,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     102.6,
     17.96667,
     102.6,
     17.96667
-],
-  "geometry": {"coordinates":[102.59999999999999,17.96667],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[102.6,17.96667],"type":"Point"}
 }

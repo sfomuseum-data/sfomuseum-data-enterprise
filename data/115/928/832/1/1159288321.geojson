@@ -2,83 +2,84 @@
   "id": 1159288321,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1923-01-01",
-    "date:inception_upper":"1923-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1923",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"14.460249,50.06694,14.460249,50.06694",
-    "geom:latitude":50.06694,
-    "geom:longitude":14.460249,
-    "iso:country":"CZ",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q99172"
+    "date:inception_lower": "1923-01-01",
+    "date:inception_upper": "1923-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1923",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "14.460249,50.066940,14.460249,50.066940",
+    "geom:latitude": 50.06694,
+    "geom:longitude": 14.460249,
+    "iso:country": "CZ",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q99172"
     ],
-    "wd:country":"Q213",
-    "wd:headquarters":"Q1085",
-    "wd:instance_of":[
-        "Q46970",
-        "Q4830453",
-        "Q6881511"
+    "wd:country": "Q213",
+    "wd:headquarters": "Q1085",
+    "wd:instance_of": [
+      "Q46970",
+      "Q4830453",
+      "Q6881511"
     ],
-    "wof:belongsto":[
-        102191581,
-        85633105,
-        101748113,
-        85682437
+    "wof:belongsto": [
+      102191581,
+      85633105,
+      101748113,
+      85682437
     ],
-    "wof:brand_name":"Czech Airlines",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"OK",
-        "icao:code":"CSA",
-        "wd:id":"Q192653",
-        "wk:page":"Czech Airlines",
-        "wk:pageid":335703
+    "wof:brand_name": "Czech Airlines",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "OK",
+      "icao:code": "CSA",
+      "wd:id": "Q192653",
+      "wk:page": "Czech Airlines",
+      "wk:pageid": 335703
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"CZ",
-    "wof:geomhash":"e98e8608905e716b136ed6eb19ec64d9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633105,
-            "enterprise_id":1159288321,
-            "locality_id":101748113,
-            "region_id":85682437
-        }
+    "wof:country": "CZ",
+    "wof:created": 1619636531,
+    "wof:geomhash": "e98e8608905e716b136ed6eb19ec64d9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633105,
+        "enterprise_id": 1159288321,
+        "locality_id": 101748113,
+        "region_id": 85682437
+      }
     ],
-    "wof:id":1159288321,
-    "wof:lastmodified":1542668411,
-    "wof:name":"Czech Airlines",
-    "wof:parent_id":101748113,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline",
-        "business",
-        "enterprise"
+    "wof:id": 1159288321,
+    "wof:lastmodified": 1619636531,
+    "wof:name": "Czech Airlines",
+    "wof:parent_id": 101748113,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline",
+      "business",
+      "enterprise"
     ]
-},
+  },
   "bbox": [
     14.460249,
     50.06694,
     14.460249,
     50.06694
-],
+  ],
   "geometry": {"coordinates":[14.460249,50.06694],"type":"Point"}
 }

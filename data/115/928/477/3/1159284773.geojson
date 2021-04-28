@@ -2,92 +2,93 @@
   "id": 1159284773,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1980-01-01",
-    "date:inception_upper":"1980-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1980",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-112.070892,33.60503,-112.070892,33.60503",
-    "geom:latitude":33.60503,
-    "geom:longitude":-112.070892,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":587,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Mesa Airlines",
-    "sfomuseum:name":"Mesa Airlines",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q531178",
-        "Q597649",
-        "Q912916",
-        "Q213717",
-        "Q466835"
+    "date:inception_lower": "1980-01-01",
+    "date:inception_upper": "1980-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1980",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-112.070892,33.605030,-112.070892,33.605030",
+    "geom:latitude": 33.60503,
+    "geom:longitude": -112.070892,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 587,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Mesa Airlines",
+    "sfomuseum:name": "Mesa Airlines",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q531178",
+      "Q597649",
+      "Q912916",
+      "Q213717",
+      "Q466835"
     ],
-    "wd:country":"Q30",
-    "wd:headquarters":"Q16556",
-    "wd:instance_of":[
-        "Q46970",
-        "Q2440569"
+    "wd:country": "Q30",
+    "wd:headquarters": "Q16556",
+    "wd:instance_of": [
+      "Q46970",
+      "Q2440569"
     ],
-    "wof:belongsto":[
-        85688719,
-        102191575,
-        85633793,
-        85917479,
-        102087421
+    "wof:belongsto": [
+      85688719,
+      102191575,
+      85633793,
+      85917479,
+      102087421
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"YV",
-        "iata:code":"YV",
-        "icao:code":"ASH",
-        "wd:id":"Q1922297",
-        "wk:page":"Mesa Airlines",
-        "wk:pageid":295385
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "YV",
+      "iata:code": "YV",
+      "icao:code": "ASH",
+      "wd:id": "Q1922297",
+      "wk:page": "Mesa Airlines",
+      "wk:pageid": 295385
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"021179be3837b313e68fdd345b1eddcd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087421,
-            "enterprise_id":1159284773,
-            "locality_id":85917479,
-            "region_id":85688719
-        }
+    "wof:country": "US",
+    "wof:created": 1619636479,
+    "wof:geomhash": "021179be3837b313e68fdd345b1eddcd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087421,
+        "enterprise_id": 1159284773,
+        "locality_id": 85917479,
+        "region_id": 85688719
+      }
     ],
-    "wof:id":1159284773,
-    "wof:lastmodified":1606847648,
-    "wof:name":"Mesa Airlines",
-    "wof:parent_id":85917479,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288243
+    "wof:id": 1159284773,
+    "wof:lastmodified": 1619636479,
+    "wof:name": "Mesa Airlines",
+    "wof:parent_id": 85917479,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288243
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline",
-        "regional airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline",
+      "regional airline"
     ]
-},
+  },
   "bbox": [
     -112.070892,
     33.60503,
     -112.070892,
     33.60503
-],
+  ],
   "geometry": {"coordinates":[-112.070892,33.60503],"type":"Point"}
 }

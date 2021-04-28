@@ -2,81 +2,81 @@
   "id": 1159283589,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"2016-01-01",
-    "date:inception_upper":"2016-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"2016",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"4.792712,50.780688,4.792712,50.780688",
-    "geom:latitude":50.780688,
-    "geom:longitude":4.792712,
-    "iso:country":"BE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":53,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Air Belgium",
-    "sfomuseum:name":"Air Belgium",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q1431012"
+    "date:inception_lower": "2016-01-01",
+    "date:inception_upper": "2016-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2016",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "4.792712,50.780688,4.792712,50.780688",
+    "geom:latitude": 50.780688,
+    "geom:longitude": 4.792712,
+    "iso:country": "BE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 53,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Air Belgium",
+    "sfomuseum:name": "Air Belgium",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q1431012"
     ],
-    "wd:country":"Q31",
-    "wd:headquarters":"Q650152",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q31",
+    "wd:headquarters": "Q650152",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191581,
-        1159286585,
-        85632997
+    "wof:belongsto": [
+      102191581,
+      85632997
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"KF",
-        "iata:code":"KF",
-        "icao:code":"ABB",
-        "wd:id":"Q50399835",
-        "wk:page":"Air Belgium (since 2016)",
-        "wk:pageid":57367009
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "KF",
+      "iata:code": "KF",
+      "icao:code": "ABB",
+      "wd:id": "Q50399835",
+      "wk:page": "Air Belgium (since 2016)",
+      "wk:pageid": 57367009
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"BE",
-    "wof:geomhash":"dc381c4158ce0bdf3b8406555d8e0d5a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85632997,
-            "enterprise_id":1159286585
-        }
+    "wof:country": "BE",
+    "wof:created": 1619636479,
+    "wof:geomhash": "dc381c4158ce0bdf3b8406555d8e0d5a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85632997,
+        "enterprise_id": 1159283589
+      }
     ],
-    "wof:id":1159283589,
-    "wof:lastmodified":1606847638,
-    "wof:name":"Air Belgium",
-    "wof:parent_id":85632997,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159286585
+    "wof:id": 1159283589,
+    "wof:lastmodified": 1619636479,
+    "wof:name": "Air Belgium",
+    "wof:parent_id": 85632997,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159286585
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     4.792712,
     50.780688,
     4.792712,
     50.780688
-],
+  ],
   "geometry": {"coordinates":[4.792712,50.780688],"type":"Point"}
 }

@@ -2,72 +2,73 @@
   "id": 1159286813,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1934-01-01",
-    "date:inception_upper":"1934-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1934",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.666291,-29.708985,23.666291,-29.708985",
-    "geom:latitude":-29.708985,
-    "geom:longitude":23.666291,
-    "iso:country":"ZA",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"woedb",
-    "wd:airline_hub":[
-        "Q821750"
+    "date:inception_lower": "1934-01-01",
+    "date:inception_upper": "1934-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1934",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "23.666291,-29.708985,23.666291,-29.708985",
+    "geom:latitude": -29.708985,
+    "geom:longitude": 23.666291,
+    "iso:country": "ZA",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "woedb",
+    "wd:airline_hub": [
+      "Q821750"
     ],
-    "wd:country":"Q258",
-    "wd:headquarters":"Q821750",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q258",
+    "wd:headquarters": "Q821750",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191573,
-        85633813
+    "wof:belongsto": [
+      102191573,
+      85633813
     ],
-    "wof:brand_name":"South African Airways (SAL)",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"SA",
-        "icao:code":"SAA"
+    "wof:brand_name": "South African Airways (SAL)",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "SA",
+      "icao:code": "SAA"
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"ZA",
-    "wof:geomhash":"1831416c3f661b1a924132bf7d61ef88",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191573,
-            "country_id":85633813,
-            "enterprise_id":1159286813
-        }
+    "wof:country": "ZA",
+    "wof:created": 1619636478,
+    "wof:geomhash": "1831416c3f661b1a924132bf7d61ef88",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191573,
+        "country_id": 85633813,
+        "enterprise_id": 1159286813
+      }
     ],
-    "wof:id":1159286813,
-    "wof:lastmodified":1542675117,
-    "wof:name":"South African Airways (SAL)",
-    "wof:parent_id":85633813,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159286813,
+    "wof:lastmodified": 1619636478,
+    "wof:name": "South African Airways (SAL)",
+    "wof:parent_id": 85633813,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     23.666291,
     -29.708985,
     23.666291,
     -29.708985
-],
+  ],
   "geometry": {"coordinates":[23.666291,-29.708985],"type":"Point"}
 }

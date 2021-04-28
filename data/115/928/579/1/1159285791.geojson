@@ -2,64 +2,65 @@
   "id": 1159285791,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1963-01-01",
-    "date:inception_upper":"1963-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1963",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-60.13994,-21.686079,-60.13994,-21.686079",
-    "geom:latitude":-21.686079,
-    "geom:longitude":-60.13994,
-    "iso:country":"PY",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":1067,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Lineas Aereas Paraguayas (LAP)",
-    "sfomuseum:name":"Lineas Aereas Paraguayas (LAP)",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"meso",
-    "wof:belongsto":[
-        102191577,
-        85632355
+    "date:inception_lower": "1963-01-01",
+    "date:inception_upper": "1963-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1963",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-60.139940,-21.686079,-60.139940,-21.686079",
+    "geom:latitude": -21.686079,
+    "geom:longitude": -60.13994,
+    "iso:country": "PY",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 1067,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Lineas Aereas Paraguayas (LAP)",
+    "sfomuseum:name": "Lineas Aereas Paraguayas (LAP)",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "meso",
+    "wof:belongsto": [
+      102191577,
+      85632355
     ],
-    "wof:breaches":[],
-    "wof:concordances":{},
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:concordances": {},
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:coterminous":1159285795,
-    "wof:country":"PY",
-    "wof:geomhash":"892f1eefebaf5b52438672e4c167c260",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191577,
-            "country_id":85632355,
-            "enterprise_id":1159285791
-        }
+    "wof:coterminous": 1159285795,
+    "wof:country": "PY",
+    "wof:created": 1619636479,
+    "wof:geomhash": "892f1eefebaf5b52438672e4c167c260",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191577,
+        "country_id": 85632355,
+        "enterprise_id": 1159285791
+      }
     ],
-    "wof:id":1159285791,
-    "wof:lastmodified":1606847658,
-    "wof:name":"Lineas Aereas Paraguayas (LAP)",
-    "wof:parent_id":85632355,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288543
+    "wof:id": 1159285791,
+    "wof:lastmodified": 1619636479,
+    "wof:name": "Lineas Aereas Paraguayas (LAP)",
+    "wof:parent_id": 85632355,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288543
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -60.13994,
     -21.686079,
     -60.13994,
     -21.686079
-],
+  ],
   "geometry": {"coordinates":[-60.13994,-21.686079],"type":"Point"}
 }

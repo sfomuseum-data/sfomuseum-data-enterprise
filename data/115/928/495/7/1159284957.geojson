@@ -2,75 +2,75 @@
   "id": 1159284957,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1932-01-01",
-    "date:inception_upper":"1932-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1932",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
-    "geom:latitude":39.715956,
-    "geom:longitude":-96.999668,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":669,
-    "sfomuseum:count_objects_public":5,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Pacific Alaska Airways",
-    "sfomuseum:name":"Pacific Alaska Airways",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:instance_of":[
-        "Q46970"
+    "date:inception_lower": "1932-01-01",
+    "date:inception_upper": "1932-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1932",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude": 39.715956,
+    "geom:longitude": -96.999668,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 669,
+    "sfomuseum:count_objects_public": 5,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Pacific Alaska Airways",
+    "sfomuseum:name": "Pacific Alaska Airways",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191575,
-        1159288169,
-        85633793,
-        136253057
+    "wof:belongsto": [
+      102191575,
+      85633793,
+      136253057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q7122286",
-        "wk:page":"Pacific Alaska Airways",
-        "wk:pageid":3786874
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q7122286",
+      "wk:page": "Pacific Alaska Airways",
+      "wk:pageid": 3786874
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "enterprise_id":1159288169
-        }
+    "wof:country": "US",
+    "wof:created": 1619636477,
+    "wof:geomhash": "bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "empire_id": 136253057,
+        "enterprise_id": 1159284957
+      }
     ],
-    "wof:id":1159284957,
-    "wof:lastmodified":1606847650,
-    "wof:name":"Pacific Alaska Airways",
-    "wof:parent_id":85633793,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288169
+    "wof:id": 1159284957,
+    "wof:lastmodified": 1619636477,
+    "wof:name": "Pacific Alaska Airways",
+    "wof:parent_id": 85633793,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288169
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -96.999668,
     39.715956,
     -96.999668,
     39.715956
-],
+  ],
   "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
 }

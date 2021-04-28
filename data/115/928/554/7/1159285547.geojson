@@ -2,79 +2,80 @@
   "id": 1159285547,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1944-01-01",
-    "date:inception_upper":"1944-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1944",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
-    "geom:latitude":39.715956,
-    "geom:longitude":-96.999668,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":942,
-    "sfomuseum:count_objects_public":2,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Wisconsin Central Airlines",
-    "sfomuseum:name":"Wisconsin Central Airlines",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q213717"
+    "date:inception_lower": "1944-01-01",
+    "date:inception_upper": "1944-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1944",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude": 39.715956,
+    "geom:longitude": -96.999668,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 942,
+    "sfomuseum:count_objects_public": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Wisconsin Central Airlines",
+    "sfomuseum:name": "Wisconsin Central Airlines",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q213717"
     ],
-    "wd:country":"Q30",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q30",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191575,
-        85633793,
-        136253057
+    "wof:belongsto": [
+      102191575,
+      85633793,
+      136253057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"NC",
-        "wd:id":"Q7054722",
-        "wk:page":"North Central Airlines",
-        "wk:pageid":10447892
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "NC",
+      "wd:id": "Q7054722",
+      "wk:page": "North Central Airlines",
+      "wk:pageid": 10447892
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "enterprise_id":1159285547
-        }
+    "wof:country": "US",
+    "wof:created": 1619636479,
+    "wof:geomhash": "bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "empire_id": 136253057,
+        "enterprise_id": 1159285547
+      }
     ],
-    "wof:id":1159285547,
-    "wof:lastmodified":1606847655,
-    "wof:name":"Wisconsin Central Airlines",
-    "wof:parent_id":85633793,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288865
+    "wof:id": 1159285547,
+    "wof:lastmodified": 1619636479,
+    "wof:name": "Wisconsin Central Airlines",
+    "wof:parent_id": 85633793,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288865
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -96.999668,
     39.715956,
     -96.999668,
     39.715956
-],
+  ],
   "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
 }

@@ -2,84 +2,85 @@
   "id": 1159285085,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1974-01-01",
-    "date:inception_upper":"1974-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1974",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.941695,4.889737,114.941695,4.889737",
-    "geom:latitude":4.889737,
-    "geom:longitude":114.941695,
-    "iso:country":"BN",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":729,
-    "sfomuseum:count_objects_public":4,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Royal Brunei Airlines",
-    "sfomuseum:name":"Royal Brunei Airlines",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q1148514"
+    "date:inception_lower": "1974-01-01",
+    "date:inception_upper": "1974-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1974",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "114.941695,4.889737,114.941695,4.889737",
+    "geom:latitude": 4.889737,
+    "geom:longitude": 114.941695,
+    "iso:country": "BN",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 729,
+    "sfomuseum:count_objects_public": 4,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Royal Brunei Airlines",
+    "sfomuseum:name": "Royal Brunei Airlines",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q1148514"
     ],
-    "wd:country":"Q921",
-    "wd:headquarters":"Q9279",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q921",
+    "wd:headquarters": "Q9279",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191569,
-        85632749,
-        421188863,
-        85669487
+    "wof:belongsto": [
+      102191569,
+      85632749,
+      421188863,
+      85669487
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"BI",
-        "iata:code":"BI",
-        "icao:code":"RBA",
-        "wd:id":"Q1050783",
-        "wk:page":"Royal Brunei Airlines",
-        "wk:pageid":149678
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "BI",
+      "iata:code": "BI",
+      "icao:code": "RBA",
+      "wd:id": "Q1050783",
+      "wk:page": "Royal Brunei Airlines",
+      "wk:pageid": 149678
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"BN",
-    "wof:geomhash":"ceac206697d2b261ae50aacff1ceaf8f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632749,
-            "enterprise_id":1159285085,
-            "locality_id":421188863,
-            "region_id":85669487
-        }
+    "wof:country": "BN",
+    "wof:created": 1619636479,
+    "wof:geomhash": "ceac206697d2b261ae50aacff1ceaf8f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632749,
+        "enterprise_id": 1159285085,
+        "locality_id": 421188863,
+        "region_id": 85669487
+      }
     ],
-    "wof:id":1159285085,
-    "wof:lastmodified":1606847651,
-    "wof:name":"Royal Brunei Airlines",
-    "wof:parent_id":421188863,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287321
+    "wof:id": 1159285085,
+    "wof:lastmodified": 1619636479,
+    "wof:name": "Royal Brunei Airlines",
+    "wof:parent_id": 421188863,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287321
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     114.941695,
     4.889737,
     114.941695,
     4.889737
-],
+  ],
   "geometry": {"coordinates":[114.941695,4.889737],"type":"Point"}
 }

@@ -2,84 +2,85 @@
   "id": 1159284715,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1948-01-01",
-    "date:inception_upper":"1948-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1948",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"6.21889,49.61333,6.21889,49.61333",
-    "geom:latitude":49.61333,
-    "geom:longitude":6.21889,
-    "iso:country":"LU",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":562,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Luxair",
-    "sfomuseum:name":"Luxair",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"qs_pg",
-    "wd:airline_hub":[
-        "Q872186"
+    "date:inception_lower": "1948-01-01",
+    "date:inception_upper": "1948-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1948",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "6.218890,49.613330,6.218890,49.613330",
+    "geom:latitude": 49.61333,
+    "geom:longitude": 6.21889,
+    "iso:country": "LU",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 562,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Luxair",
+    "sfomuseum:name": "Luxair",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "qs_pg",
+    "wd:airline_hub": [
+      "Q872186"
     ],
-    "wd:country":"Q32",
-    "wd:headquarters":"Q985476",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q32",
+    "wd:headquarters": "Q985476",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191581,
-        85633275,
-        1126007063,
-        85673875
+    "wof:belongsto": [
+      102191581,
+      85633275,
+      1126007063,
+      85673875
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"LG",
-        "iata:code":"LG",
-        "icao:code":"LGL",
-        "wd:id":"Q726813",
-        "wk:page":"Luxair",
-        "wk:pageid":366096
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "LG",
+      "iata:code": "LG",
+      "icao:code": "LGL",
+      "wd:id": "Q726813",
+      "wk:page": "Luxair",
+      "wk:pageid": 366096
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"LU",
-    "wof:geomhash":"fe48ed1c9f2d861c0f72d9a1d3a11be7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633275,
-            "enterprise_id":1159284715,
-            "locality_id":1126007063,
-            "region_id":85673875
-        }
+    "wof:country": "LU",
+    "wof:created": 1619636479,
+    "wof:geomhash": "fe48ed1c9f2d861c0f72d9a1d3a11be7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633275,
+        "enterprise_id": 1159284715,
+        "locality_id": 1126007063,
+        "region_id": 85673875
+      }
     ],
-    "wof:id":1159284715,
-    "wof:lastmodified":1606847648,
-    "wof:name":"Luxair",
-    "wof:parent_id":1126007063,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287253
+    "wof:id": 1159284715,
+    "wof:lastmodified": 1619636479,
+    "wof:name": "Luxair",
+    "wof:parent_id": 1126007063,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287253
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     6.21889,
     49.61333,
     6.21889,
     49.61333
-],
+  ],
   "geometry": {"coordinates":[6.21889,49.61333],"type":"Point"}
 }

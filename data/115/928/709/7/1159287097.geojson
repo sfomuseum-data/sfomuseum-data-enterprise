@@ -2,80 +2,81 @@
   "id": 1159287097,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1997-01-01",
-    "date:inception_upper":"1997-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1997",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"129.770996,62.0933,129.770996,62.0933",
-    "geom:latitude":62.0933,
-    "geom:longitude":129.770996,
-    "iso:country":"",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"ourairports",
-    "wd:country":"Q159",
-    "wd:headquarters":"Q1431588",
-    "wd:instance_of":[
-        "Q46970"
+    "date:inception_lower": "1997-01-01",
+    "date:inception_upper": "1997-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1997",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "129.770996,62.093300,129.770996,62.093300",
+    "geom:latitude": 62.0933,
+    "geom:longitude": 129.770996,
+    "iso:country": "",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "ourairports",
+    "wd:country": "Q159",
+    "wd:headquarters": "Q1431588",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102540471,
-        85687843,
-        102191581,
-        85632685,
-        874393555,
-        1108734077
+    "wof:belongsto": [
+      102540471,
+      85687843,
+      102191581,
+      85632685,
+      874393555,
+      1108734077
     ],
-    "wof:brand_name":"Polar Airlines",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"PI",
-        "icao:code":"RKA",
-        "wd:id":"Q2130889",
-        "wk:page":"Polar Airlines",
-        "wk:pageid":8550790
+    "wof:brand_name": "Polar Airlines",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "PI",
+      "icao:code": "RKA",
+      "wd:id": "Q2130889",
+      "wk:page": "Polar Airlines",
+      "wk:pageid": 8550790
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"",
-    "wof:geomhash":"6acab5976f64f178a6e76c71d548329c",
-    "wof:hierarchy":[
-        {
-            "campus_id":102540471,
-            "continent_id":102191581,
-            "country_id":85632685,
-            "county_id":1108734077,
-            "empire_id":874393555,
-            "enterprise_id":1159287097,
-            "region_id":85687843
-        }
+    "wof:country": "",
+    "wof:created": 1619636478,
+    "wof:geomhash": "6acab5976f64f178a6e76c71d548329c",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102540471,
+        "continent_id": 102191581,
+        "country_id": 85632685,
+        "county_id": 1108734077,
+        "empire_id": 874393555,
+        "enterprise_id": 1159287097,
+        "region_id": 85687843
+      }
     ],
-    "wof:id":1159287097,
-    "wof:lastmodified":1542668449,
-    "wof:name":"Polar Airlines",
-    "wof:parent_id":102540471,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287097,
+    "wof:lastmodified": 1619636478,
+    "wof:name": "Polar Airlines",
+    "wof:parent_id": 102540471,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     129.770996,
     62.0933,
     129.770996,
     62.0933
-],
+  ],
   "geometry": {"coordinates":[129.770996,62.0933],"type":"Point"}
 }

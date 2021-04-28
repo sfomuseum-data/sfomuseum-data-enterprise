@@ -2,66 +2,66 @@
   "id": 1159283571,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1950-01-01",
-    "date:inception_upper":"1950-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1950",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
-    "geom:latitude":39.715956,
-    "geom:longitude":-96.999668,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":45,
-    "sfomuseum:count_objects_public":3,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Air America",
-    "sfomuseum:name":"Air America",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wof:belongsto":[
-        102191575,
-        1159288313,
-        85633793,
-        136253057
+    "date:inception_lower": "1950-01-01",
+    "date:inception_upper": "1950-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1950",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude": 39.715956,
+    "geom:longitude": -96.999668,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 45,
+    "sfomuseum:count_objects_public": 3,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Air America",
+    "sfomuseum:name": "Air America",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      102191575,
+      85633793,
+      136253057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{},
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:concordances": {},
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "enterprise_id":1159288313
-        }
+    "wof:country": "US",
+    "wof:created": 1619636479,
+    "wof:geomhash": "bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "empire_id": 136253057,
+        "enterprise_id": 1159283571
+      }
     ],
-    "wof:id":1159283571,
-    "wof:lastmodified":1606847637,
-    "wof:name":"Air America",
-    "wof:parent_id":85633793,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288313
+    "wof:id": 1159283571,
+    "wof:lastmodified": 1619636479,
+    "wof:name": "Air America",
+    "wof:parent_id": 85633793,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288313
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -96.999668,
     39.715956,
     -96.999668,
     39.715956
-],
+  ],
   "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
 }

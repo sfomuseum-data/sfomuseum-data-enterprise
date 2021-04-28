@@ -2,78 +2,79 @@
   "id": 1159287041,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1958-01-01",
-    "date:inception_upper":"1958-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1958",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-77.01712,38.82652,-77.01712,38.82652",
-    "geom:latitude":38.82652,
-    "geom:longitude":-77.01712,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"agency",
-    "src:geom":"mz",
-    "wd:country":"Q30",
-    "wd:headquarters":"Q61",
-    "wd:instance_of":[
-        "Q17505024",
-        "Q1752939"
+    "date:inception_lower": "1958-01-01",
+    "date:inception_upper": "1958-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1958",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-77.017120,38.826520,-77.017120,38.826520",
+    "geom:latitude": 38.82652,
+    "geom:longitude": -77.01712,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "agency",
+    "src:geom": "mz",
+    "wd:country": "Q30",
+    "wd:headquarters": "Q61",
+    "wd:instance_of": [
+      "Q17505024",
+      "Q1752939"
     ],
-    "wof:belongsto":[
-        85688741,
-        102191575,
-        85633793,
-        85931779,
-        102084889
+    "wof:belongsto": [
+      85688741,
+      102191575,
+      85633793,
+      85931779,
+      102084889
     ],
-    "wof:brand_name":"NASA",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q23548",
-        "wk:page":"NASA",
-        "wk:pageid":18426568
+    "wof:brand_name": "NASA",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q23548",
+      "wk:page": "NASA",
+      "wk:pageid": 18426568
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"e73f9d0508f31c9c3469491bd5692210",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084889,
-            "enterprise_id":1159287041,
-            "locality_id":85931779,
-            "region_id":85688741
-        }
+    "wof:country": "US",
+    "wof:created": 1619636531,
+    "wof:geomhash": "e73f9d0508f31c9c3469491bd5692210",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084889,
+        "enterprise_id": 1159287041,
+        "locality_id": 85931779,
+        "region_id": 85688741
+      }
     ],
-    "wof:id":1159287041,
-    "wof:lastmodified":1542668421,
-    "wof:name":"NASA",
-    "wof:parent_id":85931779,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "space agency",
-        "independent agency of the united states government"
+    "wof:id": 1159287041,
+    "wof:lastmodified": 1619636531,
+    "wof:name": "NASA",
+    "wof:parent_id": 85931779,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "space agency",
+      "independent agency of the united states government"
     ]
-},
+  },
   "bbox": [
     -77.01712,
     38.82652,
     -77.01712,
     38.82652
-],
-  "geometry": {"coordinates":[-77.01712000000001,38.82652],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-77.01712,38.82652],"type":"Point"}
 }

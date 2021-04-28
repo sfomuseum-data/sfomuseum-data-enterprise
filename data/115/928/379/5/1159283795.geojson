@@ -2,83 +2,83 @@
   "id": 1159283795,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1983-01-01",
-    "date:inception_upper":"1983-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1983",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"2.549047,46.698481,2.549047,46.698481",
-    "geom:latitude":46.698481,
-    "geom:longitude":2.549047,
-    "iso:country":"FR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":145,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Aircalin",
-    "sfomuseum:name":"Aircalin",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"whosonfirst",
-    "wd:airline_hub":[
-        "Q892783"
+    "date:inception_lower": "1983-01-01",
+    "date:inception_upper": "1983-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1983",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "2.549047,46.698481,2.549047,46.698481",
+    "geom:latitude": 46.698481,
+    "geom:longitude": 2.549047,
+    "iso:country": "FR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": 145,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Aircalin",
+    "sfomuseum:name": "Aircalin",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "whosonfirst",
+    "wd:airline_hub": [
+      "Q892783"
     ],
-    "wd:country":"Q142",
-    "wd:headquarters":"Q9733",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q142",
+    "wd:headquarters": "Q9733",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191581,
-        1159286699,
-        85633147,
-        136253037
+    "wof:belongsto": [
+      102191581,
+      85633147,
+      136253037
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"SB",
-        "iata:code":"SB",
-        "icao:code":"ACI",
-        "wd:id":"Q408408",
-        "wk:page":"Aircalin",
-        "wk:pageid":571116
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "SB",
+      "iata:code": "SB",
+      "icao:code": "ACI",
+      "wd:id": "Q408408",
+      "wk:page": "Aircalin",
+      "wk:pageid": 571116
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"FR",
-    "wof:geomhash":"0f1e966ff020c6c01f3634368df829a2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "empire_id":136253037,
-            "enterprise_id":1159286699
-        }
+    "wof:country": "FR",
+    "wof:created": 1619636476,
+    "wof:geomhash": "0f1e966ff020c6c01f3634368df829a2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "empire_id": 136253037,
+        "enterprise_id": 1159283795
+      }
     ],
-    "wof:id":1159283795,
-    "wof:lastmodified":1606847640,
-    "wof:name":"Aircalin",
-    "wof:parent_id":85633147,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159286699
+    "wof:id": 1159283795,
+    "wof:lastmodified": 1619636476,
+    "wof:name": "Aircalin",
+    "wof:parent_id": 85633147,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159286699
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     2.549047,
     46.698481,
     2.549047,
     46.698481
-],
+  ],
   "geometry": {"coordinates":[2.549047,46.698481],"type":"Point"}
 }

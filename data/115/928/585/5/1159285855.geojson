@@ -2,63 +2,63 @@
   "id": 1159285855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"9.680372,61.356908,9.680372,61.356908",
-    "geom:latitude":61.356908,
-    "geom:longitude":9.680372,
-    "iso:country":"NO",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:airline_id":1095,
-    "sfomuseum:brand":"DNL Norwegian Air Lines ",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"DNL Norwegian Air Lines  (DNL Norwegian Air Lines )",
-    "sfomuseum:name":"DNL Norwegian Air Lines",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"us-dshiu",
-    "wof:belongsto":[
-        102191581,
-        1159287641,
-        85633341
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "9.680372,61.356908,9.680372,61.356908",
+    "geom:latitude": 61.356908,
+    "geom:longitude": 9.680372,
+    "iso:country": "NO",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:airline_id": 1095,
+    "sfomuseum:brand": "DNL Norwegian Air Lines ",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "DNL Norwegian Air Lines  (DNL Norwegian Air Lines )",
+    "sfomuseum:name": "DNL Norwegian Air Lines",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "us-dshiu",
+    "wof:belongsto": [
+      102191581,
+      85633341
     ],
-    "wof:breaches":[],
-    "wof:concordances":{},
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:concordances": {},
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"NO",
-    "wof:geomhash":"d9147bd9a84342c0a79fb22a8c8de48c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "enterprise_id":1159287641
-        }
+    "wof:country": "NO",
+    "wof:created": 1619636477,
+    "wof:geomhash": "d9147bd9a84342c0a79fb22a8c8de48c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633341,
+        "enterprise_id": 1159285855
+      }
     ],
-    "wof:id":1159285855,
-    "wof:lastmodified":1606847658,
-    "wof:name":"DNL Norwegian Air Lines",
-    "wof:parent_id":85633341,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287641
+    "wof:id": 1159285855,
+    "wof:lastmodified": 1619636477,
+    "wof:name": "DNL Norwegian Air Lines",
+    "wof:parent_id": 85633341,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287641
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     9.680372,
     61.356908,
     9.680372,
     61.356908
-],
+  ],
   "geometry": {"coordinates":[9.680372,61.356908],"type":"Point"}
 }

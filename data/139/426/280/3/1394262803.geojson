@@ -2,79 +2,80 @@
   "id": 1394262803,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1995-01-01",
-    "date:inception_upper":"1995-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":"1995",
-    "flysfo:airline_code":"SE",
-    "flysfo:is_sfo":1,
-    "geom:area":0.0,
-    "geom:bbox":"2.538392,48.995031,2.538392,48.995031",
-    "geom:latitude":48.995031,
-    "geom:longitude":2.538392,
-    "iso:country":"FR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:airline_id":"-1",
-    "sfomuseum:is_sfo":0,
-    "sfomuseum:placetype":"airline",
-    "wd:airline_hub":[
-        "Q46280"
+    "date:inception_lower": "1995-01-01",
+    "date:inception_upper": "1995-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "1995",
+    "flysfo:airline_code": "SE",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0,
+    "geom:bbox": "2.538392,48.995031,2.538392,48.995031",
+    "geom:latitude": 48.995031,
+    "geom:longitude": 2.538392,
+    "iso:country": "FR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": "-1",
+    "sfomuseum:is_sfo": 0,
+    "sfomuseum:placetype": "airline",
+    "src:geom": "unknown",
+    "wd:airline_hub": [
+      "Q46280"
     ],
-    "wd:country":"Q142",
-    "wd:headquarters":"Q46280",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q142",
+    "wd:headquarters": "Q46280",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85683475,
-        102191581,
-        85633147,
-        1159322263,
-        404227999,
-        404227465,
-        101751163,
-        102070301
+    "wof:belongsto": [
+      85683475,
+      102191581,
+      85633147,
+      1159322263,
+      404227999,
+      404227465,
+      101751163,
+      102070301
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"SE",
-        "icao:code":"XLF",
-        "wd:id":"Q1783588",
-	"flysfo:code":"SE"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "SE",
+      "iata:code": "SE",
+      "icao:code": "XLF",
+      "wd:id": "Q1783588"
     },
-    "wof:country":"FR",
-    "wof:created":1565027748,
-    "wof:geomhash":"4856c1e8dee37d0dffbb24bf95d45ee2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "county_id":102070301,
-            "enterprise_id":1394262803,
-            "localadmin_id":1159322263,
-            "locality_id":101751163,
-            "macrocounty_id":404227999,
-            "macroregion_id":404227465,
-            "region_id":85683475
-        }
+    "wof:country": "FR",
+    "wof:created": 1565027748,
+    "wof:geomhash": "4856c1e8dee37d0dffbb24bf95d45ee2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102070301,
+        "enterprise_id": 1394262803,
+        "localadmin_id": 1159322263,
+        "locality_id": 101751163,
+        "macrocounty_id": 404227999,
+        "macroregion_id": 404227465,
+        "region_id": 85683475
+      }
     ],
-    "wof:id":1394262803,
-    "wof:lastmodified":1565027748,
-    "wof:name":"XL Airways France",
-    "wof:parent_id":101751163,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1394262803,
+    "wof:lastmodified": 1619636476,
+    "wof:name": "XL Airways France",
+    "wof:parent_id": 101751163,
+    "wof:placetype": "enterprise",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     2.538392,
     48.995031,
     2.538392,
     48.995031
-],
+  ],
   "geometry": {"coordinates":[2.538392,48.995031],"type":"Point"}
 }
