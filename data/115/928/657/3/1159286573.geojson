@@ -44,6 +44,7 @@
     "wof:geomhash": "fd75f2882327d63f1dd61eae2af15f69",
     "wof:hierarchy": [
       {
+        "agency_id": 1159286573,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085953,
@@ -52,10 +53,11 @@
       }
     ],
     "wof:id": 1159286573,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636679,
     "wof:name": "U.S. Navy",
     "wof:parent_id": 102085953,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "agency",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -50,6 +50,7 @@
     "wof:geomhash": "e02c581e4788a8bbeade5d5d8464eef0",
     "wof:hierarchy": [
       {
+        "company_id": 1159286941,
         "continent_id": 102191569,
         "country_id": 85632695,
         "county_id": 1108732371,
@@ -60,10 +61,11 @@
       }
     ],
     "wof:id": 1159286941,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636679,
     "wof:name": "China Xinhua Airlines",
     "wof:parent_id": 102027745,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

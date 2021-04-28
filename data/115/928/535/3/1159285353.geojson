@@ -2,89 +2,92 @@
   "id": 1159285353,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2001-01-01",
-    "date:cessation_upper":"2001-12-31",
-    "date:inception_lower":"1955-01-01",
-    "date:inception_upper":"1955-12-31",
-    "edtf:cessation":"2001",
-    "edtf:inception":"1955",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-47.903099,-15.803598,-47.903099,-15.803598",
-    "geom:latitude":-15.803598,
-    "geom:longitude":-47.903099,
-    "iso:country":"BR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":853,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:country":"South Africa",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"TransBrasil",
-    "sfomuseum:name":"TransBrasil",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q174"
+    "date:cessation_lower": "2001-01-01",
+    "date:cessation_upper": "2001-12-31",
+    "date:inception_lower": "1955-01-01",
+    "date:inception_upper": "1955-12-31",
+    "edtf:cessation": "2001",
+    "edtf:inception": "1955",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-47.903099,-15.803598,-47.903099,-15.803598",
+    "geom:latitude": -15.803598,
+    "geom:longitude": -47.903099,
+    "iso:country": "BR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 853,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:country": "South Africa",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "TransBrasil",
+    "sfomuseum:name": "TransBrasil",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q174"
     ],
-    "wd:country":"Q155",
-    "wd:headquarters":"Q2844",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q155",
+    "wd:headquarters": "Q2844",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85681911,
-        102191577,
-        85633009,
-        101964877,
-        102051815
+    "wof:belongsto": [
+      85681911,
+      102191577,
+      85633009,
+      101964877,
+      102051815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"QD",
-        "iata:code":"QD",
-        "icao:code":"TBA",
-        "wd:id":"Q429859",
-        "wk:page":"Transbrasil",
-        "wk:pageid":1270447
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "QD",
+      "iata:code": "QD",
+      "icao:code": "TBA",
+      "wd:id": "Q429859",
+      "wk:page": "Transbrasil",
+      "wk:pageid": 1270447
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"BR",
-    "wof:geomhash":"d891c5f92be3e899206e811ea785d336",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191577,
-            "country_id":85633009,
-            "county_id":102051815,
-            "enterprise_id":1159285353,
-            "locality_id":101964877,
-            "region_id":85681911
-        }
+    "wof:country": "BR",
+    "wof:created": 1619636571,
+    "wof:geomhash": "d891c5f92be3e899206e811ea785d336",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159285353,
+        "continent_id": 102191577,
+        "country_id": 85633009,
+        "county_id": 102051815,
+        "enterprise_id": 1159285353,
+        "locality_id": 101964877,
+        "region_id": 85681911
+      }
     ],
-    "wof:id":1159285353,
-    "wof:lastmodified":1606847654,
-    "wof:name":"TransBrasil",
-    "wof:parent_id":101964877,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287793
+    "wof:id": 1159285353,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "TransBrasil",
+    "wof:parent_id": 101964877,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287793
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -47.903099,
     -15.803598,
     -47.903099,
     -15.803598
-],
+  ],
   "geometry": {"coordinates":[-47.903099,-15.803598],"type":"Point"}
 }

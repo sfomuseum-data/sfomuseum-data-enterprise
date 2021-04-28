@@ -2,117 +2,124 @@
   "id": 1159284185,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1930-01-01",
-    "date:cessation_upper":"1930-12-31",
-    "date:inception_lower":"1926-01-01",
-    "date:inception_upper":"1926-12-31",
-    "edtf:cessation":"1930",
-    "edtf:inception":"1926",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.9708,40.68295,-73.9708,40.68295",
-    "geom:latitude":40.68295,
-    "geom:longitude":-73.9708,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":321,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Colonial Air Transport",
-    "sfomuseum:name":"Colonial Air Transport",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"mz",
-    "wd:headquarters":"Q60",
-    "wd:instance_of":[
-        "Q46970"
+    "date:cessation_lower": "1930-01-01",
+    "date:cessation_upper": "1930-12-31",
+    "date:inception_lower": "1926-01-01",
+    "date:inception_upper": "1926-12-31",
+    "edtf:cessation": "1930",
+    "edtf:inception": "1926",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.970800,40.682950,-73.970800,40.682950",
+    "geom:latitude": 40.68295,
+    "geom:longitude": -73.9708,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 321,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Colonial Air Transport",
+    "sfomuseum:name": "Colonial Air Transport",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "mz",
+    "wd:headquarters": "Q60",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85688543,
-        102191575,
-        85633793,
-        85977539,
-        102082361,
-        102082377,
-        102081863,
-        102083063,
-        102081779
+    "wof:belongsto": [
+      85688543,
+      102191575,
+      85633793,
+      85977539,
+      102082361,
+      102082377,
+      102081863,
+      102083063,
+      102081779
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q5148274",
-        "wk:page":"Colonial Air Transport",
-        "wk:pageid":15152825
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q5148274",
+      "wk:page": "Colonial Air Transport",
+      "wk:pageid": 15152825
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"3e599109a185fe96dbf6595a008872f0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082361,
-            "enterprise_id":1159284185,
-            "locality_id":85977539,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082377,
-            "enterprise_id":1159284185,
-            "locality_id":85977539,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081863,
-            "enterprise_id":1159284185,
-            "locality_id":85977539,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083063,
-            "enterprise_id":1159284185,
-            "locality_id":85977539,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081779,
-            "enterprise_id":1159284185,
-            "locality_id":85977539,
-            "region_id":85688543
-        }
+    "wof:country": "US",
+    "wof:created": 1619636574,
+    "wof:geomhash": "3e599109a185fe96dbf6595a008872f0",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159284185,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082361,
+        "enterprise_id": 1159284185,
+        "locality_id": 85977539,
+        "region_id": 85688543
+      },
+      {
+        "airline_id": 1159284185,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "enterprise_id": 1159284185,
+        "locality_id": 85977539,
+        "region_id": 85688543
+      },
+      {
+        "airline_id": 1159284185,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081863,
+        "enterprise_id": 1159284185,
+        "locality_id": 85977539,
+        "region_id": 85688543
+      },
+      {
+        "airline_id": 1159284185,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083063,
+        "enterprise_id": 1159284185,
+        "locality_id": 85977539,
+        "region_id": 85688543
+      },
+      {
+        "airline_id": 1159284185,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081779,
+        "enterprise_id": 1159284185,
+        "locality_id": 85977539,
+        "region_id": 85688543
+      }
     ],
-    "wof:id":1159284185,
-    "wof:lastmodified":1606847643,
-    "wof:name":"Colonial Air Transport",
-    "wof:parent_id":85977539,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288303
+    "wof:id": 1159284185,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "Colonial Air Transport",
+    "wof:parent_id": 85977539,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288303
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -73.9708,
     40.68295,
     -73.9708,
     40.68295
-],
+  ],
   "geometry": {"coordinates":[-73.9708,40.68295],"type":"Point"}
 }

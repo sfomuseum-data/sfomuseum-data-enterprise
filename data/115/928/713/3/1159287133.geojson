@@ -51,6 +51,7 @@
     "wof:geomhash": "7f9ef8b7a0729ac36fb9de35a7ab7311",
     "wof:hierarchy": [
       {
+        "company_id": 1159287133,
         "continent_id": 102191569,
         "country_id": 85632293,
         "county_id": 890466403,
@@ -59,10 +60,11 @@
       }
     ],
     "wof:id": 1159287133,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Thai Airways International",
     "wof:parent_id": 890466403,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

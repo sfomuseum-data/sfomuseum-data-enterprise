@@ -2,81 +2,84 @@
   "id": 1159284301,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1977-01-01",
-    "date:cessation_upper":"1977-12-31",
-    "date:inception_lower":"1945-01-01",
-    "date:inception_upper":"1945-12-31",
-    "edtf:cessation":"1977",
-    "edtf:inception":"1945",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"37.918308,0.543716,37.918308,0.543716",
-    "geom:latitude":0.543716,
-    "geom:longitude":37.918308,
-    "iso:country":"KE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":373,
-    "sfomuseum:count_objects_public":5,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"East African Airways",
-    "sfomuseum:name":"East African Airways",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q206349"
+    "date:cessation_lower": "1977-01-01",
+    "date:cessation_upper": "1977-12-31",
+    "date:inception_lower": "1945-01-01",
+    "date:inception_upper": "1945-12-31",
+    "edtf:cessation": "1977",
+    "edtf:inception": "1945",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "37.918308,0.543716,37.918308,0.543716",
+    "geom:latitude": 0.543716,
+    "geom:longitude": 37.918308,
+    "iso:country": "KE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 373,
+    "sfomuseum:count_objects_public": 5,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "East African Airways",
+    "sfomuseum:name": "East African Airways",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q206349"
     ],
-    "wd:country":"Q114",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q114",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191573,
-        85632329
+    "wof:belongsto": [
+      102191573,
+      85632329
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"EC",
-        "iata:code":"EC",
-        "icao:code":"JND",
-        "wd:id":"Q954747",
-        "wk:page":"East African Airways",
-        "wk:pageid":5869783
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "EC",
+      "iata:code": "EC",
+      "icao:code": "JND",
+      "wd:id": "Q954747",
+      "wk:page": "East African Airways",
+      "wk:pageid": 5869783
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"KE",
-    "wof:geomhash":"1fde27cba426f994b90e3e28bb4525a8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191573,
-            "country_id":85632329,
-            "enterprise_id":1159284301
-        }
+    "wof:country": "KE",
+    "wof:created": 1619636574,
+    "wof:geomhash": "1fde27cba426f994b90e3e28bb4525a8",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159284301,
+        "continent_id": 102191573,
+        "country_id": 85632329,
+        "enterprise_id": 1159284301
+      }
     ],
-    "wof:id":1159284301,
-    "wof:lastmodified":1606847644,
-    "wof:name":"East African Airways",
-    "wof:parent_id":85632329,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287365
+    "wof:id": 1159284301,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "East African Airways",
+    "wof:parent_id": 85632329,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287365
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     37.918308,
     0.543716,
     37.918308,
     0.543716
-],
+  ],
   "geometry": {"coordinates":[37.918308,0.543716],"type":"Point"}
 }

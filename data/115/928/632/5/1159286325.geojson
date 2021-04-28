@@ -37,16 +37,18 @@
     "wof:geomhash": "9d562309cb57afd2227acd9de710fa19",
     "wof:hierarchy": [
       {
+        "airline_id": 1159286325,
         "continent_id": 102191581,
         "country_id": 85633253,
         "enterprise_id": 1159286325
       }
     ],
     "wof:id": 1159286325,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Societa Italiana Servizi Aerei",
     "wof:parent_id": 85633253,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287027

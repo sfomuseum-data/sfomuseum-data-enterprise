@@ -44,16 +44,18 @@
     "wof:geomhash": "820404938c83a779dfde7e21bff96d61",
     "wof:hierarchy": [
       {
+        "company_id": 1159294215,
         "continent_id": 102191581,
         "country_id": 85633805,
         "enterprise_id": 1159294215
       }
     ],
     "wof:id": 1159294215,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Kharkov",
     "wof:parent_id": 85633805,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -53,6 +53,7 @@
     "wof:geomhash": "2118e57960da07430af3dd61514f5f8b",
     "wof:hierarchy": [
       {
+        "airline_id": 1159283685,
         "continent_id": 102191573,
         "country_id": 85632535,
         "enterprise_id": 1159283685,
@@ -61,10 +62,11 @@
       }
     ],
     "wof:id": 1159283685,
-    "wof:lastmodified": 1619636476,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Namib Air",
     "wof:parent_id": 1141909361,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288571

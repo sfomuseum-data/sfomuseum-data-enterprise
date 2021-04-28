@@ -51,16 +51,18 @@
     "wof:geomhash": "1831416c3f661b1a924132bf7d61ef88",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285189,
         "continent_id": 102191573,
         "country_id": 85633813,
         "enterprise_id": 1159285189
       }
     ],
     "wof:id": 1159285189,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "South African Express Airways",
     "wof:parent_id": 85633813,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286893

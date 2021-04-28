@@ -53,6 +53,7 @@
     "wof:geomhash": "edbb74d99b044b4b44a64e901c4475a3",
     "wof:hierarchy": [
       {
+        "company_id": 1159287275,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086191,
@@ -62,10 +63,11 @@
       }
     ],
     "wof:id": 1159287275,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Horizon Air",
     "wof:parent_id": 101730401,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

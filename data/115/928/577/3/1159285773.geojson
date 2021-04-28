@@ -37,16 +37,18 @@
     "wof:geomhash": "6a27693eeb59a61dd44f56c6480dfc2b",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285773,
         "continent_id": 102191577,
         "country_id": 85632521,
         "enterprise_id": 1159285773
       }
     ],
     "wof:id": 1159285773,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Faucett Peruvian Airlines",
     "wof:parent_id": 85632521,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288889

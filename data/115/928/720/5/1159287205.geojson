@@ -55,6 +55,7 @@
     "wof:geomhash": "58bce5a7b039860f77531d6ab147c864",
     "wof:hierarchy": [
       {
+        "company_id": 1159287205,
         "continent_id": 102191569,
         "country_id": 85632695,
         "county_id": 890516567,
@@ -65,10 +66,11 @@
       }
     ],
     "wof:id": 1159287205,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Sichuan Airlines",
     "wof:parent_id": 102027703,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

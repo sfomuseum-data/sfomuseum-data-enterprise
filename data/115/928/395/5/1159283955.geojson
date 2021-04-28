@@ -2,82 +2,85 @@
   "id": 1159283955,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-01-01",
-    "date:cessation_upper":"2011-12-31",
-    "date:inception_lower":"1990-01-01",
-    "date:inception_upper":"1990-12-31",
-    "edtf:cessation":"2011",
-    "edtf:inception":"1990",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-102.289691,23.920061,-102.289691,23.920061",
-    "geom:latitude":23.920061,
-    "geom:longitude":-102.289691,
-    "iso:country":"MX",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":217,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:country":"Mexico",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Aviacsa",
-    "sfomuseum:name":"Aviacsa",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"whosonfirst",
-    "wd:airline_hub":[
-        "Q860559"
+    "date:cessation_lower": "2011-01-01",
+    "date:cessation_upper": "2011-12-31",
+    "date:inception_lower": "1990-01-01",
+    "date:inception_upper": "1990-12-31",
+    "edtf:cessation": "2011",
+    "edtf:inception": "1990",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-102.289691,23.920061,-102.289691,23.920061",
+    "geom:latitude": 23.920061,
+    "geom:longitude": -102.289691,
+    "iso:country": "MX",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 217,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:country": "Mexico",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Aviacsa",
+    "sfomuseum:name": "Aviacsa",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "whosonfirst",
+    "wd:airline_hub": [
+      "Q860559"
     ],
-    "wd:country":"Q96",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q96",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191575,
-        85633293
+    "wof:belongsto": [
+      102191575,
+      85633293
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"6A",
-        "iata:code":"6A",
-        "icao:code":"CHP",
-        "wd:id":"Q790772",
-        "wk:page":"Aviacsa",
-        "wk:pageid":1588891
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "6A",
+      "iata:code": "6A",
+      "icao:code": "CHP",
+      "wd:id": "Q790772",
+      "wk:page": "Aviacsa",
+      "wk:pageid": 1588891
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"MX",
-    "wof:geomhash":"3ccee807197d56714782910ed06f7b3a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633293,
-            "enterprise_id":1159283955
-        }
+    "wof:country": "MX",
+    "wof:created": 1619636574,
+    "wof:geomhash": "3ccee807197d56714782910ed06f7b3a",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159283955,
+        "continent_id": 102191575,
+        "country_id": 85633293,
+        "enterprise_id": 1159283955
+      }
     ],
-    "wof:id":1159283955,
-    "wof:lastmodified":1606847641,
-    "wof:name":"Aviacsa",
-    "wof:parent_id":85633293,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288409
+    "wof:id": 1159283955,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Aviacsa",
+    "wof:parent_id": 85633293,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288409
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -102.289691,
     23.920061,
     -102.289691,
     23.920061
-],
+  ],
   "geometry": {"coordinates":[-102.289691,23.920061],"type":"Point"}
 }

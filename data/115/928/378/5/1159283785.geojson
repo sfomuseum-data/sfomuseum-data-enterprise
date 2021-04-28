@@ -60,6 +60,7 @@
     "wof:geomhash": "2531949f388f0a01ffff13964d76fc37",
     "wof:hierarchy": [
       {
+        "airline_id": 1159283785,
         "campus_id": 102551991,
         "continent_id": 102191569,
         "country_id": 85632739,
@@ -70,10 +71,11 @@
       }
     ],
     "wof:id": 1159283785,
-    "wof:lastmodified": 1619636476,
+    "wof:lastmodified": 1619636675,
     "wof:name": "AirAsia",
     "wof:parent_id": 102551991,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287733

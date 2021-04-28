@@ -50,6 +50,7 @@
     "wof:geomhash": "9f0897e8660235f73b7300a44b303141",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284283,
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063661,
@@ -60,10 +61,11 @@
       }
     ],
     "wof:id": 1159284283,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "DHL Express",
     "wof:parent_id": 101748595,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287449

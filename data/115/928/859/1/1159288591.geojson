@@ -52,6 +52,7 @@
     "wof:geomhash": "47183675946e8ebe2d8db647eebf37b4",
     "wof:hierarchy": [
       {
+        "company_id": 1159288591,
         "continent_id": 102191569,
         "country_id": 85632639,
         "county_id": 1108747951,
@@ -61,10 +62,11 @@
       }
     ],
     "wof:id": 1159288591,
-    "wof:lastmodified": 1619636532,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Air Koryo",
     "wof:parent_id": 421188981,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

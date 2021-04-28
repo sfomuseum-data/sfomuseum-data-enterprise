@@ -35,16 +35,18 @@
     "wof:geomhash": "559506c2172f12efd5d5da2b6f6d61f4",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284559,
         "continent_id": 102191569,
         "country_id": 85632393,
         "enterprise_id": 1159284559
       }
     ],
     "wof:id": 1159284559,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Istanbul Airlines",
     "wof:parent_id": 85632393,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287029

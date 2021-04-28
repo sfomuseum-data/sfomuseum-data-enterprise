@@ -2,80 +2,83 @@
   "id": 1159286317,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1962-01-01",
-    "date:cessation_upper":"1962-12-31",
-    "date:inception_lower":"1954-01-01",
-    "date:inception_upper":"1954-12-31",
-    "edtf:cessation":"1962",
-    "edtf:inception":"1954",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-1.247349,52.418788,-1.247349,52.418788",
-    "geom:latitude":52.418788,
-    "geom:longitude":-1.247349,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":1312,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Channel Air Bridge",
-    "sfomuseum:name":"Channel Air Bridge",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"whosonfirst",
-    "wd:airline_hub":[
-        "Q1415441"
+    "date:cessation_lower": "1962-01-01",
+    "date:cessation_upper": "1962-12-31",
+    "date:inception_lower": "1954-01-01",
+    "date:inception_upper": "1954-12-31",
+    "edtf:cessation": "1962",
+    "edtf:inception": "1954",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.247349,52.418788,-1.247349,52.418788",
+    "geom:latitude": 52.418788,
+    "geom:longitude": -1.247349,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 1312,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Channel Air Bridge",
+    "sfomuseum:name": "Channel Air Bridge",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "whosonfirst",
+    "wd:airline_hub": [
+      "Q1415441"
     ],
-    "wd:instance_of":[
-        "Q46970"
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191581,
-        1159288075,
-        85633159,
-        136253055
+    "wof:belongsto": [
+      102191581,
+      1159288075,
+      85633159,
+      136253055
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q5072380",
-        "wk:page":"Channel Air Bridge",
-        "wk:pageid":22024891
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q5072380",
+      "wk:page": "Channel Air Bridge",
+      "wk:pageid": 22024891
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"GB",
-    "wof:geomhash":"3d2af4a89e1d55e1d68276122807ee9b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "empire_id":136253055,
-            "enterprise_id":1159288075
-        }
+    "wof:country": "GB",
+    "wof:created": 1619636572,
+    "wof:geomhash": "3d2af4a89e1d55e1d68276122807ee9b",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159286317,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "empire_id": 136253055,
+        "enterprise_id": 1159288075
+      }
     ],
-    "wof:id":1159286317,
-    "wof:lastmodified":1606847663,
-    "wof:name":"Channel Air Bridge",
-    "wof:parent_id":85633159,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288075
+    "wof:id": 1159286317,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Channel Air Bridge",
+    "wof:parent_id": 85633159,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288075
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -1.247349,
     52.418788,
     -1.247349,
     52.418788
-],
+  ],
   "geometry": {"coordinates":[-1.247349,52.418788],"type":"Point"}
 }

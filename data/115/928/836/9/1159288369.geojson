@@ -2,85 +2,88 @@
   "id": 1159288369,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-01-01",
-    "date:cessation_upper":"2013-12-31",
-    "date:inception_lower":"1927-01-01",
-    "date:inception_upper":"1927-12-31",
-    "edtf:cessation":"2013",
-    "edtf:inception":"1927",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.46513,44.80401,20.46513,44.80401",
-    "geom:latitude":44.80401,
-    "geom:longitude":20.46513,
-    "iso:country":"RS",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"unknown",
-    "wd:airline_hub":[
-        "Q127955"
+    "date:cessation_lower": "2013-01-01",
+    "date:cessation_upper": "2013-12-31",
+    "date:inception_lower": "1927-01-01",
+    "date:inception_upper": "1927-12-31",
+    "edtf:cessation": "2013",
+    "edtf:inception": "1927",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "20.465130,44.804010,20.465130,44.804010",
+    "geom:latitude": 44.80401,
+    "geom:longitude": 20.46513,
+    "iso:country": "RS",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "unknown",
+    "wd:airline_hub": [
+      "Q127955"
     ],
-    "wd:country":"Q403",
-    "wd:headquarters":"Q3711",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q403",
+    "wd:headquarters": "Q3711",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85688279,
-        102191581,
-        1108810063,
-        85633755,
-        404228357,
-        890476941
+    "wof:belongsto": [
+      85688279,
+      102191581,
+      1108810063,
+      85633755,
+      404228357,
+      890476941
     ],
-    "wof:brand_name":"JAT Yugoslav Airlines",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"JU",
-        "icao:code":"JAT",
-        "wd:id":"Q12428657",
-        "wk:page":"Jat Airways",
-        "wk:pageid":331417
+    "wof:brand_name": "JAT Yugoslav Airlines",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "JU",
+      "icao:code": "JAT",
+      "wd:id": "Q12428657",
+      "wk:page": "Jat Airways",
+      "wk:pageid": 331417
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"RS",
-    "wof:geomhash":"eaa1e2032656002737778ce791963c16",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633755,
-            "enterprise_id":1159288369,
-            "localadmin_id":1108810063,
-            "locality_id":890476941,
-            "macroregion_id":404228357,
-            "region_id":85688279
-        }
+    "wof:country": "RS",
+    "wof:created": 1619636575,
+    "wof:geomhash": "eaa1e2032656002737778ce791963c16",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159288369,
+        "continent_id": 102191581,
+        "country_id": 85633755,
+        "enterprise_id": 1159288369,
+        "localadmin_id": 1108810063,
+        "locality_id": 890476941,
+        "macroregion_id": 404228357,
+        "region_id": 85688279
+      }
     ],
-    "wof:id":1159288369,
-    "wof:lastmodified":1557783019,
-    "wof:name":"JAT Yugoslav Airlines",
-    "wof:parent_id":890476941,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159288369,
+    "wof:lastmodified": 1619636677,
+    "wof:name": "JAT Yugoslav Airlines",
+    "wof:parent_id": 890476941,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     20.46513,
     44.80401,
     20.46513,
     44.80401
-],
+  ],
   "geometry": {"coordinates":[20.46513,44.80401],"type":"Point"}
 }

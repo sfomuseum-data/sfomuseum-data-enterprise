@@ -48,6 +48,7 @@
     "wof:geomhash": "e73f9d0508f31c9c3469491bd5692210",
     "wof:hierarchy": [
       {
+        "agency_id": 1159287041,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102084889,
@@ -57,10 +58,11 @@
       }
     ],
     "wof:id": 1159287041,
-    "wof:lastmodified": 1619636531,
+    "wof:lastmodified": 1619636679,
     "wof:name": "NASA",
     "wof:parent_id": 85931779,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "agency",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

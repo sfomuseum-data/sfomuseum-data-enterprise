@@ -2,82 +2,85 @@
   "id": 1159284869,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2004-01-01",
-    "date:cessation_upper":"2004-12-31",
-    "date:inception_lower":"1994-01-01",
-    "date:inception_upper":"1994-12-31",
-    "edtf:cessation":"2004",
-    "edtf:inception":"1994",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-85.039545,12.793313,-85.039545,12.793313",
-    "geom:latitude":12.793313,
-    "geom:longitude":-85.039545,
-    "iso:country":"NI",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":630,
-    "sfomuseum:brand":"Nicarag\u00fcense de Aviaci\u00f3n",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Nicarag\u00fcense de Aviaci\u00f3n",
-    "sfomuseum:name":"Nicarag\u00fcense de Aviaci\u00f3n",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q530773"
+    "date:cessation_lower": "2004-01-01",
+    "date:cessation_upper": "2004-12-31",
+    "date:inception_lower": "1994-01-01",
+    "date:inception_upper": "1994-12-31",
+    "edtf:cessation": "2004",
+    "edtf:inception": "1994",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-85.039545,12.793313,-85.039545,12.793313",
+    "geom:latitude": 12.793313,
+    "geom:longitude": -85.039545,
+    "iso:country": "NI",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 630,
+    "sfomuseum:brand": "Nicaragüense de Aviación",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Nicaragüense de Aviación",
+    "sfomuseum:name": "Nicaragüense de Aviación",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q530773"
     ],
-    "wd:country":"Q811",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q811",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191575,
-        85632599
+    "wof:belongsto": [
+      102191575,
+      85632599
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"6Y",
-        "iata:code":"6Y",
-        "icao:code":"NIS",
-        "wd:id":"Q4210887",
-        "wk:page":"Nicarag\u00fcense de Aviaci\u00f3n",
-        "wk:pageid":1453719
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "6Y",
+      "iata:code": "6Y",
+      "icao:code": "NIS",
+      "wd:id": "Q4210887",
+      "wk:page": "Nicaragüense de Aviación",
+      "wk:pageid": 1453719
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"NI",
-    "wof:geomhash":"8e6508916076c088256e13b59464485a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85632599,
-            "enterprise_id":1159284869
-        }
+    "wof:country": "NI",
+    "wof:created": 1619636571,
+    "wof:geomhash": "8e6508916076c088256e13b59464485a",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159284869,
+        "continent_id": 102191575,
+        "country_id": 85632599,
+        "enterprise_id": 1159284869
+      }
     ],
-    "wof:id":1159284869,
-    "wof:lastmodified":1606847649,
-    "wof:name":"Nicarag\u00fcense de Aviaci\u00f3n",
-    "wof:parent_id":85632599,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288385
+    "wof:id": 1159284869,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Nicaragüense de Aviación",
+    "wof:parent_id": 85632599,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288385
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -85.039545,
     12.793313,
     -85.039545,
     12.793313
-],
+  ],
   "geometry": {"coordinates":[-85.039545,12.793313],"type":"Point"}
 }

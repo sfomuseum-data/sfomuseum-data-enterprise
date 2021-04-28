@@ -55,6 +55,7 @@
     "wof:geomhash": "3cc1bf3774f6f10c822599be3d2da1db",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284597,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102083763,
@@ -65,10 +66,11 @@
       }
     ],
     "wof:id": 1159284597,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Kalitta Air",
     "wof:parent_id": 85951885,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288441

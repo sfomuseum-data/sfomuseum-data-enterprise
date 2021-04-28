@@ -2,90 +2,93 @@
   "id": 1159284145,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2006-01-01",
-    "date:cessation_upper":"2006-12-31",
-    "date:inception_lower":"1978-01-01",
-    "date:inception_upper":"1978-12-31",
-    "edtf:cessation":"2006",
-    "edtf:inception":"1978",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-1.777247,50.740932,-1.777247,50.740932",
-    "geom:latitude":50.740932,
-    "geom:longitude":-1.777247,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":303,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Channel Express",
-    "sfomuseum:name":"Channel Express",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q580409"
+    "date:cessation_lower": "2006-01-01",
+    "date:cessation_upper": "2006-12-31",
+    "date:inception_lower": "1978-01-01",
+    "date:inception_upper": "1978-12-31",
+    "edtf:cessation": "2006",
+    "edtf:inception": "1978",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.777247,50.740932,-1.777247,50.740932",
+    "geom:latitude": 50.740932,
+    "geom:longitude": -1.777247,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 303,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Channel Express",
+    "sfomuseum:name": "Channel Express",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q580409"
     ],
-    "wd:country":"Q145",
-    "wd:headquarters":"Q925424",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q145",
+    "wd:headquarters": "Q925424",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85683805,
-        102191581,
-        404451611,
-        85633159,
-        404227469,
-        101874047
+    "wof:belongsto": [
+      85683805,
+      102191581,
+      404451611,
+      85633159,
+      404227469,
+      101874047
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"LS",
-        "iata:code":"LS",
-        "icao:code":"EXS",
-        "wd:id":"Q1062248",
-        "wk:page":"Channel Express",
-        "wk:pageid":1990612
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "LS",
+      "iata:code": "LS",
+      "icao:code": "EXS",
+      "wd:id": "Q1062248",
+      "wk:page": "Channel Express",
+      "wk:pageid": 1990612
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"GB",
-    "wof:geomhash":"f21bd477cbf2ea5498faba8fd7db8eaa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "enterprise_id":1159284145,
-            "localadmin_id":404451611,
-            "locality_id":101874047,
-            "macroregion_id":404227469,
-            "region_id":85683805
-        }
+    "wof:country": "GB",
+    "wof:created": 1619636570,
+    "wof:geomhash": "f21bd477cbf2ea5498faba8fd7db8eaa",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159284145,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "enterprise_id": 1159284145,
+        "localadmin_id": 404451611,
+        "locality_id": 101874047,
+        "macroregion_id": 404227469,
+        "region_id": 85683805
+      }
     ],
-    "wof:id":1159284145,
-    "wof:lastmodified":1606847643,
-    "wof:name":"Channel Express",
-    "wof:parent_id":101874047,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288725
+    "wof:id": 1159284145,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Channel Express",
+    "wof:parent_id": 101874047,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288725
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -1.777247,
     50.740932,
     -1.777247,
     50.740932
-],
+  ],
   "geometry": {"coordinates":[-1.777247,50.740932],"type":"Point"}
 }

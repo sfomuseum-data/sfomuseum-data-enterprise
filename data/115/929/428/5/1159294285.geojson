@@ -50,6 +50,7 @@
     "wof:geomhash": "d253e6ddc4d6ae280e027ed71febbea9",
     "wof:hierarchy": [
       {
+        "company_id": 1159294285,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086761,
@@ -59,10 +60,11 @@
       }
     ],
     "wof:id": 1159294285,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636675,
     "wof:name": "Taylorcraft",
     "wof:parent_id": 101724157,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

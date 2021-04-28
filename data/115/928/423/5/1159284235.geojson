@@ -37,16 +37,18 @@
     "wof:geomhash": "ebd717d7dcfbbb8c20aced69d6e80489",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284235,
         "continent_id": 102191569,
         "country_id": 85632437,
         "enterprise_id": 1159284235
       }
     ],
     "wof:id": 1159284235,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Cyrus Airways",
     "wof:parent_id": 85632437,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288055

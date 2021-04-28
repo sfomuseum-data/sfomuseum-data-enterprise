@@ -2,90 +2,93 @@
   "id": 1159284667,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2003-01-01",
-    "date:cessation_upper":"2003-12-31",
-    "date:inception_lower":"1976-01-01",
-    "date:inception_upper":"1976-12-31",
-    "edtf:cessation":"2003",
-    "edtf:inception":"1976",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.6,17.96667,102.6,17.96667",
-    "geom:latitude":17.96667,
-    "geom:longitude":102.6,
-    "iso:country":"LA",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":539,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Lao Aviation  (Lao Airlines)",
-    "sfomuseum:name":"Lao Aviation",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q221279"
+    "date:cessation_lower": "2003-01-01",
+    "date:cessation_upper": "2003-12-31",
+    "date:inception_lower": "1976-01-01",
+    "date:inception_upper": "1976-12-31",
+    "edtf:cessation": "2003",
+    "edtf:inception": "1976",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "102.600000,17.966670,102.600000,17.966670",
+    "geom:latitude": 17.96667,
+    "geom:longitude": 102.6,
+    "iso:country": "LA",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 539,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Lao Aviation  (Lao Airlines)",
+    "sfomuseum:name": "Lao Aviation",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q221279"
     ],
-    "wd:country":"Q819",
-    "wd:headquarters":"Q9326",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q819",
+    "wd:headquarters": "Q9326",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85673433,
-        102191569,
-        85632241,
-        421168913,
-        1092027747
+    "wof:belongsto": [
+      85673433,
+      102191569,
+      85632241,
+      421168913,
+      1092027747
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"QV",
-        "iata:code":"QV",
-        "icao:code":"LAO",
-        "wd:id":"Q756172",
-        "wk:page":"Lao Airlines",
-        "wk:pageid":876022
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "QV",
+      "iata:code": "QV",
+      "icao:code": "LAO",
+      "wd:id": "Q756172",
+      "wk:page": "Lao Airlines",
+      "wk:pageid": 876022
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"LA",
-    "wof:geomhash":"7dc576f8939655001c8060bad7e630b7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632241,
-            "county_id":1092027747,
-            "enterprise_id":1159284667,
-            "locality_id":421168913,
-            "region_id":85673433
-        }
+    "wof:country": "LA",
+    "wof:created": 1619636571,
+    "wof:geomhash": "7dc576f8939655001c8060bad7e630b7",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159284667,
+        "continent_id": 102191569,
+        "country_id": 85632241,
+        "county_id": 1092027747,
+        "enterprise_id": 1159284667,
+        "locality_id": 421168913,
+        "region_id": 85673433
+      }
     ],
-    "wof:id":1159284667,
-    "wof:lastmodified":1606847647,
-    "wof:name":"Lao Aviation",
-    "wof:parent_id":421168913,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288753
+    "wof:id": 1159284667,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Lao Aviation",
+    "wof:parent_id": 421168913,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288753
     ],
-    "wof:superseded_by":[
-        1159284665
+    "wof:superseded_by": [
+      1159284665
     ],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     102.6,
     17.96667,
     102.6,
     17.96667
-],
-  "geometry": {"coordinates":[102.59999999999999,17.96667],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[102.6,17.96667],"type":"Point"}
 }

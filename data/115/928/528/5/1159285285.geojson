@@ -2,83 +2,86 @@
   "id": 1159285285,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1987-01-01",
-    "date:cessation_upper":"1987-12-31",
-    "date:inception_lower":"1978-01-01",
-    "date:inception_upper":"1978-12-31",
-    "edtf:cessation":"1987",
-    "edtf:inception":"1978",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
-    "geom:latitude":39.715956,
-    "geom:longitude":-96.999668,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":821,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Tennessee Airways",
-    "sfomuseum:name":"Tennessee Airways",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q651495"
+    "date:cessation_lower": "1987-01-01",
+    "date:cessation_upper": "1987-12-31",
+    "date:inception_lower": "1978-01-01",
+    "date:inception_upper": "1978-12-31",
+    "edtf:cessation": "1987",
+    "edtf:inception": "1978",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude": 39.715956,
+    "geom:longitude": -96.999668,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 821,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Tennessee Airways",
+    "sfomuseum:name": "Tennessee Airways",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q651495"
     ],
-    "wd:country":"Q30",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q30",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191575,
-        85633793,
-        136253057
+    "wof:belongsto": [
+      102191575,
+      85633793,
+      136253057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"ZN",
-        "iata:code":"ZN",
-        "icao:code":"TEN",
-        "wd:id":"Q7700012",
-        "wk:page":"Tennessee Airways",
-        "wk:pageid":13511833
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "ZN",
+      "iata:code": "ZN",
+      "icao:code": "TEN",
+      "wd:id": "Q7700012",
+      "wk:page": "Tennessee Airways",
+      "wk:pageid": 13511833
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "enterprise_id":1159285285
-        }
+    "wof:country": "US",
+    "wof:created": 1619636571,
+    "wof:geomhash": "bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159285285,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "empire_id": 136253057,
+        "enterprise_id": 1159285285
+      }
     ],
-    "wof:id":1159285285,
-    "wof:lastmodified":1606847653,
-    "wof:name":"Tennessee Airways",
-    "wof:parent_id":85633793,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287805
+    "wof:id": 1159285285,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Tennessee Airways",
+    "wof:parent_id": 85633793,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287805
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -96.999668,
     39.715956,
     -96.999668,
     39.715956
-],
+  ],
   "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
 }

@@ -52,16 +52,18 @@
     "wof:geomhash": "be681551a65167f4df1b64bdb4d7a4e4",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284683,
         "continent_id": 102191573,
         "country_id": 85632627,
         "enterprise_id": 1159284683
       }
     ],
     "wof:id": 1159284683,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Libyan Arab Airlines",
     "wof:parent_id": 85632627,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288451

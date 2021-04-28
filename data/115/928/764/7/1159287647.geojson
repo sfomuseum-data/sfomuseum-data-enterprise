@@ -53,6 +53,7 @@
     "wof:geomhash": "3742b437789029255fae419ed19cf248",
     "wof:hierarchy": [
       {
+        "company_id": 1159287647,
         "continent_id": 102191569,
         "country_id": 85632465,
         "county_id": 1092048931,
@@ -61,6 +62,7 @@
         "region_id": 1108807143
       },
       {
+        "company_id": 1159287647,
         "continent_id": 102191569,
         "country_id": 85632465,
         "county_id": 1092048931,
@@ -70,10 +72,11 @@
       }
     ],
     "wof:id": 1159287647,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Nepal Airlines",
     "wof:parent_id": 421168831,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -52,6 +52,7 @@
     "wof:geomhash": "0f7b92c07a5da6438be2f9305d73fe30",
     "wof:hierarchy": [
       {
+        "company_id": 1159286665,
         "continent_id": 102191577,
         "country_id": 85632317,
         "county_id": 1108694107,
@@ -61,10 +62,11 @@
       }
     ],
     "wof:id": 1159286665,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Aeropostal",
     "wof:parent_id": 890442147,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

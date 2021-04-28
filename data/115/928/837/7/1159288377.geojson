@@ -33,16 +33,18 @@
     "wof:geomhash": "bdd621750276a1cb65c8c4ade6d4d666",
     "wof:hierarchy": [
       {
+        "company_id": 1159288377,
         "continent_id": 102191577,
         "country_id": 85633009,
         "enterprise_id": 1159288377
       }
     ],
     "wof:id": 1159288377,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Aero Brazil",
     "wof:parent_id": 85633009,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

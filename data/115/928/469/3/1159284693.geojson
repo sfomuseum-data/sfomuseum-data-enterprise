@@ -51,16 +51,18 @@
     "wof:geomhash": "44cadae66c1b861229a1186c0a8c41cd",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284693,
         "continent_id": 102191581,
         "country_id": 85633249,
         "enterprise_id": 1159284693
       }
     ],
     "wof:id": 1159284693,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Loftleiðir Icelandic",
     "wof:parent_id": 85633249,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288801

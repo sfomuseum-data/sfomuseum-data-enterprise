@@ -48,16 +48,18 @@
     "wof:geomhash": "600930d408ae0992d184e2823e644bbb",
     "wof:hierarchy": [
       {
+        "company_id": 1159288171,
         "continent_id": 102191583,
         "country_id": 85633345,
         "enterprise_id": 1159288171
       }
     ],
     "wof:id": 1159288171,
-    "wof:lastmodified": 1619636532,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Kiwi Travel International Airlines",
     "wof:parent_id": 85633345,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

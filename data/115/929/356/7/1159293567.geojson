@@ -50,6 +50,7 @@
     "wof:geomhash": "ccd9ead0a96326b857bc04c1a54cb602",
     "wof:hierarchy": [
       {
+        "company_id": 1159293567,
         "continent_id": 102191575,
         "country_id": 85633041,
         "county_id": 890458661,
@@ -59,10 +60,11 @@
       }
     ],
     "wof:id": 1159293567,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Bombardier",
     "wof:parent_id": 101736545,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

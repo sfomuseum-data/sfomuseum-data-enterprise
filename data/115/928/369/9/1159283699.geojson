@@ -56,6 +56,7 @@
     "wof:geomhash": "1e2ddcca50f62885132b8babe195062e",
     "wof:hierarchy": [
       {
+        "airline_id": 1159283699,
         "campus_id": 102541781,
         "continent_id": 102191583,
         "country_id": 85632347,
@@ -67,10 +68,11 @@
       }
     ],
     "wof:id": 1159283699,
-    "wof:lastmodified": 1619636476,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Air Niugini",
     "wof:parent_id": 102541781,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287679

@@ -2,81 +2,84 @@
   "id": 1159288595,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-01-01",
-    "date:cessation_upper":"2012-12-31",
-    "date:inception_lower":"1967-01-01",
-    "date:inception_upper":"1967-12-31",
-    "edtf:cessation":"2012",
-    "edtf:inception":"1967",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"31.05337,-17.82772,31.05337,-17.82772",
-    "geom:latitude":-17.82772,
-    "geom:longitude":31.05337,
-    "iso:country":"ZW",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q760897"
+    "date:cessation_lower": "2012-01-01",
+    "date:cessation_upper": "2012-12-31",
+    "date:inception_lower": "1967-01-01",
+    "date:inception_upper": "1967-12-31",
+    "edtf:cessation": "2012",
+    "edtf:inception": "1967",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "31.053370,-17.827720,31.053370,-17.827720",
+    "geom:latitude": -17.82772,
+    "geom:longitude": 31.05337,
+    "iso:country": "ZW",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q760897"
     ],
-    "wd:country":"Q954",
-    "wd:headquarters":"Q3921",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q954",
+    "wd:headquarters": "Q3921",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191573,
-        85632243,
-        421201479,
-        85681097
+    "wof:belongsto": [
+      102191573,
+      85632243,
+      421201479,
+      85681097
     ],
-    "wof:brand_name":"Air Zimbabwe",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"UM",
-        "icao:code":"AZW",
-        "wd:id":"Q407920",
-        "wk:page":"Air Zimbabwe",
-        "wk:pageid":916232
+    "wof:brand_name": "Air Zimbabwe",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "UM",
+      "icao:code": "AZW",
+      "wd:id": "Q407920",
+      "wk:page": "Air Zimbabwe",
+      "wk:pageid": 916232
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"ZW",
-    "wof:geomhash":"963c992f93dbf8b5d1fb75b999946730",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191573,
-            "country_id":85632243,
-            "enterprise_id":1159288595,
-            "locality_id":421201479,
-            "region_id":85681097
-        }
+    "wof:country": "ZW",
+    "wof:created": 1619636573,
+    "wof:geomhash": "963c992f93dbf8b5d1fb75b999946730",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159288595,
+        "continent_id": 102191573,
+        "country_id": 85632243,
+        "enterprise_id": 1159288595,
+        "locality_id": 421201479,
+        "region_id": 85681097
+      }
     ],
-    "wof:id":1159288595,
-    "wof:lastmodified":1557782802,
-    "wof:name":"Air Zimbabwe",
-    "wof:parent_id":421201479,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159288595,
+    "wof:lastmodified": 1619636677,
+    "wof:name": "Air Zimbabwe",
+    "wof:parent_id": 421201479,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     31.05337,
     -17.82772,
     31.05337,
     -17.82772
-],
+  ],
   "geometry": {"coordinates":[31.05337,-17.82772],"type":"Point"}
 }

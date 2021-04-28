@@ -49,6 +49,7 @@
     "wof:geomhash": "fdd81e9a72cc8fb75eed8be8246cc1ef",
     "wof:hierarchy": [
       {
+        "company_id": 1159293597,
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063419,
@@ -58,10 +59,11 @@
       }
     ],
     "wof:id": 1159293597,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Pfalz",
     "wof:parent_id": 101748531,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

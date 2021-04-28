@@ -46,6 +46,7 @@
     "wof:geomhash": "077adae7fba399996e0d91128a58c22e",
     "wof:hierarchy": [
       {
+        "airline_id": 1159283989,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102080847,
@@ -55,10 +56,11 @@
       }
     ],
     "wof:id": 1159283989,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Burlington Air Express",
     "wof:parent_id": 85923131,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286933

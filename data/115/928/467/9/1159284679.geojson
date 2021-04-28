@@ -40,6 +40,7 @@
     "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284679,
         "continent_id": 102191575,
         "country_id": 85632529,
         "enterprise_id": 1159284679,
@@ -48,10 +49,11 @@
       }
     ],
     "wof:id": 1159284679,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Leeward Islands Air Transport (LIAT)",
     "wof:parent_id": 890445621,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287063

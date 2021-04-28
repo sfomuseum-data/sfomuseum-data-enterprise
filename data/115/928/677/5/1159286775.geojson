@@ -51,6 +51,7 @@
     "wof:geomhash": "856fa43ac09242c24ffd9c8e4c0329bb",
     "wof:hierarchy": [
       {
+        "company_id": 1159286775,
         "continent_id": 102193527,
         "country_id": 85632357,
         "enterprise_id": 1159286775,
@@ -59,10 +60,11 @@
       }
     ],
     "wof:id": 1159286775,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Air Mauritius",
     "wof:parent_id": 1125952633,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

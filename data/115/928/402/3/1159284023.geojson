@@ -2,83 +2,86 @@
   "id": 1159284023,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1988-01-01",
-    "date:cessation_upper":"1988-12-31",
-    "date:inception_lower":"1970-01-01",
-    "date:inception_upper":"1970-12-31",
-    "edtf:cessation":"1988",
-    "edtf:inception":"1970",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-1.247349,52.418788,-1.247349,52.418788",
-    "geom:latitude":52.418788,
-    "geom:longitude":-1.247349,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":247,
-    "sfomuseum:count_objects_public":10,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"British Caledonian Airways",
-    "sfomuseum:name":"British Caledonian Airways",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"whosonfirst",
-    "wd:airline_hub":[
-        "Q8703"
+    "date:cessation_lower": "1988-01-01",
+    "date:cessation_upper": "1988-12-31",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-12-31",
+    "edtf:cessation": "1988",
+    "edtf:inception": "1970",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.247349,52.418788,-1.247349,52.418788",
+    "geom:latitude": 52.418788,
+    "geom:longitude": -1.247349,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 247,
+    "sfomuseum:count_objects_public": 10,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "British Caledonian Airways",
+    "sfomuseum:name": "British Caledonian Airways",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "whosonfirst",
+    "wd:airline_hub": [
+      "Q8703"
     ],
-    "wd:country":"Q145",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q145",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191581,
-        85633159,
-        136253055
+    "wof:belongsto": [
+      102191581,
+      85633159,
+      136253055
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"BR",
-        "iata:code":"BR",
-        "icao:code":"BCC",
-        "wd:id":"Q918817",
-        "wk:page":"British Caledonian",
-        "wk:pageid":417954
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "BR",
+      "iata:code": "BR",
+      "icao:code": "BCC",
+      "wd:id": "Q918817",
+      "wk:page": "British Caledonian",
+      "wk:pageid": 417954
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"GB",
-    "wof:geomhash":"3d2af4a89e1d55e1d68276122807ee9b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "empire_id":136253055,
-            "enterprise_id":1159284023
-        }
+    "wof:country": "GB",
+    "wof:created": 1619636574,
+    "wof:geomhash": "3d2af4a89e1d55e1d68276122807ee9b",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159284023,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "empire_id": 136253055,
+        "enterprise_id": 1159284023
+      }
     ],
-    "wof:id":1159284023,
-    "wof:lastmodified":1606847642,
-    "wof:name":"British Caledonian Airways",
-    "wof:parent_id":85633159,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159286551
+    "wof:id": 1159284023,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "British Caledonian Airways",
+    "wof:parent_id": 85633159,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159286551
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -1.247349,
     52.418788,
     -1.247349,
     52.418788
-],
+  ],
   "geometry": {"coordinates":[-1.247349,52.418788],"type":"Point"}
 }

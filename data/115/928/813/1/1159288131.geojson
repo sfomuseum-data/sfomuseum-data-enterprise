@@ -44,16 +44,18 @@
     "wof:geomhash": "cbd6b5cd4e13c73f09cf613cda4a89d0",
     "wof:hierarchy": [
       {
+        "company_id": 1159288131,
         "continent_id": 102191581,
         "country_id": 85633135,
         "enterprise_id": 1159288131
       }
     ],
     "wof:id": 1159288131,
-    "wof:lastmodified": 1619636501,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Airest",
     "wof:parent_id": 85633135,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

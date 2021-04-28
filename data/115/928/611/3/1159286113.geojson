@@ -53,6 +53,7 @@
     "wof:geomhash": "bc8b3dbc9ab366336bc39cd9e4045ce1",
     "wof:hierarchy": [
       {
+        "airline_id": 1159286113,
         "continent_id": 102191575,
         "country_id": 85633793,
         "empire_id": 136253057,
@@ -60,10 +61,11 @@
       }
     ],
     "wof:id": 1159286113,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Kenmore Air",
     "wof:parent_id": 85633793,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286815

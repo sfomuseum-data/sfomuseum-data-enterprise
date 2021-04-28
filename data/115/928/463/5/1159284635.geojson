@@ -37,16 +37,18 @@
     "wof:geomhash": "795fb2db8f2f22dcdf59e68d7a31bb80",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284635,
         "continent_id": 102191569,
         "country_id": 85632401,
         "enterprise_id": 1159284635
       }
     ],
     "wof:id": 1159284635,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Kuwait Air",
     "wof:parent_id": 421202465,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288633

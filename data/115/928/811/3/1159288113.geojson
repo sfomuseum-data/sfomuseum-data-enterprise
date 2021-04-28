@@ -48,16 +48,18 @@
     "wof:geomhash": "547f68f692a062080f8352fd1e54fe3e",
     "wof:hierarchy": [
       {
+        "company_id": 1159288113,
         "continent_id": 102191575,
         "country_id": 85632385,
         "enterprise_id": 1159288113
       }
     ],
     "wof:id": 1159288113,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Aviateca",
     "wof:parent_id": 85632385,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

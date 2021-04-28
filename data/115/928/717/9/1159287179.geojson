@@ -2,73 +2,76 @@
   "id": 1159287179,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2001-01-01",
-    "date:cessation_upper":"2001-12-31",
-    "date:inception_lower":"1994-01-01",
-    "date:inception_upper":"1994-12-31",
-    "edtf:cessation":"2001",
-    "edtf:inception":"1994",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.480812,12.635759,104.480812,12.635759",
-    "geom:latitude":12.635759,
-    "geom:longitude":104.480812,
-    "iso:country":"KH",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q424",
-    "wd:instance_of":[
-        "Q46970"
+    "date:cessation_lower": "2001-01-01",
+    "date:cessation_upper": "2001-12-31",
+    "date:inception_lower": "1994-01-01",
+    "date:inception_upper": "1994-12-31",
+    "edtf:cessation": "2001",
+    "edtf:inception": "1994",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "104.480812,12.635759,104.480812,12.635759",
+    "geom:latitude": 12.635759,
+    "geom:longitude": 104.480812,
+    "iso:country": "KH",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q424",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191569,
-        85632359
+    "wof:belongsto": [
+      102191569,
+      85632359
     ],
-    "wof:brand_name":"Royal Air Cambodge",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"VJ",
-        "icao:code":"RAC",
-        "wd:id":"Q3445859",
-        "wk:page":"Royal Air Cambodge",
-        "wk:pageid":23759516
+    "wof:brand_name": "Royal Air Cambodge",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "VJ",
+      "icao:code": "RAC",
+      "wd:id": "Q3445859",
+      "wk:page": "Royal Air Cambodge",
+      "wk:pageid": 23759516
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"KH",
-    "wof:geomhash":"1786fe84e5d151c94540b649a4e03871",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632359,
-            "enterprise_id":1159287179
-        }
+    "wof:country": "KH",
+    "wof:created": 1619636572,
+    "wof:geomhash": "1786fe84e5d151c94540b649a4e03871",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159287179,
+        "continent_id": 102191569,
+        "country_id": 85632359,
+        "enterprise_id": 1159287179
+      }
     ],
-    "wof:id":1159287179,
-    "wof:lastmodified":1557783077,
-    "wof:name":"Royal Air Cambodge",
-    "wof:parent_id":85632359,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287179,
+    "wof:lastmodified": 1619636677,
+    "wof:name": "Royal Air Cambodge",
+    "wof:parent_id": 85632359,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     104.480812,
     12.635759,
     104.480812,
     12.635759
-],
+  ],
   "geometry": {"coordinates":[104.480812,12.635759],"type":"Point"}
 }

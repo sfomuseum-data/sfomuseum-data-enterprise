@@ -2,83 +2,86 @@
   "id": 1159287213,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1965-01-01",
-    "date:cessation_upper":"1965-12-31",
-    "date:inception_lower":"1929-01-01",
-    "date:inception_upper":"1929-12-31",
-    "edtf:cessation":"1965",
-    "edtf:inception":"1929",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-43.518246,-22.935024,-43.518246,-22.935024",
-    "geom:latitude":-22.935024,
-    "geom:longitude":-43.518246,
-    "iso:country":"BR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q733998"
+    "date:cessation_lower": "1965-01-01",
+    "date:cessation_upper": "1965-12-31",
+    "date:inception_lower": "1929-01-01",
+    "date:inception_upper": "1929-12-31",
+    "edtf:cessation": "1965",
+    "edtf:inception": "1929",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-43.518246,-22.935024,-43.518246,-22.935024",
+    "geom:latitude": -22.935024,
+    "geom:longitude": -43.518246,
+    "iso:country": "BR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q733998"
     ],
-    "wd:country":"Q155",
-    "wd:headquarters":"Q8678",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q155",
+    "wd:headquarters": "Q8678",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85681991,
-        102191577,
-        85633009,
-        101953261,
-        102058455
+    "wof:belongsto": [
+      85681991,
+      102191577,
+      85633009,
+      101953261,
+      102058455
     ],
-    "wof:brand_name":"Panair do Brasil",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"PB",
-        "icao:code":"PAB",
-        "wd:id":"Q1758698",
-        "wk:page":"Panair do Brasil",
-        "wk:pageid":10865079
+    "wof:brand_name": "Panair do Brasil",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "PB",
+      "icao:code": "PAB",
+      "wd:id": "Q1758698",
+      "wk:page": "Panair do Brasil",
+      "wk:pageid": 10865079
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"BR",
-    "wof:geomhash":"d8c99af09d90131561f6f1f633126b6f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191577,
-            "country_id":85633009,
-            "county_id":102058455,
-            "enterprise_id":1159287213,
-            "locality_id":101953261,
-            "region_id":85681991
-        }
+    "wof:country": "BR",
+    "wof:created": 1619636572,
+    "wof:geomhash": "d8c99af09d90131561f6f1f633126b6f",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159287213,
+        "continent_id": 102191577,
+        "country_id": 85633009,
+        "county_id": 102058455,
+        "enterprise_id": 1159287213,
+        "locality_id": 101953261,
+        "region_id": 85681991
+      }
     ],
-    "wof:id":1159287213,
-    "wof:lastmodified":1557783076,
-    "wof:name":"Panair do Brasil",
-    "wof:parent_id":101953261,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287213,
+    "wof:lastmodified": 1619636677,
+    "wof:name": "Panair do Brasil",
+    "wof:parent_id": 101953261,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -43.518246,
     -22.935024,
     -43.518246,
     -22.935024
-],
+  ],
   "geometry": {"coordinates":[-43.518246,-22.935024],"type":"Point"}
 }

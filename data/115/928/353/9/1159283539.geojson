@@ -62,6 +62,7 @@
     "wof:geomhash": "b48f7b717c4ec7fa7a8a29178cb4bd18",
     "wof:hierarchy": [
       {
+        "airline_id": 1159283539,
         "continent_id": 102191575,
         "country_id": 85633293,
         "county_id": 102073737,
@@ -71,10 +72,11 @@
       }
     ],
     "wof:id": 1159283539,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "AeroMéxico",
     "wof:parent_id": 857683023,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287499

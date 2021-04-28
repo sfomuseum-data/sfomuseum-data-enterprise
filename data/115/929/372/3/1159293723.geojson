@@ -49,6 +49,7 @@
     "wof:geomhash": "58cdc1d767022f9a300e31a1d230f66a",
     "wof:hierarchy": [
       {
+        "company_id": 1159293723,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086957,
@@ -58,10 +59,11 @@
       }
     ],
     "wof:id": 1159293723,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Timm",
     "wof:parent_id": 85923615,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

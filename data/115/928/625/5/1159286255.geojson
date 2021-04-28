@@ -53,6 +53,7 @@
     "wof:geomhash": "4bc7da2e888015c00982d679ccb1b6e6",
     "wof:hierarchy": [
       {
+        "airline_id": 1159286255,
         "campus_id": 102553293,
         "continent_id": 102191569,
         "country_id": 85632533,
@@ -62,10 +63,11 @@
       }
     ],
     "wof:id": 1159286255,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Lebanese Air Transport",
     "wof:parent_id": 102553293,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286743

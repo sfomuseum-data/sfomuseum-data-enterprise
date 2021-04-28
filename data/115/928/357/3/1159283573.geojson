@@ -2,82 +2,85 @@
   "id": 1159283573,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2000-01-01",
-    "date:cessation_upper":"2000-12-31",
-    "date:inception_lower":"1986-01-01",
-    "date:inception_upper":"1986-12-31",
-    "edtf:cessation":"2000",
-    "edtf:inception":"1986",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"5.501896,52.554205,5.501896,52.554205",
-    "geom:latitude":52.554205,
-    "geom:longitude":5.501896,
-    "iso:country":"NL",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":46,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Air Aruba",
-    "sfomuseum:name":"Air Aruba",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q21203"
+    "date:cessation_lower": "2000-01-01",
+    "date:cessation_upper": "2000-12-31",
+    "date:inception_lower": "1986-01-01",
+    "date:inception_upper": "1986-12-31",
+    "edtf:cessation": "2000",
+    "edtf:inception": "1986",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "5.501896,52.554205,5.501896,52.554205",
+    "geom:latitude": 52.554205,
+    "geom:longitude": 5.501896,
+    "iso:country": "NL",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 46,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Air Aruba",
+    "sfomuseum:name": "Air Aruba",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q21203"
     ],
-    "wd:country":"Q29999",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q29999",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191581,
-        1159288367,
-        85633337
+    "wof:belongsto": [
+      102191581,
+      1159288367,
+      85633337
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"FQ",
-        "iata:code":"FQ",
-        "icao:code":"ARU",
-        "wd:id":"Q406804",
-        "wk:page":"Air Aruba",
-        "wk:pageid":611793
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "FQ",
+      "iata:code": "FQ",
+      "icao:code": "ARU",
+      "wd:id": "Q406804",
+      "wk:page": "Air Aruba",
+      "wk:pageid": 611793
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"NL",
-    "wof:geomhash":"c537b8fd1fb4d2b576e190ad6adaa6e7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "enterprise_id":1159288367
-        }
+    "wof:country": "NL",
+    "wof:created": 1619636573,
+    "wof:geomhash": "c537b8fd1fb4d2b576e190ad6adaa6e7",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159283573,
+        "continent_id": 102191581,
+        "country_id": 85633337,
+        "enterprise_id": 1159288367
+      }
     ],
-    "wof:id":1159283573,
-    "wof:lastmodified":1606847637,
-    "wof:name":"Air Aruba",
-    "wof:parent_id":85633337,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288367
+    "wof:id": 1159283573,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "Air Aruba",
+    "wof:parent_id": 85633337,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288367
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     5.501896,
     52.554205,
     5.501896,
     52.554205
-],
+  ],
   "geometry": {"coordinates":[5.501896,52.554205],"type":"Point"}
 }

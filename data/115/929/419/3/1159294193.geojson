@@ -48,6 +48,7 @@
     "wof:geomhash": "e08b680e8dd0e8660ec0664b29808aed",
     "wof:hierarchy": [
       {
+        "company_id": 1159294193,
         "continent_id": 102191581,
         "country_id": 85633159,
         "enterprise_id": 1159294193,
@@ -58,10 +59,11 @@
       }
     ],
     "wof:id": 1159294193,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Norman Thompson",
     "wof:parent_id": 101750317,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

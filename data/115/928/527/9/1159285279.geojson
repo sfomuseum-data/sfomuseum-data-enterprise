@@ -40,6 +40,7 @@
     "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285279,
         "campus_id": 102559229,
         "continent_id": 102191581,
         "country_id": 85633745,
@@ -49,10 +50,11 @@
       }
     ],
     "wof:id": 1159285279,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "TAROM (Romanian Air Transport)",
     "wof:parent_id": 102559229,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286793

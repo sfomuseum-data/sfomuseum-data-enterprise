@@ -45,16 +45,18 @@
     "wof:geomhash": "aeb79c612f3065c2f9e3e39e6db63ef8",
     "wof:hierarchy": [
       {
+        "company_id": 1159288901,
         "continent_id": 102191583,
         "country_id": 85632591,
         "enterprise_id": 1159288901
       }
     ],
     "wof:id": 1159288901,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Pacific Air Express",
     "wof:parent_id": 85632591,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -60,6 +60,7 @@
     "wof:geomhash": "230146a06f05a399fadd97a7c2ea3c27",
     "wof:hierarchy": [
       {
+        "airline_id": 1159286477,
         "campus_id": 102547023,
         "continent_id": 102191575,
         "country_id": 85632179,
@@ -71,10 +72,11 @@
       }
     ],
     "wof:id": 1159286477,
-    "wof:lastmodified": 1619636501,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Air Panama",
     "wof:parent_id": 85632179,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287043

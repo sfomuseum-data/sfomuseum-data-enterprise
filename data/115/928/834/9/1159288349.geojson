@@ -52,6 +52,7 @@
     "wof:geomhash": "6c9242cf766e1c81ff7d02d6f9092c5a",
     "wof:hierarchy": [
       {
+        "company_id": 1159288349,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102080769,
@@ -61,10 +62,11 @@
       }
     ],
     "wof:id": 1159288349,
-    "wof:lastmodified": 1619636501,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Great Lakes Aviation, Ltd.",
     "wof:parent_id": 101734121,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

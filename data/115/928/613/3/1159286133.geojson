@@ -42,6 +42,7 @@
     "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy": [
       {
+        "airline_id": 1159286133,
         "campus_id": 102544349,
         "continent_id": 102191581,
         "country_id": 85633279,
@@ -51,10 +52,11 @@
       }
     ],
     "wof:id": 1159286133,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "AirBaltic (airBaltic)",
     "wof:parent_id": 102544349,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286521

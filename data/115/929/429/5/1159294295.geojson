@@ -47,6 +47,7 @@
     "wof:geomhash": "03741539ad823d5ee55f46cde7dc1f83",
     "wof:hierarchy": [
       {
+        "company_id": 1159294295,
         "continent_id": 102191581,
         "country_id": 85633159,
         "enterprise_id": 1159294295,
@@ -57,10 +58,11 @@
       }
     ],
     "wof:id": 1159294295,
-    "wof:lastmodified": 1619636476,
+    "wof:lastmodified": 1619636675,
     "wof:name": "Britten-Norman",
     "wof:parent_id": 101852317,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

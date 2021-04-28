@@ -2,79 +2,82 @@
   "id": 1159287409,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2005-01-01",
-    "date:cessation_upper":"2005-12-31",
-    "date:inception_lower":"1994-01-01",
-    "date:inception_upper":"1994-12-31",
-    "edtf:cessation":"2005",
-    "edtf:inception":"1994",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"93.884016,63.314401,93.884016,63.314401",
-    "geom:latitude":63.314401,
-    "geom:longitude":93.884016,
-    "iso:country":"RU",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"whosonfirst",
-    "wd:airline_hub":[
-        "Q2310593"
+    "date:cessation_lower": "2005-01-01",
+    "date:cessation_upper": "2005-12-31",
+    "date:inception_lower": "1994-01-01",
+    "date:inception_upper": "1994-12-31",
+    "edtf:cessation": "2005",
+    "edtf:inception": "1994",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "93.884016,63.314401,93.884016,63.314401",
+    "geom:latitude": 63.314401,
+    "geom:longitude": 93.884016,
+    "iso:country": "RU",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "whosonfirst",
+    "wd:airline_hub": [
+      "Q2310593"
     ],
-    "wd:country":"Q159",
-    "wd:headquarters":"Q3927",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q159",
+    "wd:headquarters": "Q3927",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191581,
-        85632685,
-        874393555
+    "wof:belongsto": [
+      102191581,
+      85632685,
+      874393555
     ],
-    "wof:brand_name":"Astrakhan Airlines",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"OB",
-        "icao:code":"ASZ",
-        "wd:id":"Q1154839",
-        "wk:page":"Astrakhan Airlines",
-        "wk:pageid":1849957
+    "wof:brand_name": "Astrakhan Airlines",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "OB",
+      "icao:code": "ASZ",
+      "wd:id": "Q1154839",
+      "wk:page": "Astrakhan Airlines",
+      "wk:pageid": 1849957
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"RU",
-    "wof:geomhash":"16fbe557e7395f697b1dd0d66544a7e8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85632685,
-            "empire_id":874393555,
-            "enterprise_id":1159287409
-        }
+    "wof:country": "RU",
+    "wof:created": 1619636572,
+    "wof:geomhash": "16fbe557e7395f697b1dd0d66544a7e8",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159287409,
+        "continent_id": 102191581,
+        "country_id": 85632685,
+        "empire_id": 874393555,
+        "enterprise_id": 1159287409
+      }
     ],
-    "wof:id":1159287409,
-    "wof:lastmodified":1557782868,
-    "wof:name":"Astrakhan Airlines",
-    "wof:parent_id":85632685,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287409,
+    "wof:lastmodified": 1619636677,
+    "wof:name": "Astrakhan Airlines",
+    "wof:parent_id": 85632685,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     93.884016,
     63.314401,
     93.884016,
     63.314401
-],
+  ],
   "geometry": {"coordinates":[93.884016,63.314401],"type":"Point"}
 }

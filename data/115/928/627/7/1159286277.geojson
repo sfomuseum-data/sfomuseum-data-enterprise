@@ -37,16 +37,18 @@
     "wof:geomhash": "1d4d15667f870fee6b633ed1e1379764",
     "wof:hierarchy": [
       {
+        "airline_id": 1159286277,
         "continent_id": 102191581,
         "country_id": 85633001,
         "enterprise_id": 1159286277
       }
     ],
     "wof:id": 1159286277,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Balkan Bulgarian Air",
     "wof:parent_id": 101748887,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288841

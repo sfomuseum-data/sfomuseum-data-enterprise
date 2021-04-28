@@ -59,6 +59,7 @@
     "wof:geomhash": "201153d1056d54eec2f8d4066a227620",
     "wof:hierarchy": [
       {
+        "airline_id": 1159286091,
         "continent_id": 102191581,
         "country_id": 85633805,
         "county_id": 1108730705,
@@ -68,10 +69,11 @@
       }
     ],
     "wof:id": 1159286091,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Ukraine International Airlines",
     "wof:parent_id": 101752489,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288883

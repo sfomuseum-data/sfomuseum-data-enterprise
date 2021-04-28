@@ -2,77 +2,80 @@
   "id": 1159285889,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1959-01-01",
-    "date:cessation_upper":"1959-12-31",
-    "date:inception_lower":"1947-01-01",
-    "date:inception_upper":"1947-12-31",
-    "edtf:cessation":"1959",
-    "edtf:inception":"1947",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.098975,22.440384,114.098975,22.440384",
-    "geom:latitude":22.440384,
-    "geom:longitude":114.098975,
-    "iso:country":"HK",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":1111,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Hong Kong Airways",
-    "sfomuseum:name":"Hong Kong Airways",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:instance_of":[
-        "Q46970"
+    "date:cessation_lower": "1959-01-01",
+    "date:cessation_upper": "1959-12-31",
+    "date:inception_lower": "1947-01-01",
+    "date:inception_upper": "1947-12-31",
+    "edtf:cessation": "1959",
+    "edtf:inception": "1947",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "114.098975,22.440384,114.098975,22.440384",
+    "geom:latitude": 22.440384,
+    "geom:longitude": 114.098975,
+    "iso:country": "HK",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 1111,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Hong Kong Airways",
+    "sfomuseum:name": "Hong Kong Airways",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191569,
-        1159287681,
-        85632483,
-        136253041
+    "wof:belongsto": [
+      102191569,
+      1159287681,
+      85632483,
+      136253041
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q9289450",
-        "wk:page":"Hong Kong Airways",
-        "wk:pageid":3442481
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q9289450",
+      "wk:page": "Hong Kong Airways",
+      "wk:pageid": 3442481
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"HK",
-    "wof:geomhash":"fa4c9dafd2e72143e54fd058afb0b6ad",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632483,
-            "empire_id":136253041,
-            "enterprise_id":1159287681
-        }
+    "wof:country": "HK",
+    "wof:created": 1619636574,
+    "wof:geomhash": "fa4c9dafd2e72143e54fd058afb0b6ad",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159285889,
+        "continent_id": 102191569,
+        "country_id": 85632483,
+        "empire_id": 136253041,
+        "enterprise_id": 1159287681
+      }
     ],
-    "wof:id":1159285889,
-    "wof:lastmodified":1606847658,
-    "wof:name":"Hong Kong Airways",
-    "wof:parent_id":85632483,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287681
+    "wof:id": 1159285889,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Hong Kong Airways",
+    "wof:parent_id": 85632483,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287681
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     114.098975,
     22.440384,
     114.098975,
     22.440384
-],
+  ],
   "geometry": {"coordinates":[114.098975,22.440384],"type":"Point"}
 }

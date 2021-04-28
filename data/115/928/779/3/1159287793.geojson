@@ -2,83 +2,86 @@
   "id": 1159287793,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2001-01-01",
-    "date:cessation_upper":"2001-12-31",
-    "date:inception_lower":"1955-01-01",
-    "date:inception_upper":"1955-12-31",
-    "edtf:cessation":"2001",
-    "edtf:inception":"1955",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-47.903099,-15.803598,-47.903099,-15.803598",
-    "geom:latitude":-15.803598,
-    "geom:longitude":-47.903099,
-    "iso:country":"BR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q174"
+    "date:cessation_lower": "2001-01-01",
+    "date:cessation_upper": "2001-12-31",
+    "date:inception_lower": "1955-01-01",
+    "date:inception_upper": "1955-12-31",
+    "edtf:cessation": "2001",
+    "edtf:inception": "1955",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-47.903099,-15.803598,-47.903099,-15.803598",
+    "geom:latitude": -15.803598,
+    "geom:longitude": -47.903099,
+    "iso:country": "BR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q174"
     ],
-    "wd:country":"Q155",
-    "wd:headquarters":"Q2844",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q155",
+    "wd:headquarters": "Q2844",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85681911,
-        102191577,
-        85633009,
-        101964877,
-        102051815
+    "wof:belongsto": [
+      85681911,
+      102191577,
+      85633009,
+      101964877,
+      102051815
     ],
-    "wof:brand_name":"TransBrasil",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"QD",
-        "icao:code":"TBA",
-        "wd:id":"Q429859",
-        "wk:page":"Transbrasil",
-        "wk:pageid":1270447
+    "wof:brand_name": "TransBrasil",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "QD",
+      "icao:code": "TBA",
+      "wd:id": "Q429859",
+      "wk:page": "Transbrasil",
+      "wk:pageid": 1270447
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"BR",
-    "wof:geomhash":"d891c5f92be3e899206e811ea785d336",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191577,
-            "country_id":85633009,
-            "county_id":102051815,
-            "enterprise_id":1159287793,
-            "locality_id":101964877,
-            "region_id":85681911
-        }
+    "wof:country": "BR",
+    "wof:created": 1619636573,
+    "wof:geomhash": "d891c5f92be3e899206e811ea785d336",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159287793,
+        "continent_id": 102191577,
+        "country_id": 85633009,
+        "county_id": 102051815,
+        "enterprise_id": 1159287793,
+        "locality_id": 101964877,
+        "region_id": 85681911
+      }
     ],
-    "wof:id":1159287793,
-    "wof:lastmodified":1557782897,
-    "wof:name":"TransBrasil",
-    "wof:parent_id":101964877,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287793,
+    "wof:lastmodified": 1619636677,
+    "wof:name": "TransBrasil",
+    "wof:parent_id": 101964877,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -47.903099,
     -15.803598,
     -47.903099,
     -15.803598
-],
+  ],
   "geometry": {"coordinates":[-47.903099,-15.803598],"type":"Point"}
 }

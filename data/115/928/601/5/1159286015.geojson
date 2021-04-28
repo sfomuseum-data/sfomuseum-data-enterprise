@@ -61,6 +61,7 @@
     "wof:geomhash": "b08906a17c7191f09685ae752f88cf9f",
     "wof:hierarchy": [
       {
+        "airline_id": 1159286015,
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063715,
@@ -71,10 +72,11 @@
       }
     ],
     "wof:id": 1159286015,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Deutsche Lufthansa",
     "wof:parent_id": 101752771,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288215

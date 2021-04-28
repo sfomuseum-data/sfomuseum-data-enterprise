@@ -2,85 +2,88 @@
   "id": 1159287671,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2008-01-01",
-    "date:cessation_upper":"2008-12-31",
-    "date:inception_lower":"1995-01-01",
-    "date:inception_upper":"1995-12-31",
-    "edtf:cessation":"2008",
-    "edtf:inception":"1995",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-93.317011,44.827309,-93.317011,44.827309",
-    "geom:latitude":44.827309,
-    "geom:longitude":-93.317011,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q875749"
+    "date:cessation_lower": "2008-01-01",
+    "date:cessation_upper": "2008-12-31",
+    "date:inception_lower": "1995-01-01",
+    "date:inception_upper": "1995-12-31",
+    "edtf:cessation": "2008",
+    "edtf:inception": "1995",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-93.317011,44.827309,-93.317011,44.827309",
+    "geom:latitude": 44.827309,
+    "geom:longitude": -93.317011,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q875749"
     ],
-    "wd:country":"Q30",
-    "wd:headquarters":"Q490737",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q30",
+    "wd:headquarters": "Q490737",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85688727,
-        102191575,
-        404511825,
-        85633793,
-        85969239,
-        102087709
+    "wof:belongsto": [
+      85688727,
+      102191575,
+      404511825,
+      85633793,
+      85969239,
+      102087709
     ],
-    "wof:brand_name":"MGM Grand Air",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"MG",
-        "icao:code":"CCP",
-        "wd:id":"Q1061232",
-        "wk:page":"Champion Air",
-        "wk:pageid":1658451
+    "wof:brand_name": "MGM Grand Air",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "MG",
+      "icao:code": "CCP",
+      "wd:id": "Q1061232",
+      "wk:page": "Champion Air",
+      "wk:pageid": 1658451
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"5239c2333f094db6e038b94130786773",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "enterprise_id":1159287671,
-            "localadmin_id":404511825,
-            "locality_id":85969239,
-            "region_id":85688727
-        }
+    "wof:country": "US",
+    "wof:created": 1619636573,
+    "wof:geomhash": "5239c2333f094db6e038b94130786773",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159287671,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087709,
+        "enterprise_id": 1159287671,
+        "localadmin_id": 404511825,
+        "locality_id": 85969239,
+        "region_id": 85688727
+      }
     ],
-    "wof:id":1159287671,
-    "wof:lastmodified":1557782919,
-    "wof:name":"MGM Grand Air",
-    "wof:parent_id":85969239,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287671,
+    "wof:lastmodified": 1619636679,
+    "wof:name": "MGM Grand Air",
+    "wof:parent_id": 85969239,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -93.317011,
     44.827309,
     -93.317011,
     44.827309
-],
-  "geometry": {"coordinates":[-93.31701099999999,44.827309],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-93.317011,44.827309],"type":"Point"}
 }

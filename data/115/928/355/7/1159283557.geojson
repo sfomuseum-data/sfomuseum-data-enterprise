@@ -35,16 +35,18 @@
     "wof:geomhash": "9951ac02c83144085b1eded8356f938d",
     "wof:hierarchy": [
       {
+        "airline_id": 1159283557,
         "continent_id": 102191575,
         "country_id": 85632713,
         "enterprise_id": 1159283557
       }
     ],
     "wof:id": 1159283557,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Aerotours Dominicano Airlines",
     "wof:parent_id": 85632713,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286747

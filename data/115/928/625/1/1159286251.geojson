@@ -2,70 +2,73 @@
   "id": 1159286251,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1984-01-01",
-    "date:cessation_upper":"1984-12-31",
-    "date:inception_lower":"1963-01-01",
-    "date:inception_upper":"1963-12-31",
-    "edtf:cessation":"1984",
-    "edtf:inception":"1963",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
-    "geom:latitude":39.715956,
-    "geom:longitude":-96.999668,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":1280,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:country":"United States",
-    "sfomuseum:hub":"Montauk, Long Island, New York",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Montauk Caribbean Airways",
-    "sfomuseum:name":"Montauk Caribbean Airways",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wof:belongsto":[
-        102191575,
-        1159288809,
-        85633793,
-        136253057
+    "date:cessation_lower": "1984-01-01",
+    "date:cessation_upper": "1984-12-31",
+    "date:inception_lower": "1963-01-01",
+    "date:inception_upper": "1963-12-31",
+    "edtf:cessation": "1984",
+    "edtf:inception": "1963",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude": 39.715956,
+    "geom:longitude": -96.999668,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 1280,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:country": "United States",
+    "sfomuseum:hub": "Montauk, Long Island, New York",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Montauk Caribbean Airways",
+    "sfomuseum:name": "Montauk Caribbean Airways",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      102191575,
+      1159288809,
+      85633793,
+      136253057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{},
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:concordances": {},
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "enterprise_id":1159288809
-        }
+    "wof:country": "US",
+    "wof:created": 1619636575,
+    "wof:geomhash": "bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159286251,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "empire_id": 136253057,
+        "enterprise_id": 1159288809
+      }
     ],
-    "wof:id":1159286251,
-    "wof:lastmodified":1606847663,
-    "wof:name":"Montauk Caribbean Airways",
-    "wof:parent_id":85633793,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288809
+    "wof:id": 1159286251,
+    "wof:lastmodified": 1619636679,
+    "wof:name": "Montauk Caribbean Airways",
+    "wof:parent_id": 85633793,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288809
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -96.999668,
     39.715956,
     -96.999668,
     39.715956
-],
+  ],
   "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
 }

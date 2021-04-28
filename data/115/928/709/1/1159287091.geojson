@@ -2,85 +2,88 @@
   "id": 1159287091,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1976-01-01",
-    "date:cessation_upper":"1976-12-31",
-    "date:inception_lower":"1935-01-01",
-    "date:inception_upper":"1935-12-31",
-    "edtf:cessation":"1976",
-    "edtf:inception":"1935",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-3.192626,51.501018,-3.192626,51.501018",
-    "geom:latitude":51.501018,
-    "geom:longitude":-3.192626,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q8994"
+    "date:cessation_lower": "1976-01-01",
+    "date:cessation_upper": "1976-12-31",
+    "date:inception_lower": "1935-01-01",
+    "date:inception_upper": "1935-12-31",
+    "edtf:cessation": "1976",
+    "edtf:inception": "1935",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.192626,51.501018,-3.192626,51.501018",
+    "geom:latitude": 51.501018,
+    "geom:longitude": -3.192626,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q8994"
     ],
-    "wd:country":"Q145",
-    "wd:headquarters":"Q10690",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q145",
+    "wd:headquarters": "Q10690",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85683787,
-        102191581,
-        404446393,
-        85633159,
-        404227475,
-        101750397
+    "wof:belongsto": [
+      85683787,
+      102191581,
+      404446393,
+      85633159,
+      404227475,
+      101750397
     ],
-    "wof:brand_name":"Cambrian Airways",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"CS",
-        "icao:code":"CAS",
-        "wd:id":"Q13126523",
-        "wk:page":"Cambrian Airways",
-        "wk:pageid":16006044
+    "wof:brand_name": "Cambrian Airways",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "CS",
+      "icao:code": "CAS",
+      "wd:id": "Q13126523",
+      "wk:page": "Cambrian Airways",
+      "wk:pageid": 16006044
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"GB",
-    "wof:geomhash":"a6c7835734fb4dd660afdab160196f6e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "enterprise_id":1159287091,
-            "localadmin_id":404446393,
-            "locality_id":101750397,
-            "macroregion_id":404227475,
-            "region_id":85683787
-        }
+    "wof:country": "GB",
+    "wof:created": 1619636575,
+    "wof:geomhash": "a6c7835734fb4dd660afdab160196f6e",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159287091,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "enterprise_id": 1159287091,
+        "localadmin_id": 404446393,
+        "locality_id": 101750397,
+        "macroregion_id": 404227475,
+        "region_id": 85683787
+      }
     ],
-    "wof:id":1159287091,
-    "wof:lastmodified":1557782730,
-    "wof:name":"Cambrian Airways",
-    "wof:parent_id":101750397,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287091,
+    "wof:lastmodified": 1619636679,
+    "wof:name": "Cambrian Airways",
+    "wof:parent_id": 101750397,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -3.192626,
     51.501018,
     -3.192626,
     51.501018
-],
+  ],
   "geometry": {"coordinates":[-3.192626,51.501018],"type":"Point"}
 }

@@ -51,16 +51,18 @@
     "wof:geomhash": "82aad75a639d19858f8415ec8ecc48ba",
     "wof:hierarchy": [
       {
+        "airline_id": 1159294445,
         "continent_id": 102191569,
         "country_id": 85632499,
         "enterprise_id": 1159294445
       }
     ],
     "wof:id": 1159294445,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Yemenia",
     "wof:parent_id": 85632499,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287967

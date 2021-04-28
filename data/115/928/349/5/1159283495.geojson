@@ -52,6 +52,7 @@
     "wof:geomhash": "b0444c6d080802b0f898ecbb69440c2c",
     "wof:hierarchy": [
       {
+        "airline_id": 1159283495,
         "campus_id": 102547639,
         "continent_id": 102191581,
         "country_id": 85633241,
@@ -62,10 +63,11 @@
       }
     ],
     "wof:id": 1159283495,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Aer Lingus",
     "wof:parent_id": 102547639,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288269

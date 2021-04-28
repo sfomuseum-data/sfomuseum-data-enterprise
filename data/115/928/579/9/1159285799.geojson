@@ -38,6 +38,7 @@
     "wof:geomhash": "b20bbb8a75da27d7c450414b4e0b6171",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285799,
         "continent_id": 102191575,
         "country_id": 85633793,
         "empire_id": 136253057,
@@ -45,10 +46,11 @@
       }
     ],
     "wof:id": 1159285799,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Morris Air Service",
     "wof:parent_id": 101728075,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287223

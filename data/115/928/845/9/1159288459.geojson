@@ -47,16 +47,18 @@
     "wof:geomhash": "08f9f5a0a1e24df4068b254002a4ff75",
     "wof:hierarchy": [
       {
+        "company_id": 1159288459,
         "continent_id": 102191573,
         "country_id": 85632735,
         "enterprise_id": 1159288459
       }
     ],
     "wof:id": 1159288459,
-    "wof:lastmodified": 1619636501,
+    "wof:lastmodified": 1619636677,
     "wof:name": "West African Airways Corporation",
     "wof:parent_id": 85632735,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

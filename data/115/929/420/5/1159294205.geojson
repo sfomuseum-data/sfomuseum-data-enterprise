@@ -2,82 +2,85 @@
   "id": 1159294205,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1968-01-01",
-    "date:cessation_upper":"1968-12-31",
-    "date:inception_lower":"1918-01-01",
-    "date:inception_upper":"1918-12-31",
-    "edtf:cessation":"1968",
-    "edtf:inception":"1918",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-2.672673,53.888754,-2.672673,53.888754",
-    "geom:latitude":53.888754,
-    "geom:longitude":-2.672673,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:aircraft_id":1347,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q145",
-    "wd:headquarters":"Q23077",
-    "wd:instance_of":[
-        "Q936518",
-        "Q4830453",
-        "Q6881511"
+    "date:cessation_lower": "1968-01-01",
+    "date:cessation_upper": "1968-12-31",
+    "date:inception_lower": "1918-01-01",
+    "date:inception_upper": "1918-12-31",
+    "edtf:cessation": "1968",
+    "edtf:inception": "1918",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.672673,53.888754,-2.672673,53.888754",
+    "geom:latitude": 53.888754,
+    "geom:longitude": -2.672673,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:aircraft_id": 1347,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q145",
+    "wd:headquarters": "Q23077",
+    "wd:instance_of": [
+      "Q936518",
+      "Q4830453",
+      "Q6881511"
     ],
-    "wof:belongsto":[
-        102191581,
-        85633159,
-        85683853,
-        404227469
+    "wof:belongsto": [
+      102191581,
+      85633159,
+      85683853,
+      404227469
     ],
-    "wof:brand_name":"English Electric",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q1342845",
-        "wk:page":"English Electric",
-        "wk:pageid":390889
+    "wof:brand_name": "English Electric",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q1342845",
+      "wk:page": "English Electric",
+      "wk:pageid": 390889
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"GB",
-    "wof:geomhash":"df7d590d5bf72a0d030d291f04fccf1f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "enterprise_id":1159294205,
-            "macroregion_id":404227469,
-            "region_id":85683853
-        }
+    "wof:country": "GB",
+    "wof:created": 1619636574,
+    "wof:geomhash": "df7d590d5bf72a0d030d291f04fccf1f",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159294205,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "enterprise_id": 1159294205,
+        "macroregion_id": 404227469,
+        "region_id": 85683853
+      }
     ],
-    "wof:id":1159294205,
-    "wof:lastmodified":1606835779,
-    "wof:name":"English Electric",
-    "wof:parent_id":85683853,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "aerospace manufacturer",
-        "business",
-        "enterprise"
+    "wof:id": 1159294205,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "English Electric",
+    "wof:parent_id": 85683853,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "aerospace manufacturer",
+      "business",
+      "enterprise"
     ]
-},
+  },
   "bbox": [
     -2.672673,
     53.888754,
     -2.672673,
     53.888754
-],
+  ],
   "geometry": {"coordinates":[-2.672673,53.888754],"type":"Point"}
 }

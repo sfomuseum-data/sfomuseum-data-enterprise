@@ -51,6 +51,7 @@
     "wof:hierarchy": [
       {
         "campus_id": 102540471,
+        "company_id": 1159287097,
         "continent_id": 102191581,
         "country_id": 85632685,
         "county_id": 1108734077,
@@ -60,10 +61,11 @@
       }
     ],
     "wof:id": 1159287097,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Polar Airlines",
     "wof:parent_id": 102540471,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -38,6 +38,7 @@
     "wof:geomhash": "3d2af4a89e1d55e1d68276122807ee9b",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284037,
         "continent_id": 102191581,
         "country_id": 85633159,
         "empire_id": 136253055,
@@ -45,10 +46,11 @@
       }
     ],
     "wof:id": 1159284037,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "British United Airways (BUA)",
     "wof:parent_id": 85633159,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288511

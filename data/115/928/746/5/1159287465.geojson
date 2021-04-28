@@ -2,78 +2,81 @@
   "id": 1159287465,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2003-01-01",
-    "date:cessation_upper":"2003-12-31",
-    "date:inception_lower":"1992-01-01",
-    "date:inception_upper":"1992-12-31",
-    "edtf:cessation":"2003",
-    "edtf:inception":"1992",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.802874,32.529718,106.802874,32.529718",
-    "geom:latitude":32.529718,
-    "geom:longitude":106.802874,
-    "iso:country":"CN",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"wof",
-    "wd:airline_hub":[
-        "Q1190274"
+    "date:cessation_lower": "2003-01-01",
+    "date:cessation_upper": "2003-12-31",
+    "date:inception_lower": "1992-01-01",
+    "date:inception_upper": "1992-12-31",
+    "edtf:cessation": "2003",
+    "edtf:inception": "1992",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "106.802874,32.529718,106.802874,32.529718",
+    "geom:latitude": 32.529718,
+    "geom:longitude": 106.802874,
+    "iso:country": "CN",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "wof",
+    "wd:airline_hub": [
+      "Q1190274"
     ],
-    "wd:country":"Q148",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q148",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        136253041
+    "wof:belongsto": [
+      102191569,
+      85632695,
+      136253041
     ],
-    "wof:brand_name":"China Yunnan Airlines",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"3Q",
-        "icao:code":"CYH",
-        "wd:id":"Q71988",
-        "wk:page":"China Yunnan Airlines",
-        "wk:pageid":1643963
+    "wof:brand_name": "China Yunnan Airlines",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "3Q",
+      "icao:code": "CYH",
+      "wd:id": "Q71988",
+      "wk:page": "China Yunnan Airlines",
+      "wk:pageid": 1643963
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"CN",
-    "wof:geomhash":"c631fc6ab83322ccfcf4c4957e92cbf0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "empire_id":136253041,
-            "enterprise_id":1159287465
-        }
+    "wof:country": "CN",
+    "wof:created": 1619636572,
+    "wof:geomhash": "c631fc6ab83322ccfcf4c4957e92cbf0",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159287465,
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "empire_id": 136253041,
+        "enterprise_id": 1159287465
+      }
     ],
-    "wof:id":1159287465,
-    "wof:lastmodified":1557782898,
-    "wof:name":"China Yunnan Airlines",
-    "wof:parent_id":85632695,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287465,
+    "wof:lastmodified": 1619636677,
+    "wof:name": "China Yunnan Airlines",
+    "wof:parent_id": 85632695,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     106.802874,
     32.529718,
     106.802874,
     32.529718
-],
+  ],
   "geometry": {"coordinates":[106.802874,32.529718],"type":"Point"}
 }

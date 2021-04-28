@@ -2,79 +2,82 @@
   "id": 1159287563,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2009-01-01",
-    "date:cessation_upper":"2009-12-31",
-    "date:inception_lower":"1971-01-01",
-    "date:inception_upper":"1971-12-31",
-    "edtf:cessation":"2009",
-    "edtf:inception":"1971",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-14.768082,15.13855,-14.768082,15.13855",
-    "geom:latitude":15.13855,
-    "geom:longitude":-14.768082,
-    "iso:country":"SN",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "name:unk_x_preferred":[
-        "Air S\u00e9n\u00e9gal International"
+    "date:cessation_lower": "2009-01-01",
+    "date:cessation_upper": "2009-12-31",
+    "date:inception_lower": "1971-01-01",
+    "date:inception_upper": "1971-12-31",
+    "edtf:cessation": "2009",
+    "edtf:inception": "1971",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-14.768082,15.138550,-14.768082,15.138550",
+    "geom:latitude": 15.13855,
+    "geom:longitude": -14.768082,
+    "iso:country": "SN",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "name:unk_x_preferred": [
+      "Air Sénégal International"
     ],
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q513689"
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q513689"
     ],
-    "wd:country":"Q1041",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q1041",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191573,
-        85632365
+    "wof:belongsto": [
+      102191573,
+      85632365
     ],
-    "wof:brand_name":"Air Senegal International",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"V7",
-        "icao:code":"SNG",
-        "wd:id":"Q407817",
-        "wk:page":"Air S\u00e9n\u00e9gal International",
-        "wk:pageid":1547453
+    "wof:brand_name": "Air Senegal International",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "V7",
+      "icao:code": "SNG",
+      "wd:id": "Q407817",
+      "wk:page": "Air Sénégal International",
+      "wk:pageid": 1547453
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"SN",
-    "wof:geomhash":"5009bc844a4f073421506ca6455d5e33",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191573,
-            "country_id":85632365,
-            "enterprise_id":1159287563
-        }
+    "wof:country": "SN",
+    "wof:created": 1619636575,
+    "wof:geomhash": "5009bc844a4f073421506ca6455d5e33",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159287563,
+        "continent_id": 102191573,
+        "country_id": 85632365,
+        "enterprise_id": 1159287563
+      }
     ],
-    "wof:id":1159287563,
-    "wof:lastmodified":1557782928,
-    "wof:name":"Air Senegal International",
-    "wof:parent_id":85632365,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287563,
+    "wof:lastmodified": 1619636679,
+    "wof:name": "Air Senegal International",
+    "wof:parent_id": 85632365,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -14.768082,
     15.13855,
     -14.768082,
     15.13855
-],
+  ],
   "geometry": {"coordinates":[-14.768082,15.13855],"type":"Point"}
 }

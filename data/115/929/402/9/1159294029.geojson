@@ -44,16 +44,18 @@
     "wof:geomhash": "9610a5ed65888826ef082d43f5c9c14d",
     "wof:hierarchy": [
       {
+        "company_id": 1159294029,
         "continent_id": 102191581,
         "country_id": 85633171,
         "enterprise_id": 1159294029
       }
     ],
     "wof:id": 1159294029,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Spartan",
     "wof:parent_id": 85633171,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

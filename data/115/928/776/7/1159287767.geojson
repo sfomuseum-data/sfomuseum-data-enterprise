@@ -54,6 +54,7 @@
     "wof:geomhash": "5a9c6f28f52c33fa7bab27edc9f9cb16",
     "wof:hierarchy": [
       {
+        "company_id": 1159287767,
         "continent_id": 102191573,
         "country_id": 85632451,
         "enterprise_id": 1159287767,
@@ -62,10 +63,11 @@
       }
     ],
     "wof:id": 1159287767,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Air Algerie",
     "wof:parent_id": 421174649,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

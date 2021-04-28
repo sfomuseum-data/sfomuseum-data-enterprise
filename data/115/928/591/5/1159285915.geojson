@@ -37,16 +37,18 @@
     "wof:geomhash": "9fc226dcaaee5558016aa5a746533dc1",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285915,
         "continent_id": 102191575,
         "country_id": 85632545,
         "enterprise_id": 1159285915
       }
     ],
     "wof:id": 1159285915,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "TACA Airways System",
     "wof:parent_id": 421191785,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288637

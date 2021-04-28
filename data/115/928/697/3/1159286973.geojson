@@ -50,6 +50,7 @@
     "wof:hierarchy": [
       {
         "campus_id": 102558779,
+        "company_id": 1159286973,
         "continent_id": -1,
         "country_id": -1,
         "enterprise_id": 1159286973,
@@ -59,10 +60,11 @@
       }
     ],
     "wof:id": 1159286973,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Air Polynesie",
     "wof:parent_id": 102558779,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

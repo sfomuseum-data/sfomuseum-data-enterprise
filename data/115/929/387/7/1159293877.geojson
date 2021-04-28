@@ -49,6 +49,7 @@
     "wof:geomhash": "f012fb7b7510b39caedf6f278c119b7a",
     "wof:hierarchy": [
       {
+        "company_id": 1159293877,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102080647,
@@ -58,10 +59,11 @@
       }
     ],
     "wof:id": 1159293877,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Vought",
     "wof:parent_id": 101724385,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

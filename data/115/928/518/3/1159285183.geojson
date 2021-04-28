@@ -43,16 +43,18 @@
     "wof:geomhash": "1831416c3f661b1a924132bf7d61ef88",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285183,
         "continent_id": 102191573,
         "country_id": 85633813,
         "enterprise_id": 1159285183
       }
     ],
     "wof:id": 1159285183,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "South African Airways (SAA)",
     "wof:parent_id": 85633813,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288307

@@ -2,80 +2,83 @@
   "id": 1159286425,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1982-01-01",
-    "date:cessation_upper":"1982-12-31",
-    "date:inception_lower":"1964-01-01",
-    "date:inception_upper":"1964-12-31",
-    "edtf:cessation":"1982",
-    "edtf:inception":"1964",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-1.247349,52.418788,-1.247349,52.418788",
-    "geom:latitude":52.418788,
-    "geom:longitude":-1.247349,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":1365,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:country":"United Kingdom",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Invicta International Airlines",
-    "sfomuseum:name":"Invicta International Airlines",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"whosonfirst",
-    "wd:country":"Q145",
-    "wd:instance_of":[
-        "Q46970"
+    "date:cessation_lower": "1982-01-01",
+    "date:cessation_upper": "1982-12-31",
+    "date:inception_lower": "1964-01-01",
+    "date:inception_upper": "1964-12-31",
+    "edtf:cessation": "1982",
+    "edtf:inception": "1964",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.247349,52.418788,-1.247349,52.418788",
+    "geom:latitude": 52.418788,
+    "geom:longitude": -1.247349,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 1365,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:country": "United Kingdom",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Invicta International Airlines",
+    "sfomuseum:name": "Invicta International Airlines",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "whosonfirst",
+    "wd:country": "Q145",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191581,
-        85633159,
-        136253055
+    "wof:belongsto": [
+      102191581,
+      85633159,
+      136253055
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"IM",
-        "iata:code":"IM",
-        "wd:id":"Q6060978",
-        "wk:page":"Invicta International Airlines",
-        "wk:pageid":16188806
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "IM",
+      "iata:code": "IM",
+      "wd:id": "Q6060978",
+      "wk:page": "Invicta International Airlines",
+      "wk:pageid": 16188806
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"GB",
-    "wof:geomhash":"3d2af4a89e1d55e1d68276122807ee9b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "empire_id":136253055,
-            "enterprise_id":1159286425
-        }
+    "wof:country": "GB",
+    "wof:created": 1619636572,
+    "wof:geomhash": "3d2af4a89e1d55e1d68276122807ee9b",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159286425,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "empire_id": 136253055,
+        "enterprise_id": 1159286425
+      }
     ],
-    "wof:id":1159286425,
-    "wof:lastmodified":1606847665,
-    "wof:name":"Invicta International Airlines",
-    "wof:parent_id":85633159,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288255
+    "wof:id": 1159286425,
+    "wof:lastmodified": 1619636677,
+    "wof:name": "Invicta International Airlines",
+    "wof:parent_id": 85633159,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288255
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -1.247349,
     52.418788,
     -1.247349,
     52.418788
-],
+  ],
   "geometry": {"coordinates":[-1.247349,52.418788],"type":"Point"}
 }

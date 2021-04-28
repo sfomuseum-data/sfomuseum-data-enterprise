@@ -2,85 +2,88 @@
   "id": 1159284191,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-01-01",
-    "date:cessation_upper":"2012-12-31",
-    "date:inception_lower":"1977-01-01",
-    "date:inception_upper":"1977-12-31",
-    "edtf:cessation":"2012",
-    "edtf:inception":"1977",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.604307,39.029372,-84.604307,39.029372",
-    "geom:latitude":39.029372,
-    "geom:longitude":-84.604307,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":324,
-    "sfomuseum:count_objects_public":2,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"ComAir",
-    "sfomuseum:name":"ComAir",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q30",
-    "wd:headquarters":"Q1998355",
-    "wd:instance_of":[
-        "Q46970"
+    "date:cessation_lower": "2012-01-01",
+    "date:cessation_upper": "2012-12-31",
+    "date:inception_lower": "1977-01-01",
+    "date:inception_upper": "1977-12-31",
+    "edtf:cessation": "2012",
+    "edtf:inception": "1977",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.604307,39.029372,-84.604307,39.029372",
+    "geom:latitude": 39.029372,
+    "geom:longitude": -84.604307,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 324,
+    "sfomuseum:count_objects_public": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "ComAir",
+    "sfomuseum:name": "ComAir",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q30",
+    "wd:headquarters": "Q1998355",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85688641,
-        102191575,
-        85633793,
-        85947221,
-        102084469
+    "wof:belongsto": [
+      85688641,
+      102191575,
+      85633793,
+      85947221,
+      102084469
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"OH",
-        "iata:code":"OH",
-        "icao:code":"COM",
-        "wd:id":"Q1113243",
-        "wk:page":"Comair",
-        "wk:pageid":253035
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "OH",
+      "iata:code": "OH",
+      "icao:code": "COM",
+      "wd:id": "Q1113243",
+      "wk:page": "Comair",
+      "wk:pageid": 253035
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"e959ca617e5fa4fef3bdda0e9a118f70",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084469,
-            "enterprise_id":1159284191,
-            "locality_id":85947221,
-            "region_id":85688641
-        }
+    "wof:country": "US",
+    "wof:created": 1619636574,
+    "wof:geomhash": "e959ca617e5fa4fef3bdda0e9a118f70",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159284191,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084469,
+        "enterprise_id": 1159284191,
+        "locality_id": 85947221,
+        "region_id": 85688641
+      }
     ],
-    "wof:id":1159284191,
-    "wof:lastmodified":1606847643,
-    "wof:name":"ComAir",
-    "wof:parent_id":85947221,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288629
+    "wof:id": 1159284191,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "ComAir",
+    "wof:parent_id": 85947221,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288629
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -84.604307,
     39.029372,
     -84.604307,
     39.029372
-],
-  "geometry": {"coordinates":[-84.60430700000001,39.029372],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.604307,39.029372],"type":"Point"}
 }

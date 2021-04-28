@@ -33,16 +33,18 @@
     "wof:geomhash": "b47c7555f32fbe19b65437ae5bc8b939",
     "wof:hierarchy": [
       {
+        "company_id": 1159287901,
         "continent_id": 102191569,
         "country_id": 85632241,
         "enterprise_id": 1159287901
       }
     ],
     "wof:id": 1159287901,
-    "wof:lastmodified": 1619636501,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Air Laos",
     "wof:parent_id": 85632241,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

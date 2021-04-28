@@ -50,6 +50,7 @@
     "wof:geomhash": "4856c1e8dee37d0dffbb24bf95d45ee2",
     "wof:hierarchy": [
       {
+        "airline_id": 1394262803,
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102070301,
@@ -62,10 +63,11 @@
       }
     ],
     "wof:id": 1394262803,
-    "wof:lastmodified": 1619636476,
+    "wof:lastmodified": 1619636675,
     "wof:name": "XL Airways France",
     "wof:parent_id": 101751163,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": [],

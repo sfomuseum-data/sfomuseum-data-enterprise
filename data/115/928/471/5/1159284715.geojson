@@ -54,6 +54,7 @@
     "wof:geomhash": "fe48ed1c9f2d861c0f72d9a1d3a11be7",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284715,
         "continent_id": 102191581,
         "country_id": 85633275,
         "enterprise_id": 1159284715,
@@ -62,10 +63,11 @@
       }
     ],
     "wof:id": 1159284715,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Luxair",
     "wof:parent_id": 1126007063,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287253

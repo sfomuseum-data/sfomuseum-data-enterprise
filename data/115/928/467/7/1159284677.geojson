@@ -50,16 +50,18 @@
     "wof:geomhash": "5d47e5a755b2ae2550d9436bcfa15255",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284677,
         "continent_id": 102191573,
         "country_id": 85632173,
         "enterprise_id": 1159284677
       }
     ],
     "wof:id": 1159284677,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Air Lesotho",
     "wof:parent_id": 85632173,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286497

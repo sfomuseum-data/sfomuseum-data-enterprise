@@ -2,89 +2,92 @@
   "id": 1159287229,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2001-01-01",
-    "date:cessation_upper":"2001-12-31",
-    "date:inception_lower":"1923-01-01",
-    "date:inception_upper":"1923-12-31",
-    "edtf:cessation":"2001",
-    "edtf:inception":"1923",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"4.483564,50.894463,4.483564,50.894463",
-    "geom:latitude":50.894463,
-    "geom:longitude":4.483564,
-    "iso:country":"BE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"mz",
-    "wd:airline_hub":[
-        "Q28934"
+    "date:cessation_lower": "2001-01-01",
+    "date:cessation_upper": "2001-12-31",
+    "date:inception_lower": "1923-01-01",
+    "date:inception_upper": "1923-12-31",
+    "edtf:cessation": "2001",
+    "edtf:inception": "1923",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "4.483564,50.894463,4.483564,50.894463",
+    "geom:latitude": 50.894463,
+    "geom:longitude": 4.483564,
+    "iso:country": "BE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "mz",
+    "wd:airline_hub": [
+      "Q28934"
     ],
-    "wd:country":"Q31",
-    "wd:headquarters":"Q28898",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q31",
+    "wd:headquarters": "Q28898",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85802033,
-        102191581,
-        1108830477,
-        85632997,
-        404227357,
-        101913231,
-        102049973,
-        85681731
+    "wof:belongsto": [
+      85802033,
+      102191581,
+      1108830477,
+      85632997,
+      404227357,
+      101913231,
+      102049973,
+      85681731
     ],
-    "wof:brand_name":"Sabena",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"SN",
-        "icao:code":"SAB",
-        "wd:id":"Q141146",
-        "wk:page":"Sabena",
-        "wk:pageid":162886
+    "wof:brand_name": "Sabena",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "SN",
+      "icao:code": "SAB",
+      "wd:id": "Q141146",
+      "wk:page": "Sabena",
+      "wk:pageid": 162886
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"BE",
-    "wof:geomhash":"9ff6bd03276e64b01df0ebf5612aaf3a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85632997,
-            "county_id":102049973,
-            "enterprise_id":1159287229,
-            "localadmin_id":1108830477,
-            "locality_id":101913231,
-            "macroregion_id":404227357,
-            "neighbourhood_id":85802033,
-            "region_id":85681731
-        }
+    "wof:country": "BE",
+    "wof:created": 1619636572,
+    "wof:geomhash": "9ff6bd03276e64b01df0ebf5612aaf3a",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159287229,
+        "continent_id": 102191581,
+        "country_id": 85632997,
+        "county_id": 102049973,
+        "enterprise_id": 1159287229,
+        "localadmin_id": 1108830477,
+        "locality_id": 101913231,
+        "macroregion_id": 404227357,
+        "neighbourhood_id": 85802033,
+        "region_id": 85681731
+      }
     ],
-    "wof:id":1159287229,
-    "wof:lastmodified":1557782855,
-    "wof:name":"Sabena",
-    "wof:parent_id":85802033,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287229,
+    "wof:lastmodified": 1619636677,
+    "wof:name": "Sabena",
+    "wof:parent_id": 85802033,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     4.483564,
     50.894463,
     4.483564,
     50.894463
-],
+  ],
   "geometry": {"coordinates":[4.483564,50.894463],"type":"Point"}
 }

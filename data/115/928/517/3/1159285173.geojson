@@ -2,80 +2,83 @@
   "id": 1159285173,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-01-01",
-    "date:cessation_upper":"2013-12-31",
-    "date:inception_lower":"1972-01-01",
-    "date:inception_upper":"1972-12-31",
-    "edtf:cessation":"2013",
-    "edtf:inception":"1972",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
-    "geom:latitude":39.715956,
-    "geom:longitude":-96.999668,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":768,
-    "sfomuseum:count_objects_public":2,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Skyservice USA",
-    "sfomuseum:name":"Skyservice USA",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q30",
-    "wd:instance_of":[
-        "Q46970"
+    "date:cessation_lower": "2013-01-01",
+    "date:cessation_upper": "2013-12-31",
+    "date:inception_lower": "1972-01-01",
+    "date:inception_upper": "1972-12-31",
+    "edtf:cessation": "2013",
+    "edtf:inception": "1972",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude": 39.715956,
+    "geom:longitude": -96.999668,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 768,
+    "sfomuseum:count_objects_public": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Skyservice USA",
+    "sfomuseum:name": "Skyservice USA",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q30",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191575,
-        85633793,
-        136253057
+    "wof:belongsto": [
+      102191575,
+      85633793,
+      136253057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"RD",
-        "iata:code":"RD",
-        "icao:code":"RYN",
-        "wd:id":"Q849220",
-        "wk:page":"Ryan International Airlines",
-        "wk:pageid":1718095
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "RD",
+      "iata:code": "RD",
+      "icao:code": "RYN",
+      "wd:id": "Q849220",
+      "wk:page": "Ryan International Airlines",
+      "wk:pageid": 1718095
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "enterprise_id":1159285173
-        }
+    "wof:country": "US",
+    "wof:created": 1619636574,
+    "wof:geomhash": "bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159285173,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "empire_id": 136253057,
+        "enterprise_id": 1159285173
+      }
     ],
-    "wof:id":1159285173,
-    "wof:lastmodified":1606847652,
-    "wof:name":"Skyservice USA",
-    "wof:parent_id":85633793,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288145
+    "wof:id": 1159285173,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "Skyservice USA",
+    "wof:parent_id": 85633793,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288145
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -96.999668,
     39.715956,
     -96.999668,
     39.715956
-],
+  ],
   "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
 }

@@ -2,92 +2,95 @@
   "id": 1159284907,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2010-01-01",
-    "date:cessation_upper":"2010-12-31",
-    "date:inception_lower":"1926-01-01",
-    "date:inception_upper":"1926-12-31",
-    "edtf:cessation":"2010",
-    "edtf:inception":"1926",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-93.163792,44.818415,-93.163792,44.818415",
-    "geom:latitude":44.818415,
-    "geom:longitude":-93.163792,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":647,
-    "sfomuseum:brand":"Northwest Airlines",
-    "sfomuseum:count_objects_public":99,
-    "sfomuseum:hashtags":[
-        "northwest"
+    "date:cessation_lower": "2010-01-01",
+    "date:cessation_upper": "2010-12-31",
+    "date:inception_lower": "1926-01-01",
+    "date:inception_upper": "1926-12-31",
+    "edtf:cessation": "2010",
+    "edtf:inception": "1926",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-93.163792,44.818415,-93.163792,44.818415",
+    "geom:latitude": 44.818415,
+    "geom:longitude": -93.163792,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 647,
+    "sfomuseum:brand": "Northwest Airlines",
+    "sfomuseum:count_objects_public": 99,
+    "sfomuseum:hashtags": [
+      "northwest"
     ],
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Northwest Airlines",
-    "sfomuseum:name":"Northwest Airlines",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q875749"
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Northwest Airlines",
+    "sfomuseum:name": "Northwest Airlines",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q875749"
     ],
-    "wd:country":"Q30",
-    "wd:headquarters":"Q936730",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q30",
+    "wd:headquarters": "Q936730",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85688727,
-        102191575,
-        404512099,
-        85633793,
-        85968491,
-        102087895
+    "wof:belongsto": [
+      85688727,
+      102191575,
+      404512099,
+      85633793,
+      85968491,
+      102087895
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"NW",
-        "iata:code":"NW",
-        "icao:code":"NWA",
-        "wd:id":"Q309174",
-        "wk:page":"Northwest Airlines",
-        "wk:pageid":146068
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "NW",
+      "iata:code": "NW",
+      "icao:code": "NWA",
+      "wd:id": "Q309174",
+      "wk:page": "Northwest Airlines",
+      "wk:pageid": 146068
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"17c68557ce0a00331db50df0a9d28401",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087895,
-            "enterprise_id":1159284907,
-            "localadmin_id":404512099,
-            "locality_id":85968491,
-            "region_id":85688727
-        }
+    "wof:country": "US",
+    "wof:created": 1619636571,
+    "wof:geomhash": "17c68557ce0a00331db50df0a9d28401",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159284907,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087895,
+        "enterprise_id": 1159284907,
+        "localadmin_id": 404512099,
+        "locality_id": 85968491,
+        "region_id": 85688727
+      }
     ],
-    "wof:id":1159284907,
-    "wof:lastmodified":1606847650,
-    "wof:name":"Northwest Airlines",
-    "wof:parent_id":85968491,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159284907,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Northwest Airlines",
+    "wof:parent_id": 85968491,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -93.163792,
     44.818415,
     -93.163792,
     44.818415
-],
+  ],
   "geometry": {"coordinates":[-93.163792,44.818415],"type":"Point"}
 }

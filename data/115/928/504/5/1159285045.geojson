@@ -52,16 +52,18 @@
     "wof:geomhash": "a9f468a1db05c83c54ec0dd4d0fc1200",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285045,
         "continent_id": 102191569,
         "country_id": 85632361,
         "enterprise_id": 1159285045
       }
     ],
     "wof:id": 1159285045,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Qeshm Air",
     "wof:parent_id": 85632361,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286653

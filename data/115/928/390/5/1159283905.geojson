@@ -52,16 +52,18 @@
     "wof:geomhash": "e9a2fe1ca6e65673f9afa185cab5b349",
     "wof:hierarchy": [
       {
+        "airline_id": 1159283905,
         "continent_id": 102191569,
         "country_id": 85632229,
         "enterprise_id": 1159283905
       }
     ],
     "wof:id": 1159283905,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Ariana Afghan Airlines",
     "wof:parent_id": 85632229,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288211

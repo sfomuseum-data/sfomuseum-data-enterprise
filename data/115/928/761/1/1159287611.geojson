@@ -2,83 +2,86 @@
   "id": 1159287611,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2001-01-01",
-    "date:cessation_upper":"2001-12-31",
-    "date:inception_lower":"1998-01-01",
-    "date:inception_upper":"1998-12-31",
-    "edtf:cessation":"2001",
-    "edtf:inception":"1998",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-93.61043,41.574349,-93.61043,41.574349",
-    "geom:latitude":41.574349,
-    "geom:longitude":-93.61043,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q1431204"
+    "date:cessation_lower": "2001-01-01",
+    "date:cessation_upper": "2001-12-31",
+    "date:inception_lower": "1998-01-01",
+    "date:inception_upper": "1998-12-31",
+    "edtf:cessation": "2001",
+    "edtf:inception": "1998",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-93.610430,41.574349,-93.610430,41.574349",
+    "geom:latitude": 41.574349,
+    "geom:longitude": -93.61043,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q1431204"
     ],
-    "wd:country":"Q30",
-    "wd:headquarters":"Q39709",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q30",
+    "wd:headquarters": "Q39709",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85688713,
-        102191575,
-        85633793,
-        85944061,
-        102086603
+    "wof:belongsto": [
+      85688713,
+      102191575,
+      85633793,
+      85944061,
+      102086603
     ],
-    "wof:brand_name":"Access Air",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"ZA",
-        "icao:code":"CYD",
-        "wd:id":"Q4672398",
-        "wk:page":"AccessAir",
-        "wk:pageid":8136146
+    "wof:brand_name": "Access Air",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "ZA",
+      "icao:code": "CYD",
+      "wd:id": "Q4672398",
+      "wk:page": "AccessAir",
+      "wk:pageid": 8136146
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"d0814cda7d313b81a5fa7697f9ff345a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086603,
-            "enterprise_id":1159287611,
-            "locality_id":85944061,
-            "region_id":85688713
-        }
+    "wof:country": "US",
+    "wof:created": 1619636573,
+    "wof:geomhash": "d0814cda7d313b81a5fa7697f9ff345a",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159287611,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086603,
+        "enterprise_id": 1159287611,
+        "locality_id": 85944061,
+        "region_id": 85688713
+      }
     ],
-    "wof:id":1159287611,
-    "wof:lastmodified":1557782953,
-    "wof:name":"Access Air",
-    "wof:parent_id":85944061,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287611,
+    "wof:lastmodified": 1619636679,
+    "wof:name": "Access Air",
+    "wof:parent_id": 85944061,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -93.61043,
     41.574349,
     -93.61043,
     41.574349
-],
-  "geometry": {"coordinates":[-93.61042999999999,41.574349],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-93.61043,41.574349],"type":"Point"}
 }

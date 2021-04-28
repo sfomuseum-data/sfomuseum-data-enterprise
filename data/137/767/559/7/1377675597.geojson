@@ -48,6 +48,7 @@
     "wof:geomhash": "803eeaeb5a229a67b6afc68aea870cb0",
     "wof:hierarchy": [
       {
+        "airline_id": 1377675597,
         "continent_id": 102191581,
         "country_id": 85632997,
         "county_id": 102049973,
@@ -58,10 +59,11 @@
       }
     ],
     "wof:id": 1377675597,
-    "wof:lastmodified": 1619636501,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Brussels Airlines",
     "wof:parent_id": 1108830477,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": [],

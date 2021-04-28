@@ -2,75 +2,78 @@
   "id": 1159294001,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1972-01-01",
-    "date:cessation_upper":"1972-12-31",
-    "date:inception_lower":"1943-01-01",
-    "date:inception_upper":"1943-12-31",
-    "edtf:cessation":"1972",
-    "edtf:inception":"1943",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-3.464618,40.09095,-3.464618,40.09095",
-    "geom:latitude":40.09095,
-    "geom:longitude":-3.464618,
-    "iso:country":"ES",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:aircraft_id":1328,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"whosonfirst",
-    "wd:country":"Q29",
-    "wd:instance_of":[
-        "Q4830453",
-        "Q6881511"
+    "date:cessation_lower": "1972-01-01",
+    "date:cessation_upper": "1972-12-31",
+    "date:inception_lower": "1943-01-01",
+    "date:inception_upper": "1943-12-31",
+    "edtf:cessation": "1972",
+    "edtf:inception": "1943",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.464618,40.090950,-3.464618,40.090950",
+    "geom:latitude": 40.09095,
+    "geom:longitude": -3.464618,
+    "iso:country": "ES",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:aircraft_id": 1328,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "whosonfirst",
+    "wd:country": "Q29",
+    "wd:instance_of": [
+      "Q4830453",
+      "Q6881511"
     ],
-    "wof:belongsto":[
-        102191581,
-        85633129
+    "wof:belongsto": [
+      102191581,
+      85633129
     ],
-    "wof:brand_name":"Hispano Aviaci\u00f3n",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q2340213",
-        "wk:page":"Hispano Aviaci\u00f3n",
-        "wk:pageid":5838996
+    "wof:brand_name": "Hispano Aviación",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q2340213",
+      "wk:page": "Hispano Aviación",
+      "wk:pageid": 5838996
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"ES",
-    "wof:geomhash":"92f8bed2128be1c9d197ed975c7975d3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633129,
-            "enterprise_id":1159294001
-        }
+    "wof:country": "ES",
+    "wof:created": 1619636573,
+    "wof:geomhash": "92f8bed2128be1c9d197ed975c7975d3",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159294001,
+        "continent_id": 102191581,
+        "country_id": 85633129,
+        "enterprise_id": 1159294001
+      }
     ],
-    "wof:id":1159294001,
-    "wof:lastmodified":1606835778,
-    "wof:name":"Hispano Aviaci\u00f3n",
-    "wof:parent_id":85633129,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "business",
-        "enterprise"
+    "wof:id": 1159294001,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "Hispano Aviación",
+    "wof:parent_id": 85633129,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "business",
+      "enterprise"
     ]
-},
+  },
   "bbox": [
     -3.464618,
     40.09095,
     -3.464618,
     40.09095
-],
+  ],
   "geometry": {"coordinates":[-3.464618,40.09095],"type":"Point"}
 }

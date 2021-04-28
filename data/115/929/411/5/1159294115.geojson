@@ -50,6 +50,7 @@
     "wof:geomhash": "a56d0efa8892118a8e63e0fd6d5e14d8",
     "wof:hierarchy": [
       {
+        "company_id": 1159294115,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102084203,
@@ -60,10 +61,11 @@
       }
     ],
     "wof:id": 1159294115,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Cessna",
     "wof:parent_id": 85945871,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

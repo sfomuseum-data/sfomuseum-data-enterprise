@@ -53,6 +53,7 @@
     "wof:geomhash": "2629244ea1d13816fb41370b91ce21f1",
     "wof:hierarchy": [
       {
+        "company_id": 1159288037,
         "continent_id": 102191581,
         "country_id": 85633159,
         "enterprise_id": 1159288037,
@@ -63,10 +64,11 @@
       }
     ],
     "wof:id": 1159288037,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "buzz",
     "wof:parent_id": 101854751,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

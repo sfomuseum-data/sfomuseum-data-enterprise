@@ -37,16 +37,18 @@
     "wof:geomhash": "d4cd12d082d9a37dac31a0ff0e3dde39",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284659,
         "continent_id": 102191577,
         "country_id": 85633057,
         "enterprise_id": 1159284659
       }
     ],
     "wof:id": 1159284659,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "LanChile Cargo",
     "wof:parent_id": 85633057,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287855

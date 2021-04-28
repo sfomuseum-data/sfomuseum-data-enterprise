@@ -51,16 +51,18 @@
     "wof:geomhash": "1c9999c57ca5016fd4508146ec6571bb",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284351,
         "continent_id": 102191569,
         "country_id": 85632403,
         "enterprise_id": 1159284351
       }
     ],
     "wof:id": 1159284351,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "EVA Air Cargo",
     "wof:parent_id": 85632403,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288125

@@ -55,6 +55,7 @@
     "wof:geomhash": "6de685e6ee84717dce16a6831dbfe6fd",
     "wof:hierarchy": [
       {
+        "company_id": 1159287537,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081553,
@@ -64,10 +65,11 @@
       }
     ],
     "wof:id": 1159287537,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Allegiant Air",
     "wof:parent_id": 85975017,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

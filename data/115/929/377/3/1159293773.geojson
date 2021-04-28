@@ -51,6 +51,7 @@
     "wof:geomhash": "52bfa7979048e1cbea529bcb8f637fce",
     "wof:hierarchy": [
       {
+        "company_id": 1159293773,
         "continent_id": 102191577,
         "country_id": 85632317,
         "county_id": 421171995,
@@ -60,10 +61,11 @@
       }
     ],
     "wof:id": 1159293773,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Albatros",
     "wof:parent_id": 421181395,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

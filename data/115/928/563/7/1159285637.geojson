@@ -40,6 +40,7 @@
     "wof:geomhash": "533f6147df24fbe6bb5af8d1db2cc7e9",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285637,
         "continent_id": 102191583,
         "country_id": 85632793,
         "empire_id": 136253039,
@@ -47,10 +48,11 @@
       }
     ],
     "wof:id": 1159285637,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Ansett NSW (New South Wales)",
     "wof:parent_id": 101931173,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287479

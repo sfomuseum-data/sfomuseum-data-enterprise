@@ -39,6 +39,7 @@
     "wof:geomhash": "10d34414145c39b916e4b68e7f4ed1f9",
     "wof:hierarchy": [
       {
+        "company_id": 1159288311,
         "continent_id": 102191581,
         "country_id": 85633121,
         "empire_id": 136253045,
@@ -46,10 +47,11 @@
       }
     ],
     "wof:id": 1159288311,
-    "wof:lastmodified": 1619636501,
+    "wof:lastmodified": 1619636679,
     "wof:name": "DanAir",
     "wof:parent_id": 85633121,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

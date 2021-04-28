@@ -36,16 +36,18 @@
     "wof:geomhash": "fb044c788e40ee238306a8b4fe5bb4bc",
     "wof:hierarchy": [
       {
+        "company_id": 1159287127,
         "continent_id": 102191573,
         "country_id": 85632581,
         "enterprise_id": 1159287127
       }
     ],
     "wof:id": 1159287127,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Services Aeriens Internationaux D'Egypte (S.A.I.D.E.)",
     "wof:parent_id": 85632581,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -49,6 +49,7 @@
     "wof:geomhash": "9f0897e8660235f73b7300a44b303141",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284281,
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063661,
@@ -59,10 +60,11 @@
       }
     ],
     "wof:id": 1159284281,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "DHL Airways",
     "wof:parent_id": 101748595,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287449

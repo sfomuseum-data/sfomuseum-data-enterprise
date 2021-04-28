@@ -54,6 +54,7 @@
     "wof:geomhash": "ceac206697d2b261ae50aacff1ceaf8f",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285085,
         "continent_id": 102191569,
         "country_id": 85632749,
         "enterprise_id": 1159285085,
@@ -62,10 +63,11 @@
       }
     ],
     "wof:id": 1159285085,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Royal Brunei Airlines",
     "wof:parent_id": 421188863,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287321

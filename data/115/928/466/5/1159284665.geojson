@@ -55,6 +55,7 @@
     "wof:geomhash": "7dc576f8939655001c8060bad7e630b7",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284665,
         "continent_id": 102191569,
         "country_id": 85632241,
         "county_id": 1092027747,
@@ -64,10 +65,11 @@
       }
     ],
     "wof:id": 1159284665,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Lao Airlines",
     "wof:parent_id": 421168913,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288753

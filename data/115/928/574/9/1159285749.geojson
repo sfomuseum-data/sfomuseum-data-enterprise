@@ -55,6 +55,7 @@
     "wof:geomhash": "90e493a0bfe72dd65a442a6ad3b32065",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285749,
         "continent_id": 102191577,
         "country_id": 85632519,
         "county_id": 1108700089,
@@ -64,10 +65,11 @@
       }
     ],
     "wof:id": 1159285749,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Avianca",
     "wof:parent_id": 421186687,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287217

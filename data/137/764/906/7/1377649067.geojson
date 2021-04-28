@@ -48,6 +48,7 @@
     "wof:geomhash": "a1374680d2bf31abd17103d8dca69ee8",
     "wof:hierarchy": [
       {
+        "airline_id": 1377649067,
         "campus_id": 102531131,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -58,10 +59,11 @@
       }
     ],
     "wof:id": 1377649067,
-    "wof:lastmodified": 1619636531,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Compass Airlines",
     "wof:parent_id": 102531131,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": [],

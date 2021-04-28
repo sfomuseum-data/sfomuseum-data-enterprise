@@ -49,16 +49,18 @@
     "wof:geomhash": "a702f735f08412e489f0191ccf4bdb98",
     "wof:hierarchy": [
       {
+        "company_id": 1159287781,
         "continent_id": 102191581,
         "country_id": 85633331,
         "enterprise_id": 1159287781
       }
     ],
     "wof:id": 1159287781,
-    "wof:lastmodified": 1619636531,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Air Malta",
     "wof:parent_id": 85633331,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

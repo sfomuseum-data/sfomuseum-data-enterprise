@@ -2,94 +2,97 @@
   "id": 1159283527,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1994-01-01",
-    "date:cessation_upper":"1994-12-31",
-    "date:inception_lower":"1932-01-01",
-    "date:inception_upper":"1932-12-31",
-    "edtf:cessation":"1994~",
-    "edtf:inception":"1932",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"37.615561,55.741469,37.615561,55.741469",
-    "geom:latitude":55.741469,
-    "geom:longitude":37.615561,
-    "iso:country":"RU",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":26,
-    "sfomuseum:count_objects_public":14,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Aeroflot Soviet Airlines  (Aeroflot Russian Airlines)",
-    "sfomuseum:name":"Aeroflot Soviet Airlines",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q192733",
-        "Q649"
+    "date:cessation_lower": "1994-01-01",
+    "date:cessation_upper": "1994-12-31",
+    "date:inception_lower": "1932-01-01",
+    "date:inception_upper": "1932-12-31",
+    "edtf:cessation": "1994~",
+    "edtf:inception": "1932",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "37.615561,55.741469,37.615561,55.741469",
+    "geom:latitude": 55.741469,
+    "geom:longitude": 37.615561,
+    "iso:country": "RU",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 26,
+    "sfomuseum:count_objects_public": 14,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Aeroflot Soviet Airlines  (Aeroflot Russian Airlines)",
+    "sfomuseum:name": "Aeroflot Soviet Airlines",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q192733",
+      "Q649"
     ],
-    "wd:country":"Q159",
-    "wd:headquarters":"Q649",
-    "wd:instance_of":[
-        "Q46970",
-        "Q270791"
+    "wd:country": "Q159",
+    "wd:headquarters": "Q649",
+    "wd:instance_of": [
+      "Q46970",
+      "Q270791"
     ],
-    "wof:belongsto":[
-        85688085,
-        102191581,
-        85632685,
-        102003033,
-        874393555,
-        1108736095
+    "wof:belongsto": [
+      85688085,
+      102191581,
+      85632685,
+      102003033,
+      874393555,
+      1108736095
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"SU",
-        "icao:code":"AFL",
-        "wd:id":"Q58707",
-        "wk:page":"Aeroflot",
-        "wk:pageid":89659
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "SU",
+      "icao:code": "AFL",
+      "wd:id": "Q58707",
+      "wk:page": "Aeroflot",
+      "wk:pageid": 89659
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"RU",
-    "wof:geomhash":"4778b341d66222d8a3fffbe5929a7523",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85632685,
-            "county_id":1108736095,
-            "empire_id":874393555,
-            "enterprise_id":1159283527,
-            "locality_id":102003033,
-            "region_id":85688085
-        }
+    "wof:country": "RU",
+    "wof:created": 1619636573,
+    "wof:geomhash": "4778b341d66222d8a3fffbe5929a7523",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159283527,
+        "continent_id": 102191581,
+        "country_id": 85632685,
+        "county_id": 1108736095,
+        "empire_id": 874393555,
+        "enterprise_id": 1159283527,
+        "locality_id": 102003033,
+        "region_id": 85688085
+      }
     ],
-    "wof:id":1159283527,
-    "wof:lastmodified":1606847637,
-    "wof:name":"Aeroflot Soviet Airlines",
-    "wof:parent_id":102003033,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288379
+    "wof:id": 1159283527,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "Aeroflot Soviet Airlines",
+    "wof:parent_id": 102003033,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288379
     ],
-    "wof:superseded_by":[
-        1159283525
+    "wof:superseded_by": [
+      1159283525
     ],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline",
-        "state-owned enterprise"
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline",
+      "state-owned enterprise"
     ]
-},
+  },
   "bbox": [
     37.615561,
     55.741469,
     37.615561,
     55.741469
-],
+  ],
   "geometry": {"coordinates":[37.615561,55.741469],"type":"Point"}
 }

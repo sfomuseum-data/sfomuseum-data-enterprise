@@ -2,90 +2,93 @@
   "id": 1159286097,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2005-01-01",
-    "date:cessation_upper":"2005-12-31",
-    "date:inception_lower":"1991-01-01",
-    "date:inception_upper":"1991-12-31",
-    "edtf:cessation":"2005",
-    "edtf:inception":"1991",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.92186,54.896296,23.92186,54.896296",
-    "geom:latitude":54.896296,
-    "geom:longitude":23.92186,
-    "iso:country":"LT",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":1206,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:country":"Lithuania",
-    "sfomuseum:hub":"Kaunas",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Air Lithuania",
-    "sfomuseum:name":"Air Lithuania",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q847695"
+    "date:cessation_lower": "2005-01-01",
+    "date:cessation_upper": "2005-12-31",
+    "date:inception_lower": "1991-01-01",
+    "date:inception_upper": "1991-12-31",
+    "edtf:cessation": "2005",
+    "edtf:inception": "1991",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "23.921860,54.896296,23.921860,54.896296",
+    "geom:latitude": 54.896296,
+    "geom:longitude": 23.92186,
+    "iso:country": "LT",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 1206,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:country": "Lithuania",
+    "sfomuseum:hub": "Kaunas",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Air Lithuania",
+    "sfomuseum:name": "Air Lithuania",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q847695"
     ],
-    "wd:country":"Q37",
-    "wd:headquarters":"Q4115712",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q37",
+    "wd:headquarters": "Q4115712",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85685773,
-        102191581,
-        85633269,
-        101752745,
-        102073611
+    "wof:belongsto": [
+      85685773,
+      102191581,
+      85633269,
+      101752745,
+      102073611
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"TT",
-        "iata:code":"TT",
-        "icao:code":"KLA",
-        "wd:id":"Q384550",
-        "wk:page":"Air Lithuania",
-        "wk:pageid":332510
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "TT",
+      "iata:code": "TT",
+      "icao:code": "KLA",
+      "wd:id": "Q384550",
+      "wk:page": "Air Lithuania",
+      "wk:pageid": 332510
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"LT",
-    "wof:geomhash":"6fa2a2e6822d5e14b95e1fac2edc1d14",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633269,
-            "county_id":102073611,
-            "enterprise_id":1159286097,
-            "locality_id":101752745,
-            "region_id":85685773
-        }
+    "wof:country": "LT",
+    "wof:created": 1619636572,
+    "wof:geomhash": "6fa2a2e6822d5e14b95e1fac2edc1d14",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159286097,
+        "continent_id": 102191581,
+        "country_id": 85633269,
+        "county_id": 102073611,
+        "enterprise_id": 1159286097,
+        "locality_id": 101752745,
+        "region_id": 85685773
+      }
     ],
-    "wof:id":1159286097,
-    "wof:lastmodified":1606847661,
-    "wof:name":"Air Lithuania",
-    "wof:parent_id":101752745,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159286899
+    "wof:id": 1159286097,
+    "wof:lastmodified": 1619636679,
+    "wof:name": "Air Lithuania",
+    "wof:parent_id": 101752745,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159286899
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     23.92186,
     54.896296,
     23.92186,
     54.896296
-],
+  ],
   "geometry": {"coordinates":[23.92186,54.896296],"type":"Point"}
 }

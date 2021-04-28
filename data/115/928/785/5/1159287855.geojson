@@ -52,16 +52,18 @@
     "wof:geomhash": "d4cd12d082d9a37dac31a0ff0e3dde39",
     "wof:hierarchy": [
       {
+        "company_id": 1159287855,
         "continent_id": 102191577,
         "country_id": 85633057,
         "enterprise_id": 1159287855
       }
     ],
     "wof:id": 1159287855,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "LAN Airlines",
     "wof:parent_id": 85633057,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

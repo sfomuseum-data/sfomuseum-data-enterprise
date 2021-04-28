@@ -50,6 +50,7 @@
     "wof:geomhash": "8b656b8b35b6a01adfbb7870785eefbd",
     "wof:hierarchy": [
       {
+        "company_id": 1159294287,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081353,
@@ -60,10 +61,11 @@
       }
     ],
     "wof:id": 1159294287,
-    "wof:lastmodified": 1619636476,
+    "wof:lastmodified": 1619636675,
     "wof:name": "Keystone",
     "wof:parent_id": 101718083,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

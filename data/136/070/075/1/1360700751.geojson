@@ -47,6 +47,7 @@
     "wof:geomhash": "4e47d88d97cea0fc90b9e37e0434098e",
     "wof:hierarchy": [
       {
+        "airline_id": 1360700751,
         "continent_id": 102191577,
         "country_id": 85632505,
         "enterprise_id": 1360700751,
@@ -55,10 +56,11 @@
       }
     ],
     "wof:id": 1360700751,
-    "wof:lastmodified": 1619636476,
+    "wof:lastmodified": 1619636675,
     "wof:name": "LATAM Argentina",
     "wof:parent_id": 421174285,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": [],

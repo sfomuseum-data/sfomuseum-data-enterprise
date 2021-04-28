@@ -2,76 +2,79 @@
   "id": 1159286019,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1924-01-01",
-    "date:cessation_upper":"1924-12-31",
-    "date:inception_lower":"1920-01-01",
-    "date:inception_upper":"1920-12-31",
-    "edtf:cessation":"1924",
-    "edtf:inception":"1920",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "iso:country":"XN",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "mz:is_nullisland":1,
-    "sfomuseum:airline_id":1170,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:country":"United Kingdom",
-    "sfomuseum:hub":"London",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Instone Air Line  (S. Instone & Company Limited)",
-    "sfomuseum:name":"Instone Air Line",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"nullisland",
-    "wd:instance_of":[
-        "Q46970"
+    "date:cessation_lower": "1924-01-01",
+    "date:cessation_upper": "1924-12-31",
+    "date:inception_lower": "1920-01-01",
+    "date:inception_upper": "1920-12-31",
+    "edtf:cessation": "1924",
+    "edtf:inception": "1920",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "iso:country": "XN",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "mz:is_nullisland": 1,
+    "sfomuseum:airline_id": 1170,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:country": "United Kingdom",
+    "sfomuseum:hub": "London",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Instone Air Line  (S. Instone \u0026 Company Limited)",
+    "sfomuseum:name": "Instone Air Line",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "nullisland",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        1159288087,
-        1
+    "wof:belongsto": [
+      1159288087,
+      1
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q1591013",
-        "wk:page":"Instone Air Line",
-        "wk:pageid":11698762
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q1591013",
+      "wk:page": "Instone Air Line",
+      "wk:pageid": 11698762
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"XN",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
-    "wof:hierarchy":[
-        {
-            "country_id":1,
-            "enterprise_id":1159288087
-        }
+    "wof:country": "XN",
+    "wof:created": 1619636572,
+    "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159286019,
+        "country_id": 1,
+        "enterprise_id": 1159288087
+      }
     ],
-    "wof:id":1159286019,
-    "wof:lastmodified":1606847660,
-    "wof:name":"Instone Air Line",
-    "wof:parent_id":1,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288087
+    "wof:id": 1159286019,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "Instone Air Line",
+    "wof:parent_id": 1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288087
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

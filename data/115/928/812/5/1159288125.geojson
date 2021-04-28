@@ -49,16 +49,18 @@
     "wof:geomhash": "1c9999c57ca5016fd4508146ec6571bb",
     "wof:hierarchy": [
       {
+        "company_id": 1159288125,
         "continent_id": 102191569,
         "country_id": 85632403,
         "enterprise_id": 1159288125
       }
     ],
     "wof:id": 1159288125,
-    "wof:lastmodified": 1619636501,
+    "wof:lastmodified": 1619636677,
     "wof:name": "EVA Air",
     "wof:parent_id": 85632403,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

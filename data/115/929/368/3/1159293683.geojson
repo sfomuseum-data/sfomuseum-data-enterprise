@@ -2,82 +2,85 @@
   "id": 1159293683,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1943-01-01",
-    "date:cessation_upper":"1943-12-31",
-    "date:inception_lower":"1929-01-01",
-    "date:inception_upper":"1929-12-31",
-    "edtf:cessation":"1943",
-    "edtf:inception":"1929",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-74.852746,40.102869,-74.852746,40.102869",
-    "geom:latitude":40.102869,
-    "geom:longitude":-74.852746,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:aircraft_id":1343,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q30",
-    "wd:headquarters":"Q1132588",
-    "wd:instance_of":[
-        "Q4830453"
+    "date:cessation_lower": "1943-01-01",
+    "date:cessation_upper": "1943-12-31",
+    "date:inception_lower": "1929-01-01",
+    "date:inception_upper": "1929-12-31",
+    "edtf:cessation": "1943",
+    "edtf:inception": "1929",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-74.852746,40.102869,-74.852746,40.102869",
+    "geom:latitude": 40.102869,
+    "geom:longitude": -74.852746,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:aircraft_id": 1343,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q30",
+    "wd:headquarters": "Q1132588",
+    "wd:instance_of": [
+      "Q4830453"
     ],
-    "wof:belongsto":[
-        85688481,
-        102191575,
-        404484799,
-        85633793,
-        101716861,
-        102080987
+    "wof:belongsto": [
+      85688481,
+      102191575,
+      404484799,
+      85633793,
+      101716861,
+      102080987
     ],
-    "wof:brand_name":"Kaiser-Fleetwings",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q5458474",
-        "wk:page":"Fleetwings",
-        "wk:pageid":16738956
+    "wof:brand_name": "Kaiser-Fleetwings",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q5458474",
+      "wk:page": "Fleetwings",
+      "wk:pageid": 16738956
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"cb2ad8ed9ef30511072f62405a473f73",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080987,
-            "enterprise_id":1159293683,
-            "localadmin_id":404484799,
-            "locality_id":101716861,
-            "region_id":85688481
-        }
+    "wof:country": "US",
+    "wof:created": 1619636571,
+    "wof:geomhash": "cb2ad8ed9ef30511072f62405a473f73",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159293683,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080987,
+        "enterprise_id": 1159293683,
+        "localadmin_id": 404484799,
+        "locality_id": 101716861,
+        "region_id": 85688481
+      }
     ],
-    "wof:id":1159293683,
-    "wof:lastmodified":1606835778,
-    "wof:name":"Kaiser-Fleetwings",
-    "wof:parent_id":101716861,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "business"
+    "wof:id": 1159293683,
+    "wof:lastmodified": 1619636677,
+    "wof:name": "Kaiser-Fleetwings",
+    "wof:parent_id": 101716861,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "business"
     ]
-},
+  },
   "bbox": [
     -74.852746,
     40.102869,
     -74.852746,
     40.102869
-],
+  ],
   "geometry": {"coordinates":[-74.852746,40.102869],"type":"Point"}
 }

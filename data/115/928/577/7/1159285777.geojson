@@ -60,6 +60,7 @@
     "wof:geomhash": "93fd7287e8a14e1b4e8ef8ae5e8a5d59",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285777,
         "campus_id": 102552069,
         "continent_id": 102191569,
         "country_id": 85632203,
@@ -70,10 +71,11 @@
       }
     ],
     "wof:id": 1159285777,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Garuda Indonesian Airways",
     "wof:parent_id": 102552069,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288251

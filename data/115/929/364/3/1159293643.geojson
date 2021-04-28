@@ -38,16 +38,18 @@
     "wof:geomhash": "db40a1f34da2d9464fdbffa6b9d2bb14",
     "wof:hierarchy": [
       {
+        "company_id": 1159293643,
         "continent_id": 102191581,
         "country_id": 85633723,
         "enterprise_id": 1159293643
       }
     ],
     "wof:id": 1159293643,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "DWL (Doświadczalne Warsztaty Lotnicze)",
     "wof:parent_id": 85633723,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

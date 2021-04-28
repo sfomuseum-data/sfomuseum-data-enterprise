@@ -2,74 +2,77 @@
   "id": 1159284209,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-01-01",
-    "date:cessation_upper":"2012-12-31",
-    "date:inception_lower":"1934-01-01",
-    "date:inception_upper":"1934-12-31",
-    "edtf:cessation":"2012",
-    "edtf:inception":"1934",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-95.386025,29.780691,-95.386025,29.780691",
-    "geom:latitude":29.780691,
-    "geom:longitude":-95.386025,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":332,
-    "sfomuseum:brand":"Continental Airlines",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Continental Airlines Cargo  (Continental Airlines)",
-    "sfomuseum:name":"Continental Airlines Cargo",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wof:belongsto":[
-        85688753,
-        102191575,
-        85633793,
-        101725629,
-        102081111
+    "date:cessation_lower": "2012-01-01",
+    "date:cessation_upper": "2012-12-31",
+    "date:inception_lower": "1934-01-01",
+    "date:inception_upper": "1934-12-31",
+    "edtf:cessation": "2012",
+    "edtf:inception": "1934",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-95.386025,29.780691,-95.386025,29.780691",
+    "geom:latitude": 29.780691,
+    "geom:longitude": -95.386025,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 332,
+    "sfomuseum:brand": "Continental Airlines",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Continental Airlines Cargo  (Continental Airlines)",
+    "sfomuseum:name": "Continental Airlines Cargo",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      85688753,
+      102191575,
+      85633793,
+      101725629,
+      102081111
     ],
-    "wof:breaches":[],
-    "wof:concordances":{},
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:concordances": {},
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"2cb108b664fe04f46a80aa78ca7d97fb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081111,
-            "enterprise_id":1159284209,
-            "locality_id":101725629,
-            "region_id":85688753
-        }
+    "wof:country": "US",
+    "wof:created": 1619636570,
+    "wof:geomhash": "2cb108b664fe04f46a80aa78ca7d97fb",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159284209,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081111,
+        "enterprise_id": 1159284209,
+        "locality_id": 101725629,
+        "region_id": 85688753
+      }
     ],
-    "wof:id":1159284209,
-    "wof:lastmodified":1606847643,
-    "wof:name":"Continental Airlines Cargo",
-    "wof:parent_id":101725629,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1360700741
+    "wof:id": 1159284209,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Continental Airlines Cargo",
+    "wof:parent_id": 101725629,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1360700741
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -95.386025,
     29.780691,
     -95.386025,
     29.780691
-],
+  ],
   "geometry": {"coordinates":[-95.386025,29.780691],"type":"Point"}
 }

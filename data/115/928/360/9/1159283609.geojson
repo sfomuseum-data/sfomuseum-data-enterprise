@@ -2,79 +2,82 @@
   "id": 1159283609,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1999-01-01",
-    "date:cessation_upper":"1999-12-31",
-    "date:inception_lower":"1997-01-01",
-    "date:inception_upper":"1997-12-31",
-    "edtf:cessation":"1999",
-    "edtf:inception":"1997",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.294701,19.251299,-72.294701,19.251299",
-    "geom:latitude":19.251299,
-    "geom:longitude":-72.294701,
-    "iso:country":"HT",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":62,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:country":"Haiti",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Air D'Ayiti",
-    "sfomuseum:name":"Air D'Ayiti",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q790",
-    "wd:instance_of":[
-        "Q46970"
+    "date:cessation_lower": "1999-01-01",
+    "date:cessation_upper": "1999-12-31",
+    "date:inception_lower": "1997-01-01",
+    "date:inception_upper": "1997-12-31",
+    "edtf:cessation": "1999",
+    "edtf:inception": "1997",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.294701,19.251299,-72.294701,19.251299",
+    "geom:latitude": 19.251299,
+    "geom:longitude": -72.294701,
+    "iso:country": "HT",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 62,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:country": "Haiti",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Air D'Ayiti",
+    "sfomuseum:name": "Air D'Ayiti",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q790",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191575,
-        85632433
+    "wof:belongsto": [
+      102191575,
+      85632433
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"H8",
-        "iata:code":"H8",
-        "icao:code":"HAD",
-        "wd:id":"Q4697839",
-        "wk:page":"Air d'Ayiti",
-        "wk:pageid":2354018
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "H8",
+      "iata:code": "H8",
+      "icao:code": "HAD",
+      "wd:id": "Q4697839",
+      "wk:page": "Air d'Ayiti",
+      "wk:pageid": 2354018
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"HT",
-    "wof:geomhash":"b9c1515bc2680825e0966f45e8256cee",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85632433,
-            "enterprise_id":1159283609
-        }
+    "wof:country": "HT",
+    "wof:created": 1619636574,
+    "wof:geomhash": "b9c1515bc2680825e0966f45e8256cee",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159283609,
+        "continent_id": 102191575,
+        "country_id": 85632433,
+        "enterprise_id": 1159283609
+      }
     ],
-    "wof:id":1159283609,
-    "wof:lastmodified":1606847638,
-    "wof:name":"Air D'Ayiti",
-    "wof:parent_id":85632433,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287353
+    "wof:id": 1159283609,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "Air D'Ayiti",
+    "wof:parent_id": 85632433,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287353
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -72.294701,
     19.251299,
     -72.294701,
     19.251299
-],
+  ],
   "geometry": {"coordinates":[-72.294701,19.251299],"type":"Point"}
 }

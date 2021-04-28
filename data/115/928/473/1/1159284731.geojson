@@ -61,6 +61,7 @@
     "wof:geomhash": "150220da0fdf864421cc942b9a726207",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284731,
         "campus_id": 102551935,
         "continent_id": 0,
         "country_id": 85632739,
@@ -72,10 +73,11 @@
       }
     ],
     "wof:id": 1159284731,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Malaysia Airlines",
     "wof:parent_id": 102551935,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288691

@@ -44,16 +44,18 @@
     "wof:geomhash": "e2a12cd02f201c5cf91a05fa6ba0f811",
     "wof:hierarchy": [
       {
+        "company_id": 1159288231,
         "continent_id": 102191573,
         "country_id": 85632751,
         "enterprise_id": 1159288231
       }
     ],
     "wof:id": 1159288231,
-    "wof:lastmodified": 1619636532,
+    "wof:lastmodified": 1619636679,
     "wof:name": "AZZA Air Transport",
     "wof:parent_id": 85632751,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

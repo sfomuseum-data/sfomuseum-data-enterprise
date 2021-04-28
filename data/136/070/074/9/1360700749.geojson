@@ -48,6 +48,7 @@
     "wof:geomhash": "b48f7b717c4ec7fa7a8a29178cb4bd18",
     "wof:hierarchy": [
       {
+        "airline_id": 1360700749,
         "continent_id": 102191575,
         "country_id": 85633293,
         "county_id": 102073737,
@@ -57,10 +58,11 @@
       }
     ],
     "wof:id": 1360700749,
-    "wof:lastmodified": 1619636476,
+    "wof:lastmodified": 1619636675,
     "wof:name": "Volaris",
     "wof:parent_id": 857683023,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": [],

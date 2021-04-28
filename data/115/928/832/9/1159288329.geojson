@@ -53,6 +53,7 @@
     "wof:geomhash": "2599ff121812cc6344d84bb6f2b8efc5",
     "wof:hierarchy": [
       {
+        "company_id": 1159288329,
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063209,
@@ -63,10 +64,11 @@
       }
     ],
     "wof:id": 1159288329,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Deutsche Zeppelin-Reederei",
     "wof:parent_id": 101748469,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

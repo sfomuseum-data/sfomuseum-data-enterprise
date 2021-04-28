@@ -2,70 +2,73 @@
   "id": 1159294241,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1920-01-01",
-    "date:cessation_upper":"1920-12-31",
-    "date:inception_lower":"1916-01-01",
-    "date:inception_upper":"1916-12-31",
-    "edtf:cessation":"1920",
-    "edtf:inception":"1916",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"9.62743,51.196755,9.62743,51.196755",
-    "geom:latitude":51.196755,
-    "geom:longitude":9.62743,
-    "iso:country":"DE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:instance_of":[
-        "Q4830453"
+    "date:cessation_lower": "1920-01-01",
+    "date:cessation_upper": "1920-12-31",
+    "date:inception_lower": "1916-01-01",
+    "date:inception_upper": "1916-12-31",
+    "edtf:cessation": "1920",
+    "edtf:inception": "1916",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "9.627430,51.196755,9.627430,51.196755",
+    "geom:latitude": 51.196755,
+    "geom:longitude": 9.62743,
+    "iso:country": "DE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:instance_of": [
+      "Q4830453"
     ],
-    "wof:belongsto":[
-        102191581,
-        85633111
+    "wof:belongsto": [
+      102191581,
+      85633111
     ],
-    "wof:brand_name":"Zeppelin-Staaken",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q4024210",
-        "wk:page":"Zeppelin-Staaken",
-        "wk:pageid":19063900
+    "wof:brand_name": "Zeppelin-Staaken",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q4024210",
+      "wk:page": "Zeppelin-Staaken",
+      "wk:pageid": 19063900
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"DE",
-    "wof:geomhash":"2405f23b99b9767895cd5c5991257042",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "enterprise_id":1159294241
-        }
+    "wof:country": "DE",
+    "wof:created": 1619636574,
+    "wof:geomhash": "2405f23b99b9767895cd5c5991257042",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159294241,
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "enterprise_id": 1159294241
+      }
     ],
-    "wof:id":1159294241,
-    "wof:lastmodified":1557782648,
-    "wof:name":"Zeppelin-Staaken",
-    "wof:parent_id":85633111,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "business"
+    "wof:id": 1159294241,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "Zeppelin-Staaken",
+    "wof:parent_id": 85633111,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "business"
     ]
-},
+  },
   "bbox": [
     9.62743,
     51.196755,
     9.62743,
     51.196755
-],
+  ],
   "geometry": {"coordinates":[9.62743,51.196755],"type":"Point"}
 }

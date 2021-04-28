@@ -37,16 +37,18 @@
     "wof:geomhash": "ad67e120561a29135bcec4a0731020c5",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284981,
         "continent_id": 102191569,
         "country_id": 85632659,
         "enterprise_id": 1159284981
       }
     ],
     "wof:id": 1159284981,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Pakistan International Cargo",
     "wof:parent_id": 85632659,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288213

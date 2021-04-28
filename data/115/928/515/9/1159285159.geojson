@@ -54,6 +54,7 @@
     "wof:geomhash": "a9ebac88ae216b1fe0a020925398d25a",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285159,
         "continent_id": 102191569,
         "country_id": 85632605,
         "enterprise_id": 1159285159,
@@ -62,10 +63,11 @@
       }
     ],
     "wof:id": 1159285159,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "SilkAir",
     "wof:parent_id": 102032341,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288053

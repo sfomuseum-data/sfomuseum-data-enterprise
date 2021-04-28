@@ -45,16 +45,18 @@
     "wof:geomhash": "130652f441c60b1f2e21e56f6b2fb965",
     "wof:hierarchy": [
       {
+        "company_id": 1159287017,
         "continent_id": 102191577,
         "country_id": 85632623,
         "enterprise_id": 1159287017
       }
     ],
     "wof:id": 1159287017,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Lloyd Aereo Boliviano (LAB)",
     "wof:parent_id": 85632623,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

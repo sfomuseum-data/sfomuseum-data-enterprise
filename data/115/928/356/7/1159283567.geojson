@@ -2,81 +2,84 @@
   "id": 1159283567,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2002-01-01",
-    "date:cessation_upper":"2002-12-31",
-    "date:inception_lower":"1961-01-01",
-    "date:inception_upper":"1961-12-31",
-    "edtf:cessation":"2002",
-    "edtf:inception":"1961",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-5.495164,7.568978,-5.495164,7.568978",
-    "geom:latitude":7.568978,
-    "geom:longitude":-5.495164,
-    "iso:country":"CI",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":43,
-    "sfomuseum:count_objects_public":4,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Air Afrique",
-    "sfomuseum:name":"Air Afrique",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q1165280"
+    "date:cessation_lower": "2002-01-01",
+    "date:cessation_upper": "2002-12-31",
+    "date:inception_lower": "1961-01-01",
+    "date:inception_upper": "1961-12-31",
+    "edtf:cessation": "2002",
+    "edtf:inception": "1961",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-5.495164,7.568978,-5.495164,7.568978",
+    "geom:latitude": 7.568978,
+    "geom:longitude": -5.495164,
+    "iso:country": "CI",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 43,
+    "sfomuseum:count_objects_public": 4,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Air Afrique",
+    "sfomuseum:name": "Air Afrique",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q1165280"
     ],
-    "wd:country":"Q1008",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q1008",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191573,
-        85632449
+    "wof:belongsto": [
+      102191573,
+      85632449
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"RK",
-        "iata:code":"RK",
-        "icao:code":"RKA",
-        "wd:id":"Q406741",
-        "wk:page":"Air Afrique",
-        "wk:pageid":2108164
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "RK",
+      "iata:code": "RK",
+      "icao:code": "RKA",
+      "wd:id": "Q406741",
+      "wk:page": "Air Afrique",
+      "wk:pageid": 2108164
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"CI",
-    "wof:geomhash":"cd858e3dfb07058ec0154073464bf290",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191573,
-            "country_id":85632449,
-            "enterprise_id":1159283567
-        }
+    "wof:country": "CI",
+    "wof:created": 1619636573,
+    "wof:geomhash": "cd858e3dfb07058ec0154073464bf290",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159283567,
+        "continent_id": 102191573,
+        "country_id": 85632449,
+        "enterprise_id": 1159283567
+      }
     ],
-    "wof:id":1159283567,
-    "wof:lastmodified":1606847637,
-    "wof:name":"Air Afrique",
-    "wof:parent_id":85632449,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288655
+    "wof:id": 1159283567,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "Air Afrique",
+    "wof:parent_id": 85632449,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288655
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -5.495164,
     7.568978,
     -5.495164,
     7.568978
-],
+  ],
   "geometry": {"coordinates":[-5.495164,7.568978],"type":"Point"}
 }

@@ -35,16 +35,18 @@
     "wof:geomhash": "f6a144894c66e07c0aa1c1e76cf5d11c",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284247,
         "continent_id": 102191573,
         "country_id": 85632379,
         "enterprise_id": 1159284247
       }
     ],
     "wof:id": 1159284247,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Damal Airlines",
     "wof:parent_id": 85632379,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286887

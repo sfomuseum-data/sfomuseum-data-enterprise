@@ -2,79 +2,82 @@
   "id": 1159288385,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2004-01-01",
-    "date:cessation_upper":"2004-12-31",
-    "date:inception_lower":"1994-01-01",
-    "date:inception_upper":"1994-12-31",
-    "edtf:cessation":"2004",
-    "edtf:inception":"1994",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-85.039545,12.793313,-85.039545,12.793313",
-    "geom:latitude":12.793313,
-    "geom:longitude":-85.039545,
-    "iso:country":"NI",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "name:unk_x_preferred":[
-        "Nicarag\u00fcense de Aviaci\u00f3n"
+    "date:cessation_lower": "2004-01-01",
+    "date:cessation_upper": "2004-12-31",
+    "date:inception_lower": "1994-01-01",
+    "date:inception_upper": "1994-12-31",
+    "edtf:cessation": "2004",
+    "edtf:inception": "1994",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-85.039545,12.793313,-85.039545,12.793313",
+    "geom:latitude": 12.793313,
+    "geom:longitude": -85.039545,
+    "iso:country": "NI",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "name:unk_x_preferred": [
+      "Nicaragüense de Aviación"
     ],
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q530773"
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q530773"
     ],
-    "wd:country":"Q811",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q811",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191575,
-        85632599
+    "wof:belongsto": [
+      102191575,
+      85632599
     ],
-    "wof:brand_name":"Nicaraguense de Aviacion",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"6Y",
-        "icao:code":"NIS",
-        "wd:id":"Q4210887",
-        "wk:page":"Nicarag\u00fcense de Aviaci\u00f3n",
-        "wk:pageid":1453719
+    "wof:brand_name": "Nicaraguense de Aviacion",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "6Y",
+      "icao:code": "NIS",
+      "wd:id": "Q4210887",
+      "wk:page": "Nicaragüense de Aviación",
+      "wk:pageid": 1453719
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"NI",
-    "wof:geomhash":"8e6508916076c088256e13b59464485a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85632599,
-            "enterprise_id":1159288385
-        }
+    "wof:country": "NI",
+    "wof:created": 1619636573,
+    "wof:geomhash": "8e6508916076c088256e13b59464485a",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159288385,
+        "continent_id": 102191575,
+        "country_id": 85632599,
+        "enterprise_id": 1159288385
+      }
     ],
-    "wof:id":1159288385,
-    "wof:lastmodified":1557783015,
-    "wof:name":"Nicaraguense de Aviacion",
-    "wof:parent_id":85632599,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159288385,
+    "wof:lastmodified": 1619636677,
+    "wof:name": "Nicaraguense de Aviacion",
+    "wof:parent_id": 85632599,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -85.039545,
     12.793313,
     -85.039545,
     12.793313
-],
+  ],
   "geometry": {"coordinates":[-85.039545,12.793313],"type":"Point"}
 }

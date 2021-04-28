@@ -54,6 +54,7 @@
     "wof:hierarchy": [
       {
         "campus_id": 102547639,
+        "company_id": 1159288115,
         "continent_id": 102191581,
         "country_id": 85633241,
         "enterprise_id": 1159288115,
@@ -63,10 +64,11 @@
       }
     ],
     "wof:id": 1159288115,
-    "wof:lastmodified": 1619636501,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Ryanair",
     "wof:parent_id": 102547639,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

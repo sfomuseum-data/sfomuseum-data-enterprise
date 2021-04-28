@@ -54,6 +54,7 @@
     "wof:geomhash": "6468e1e8d1f1a1b3bdba7d6cd4cb0591",
     "wof:hierarchy": [
       {
+        "company_id": 1159286777,
         "continent_id": 102191569,
         "country_id": 85632763,
         "county_id": 1108780791,
@@ -62,10 +63,11 @@
       }
     ],
     "wof:id": 1159286777,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Vietnam Airlines",
     "wof:parent_id": 1108780791,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

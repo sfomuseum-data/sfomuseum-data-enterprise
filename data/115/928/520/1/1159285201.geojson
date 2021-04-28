@@ -2,88 +2,91 @@
   "id": 1159285201,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-01-01",
-    "date:cessation_upper":"2012-12-31",
-    "date:inception_lower":"1986-01-01",
-    "date:inception_upper":"1986-12-31",
-    "edtf:cessation":"2012",
-    "edtf:inception":"1986",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"2.153048,41.403583,2.153048,41.403583",
-    "geom:latitude":41.403583,
-    "geom:longitude":2.153048,
-    "iso:country":"ES",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":781,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Spanair",
-    "sfomuseum:name":"Spanair",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"mz",
-    "wd:airline_hub":[
-        "Q56973"
+    "date:cessation_lower": "2012-01-01",
+    "date:cessation_upper": "2012-12-31",
+    "date:inception_lower": "1986-01-01",
+    "date:inception_upper": "1986-12-31",
+    "edtf:cessation": "2012",
+    "edtf:inception": "1986",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "2.153048,41.403583,2.153048,41.403583",
+    "geom:latitude": 41.403583,
+    "geom:longitude": 2.153048,
+    "iso:country": "ES",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 781,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Spanair",
+    "sfomuseum:name": "Spanair",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "mz",
+    "wd:airline_hub": [
+      "Q56973"
     ],
-    "wd:country":"Q29",
-    "wd:headquarters":"Q1492",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q29",
+    "wd:headquarters": "Q1492",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85682663,
-        102191581,
-        85633129,
-        404227379,
-        101748323
+    "wof:belongsto": [
+      85682663,
+      102191581,
+      85633129,
+      404227379,
+      101748323
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"JK",
-        "iata:code":"JK",
-        "icao:code":"JKK",
-        "wd:id":"Q204122",
-        "wk:page":"Spanair",
-        "wk:pageid":457431
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "JK",
+      "iata:code": "JK",
+      "icao:code": "JKK",
+      "wd:id": "Q204122",
+      "wk:page": "Spanair",
+      "wk:pageid": 457431
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"ES",
-    "wof:geomhash":"2e48c1c5819d6ffcabe42acfcea1f07b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633129,
-            "enterprise_id":1159285201,
-            "locality_id":101748323,
-            "macroregion_id":404227379,
-            "region_id":85682663
-        }
+    "wof:country": "ES",
+    "wof:created": 1619636574,
+    "wof:geomhash": "2e48c1c5819d6ffcabe42acfcea1f07b",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159285201,
+        "continent_id": 102191581,
+        "country_id": 85633129,
+        "enterprise_id": 1159285201,
+        "locality_id": 101748323,
+        "macroregion_id": 404227379,
+        "region_id": 85682663
+      }
     ],
-    "wof:id":1159285201,
-    "wof:lastmodified":1606847652,
-    "wof:name":"Spanair",
-    "wof:parent_id":101748323,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287119
+    "wof:id": 1159285201,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "Spanair",
+    "wof:parent_id": 101748323,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287119
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     2.153048,
     41.403583,
     2.153048,
     41.403583
-],
+  ],
   "geometry": {"coordinates":[2.153048,41.403583],"type":"Point"}
 }

@@ -2,77 +2,80 @@
   "id": 1159283771,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1975-01-01",
-    "date:cessation_upper":"1975-12-31",
-    "date:inception_lower":"1951-01-01",
-    "date:inception_upper":"1951-12-31",
-    "edtf:cessation":"1975",
-    "edtf:inception":"1951",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.396672,21.732568,105.396672,21.732568",
-    "geom:latitude":21.732568,
-    "geom:longitude":105.396672,
-    "iso:country":"VN",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":134,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Air Vietnam",
-    "sfomuseum:name":"Air Vietnam",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q881",
-    "wd:instance_of":[
-        "Q46970"
+    "date:cessation_lower": "1975-01-01",
+    "date:cessation_upper": "1975-12-31",
+    "date:inception_lower": "1951-01-01",
+    "date:inception_upper": "1951-12-31",
+    "edtf:cessation": "1975",
+    "edtf:inception": "1951",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "105.396672,21.732568,105.396672,21.732568",
+    "geom:latitude": 21.732568,
+    "geom:longitude": 105.396672,
+    "iso:country": "VN",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 134,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Air Vietnam",
+    "sfomuseum:name": "Air Vietnam",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q881",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191569,
-        85632763
+    "wof:belongsto": [
+      102191569,
+      85632763
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"VN",
-        "iata:code":"VN",
-        "wd:id":"Q2828240",
-        "wk:page":"Air Vietnam",
-        "wk:pageid":2600878
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "VN",
+      "iata:code": "VN",
+      "wd:id": "Q2828240",
+      "wk:page": "Air Vietnam",
+      "wk:pageid": 2600878
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"VN",
-    "wof:geomhash":"8ca8106f8983e11fc8a1ca67bfae9f6b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632763,
-            "enterprise_id":1159283771
-        }
+    "wof:country": "VN",
+    "wof:created": 1619636574,
+    "wof:geomhash": "8ca8106f8983e11fc8a1ca67bfae9f6b",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159283771,
+        "continent_id": 102191569,
+        "country_id": 85632763,
+        "enterprise_id": 1159283771
+      }
     ],
-    "wof:id":1159283771,
-    "wof:lastmodified":1606847639,
-    "wof:name":"Air Vietnam",
-    "wof:parent_id":85632763,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287421
+    "wof:id": 1159283771,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "Air Vietnam",
+    "wof:parent_id": 85632763,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287421
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     105.396672,
     21.732568,
     105.396672,
     21.732568
-],
+  ],
   "geometry": {"coordinates":[105.396672,21.732568],"type":"Point"}
 }

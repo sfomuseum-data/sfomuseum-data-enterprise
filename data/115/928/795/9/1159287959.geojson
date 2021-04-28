@@ -54,6 +54,7 @@
     "wof:geomhash": "40f75342ed729315dc5e7ff885e94adf",
     "wof:hierarchy": [
       {
+        "company_id": 1159287959,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081851,
@@ -64,10 +65,11 @@
       }
     ],
     "wof:id": 1159287959,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Air Wisconsin",
     "wof:parent_id": 101732417,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

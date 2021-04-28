@@ -33,15 +33,17 @@
     "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy": [
       {
+        "company_id": 1159287707,
         "country_id": 1,
         "enterprise_id": 1159287707
       }
     ],
     "wof:id": 1159287707,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Sky Coach Limited",
     "wof:parent_id": 1,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

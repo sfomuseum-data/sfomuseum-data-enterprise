@@ -55,6 +55,7 @@
     "wof:geomhash": "14cfeca2b619770e810b7f52eca9f1c7",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285179,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102082879,
@@ -64,10 +65,11 @@
       }
     ],
     "wof:id": 1159285179,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "SkyWest Airlines",
     "wof:parent_id": 101727617,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288685

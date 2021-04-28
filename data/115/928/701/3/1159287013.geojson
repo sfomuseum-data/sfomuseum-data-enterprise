@@ -36,16 +36,18 @@
     "wof:geomhash": "6245812ccc3c789eea398b9af7038580",
     "wof:hierarchy": [
       {
+        "company_id": 1159287013,
         "continent_id": 102191581,
         "country_id": 85633745,
         "enterprise_id": 1159287013
       }
     ],
     "wof:id": 1159287013,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Lignes Aeriennes Roumaines",
     "wof:parent_id": 85633745,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

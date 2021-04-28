@@ -53,6 +53,7 @@
     "wof:hierarchy": [
       {
         "campus_id": 102527921,
+        "company_id": 1159294133,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085837,
@@ -63,6 +64,7 @@
       },
       {
         "campus_id": 102527921,
+        "company_id": 1159294133,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085837,
@@ -73,10 +75,11 @@
       }
     ],
     "wof:id": 1159294133,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Piper",
     "wof:parent_id": 102527921,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

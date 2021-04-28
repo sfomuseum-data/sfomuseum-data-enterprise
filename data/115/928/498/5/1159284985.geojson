@@ -2,89 +2,92 @@
   "id": 1159284985,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-01-01",
-    "date:cessation_upper":"2018-12-31",
-    "date:inception_lower":"1987-01-01",
-    "date:inception_upper":"1987-12-31",
-    "edtf:cessation":"2018",
-    "edtf:inception":"1987",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-3.678212,40.435,-3.678212,40.435",
-    "geom:latitude":40.435,
-    "geom:longitude":-3.678212,
-    "iso:country":"ES",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":683,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:country":"Spain",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"PAN Air",
-    "sfomuseum:name":"PAN Air",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"mz",
-    "wd:airline_hub":[
-        "Q166276"
+    "date:cessation_lower": "2018-01-01",
+    "date:cessation_upper": "2018-12-31",
+    "date:inception_lower": "1987-01-01",
+    "date:inception_upper": "1987-12-31",
+    "edtf:cessation": "2018",
+    "edtf:inception": "1987",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.678212,40.435000,-3.678212,40.435000",
+    "geom:latitude": 40.435,
+    "geom:longitude": -3.678212,
+    "iso:country": "ES",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 683,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:country": "Spain",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "PAN Air",
+    "sfomuseum:name": "PAN Air",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "mz",
+    "wd:airline_hub": [
+      "Q166276"
     ],
-    "wd:country":"Q29",
-    "wd:headquarters":"Q2807",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q29",
+    "wd:headquarters": "Q2807",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85682783,
-        102191581,
-        85633129,
-        404227387,
-        101748283
+    "wof:belongsto": [
+      85682783,
+      102191581,
+      85633129,
+      404227387,
+      101748283
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"PV",
-        "iata:code":"PV",
-        "icao:code":"PNR",
-        "wd:id":"Q2514756",
-        "wk:page":"ASL Airlines Spain",
-        "wk:pageid":1867101
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "PV",
+      "iata:code": "PV",
+      "icao:code": "PNR",
+      "wd:id": "Q2514756",
+      "wk:page": "ASL Airlines Spain",
+      "wk:pageid": 1867101
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"ES",
-    "wof:geomhash":"ac540c67d918a21a98c1725fc58524e0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633129,
-            "enterprise_id":1159284985,
-            "locality_id":101748283,
-            "macroregion_id":404227387,
-            "region_id":85682783
-        }
+    "wof:country": "ES",
+    "wof:created": 1619636571,
+    "wof:geomhash": "ac540c67d918a21a98c1725fc58524e0",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159284985,
+        "continent_id": 102191581,
+        "country_id": 85633129,
+        "enterprise_id": 1159284985,
+        "locality_id": 101748283,
+        "macroregion_id": 404227387,
+        "region_id": 85682783
+      }
     ],
-    "wof:id":1159284985,
-    "wof:lastmodified":1606847650,
-    "wof:name":"PAN Air",
-    "wof:parent_id":101748283,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288773
+    "wof:id": 1159284985,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "PAN Air",
+    "wof:parent_id": 101748283,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288773
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -3.678212,
     40.435,
     -3.678212,
     40.435
-],
+  ],
   "geometry": {"coordinates":[-3.678212,40.435],"type":"Point"}
 }

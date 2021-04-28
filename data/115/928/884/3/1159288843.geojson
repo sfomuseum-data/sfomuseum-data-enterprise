@@ -48,16 +48,18 @@
     "wof:geomhash": "b9660e7a8b65052ab5234ec5b44bc9e8",
     "wof:hierarchy": [
       {
+        "company_id": 1159288843,
         "continent_id": 102191569,
         "country_id": 85632313,
         "enterprise_id": 1159288843
       }
     ],
     "wof:id": 1159288843,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636678,
     "wof:name": "SriLankan Airlines",
     "wof:parent_id": 85632313,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

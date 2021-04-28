@@ -45,16 +45,18 @@
     "wof:geomhash": "a9f468a1db05c83c54ec0dd4d0fc1200",
     "wof:hierarchy": [
       {
+        "company_id": 1159286609,
         "continent_id": 102191569,
         "country_id": 85632361,
         "enterprise_id": 1159286609
       }
     ],
     "wof:id": 1159286609,
-    "wof:lastmodified": 1619636501,
+    "wof:lastmodified": 1619636677,
     "wof:name": "PayAm Air",
     "wof:parent_id": 85632361,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

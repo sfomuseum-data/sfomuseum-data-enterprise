@@ -56,6 +56,7 @@
     "wof:geomhash": "b08906a17c7191f09685ae752f88cf9f",
     "wof:hierarchy": [
       {
+        "company_id": 1159288215,
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063715,
@@ -66,10 +67,11 @@
       }
     ],
     "wof:id": 1159288215,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Lufthansa German Airlines",
     "wof:parent_id": 101752771,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

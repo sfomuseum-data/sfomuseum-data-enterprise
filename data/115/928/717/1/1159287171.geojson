@@ -2,79 +2,82 @@
   "id": 1159287171,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-01-01",
-    "date:cessation_upper":"2012-12-31",
-    "date:inception_lower":"2001-01-01",
-    "date:inception_upper":"2001-12-31",
-    "edtf:cessation":"2012",
-    "edtf:inception":"2001",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
-    "geom:latitude":39.715956,
-    "geom:longitude":-96.999668,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q512128"
+    "date:cessation_lower": "2012-01-01",
+    "date:cessation_upper": "2012-12-31",
+    "date:inception_lower": "2001-01-01",
+    "date:inception_upper": "2001-12-31",
+    "edtf:cessation": "2012",
+    "edtf:inception": "2001",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude": 39.715956,
+    "geom:longitude": -96.999668,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q512128"
     ],
-    "wd:country":"Q30",
-    "wd:headquarters":"Q20695",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q30",
+    "wd:headquarters": "Q20695",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191575,
-        85633793,
-        136253057
+    "wof:belongsto": [
+      102191575,
+      85633793,
+      136253057
     ],
-    "wof:brand_name":"USA 3000",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"U5",
-        "icao:code":"GWY",
-        "wd:id":"Q2000608",
-        "wk:page":"USA3000 Airlines",
-        "wk:pageid":669739
+    "wof:brand_name": "USA 3000",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "U5",
+      "icao:code": "GWY",
+      "wd:id": "Q2000608",
+      "wk:page": "USA3000 Airlines",
+      "wk:pageid": 669739
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "enterprise_id":1159287171
-        }
+    "wof:country": "US",
+    "wof:created": 1619636575,
+    "wof:geomhash": "bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159287171,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "empire_id": 136253057,
+        "enterprise_id": 1159287171
+      }
     ],
-    "wof:id":1159287171,
-    "wof:lastmodified":1557783077,
-    "wof:name":"USA 3000",
-    "wof:parent_id":85633793,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287171,
+    "wof:lastmodified": 1619636679,
+    "wof:name": "USA 3000",
+    "wof:parent_id": 85633793,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -96.999668,
     39.715956,
     -96.999668,
     39.715956
-],
+  ],
   "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
 }

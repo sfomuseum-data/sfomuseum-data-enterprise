@@ -2,86 +2,89 @@
   "id": 1159283509,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1935-01-01",
-    "date:cessation_upper":"1935-12-31",
-    "date:inception_lower":"1923-01-01",
-    "date:inception_upper":"1923-12-31",
-    "edtf:cessation":"1935",
-    "edtf:inception":"1923",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"12.52809,41.878243,12.52809,41.878243",
-    "geom:latitude":41.878243,
-    "geom:longitude":12.52809,
-    "iso:country":"IT",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":18,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Aero Espresso Italiana",
-    "sfomuseum:name":"Aero Espresso Italiana",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q172579",
-    "wd:headquarters":"Q220",
-    "wd:instance_of":[
-        "Q4830453",
-        "Q6881511"
+    "date:cessation_lower": "1935-01-01",
+    "date:cessation_upper": "1935-12-31",
+    "date:inception_lower": "1923-01-01",
+    "date:inception_upper": "1923-12-31",
+    "edtf:cessation": "1935",
+    "edtf:inception": "1923",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "12.528090,41.878243,12.528090,41.878243",
+    "geom:latitude": 41.878243,
+    "geom:longitude": 12.52809,
+    "iso:country": "IT",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 18,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Aero Espresso Italiana",
+    "sfomuseum:name": "Aero Espresso Italiana",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q172579",
+    "wd:headquarters": "Q220",
+    "wd:instance_of": [
+      "Q4830453",
+      "Q6881511"
     ],
-    "wof:belongsto":[
-        85685461,
-        102191581,
-        404461721,
-        85633253,
-        404227517,
-        101752607
+    "wof:belongsto": [
+      85685461,
+      102191581,
+      404461721,
+      85633253,
+      404227517,
+      101752607
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q16524665",
-        "wk:page":"Aero Espresso Italiana",
-        "wk:pageid":52734954
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q16524665",
+      "wk:page": "Aero Espresso Italiana",
+      "wk:pageid": 52734954
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"IT",
-    "wof:geomhash":"c6d28eefba76e07d888676a25601fbc8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633253,
-            "enterprise_id":1159283509,
-            "localadmin_id":404461721,
-            "locality_id":101752607,
-            "macroregion_id":404227517,
-            "region_id":85685461
-        }
+    "wof:country": "IT",
+    "wof:created": 1619636573,
+    "wof:geomhash": "c6d28eefba76e07d888676a25601fbc8",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159283509,
+        "continent_id": 102191581,
+        "country_id": 85633253,
+        "enterprise_id": 1159283509,
+        "localadmin_id": 404461721,
+        "locality_id": 101752607,
+        "macroregion_id": 404227517,
+        "region_id": 85685461
+      }
     ],
-    "wof:id":1159283509,
-    "wof:lastmodified":1606847637,
-    "wof:name":"Aero Espresso Italiana",
-    "wof:parent_id":101752607,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287905
+    "wof:id": 1159283509,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "Aero Espresso Italiana",
+    "wof:parent_id": 101752607,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287905
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "business",
-        "enterprise"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "business",
+      "enterprise"
     ]
-},
+  },
   "bbox": [
     12.52809,
     41.878243,
     12.52809,
     41.878243
-],
+  ],
   "geometry": {"coordinates":[12.52809,41.878243],"type":"Point"}
 }

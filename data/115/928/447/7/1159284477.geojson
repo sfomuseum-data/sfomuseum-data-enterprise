@@ -2,85 +2,88 @@
   "id": 1159284477,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1997-01-01",
-    "date:cessation_upper":"1997-12-31",
-    "date:inception_lower":"1988-01-01",
-    "date:inception_upper":"1988-12-31",
-    "edtf:cessation":"1997",
-    "edtf:inception":"1988",
-    "flysfo:airline_code":"HX",
-    "flysfo:is_sfo":1,
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"9.62743,51.196755,9.62743,51.196755",
-    "geom:latitude":51.196755,
-    "geom:longitude":9.62743,
-    "iso:country":"DE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":451,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Hamburg Airlines",
-    "sfomuseum:name":"Hamburg Airlines",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q27706"
+    "date:cessation_lower": "1997-01-01",
+    "date:cessation_upper": "1997-12-31",
+    "date:inception_lower": "1988-01-01",
+    "date:inception_upper": "1988-12-31",
+    "edtf:cessation": "1997",
+    "edtf:inception": "1988",
+    "flysfo:airline_code": "HX",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "9.627430,51.196755,9.627430,51.196755",
+    "geom:latitude": 51.196755,
+    "geom:longitude": 9.62743,
+    "iso:country": "DE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 451,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Hamburg Airlines",
+    "sfomuseum:name": "Hamburg Airlines",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q27706"
     ],
-    "wd:country":"Q183",
-    "wd:headquarters":"Q1055",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q183",
+    "wd:headquarters": "Q1055",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191581,
-        1159286835,
-        85633111
+    "wof:belongsto": [
+      102191581,
+      1159286835,
+      85633111
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"HX",
-        "iata:code":"HX",
-        "icao:code":"HAS",
-        "wd:id":"Q1572872",
-        "wk:page":"Hamburg Airlines",
-        "wk:pageid":16159912
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "HX",
+      "iata:code": "HX",
+      "icao:code": "HAS",
+      "wd:id": "Q1572872",
+      "wk:page": "Hamburg Airlines",
+      "wk:pageid": 16159912
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"DE",
-    "wof:geomhash":"2405f23b99b9767895cd5c5991257042",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "enterprise_id":1159286835
-        }
+    "wof:country": "DE",
+    "wof:created": 1619636571,
+    "wof:geomhash": "2405f23b99b9767895cd5c5991257042",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159284477,
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "enterprise_id": 1159286835
+      }
     ],
-    "wof:id":1159284477,
-    "wof:lastmodified":1606847646,
-    "wof:name":"Hamburg Airlines",
-    "wof:parent_id":85633111,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159286835
+    "wof:id": 1159284477,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Hamburg Airlines",
+    "wof:parent_id": 85633111,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159286835
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     9.62743,
     51.196755,
     9.62743,
     51.196755
-],
+  ],
   "geometry": {"coordinates":[9.62743,51.196755],"type":"Point"}
 }

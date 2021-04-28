@@ -49,16 +49,18 @@
     "wof:geomhash": "dc381c4158ce0bdf3b8406555d8e0d5a",
     "wof:hierarchy": [
       {
+        "company_id": 1159286585,
         "continent_id": 102191581,
         "country_id": 85632997,
         "enterprise_id": 1159286585
       }
     ],
     "wof:id": 1159286585,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Air Belgium",
     "wof:parent_id": 85632997,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

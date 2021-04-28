@@ -2,84 +2,87 @@
   "id": 1159293731,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1968-01-01",
-    "date:cessation_upper":"1968-12-31",
-    "date:inception_lower":"1938-01-01",
-    "date:inception_upper":"1938-12-31",
-    "edtf:cessation":"1968",
-    "edtf:inception":"1938",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"10.897137,49.895431,10.897137,49.895431",
-    "geom:latitude":49.895431,
-    "geom:longitude":10.897137,
-    "iso:country":"DE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:aircraft_id":885,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q183",
-    "wd:headquarters":"Q3936",
-    "wd:instance_of":[
-        "Q4830453",
-        "Q6881511"
+    "date:cessation_lower": "1968-01-01",
+    "date:cessation_upper": "1968-12-31",
+    "date:inception_lower": "1938-01-01",
+    "date:inception_upper": "1938-12-31",
+    "edtf:cessation": "1968",
+    "edtf:inception": "1938",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "10.897137,49.895431,10.897137,49.895431",
+    "geom:latitude": 49.895431,
+    "geom:longitude": 10.897137,
+    "iso:country": "DE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:aircraft_id": 885,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q183",
+    "wd:headquarters": "Q3936",
+    "wd:instance_of": [
+      "Q4830453",
+      "Q6881511"
     ],
-    "wof:belongsto":[
-        85682571,
-        102191581,
-        85633111,
-        404227583,
-        101748561,
-        102063533
+    "wof:belongsto": [
+      85682571,
+      102191581,
+      85633111,
+      404227583,
+      101748561,
+      102063533
     ],
-    "wof:brand_name":"Messerschmitt",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q154470",
-        "wk:page":"Messerschmitt",
-        "wk:pageid":176669
+    "wof:brand_name": "Messerschmitt",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q154470",
+      "wk:page": "Messerschmitt",
+      "wk:pageid": 176669
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"DE",
-    "wof:geomhash":"e9f21ec30b5f2e2f40fa2484e1449e1b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102063533,
-            "enterprise_id":1159293731,
-            "locality_id":101748561,
-            "macrocounty_id":404227583,
-            "region_id":85682571
-        }
+    "wof:country": "DE",
+    "wof:created": 1619636571,
+    "wof:geomhash": "e9f21ec30b5f2e2f40fa2484e1449e1b",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159293731,
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063533,
+        "enterprise_id": 1159293731,
+        "locality_id": 101748561,
+        "macrocounty_id": 404227583,
+        "region_id": 85682571
+      }
     ],
-    "wof:id":1159293731,
-    "wof:lastmodified":1606835775,
-    "wof:name":"Messerschmitt",
-    "wof:parent_id":101748561,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "business",
-        "enterprise"
+    "wof:id": 1159293731,
+    "wof:lastmodified": 1619636677,
+    "wof:name": "Messerschmitt",
+    "wof:parent_id": 101748561,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "business",
+      "enterprise"
     ]
-},
+  },
   "bbox": [
     10.897137,
     49.895431,
     10.897137,
     49.895431
-],
+  ],
   "geometry": {"coordinates":[10.897137,49.895431],"type":"Point"}
 }

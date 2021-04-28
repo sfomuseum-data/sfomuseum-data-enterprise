@@ -33,16 +33,18 @@
     "wof:geomhash": "742632c0b432e87001a26e343d3d5215",
     "wof:hierarchy": [
       {
+        "company_id": 1159288481,
         "continent_id": 102191575,
         "country_id": 85632571,
         "enterprise_id": 1159288481
       }
     ],
     "wof:id": 1159288481,
-    "wof:lastmodified": 1619636532,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Belize Airways Limited",
     "wof:parent_id": 85632571,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

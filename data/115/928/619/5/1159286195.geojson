@@ -2,69 +2,72 @@
   "id": 1159286195,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1974-01-01",
-    "date:cessation_upper":"1974-12-31",
-    "date:inception_lower":"1970-01-01",
-    "date:inception_upper":"1970-12-31",
-    "edtf:cessation":"1974",
-    "edtf:inception":"1970",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
-    "geom:latitude":39.715956,
-    "geom:longitude":-96.999668,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":1252,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:country":"United States",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Jolly Voyager Travel Club",
-    "sfomuseum:name":"Jolly Voyager Travel Club",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wof:belongsto":[
-        102191575,
-        1159286605,
-        85633793,
-        136253057
+    "date:cessation_lower": "1974-01-01",
+    "date:cessation_upper": "1974-12-31",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-12-31",
+    "edtf:cessation": "1974",
+    "edtf:inception": "1970",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude": 39.715956,
+    "geom:longitude": -96.999668,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 1252,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:country": "United States",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Jolly Voyager Travel Club",
+    "sfomuseum:name": "Jolly Voyager Travel Club",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      102191575,
+      1159286605,
+      85633793,
+      136253057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{},
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:concordances": {},
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "enterprise_id":1159286605
-        }
+    "wof:country": "US",
+    "wof:created": 1619636572,
+    "wof:geomhash": "bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159286195,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "empire_id": 136253057,
+        "enterprise_id": 1159286605
+      }
     ],
-    "wof:id":1159286195,
-    "wof:lastmodified":1606847662,
-    "wof:name":"Jolly Voyager Travel Club",
-    "wof:parent_id":85633793,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159286605
+    "wof:id": 1159286195,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Jolly Voyager Travel Club",
+    "wof:parent_id": 85633793,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159286605
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -96.999668,
     39.715956,
     -96.999668,
     39.715956
-],
+  ],
   "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
 }

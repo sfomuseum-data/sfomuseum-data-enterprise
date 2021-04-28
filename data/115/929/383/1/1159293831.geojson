@@ -52,6 +52,7 @@
     "wof:geomhash": "0424af1806911dc8152e6ff41049ba00",
     "wof:hierarchy": [
       {
+        "company_id": 1159293831,
         "continent_id": 102191581,
         "country_id": 85633111,
         "enterprise_id": 1159293831,
@@ -59,10 +60,11 @@
       }
     ],
     "wof:id": 1159293831,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Germania",
     "wof:parent_id": 85682499,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

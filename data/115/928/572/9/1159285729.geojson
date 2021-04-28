@@ -55,6 +55,7 @@
     "wof:geomhash": "6e954690781dd46ca934f194a308265e",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285729,
         "continent_id": 102191569,
         "country_id": 85632439,
         "county_id": 1092033659,
@@ -64,10 +65,11 @@
       }
     ],
     "wof:id": 1159285729,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "MIAT Mongolian Airlines",
     "wof:parent_id": 421186169,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288535

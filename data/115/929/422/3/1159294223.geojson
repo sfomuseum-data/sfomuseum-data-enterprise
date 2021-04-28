@@ -2,78 +2,81 @@
   "id": 1159294223,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1946-01-01",
-    "date:cessation_upper":"1946-12-31",
-    "date:inception_lower":"1937-01-01",
-    "date:inception_upper":"1937-12-31",
-    "edtf:cessation":"1946",
-    "edtf:inception":"1937",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"11.976793,51.488623,11.976793,51.488623",
-    "geom:latitude":51.488623,
-    "geom:longitude":11.976793,
-    "iso:country":"DE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q183",
-    "wd:headquarters":"Q2814",
-    "wd:instance_of":[
-        "Q936518"
+    "date:cessation_lower": "1946-01-01",
+    "date:cessation_upper": "1946-12-31",
+    "date:inception_lower": "1937-01-01",
+    "date:inception_upper": "1937-12-31",
+    "edtf:cessation": "1946",
+    "edtf:inception": "1937",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "11.976793,51.488623,11.976793,51.488623",
+    "geom:latitude": 51.488623,
+    "geom:longitude": 11.976793,
+    "iso:country": "DE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q183",
+    "wd:headquarters": "Q2814",
+    "wd:instance_of": [
+      "Q936518"
     ],
-    "wof:belongsto":[
-        85682519,
-        102191581,
-        85633111,
-        101748705,
-        102063785
+    "wof:belongsto": [
+      85682519,
+      102191581,
+      85633111,
+      101748705,
+      102063785
     ],
-    "wof:brand_name":"Siebel",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q469704",
-        "wk:page":"Siebel",
-        "wk:pageid":474520
+    "wof:brand_name": "Siebel",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q469704",
+      "wk:page": "Siebel",
+      "wk:pageid": 474520
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"DE",
-    "wof:geomhash":"b8544774ef19986341b5bcd9832a21f9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102063785,
-            "enterprise_id":1159294223,
-            "locality_id":101748705,
-            "region_id":85682519
-        }
+    "wof:country": "DE",
+    "wof:created": 1619636574,
+    "wof:geomhash": "b8544774ef19986341b5bcd9832a21f9",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159294223,
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063785,
+        "enterprise_id": 1159294223,
+        "locality_id": 101748705,
+        "region_id": 85682519
+      }
     ],
-    "wof:id":1159294223,
-    "wof:lastmodified":1557782644,
-    "wof:name":"Siebel",
-    "wof:parent_id":101748705,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "aerospace manufacturer"
+    "wof:id": 1159294223,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "Siebel",
+    "wof:parent_id": 101748705,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "aerospace manufacturer"
     ]
-},
+  },
   "bbox": [
     11.976793,
     51.488623,
     11.976793,
     51.488623
-],
+  ],
   "geometry": {"coordinates":[11.976793,51.488623],"type":"Point"}
 }

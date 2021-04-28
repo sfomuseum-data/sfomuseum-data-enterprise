@@ -2,74 +2,77 @@
   "id": 1159287419,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1976-01-01",
-    "date:cessation_upper":"1976-12-31",
-    "date:inception_lower":"1965-01-01",
-    "date:inception_upper":"1965-12-31",
-    "edtf:cessation":"1976",
-    "edtf:inception":"1965",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"101.301707,15.512883,101.301707,15.512883",
-    "geom:latitude":15.512883,
-    "geom:longitude":101.301707,
-    "iso:country":"TH",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q1046755"
+    "date:cessation_lower": "1976-01-01",
+    "date:cessation_upper": "1976-12-31",
+    "date:inception_lower": "1965-01-01",
+    "date:inception_upper": "1965-12-31",
+    "edtf:cessation": "1976",
+    "edtf:inception": "1965",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "101.301707,15.512883,101.301707,15.512883",
+    "geom:latitude": 15.512883,
+    "geom:longitude": 101.301707,
+    "iso:country": "TH",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q1046755"
     ],
-    "wd:instance_of":[
-        "Q46970"
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191569,
-        85632293
+    "wof:belongsto": [
+      102191569,
+      85632293
     ],
-    "wof:brand_name":"Air Siam",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"VG",
-        "wd:id":"Q407779",
-        "wk:page":"Air Siam",
-        "wk:pageid":15954719
+    "wof:brand_name": "Air Siam",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "VG",
+      "wd:id": "Q407779",
+      "wk:page": "Air Siam",
+      "wk:pageid": 15954719
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"TH",
-    "wof:geomhash":"bb316cea6ff3fb1ffb5554007f2c4780",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632293,
-            "enterprise_id":1159287419
-        }
+    "wof:country": "TH",
+    "wof:created": 1619636572,
+    "wof:geomhash": "bb316cea6ff3fb1ffb5554007f2c4780",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159287419,
+        "continent_id": 102191569,
+        "country_id": 85632293,
+        "enterprise_id": 1159287419
+      }
     ],
-    "wof:id":1159287419,
-    "wof:lastmodified":1557782901,
-    "wof:name":"Air Siam",
-    "wof:parent_id":85632293,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287419,
+    "wof:lastmodified": 1619636677,
+    "wof:name": "Air Siam",
+    "wof:parent_id": 85632293,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     101.301707,
     15.512883,
     101.301707,
     15.512883
-],
-  "geometry": {"coordinates":[101.30170699999999,15.512883],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[101.301707,15.512883],"type":"Point"}
 }

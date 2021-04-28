@@ -47,16 +47,18 @@
     "wof:geomhash": "8cf35ba741ccca1f17c626238c3cceb8",
     "wof:hierarchy": [
       {
+        "company_id": 1159288345,
         "continent_id": 102191573,
         "country_id": 85632281,
         "enterprise_id": 1159288345
       }
     ],
     "wof:id": 1159288345,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "SonAir",
     "wof:parent_id": 85632281,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

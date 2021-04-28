@@ -2,87 +2,90 @@
   "id": 1159284201,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-01-01",
-    "date:cessation_upper":"2012-12-31",
-    "date:inception_lower":"1934-01-01",
-    "date:inception_upper":"1934-12-31",
-    "edtf:cessation":"2012",
-    "edtf:inception":"1934",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "iso:country":"XN",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "mz:is_nullisland":1,
-    "sfomuseum:airline_id":328,
-    "sfomuseum:brand":"Continental Airlines",
-    "sfomuseum:count_objects_public":192,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Continental Airlines",
-    "sfomuseum:name":"Continental Airlines",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"nullisland",
-    "wd:airline_hub":[
-        "Q1136355",
-        "Q1100795",
-        "Q744748",
-        "Q466786"
+    "date:cessation_lower": "2012-01-01",
+    "date:cessation_upper": "2012-12-31",
+    "date:inception_lower": "1934-01-01",
+    "date:inception_upper": "1934-12-31",
+    "edtf:cessation": "2012",
+    "edtf:inception": "1934",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "iso:country": "XN",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "mz:is_nullisland": 1,
+    "sfomuseum:airline_id": 328,
+    "sfomuseum:brand": "Continental Airlines",
+    "sfomuseum:count_objects_public": 192,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Continental Airlines",
+    "sfomuseum:name": "Continental Airlines",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "nullisland",
+    "wd:airline_hub": [
+      "Q1136355",
+      "Q1100795",
+      "Q744748",
+      "Q466786"
     ],
-    "wd:country":"Q30",
-    "wd:headquarters":"Q16555",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q30",
+    "wd:headquarters": "Q16555",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        1
+    "wof:belongsto": [
+      1
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"CO",
-        "iata:code":"CO",
-        "icao:code":"COA",
-        "wd:id":"Q216486",
-        "wk:page":"Continental Airlines",
-        "wk:pageid":113558
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "CO",
+      "iata:code": "CO",
+      "icao:code": "COA",
+      "wd:id": "Q216486",
+      "wk:page": "Continental Airlines",
+      "wk:pageid": 113558
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"XN",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
-    "wof:hierarchy":[
-        {
-            "country_id":1,
-            "enterprise_id":1159284201
-        }
+    "wof:country": "XN",
+    "wof:created": 1619636574,
+    "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159284201,
+        "country_id": 1,
+        "enterprise_id": 1159284201
+      }
     ],
-    "wof:id":1159284201,
-    "wof:lastmodified":1606847643,
-    "wof:name":"Continental Airlines",
-    "wof:parent_id":1,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1360700741
+    "wof:id": 1159284201,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Continental Airlines",
+    "wof:parent_id": 1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1360700741
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1159286393
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1159286393
     ],
-    "wof:tags":[
-        "airline"
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

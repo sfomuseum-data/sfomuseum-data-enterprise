@@ -51,6 +51,7 @@
     "wof:geomhash": "02557c38e29784d7a82d0fe7243f01a3",
     "wof:hierarchy": [
       {
+        "company_id": 1159286669,
         "continent_id": 102191581,
         "country_id": 85632685,
         "enterprise_id": 1159286669,
@@ -59,10 +60,11 @@
       }
     ],
     "wof:id": 1159286669,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Volga-Dnepr Airlines",
     "wof:parent_id": 102009997,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

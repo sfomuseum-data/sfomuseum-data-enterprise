@@ -35,6 +35,7 @@
     "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285693,
         "campus_id": 102558779,
         "continent_id": -1,
         "country_id": -1,
@@ -45,10 +46,11 @@
       }
     ],
     "wof:id": 1159285693,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Air Polynésie",
     "wof:parent_id": 102558779,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286973

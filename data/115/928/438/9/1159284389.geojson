@@ -57,6 +57,7 @@
     "wof:geomhash": "b5c6a33d60ae55e48a26e3fff673371c",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284389,
         "continent_id": 102191581,
         "country_id": 85633143,
         "empire_id": 136253047,
@@ -64,10 +65,11 @@
       }
     ],
     "wof:id": 1159284389,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Finnair",
     "wof:parent_id": 85633143,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287841

@@ -43,16 +43,18 @@
     "wof:geomhash": "9d562309cb57afd2227acd9de710fa19",
     "wof:hierarchy": [
       {
+        "company_id": 1159287893,
         "continent_id": 102191581,
         "country_id": 85633253,
         "enterprise_id": 1159287893
       }
     ],
     "wof:id": 1159287893,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Italian Avio Lines (ALI)",
     "wof:parent_id": 85633253,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

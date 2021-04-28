@@ -50,6 +50,7 @@
     "wof:geomhash": "fa4c9dafd2e72143e54fd058afb0b6ad",
     "wof:hierarchy": [
       {
+        "company_id": 1159287317,
         "continent_id": 102191569,
         "country_id": 85632483,
         "empire_id": 136253041,
@@ -57,10 +58,11 @@
       }
     ],
     "wof:id": 1159287317,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Air Hong Kong",
     "wof:parent_id": 85632483,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

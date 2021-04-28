@@ -37,16 +37,18 @@
     "wof:geomhash": "c29b298adf31b4371abf1caedbbd0322",
     "wof:hierarchy": [
       {
+        "airline_id": 1159283825,
         "continent_id": 102191581,
         "country_id": 85633253,
         "enterprise_id": 1159283825
       }
     ],
     "wof:id": 1159283825,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Aero Trasporti Italiani (ATI)",
     "wof:parent_id": 101757057,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288221

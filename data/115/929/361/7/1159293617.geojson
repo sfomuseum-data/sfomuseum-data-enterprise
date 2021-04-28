@@ -2,82 +2,85 @@
   "id": 1159293617,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1996-01-01",
-    "date:cessation_upper":"1996-12-31",
-    "date:inception_lower":"1928-01-01",
-    "date:inception_upper":"1928-12-31",
-    "edtf:cessation":"1996",
-    "edtf:inception":"1928",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.371092,39.50188,-84.371092,39.50188",
-    "geom:latitude":39.50188,
-    "geom:longitude":-84.371092,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:aircraft_id":57,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q30",
-    "wd:headquarters":"Q985515",
-    "wd:instance_of":[
-        "Q936518"
+    "date:cessation_lower": "1996-01-01",
+    "date:cessation_upper": "1996-12-31",
+    "date:inception_lower": "1928-01-01",
+    "date:inception_upper": "1928-12-31",
+    "edtf:cessation": "1996",
+    "edtf:inception": "1928",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.371092,39.501880,-84.371092,39.501880",
+    "geom:latitude": 39.50188,
+    "geom:longitude": -84.371092,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:aircraft_id": 57,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q30",
+    "wd:headquarters": "Q985515",
+    "wd:instance_of": [
+      "Q936518"
     ],
-    "wof:belongsto":[
-        85688485,
-        102191575,
-        404524795,
-        85633793,
-        101712653,
-        102084743
+    "wof:belongsto": [
+      85688485,
+      102191575,
+      404524795,
+      85633793,
+      101712653,
+      102084743
     ],
-    "wof:brand_name":"Aeronca",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q2031924",
-        "wk:page":"Aeronca Aircraft",
-        "wk:pageid":1677193
+    "wof:brand_name": "Aeronca",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q2031924",
+      "wk:page": "Aeronca Aircraft",
+      "wk:pageid": 1677193
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"a22289ff9032666364385ce7dafd629c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084743,
-            "enterprise_id":1159293617,
-            "localadmin_id":404524795,
-            "locality_id":101712653,
-            "region_id":85688485
-        }
+    "wof:country": "US",
+    "wof:created": 1619636571,
+    "wof:geomhash": "a22289ff9032666364385ce7dafd629c",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159293617,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084743,
+        "enterprise_id": 1159293617,
+        "localadmin_id": 404524795,
+        "locality_id": 101712653,
+        "region_id": 85688485
+      }
     ],
-    "wof:id":1159293617,
-    "wof:lastmodified":1606835768,
-    "wof:name":"Aeronca",
-    "wof:parent_id":101712653,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "aerospace manufacturer"
+    "wof:id": 1159293617,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Aeronca",
+    "wof:parent_id": 101712653,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "aerospace manufacturer"
     ]
-},
+  },
   "bbox": [
     -84.371092,
     39.50188,
     -84.371092,
     39.50188
-],
+  ],
   "geometry": {"coordinates":[-84.371092,39.50188],"type":"Point"}
 }

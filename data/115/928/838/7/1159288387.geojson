@@ -46,6 +46,7 @@
     "wof:geomhash": "44f82d79ee6812e492d5f862628bcfe5",
     "wof:hierarchy": [
       {
+        "company_id": 1159288387,
         "continent_id": 102191583,
         "country_id": 85632793,
         "empire_id": 136253039,
@@ -53,10 +54,11 @@
       }
     ],
     "wof:id": 1159288387,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Trans Australia Airlines (TAA)",
     "wof:parent_id": 85632793,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

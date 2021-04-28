@@ -57,6 +57,7 @@
     "wof:geomhash": "9874675b3fb715d865fc77ecec9986bb",
     "wof:hierarchy": [
       {
+        "airline_id": 1159286099,
         "continent_id": 102191569,
         "country_id": 85632695,
         "county_id": 890516343,
@@ -67,10 +68,11 @@
       }
     ],
     "wof:id": 1159286099,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Air Macau",
     "wof:parent_id": 1125927021,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288547

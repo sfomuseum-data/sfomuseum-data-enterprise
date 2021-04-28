@@ -2,75 +2,78 @@
   "id": 1159287713,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1992-01-01",
-    "date:cessation_upper":"1992-12-31",
-    "date:inception_lower":"1981-01-01",
-    "date:inception_upper":"1981-12-31",
-    "edtf:cessation":"1992",
-    "edtf:inception":"1981",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-85.039545,12.793313,-85.039545,12.793313",
-    "geom:latitude":12.793313,
-    "geom:longitude":-85.039545,
-    "iso:country":"NI",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q530773"
+    "date:cessation_lower": "1992-01-01",
+    "date:cessation_upper": "1992-12-31",
+    "date:inception_lower": "1981-01-01",
+    "date:inception_upper": "1981-12-31",
+    "edtf:cessation": "1992",
+    "edtf:inception": "1981",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-85.039545,12.793313,-85.039545,12.793313",
+    "geom:latitude": 12.793313,
+    "geom:longitude": -85.039545,
+    "iso:country": "NI",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q530773"
     ],
-    "wd:country":"Q811",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q811",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191575,
-        85632599
+    "wof:belongsto": [
+      102191575,
+      85632599
     ],
-    "wof:brand_name":"Aeronica",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "icao:code":"ANI",
-        "wd:id":"Q4411741",
-        "wk:page":"Aeronica",
-        "wk:pageid":1453702
+    "wof:brand_name": "Aeronica",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "icao:code": "ANI",
+      "wd:id": "Q4411741",
+      "wk:page": "Aeronica",
+      "wk:pageid": 1453702
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"NI",
-    "wof:geomhash":"8e6508916076c088256e13b59464485a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85632599,
-            "enterprise_id":1159287713
-        }
+    "wof:country": "NI",
+    "wof:created": 1619636573,
+    "wof:geomhash": "8e6508916076c088256e13b59464485a",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159287713,
+        "continent_id": 102191575,
+        "country_id": 85632599,
+        "enterprise_id": 1159287713
+      }
     ],
-    "wof:id":1159287713,
-    "wof:lastmodified":1557782875,
-    "wof:name":"Aeronica",
-    "wof:parent_id":85632599,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159287713,
+    "wof:lastmodified": 1619636677,
+    "wof:name": "Aeronica",
+    "wof:parent_id": 85632599,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -85.039545,
     12.793313,
     -85.039545,
     12.793313
-],
+  ],
   "geometry": {"coordinates":[-85.039545,12.793313],"type":"Point"}
 }

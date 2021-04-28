@@ -2,82 +2,85 @@
   "id": 1159293785,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1999-01-01",
-    "date:cessation_upper":"1999-12-31",
-    "date:inception_lower":"1970-01-01",
-    "date:inception_upper":"1970-12-31",
-    "edtf:cessation":"1999",
-    "edtf:inception":"1970",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"2.342865,48.858705,2.342865,48.858705",
-    "geom:latitude":48.858705,
-    "geom:longitude":2.342865,
-    "iso:country":"FR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:aircraft_id":1250,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"frgov",
-    "wd:country":"Q142",
-    "wd:headquarters":"Q90",
-    "wd:instance_of":[
-        "Q936518"
+    "date:cessation_lower": "1999-01-01",
+    "date:cessation_upper": "1999-12-31",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-12-31",
+    "edtf:cessation": "1999",
+    "edtf:inception": "1970",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "2.342865,48.858705,2.342865,48.858705",
+    "geom:latitude": 48.858705,
+    "geom:longitude": 2.342865,
+    "iso:country": "FR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:aircraft_id": 1250,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "frgov",
+    "wd:country": "Q142",
+    "wd:headquarters": "Q90",
+    "wd:instance_of": [
+      "Q936518"
     ],
-    "wof:belongsto":[
-        85683497,
-        102191581,
-        1159322569,
-        85633147,
-        404227465,
-        101751119
+    "wof:belongsto": [
+      85683497,
+      102191581,
+      1159322569,
+      85633147,
+      404227465,
+      101751119
     ],
-    "wof:brand_name":"A\u00e9rospatiale",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q650639",
-        "wk:page":"A\u00e9rospatiale",
-        "wk:pageid":47658
+    "wof:brand_name": "Aérospatiale",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q650639",
+      "wk:page": "Aérospatiale",
+      "wk:pageid": 47658
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"FR",
-    "wof:geomhash":"f18598ac3fb6aeba7a3b0cf798abd973",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "enterprise_id":1159293785,
-            "localadmin_id":1159322569,
-            "locality_id":101751119,
-            "macroregion_id":404227465,
-            "region_id":85683497
-        }
+    "wof:country": "FR",
+    "wof:created": 1619636571,
+    "wof:geomhash": "f18598ac3fb6aeba7a3b0cf798abd973",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159293785,
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "enterprise_id": 1159293785,
+        "localadmin_id": 1159322569,
+        "locality_id": 101751119,
+        "macroregion_id": 404227465,
+        "region_id": 85683497
+      }
     ],
-    "wof:id":1159293785,
-    "wof:lastmodified":1606835778,
-    "wof:name":"A\u00e9rospatiale",
-    "wof:parent_id":101751119,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "aerospace manufacturer"
+    "wof:id": 1159293785,
+    "wof:lastmodified": 1619636677,
+    "wof:name": "Aérospatiale",
+    "wof:parent_id": 101751119,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "aerospace manufacturer"
     ]
-},
+  },
   "bbox": [
     2.342865,
     48.858705,
     2.342865,
     48.858705
-],
+  ],
   "geometry": {"coordinates":[2.342865,48.858705],"type":"Point"}
 }

@@ -2,80 +2,83 @@
   "id": 1159284343,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2003-01-01",
-    "date:cessation_upper":"2003-12-31",
-    "date:inception_lower":"1964-01-01",
-    "date:inception_upper":"1964-12-31",
-    "edtf:cessation":"2003",
-    "edtf:inception":"1964",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"2.549047,46.698481,2.549047,46.698481",
-    "geom:latitude":46.698481,
-    "geom:longitude":2.549047,
-    "iso:country":"FR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":391,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Euralair",
-    "sfomuseum:name":"Euralair",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"whosonfirst",
-    "wd:instance_of":[
-        "Q46970"
+    "date:cessation_lower": "2003-01-01",
+    "date:cessation_upper": "2003-12-31",
+    "date:inception_lower": "1964-01-01",
+    "date:inception_upper": "1964-12-31",
+    "edtf:cessation": "2003",
+    "edtf:inception": "1964",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "2.549047,46.698481,2.549047,46.698481",
+    "geom:latitude": 46.698481,
+    "geom:longitude": 2.549047,
+    "iso:country": "FR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 391,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Euralair",
+    "sfomuseum:name": "Euralair",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "whosonfirst",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191581,
-        1159288159,
-        85633147,
-        136253037
+    "wof:belongsto": [
+      102191581,
+      1159288159,
+      85633147,
+      136253037
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"RN",
-        "iata:code":"RN",
-        "icao:code":"ERL",
-        "wd:id":"Q3060496",
-        "wk:page":"Euralair",
-        "wk:pageid":1518611
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "RN",
+      "iata:code": "RN",
+      "icao:code": "ERL",
+      "wd:id": "Q3060496",
+      "wk:page": "Euralair",
+      "wk:pageid": 1518611
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"FR",
-    "wof:geomhash":"0f1e966ff020c6c01f3634368df829a2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "empire_id":136253037,
-            "enterprise_id":1159288159
-        }
+    "wof:country": "FR",
+    "wof:created": 1619636574,
+    "wof:geomhash": "0f1e966ff020c6c01f3634368df829a2",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159284343,
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "empire_id": 136253037,
+        "enterprise_id": 1159288159
+      }
     ],
-    "wof:id":1159284343,
-    "wof:lastmodified":1606847644,
-    "wof:name":"Euralair",
-    "wof:parent_id":85633147,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288159
+    "wof:id": 1159284343,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "Euralair",
+    "wof:parent_id": 85633147,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288159
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     2.549047,
     46.698481,
     2.549047,
     46.698481
-],
+  ],
   "geometry": {"coordinates":[2.549047,46.698481],"type":"Point"}
 }

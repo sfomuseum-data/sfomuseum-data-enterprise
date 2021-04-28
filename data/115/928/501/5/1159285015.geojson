@@ -56,6 +56,7 @@
     "wof:geomhash": "7873ef6619de8125f0d63ae0e6013e25",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285015,
         "continent_id": 102191569,
         "country_id": 85632509,
         "enterprise_id": 1159285015,
@@ -64,10 +65,11 @@
       }
     ],
     "wof:id": 1159285015,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Philippine Airlines",
     "wof:parent_id": 421169759,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287151

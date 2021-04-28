@@ -52,6 +52,7 @@
     "wof:geomhash": "51484407abc7732fedaec9b5010f5cdd",
     "wof:hierarchy": [
       {
+        "company_id": 1159294231,
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102070299,
@@ -64,10 +65,11 @@
       }
     ],
     "wof:id": 1159294231,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Antoinette",
     "wof:parent_id": 101751123,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -2,82 +2,85 @@
   "id": 1159283737,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2009-01-01",
-    "date:cessation_upper":"2009-12-31",
-    "date:inception_lower":"1971-01-01",
-    "date:inception_upper":"1971-12-31",
-    "edtf:cessation":"2009",
-    "edtf:inception":"1971",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-14.768082,15.13855,-14.768082,15.13855",
-    "geom:latitude":15.13855,
-    "geom:longitude":-14.768082,
-    "iso:country":"SN",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":119,
-    "sfomuseum:brand":"Air S\u00e9n\u00e9gal International",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Air S\u00e9n\u00e9gal International",
-    "sfomuseum:name":"Air S\u00e9n\u00e9gal International",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q513689"
+    "date:cessation_lower": "2009-01-01",
+    "date:cessation_upper": "2009-12-31",
+    "date:inception_lower": "1971-01-01",
+    "date:inception_upper": "1971-12-31",
+    "edtf:cessation": "2009",
+    "edtf:inception": "1971",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-14.768082,15.138550,-14.768082,15.138550",
+    "geom:latitude": 15.13855,
+    "geom:longitude": -14.768082,
+    "iso:country": "SN",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 119,
+    "sfomuseum:brand": "Air Sénégal International",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Air Sénégal International",
+    "sfomuseum:name": "Air Sénégal International",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q513689"
     ],
-    "wd:country":"Q1041",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q1041",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191573,
-        85632365
+    "wof:belongsto": [
+      102191573,
+      85632365
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"V7",
-        "iata:code":"V7",
-        "icao:code":"SNG",
-        "wd:id":"Q407817",
-        "wk:page":"Air S\u00e9n\u00e9gal International",
-        "wk:pageid":1547453
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "V7",
+      "iata:code": "V7",
+      "icao:code": "SNG",
+      "wd:id": "Q407817",
+      "wk:page": "Air Sénégal International",
+      "wk:pageid": 1547453
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"SN",
-    "wof:geomhash":"5009bc844a4f073421506ca6455d5e33",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191573,
-            "country_id":85632365,
-            "enterprise_id":1159283737
-        }
+    "wof:country": "SN",
+    "wof:created": 1619636570,
+    "wof:geomhash": "5009bc844a4f073421506ca6455d5e33",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159283737,
+        "continent_id": 102191573,
+        "country_id": 85632365,
+        "enterprise_id": 1159283737
+      }
     ],
-    "wof:id":1159283737,
-    "wof:lastmodified":1606847639,
-    "wof:name":"Air S\u00e9n\u00e9gal International",
-    "wof:parent_id":85632365,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287563
+    "wof:id": 1159283737,
+    "wof:lastmodified": 1619636675,
+    "wof:name": "Air Sénégal International",
+    "wof:parent_id": 85632365,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287563
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -14.768082,
     15.13855,
     -14.768082,
     15.13855
-],
+  ],
   "geometry": {"coordinates":[-14.768082,15.13855],"type":"Point"}
 }

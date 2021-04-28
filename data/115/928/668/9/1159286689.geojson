@@ -53,6 +53,7 @@
     "wof:geomhash": "f1c6245caa260cbcfa7444eca0047a2b",
     "wof:hierarchy": [
       {
+        "company_id": 1159286689,
         "continent_id": 102191569,
         "country_id": 85632695,
         "county_id": 890516325,
@@ -63,10 +64,11 @@
       }
     ],
     "wof:id": 1159286689,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Shandong Airlines",
     "wof:parent_id": 102027459,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

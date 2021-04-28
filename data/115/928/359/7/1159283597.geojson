@@ -52,6 +52,7 @@
     "wof:geomhash": "6c865c7f36c62661574c21ef66ab195e",
     "wof:hierarchy": [
       {
+        "airline_id": 1159283597,
         "campus_id": 102554351,
         "continent_id": 102191575,
         "country_id": 85633041,
@@ -63,10 +64,11 @@
       }
     ],
     "wof:id": 1159283597,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Air Canada",
     "wof:parent_id": 102554351,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288851

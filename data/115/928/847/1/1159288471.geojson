@@ -2,83 +2,86 @@
   "id": 1159288471,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2014-01-01",
-    "date:cessation_upper":"2014-12-31",
-    "date:inception_lower":"1948-01-01",
-    "date:inception_upper":"1948-12-31",
-    "edtf:cessation":"2014",
-    "edtf:inception":"1948",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.571114,33.392691,-84.571114,33.392691",
-    "geom:latitude":33.392691,
-    "geom:longitude":-84.571114,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q1165584"
+    "date:cessation_lower": "2014-01-01",
+    "date:cessation_upper": "2014-12-31",
+    "date:inception_lower": "1948-01-01",
+    "date:inception_upper": "1948-12-31",
+    "edtf:cessation": "2014",
+    "edtf:inception": "1948",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.571114,33.392691,-84.571114,33.392691",
+    "geom:latitude": 33.392691,
+    "geom:longitude": -84.571114,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q1165584"
     ],
-    "wd:country":"Q30",
-    "wd:headquarters":"Q2467256",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q30",
+    "wd:headquarters": "Q2467256",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85688535,
-        102191575,
-        85633793,
-        85936021,
-        102081687
+    "wof:belongsto": [
+      85688535,
+      102191575,
+      85633793,
+      85936021,
+      102081687
     ],
-    "wof:brand_name":"World Airways",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "iata:code":"WO",
-        "icao:code":"WOA",
-        "wd:id":"Q1188319",
-        "wk:page":"World Airways",
-        "wk:pageid":341982
+    "wof:brand_name": "World Airways",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "iata:code": "WO",
+      "icao:code": "WOA",
+      "wd:id": "Q1188319",
+      "wk:page": "World Airways",
+      "wk:pageid": 341982
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"32571cbb88a3d65e5a626250ace8187e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081687,
-            "enterprise_id":1159288471,
-            "locality_id":85936021,
-            "region_id":85688535
-        }
+    "wof:country": "US",
+    "wof:created": 1619636575,
+    "wof:geomhash": "32571cbb88a3d65e5a626250ace8187e",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159288471,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081687,
+        "enterprise_id": 1159288471,
+        "locality_id": 85936021,
+        "region_id": 85688535
+      }
     ],
-    "wof:id":1159288471,
-    "wof:lastmodified":1557782989,
-    "wof:name":"World Airways",
-    "wof:parent_id":85936021,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:id": 1159288471,
+    "wof:lastmodified": 1619636679,
+    "wof:name": "World Airways",
+    "wof:parent_id": 85936021,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -84.571114,
     33.392691,
     -84.571114,
     33.392691
-],
-  "geometry": {"coordinates":[-84.57111399999999,33.392691],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.571114,33.392691],"type":"Point"}
 }

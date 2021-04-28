@@ -51,6 +51,7 @@
     "wof:geomhash": "b7792fca5f9c280576c13c41fd133f3c",
     "wof:hierarchy": [
       {
+        "company_id": 1159287827,
         "continent_id": 102191569,
         "country_id": 85632167,
         "enterprise_id": 1159287827,
@@ -59,10 +60,11 @@
       }
     ],
     "wof:id": 1159287827,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Gulf Air",
     "wof:parent_id": 1125819119,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -36,6 +36,7 @@
     "wof:geomhash": "9429cd862c5a84fed0629d68d283b400",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284751,
         "continent_id": 102191569,
         "country_id": 85632315,
         "empire_id": 136253049,
@@ -43,10 +44,11 @@
       }
     ],
     "wof:id": 1159284751,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Maof Airlines",
     "wof:parent_id": 85632315,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288099

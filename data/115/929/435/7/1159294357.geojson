@@ -50,6 +50,7 @@
     "wof:geomhash": "8bbea826eef096cbb4a8c3568b780a89",
     "wof:hierarchy": [
       {
+        "company_id": 1159294357,
         "continent_id": 102191581,
         "country_id": 85632997,
         "county_id": 102050005,
@@ -61,10 +62,11 @@
       }
     ],
     "wof:id": 1159294357,
-    "wof:lastmodified": 1619636476,
+    "wof:lastmodified": 1619636675,
     "wof:name": "Stampe et Vertongen",
     "wof:parent_id": 101748099,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

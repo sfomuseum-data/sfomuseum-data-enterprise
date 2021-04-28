@@ -57,6 +57,7 @@
     "wof:geomhash": "150220da0fdf864421cc942b9a726207",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284733,
         "campus_id": 102551935,
         "continent_id": 0,
         "country_id": 85632739,
@@ -68,10 +69,11 @@
       }
     ],
     "wof:id": 1159284733,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Sistem Penerbangan Malaysia",
     "wof:parent_id": 102551935,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288691

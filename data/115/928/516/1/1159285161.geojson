@@ -35,16 +35,18 @@
     "wof:geomhash": "1fde27cba426f994b90e3e28bb4525a8",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285161,
         "continent_id": 102191573,
         "country_id": 85632329,
         "enterprise_id": 1159285161
       }
     ],
     "wof:id": 1159285161,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Sincereways of Kenya",
     "wof:parent_id": 85632329,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287437

@@ -2,82 +2,85 @@
   "id": 1159293665,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1945-01-01",
-    "date:cessation_upper":"1945-12-31",
-    "date:inception_lower":"1933-01-01",
-    "date:inception_upper":"1933-12-31",
-    "edtf:cessation":"1945",
-    "edtf:inception":"1933",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"13.442033,52.287696,13.442033,52.287696",
-    "geom:latitude":52.287696,
-    "geom:longitude":13.442033,
-    "iso:country":"DE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:aircraft_id":339,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"company",
-    "src:geom":"quattroshapes",
-    "wd:country":"Q7318",
-    "wd:headquarters":"Q625747",
-    "wd:instance_of":[
-        "Q4830453",
-        "Q6881511"
+    "date:cessation_lower": "1945-01-01",
+    "date:cessation_upper": "1945-12-31",
+    "date:inception_lower": "1933-01-01",
+    "date:inception_upper": "1933-12-31",
+    "edtf:cessation": "1945",
+    "edtf:inception": "1933",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "13.442033,52.287696,13.442033,52.287696",
+    "geom:latitude": 52.287696,
+    "geom:longitude": 13.442033,
+    "iso:country": "DE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:aircraft_id": 339,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "company",
+    "src:geom": "quattroshapes",
+    "wd:country": "Q7318",
+    "wd:headquarters": "Q625747",
+    "wd:instance_of": [
+      "Q4830453",
+      "Q6881511"
     ],
-    "wof:belongsto":[
-        85682553,
-        102191581,
-        85633111,
-        101819585,
-        102063911
+    "wof:belongsto": [
+      85682553,
+      102191581,
+      85633111,
+      101819585,
+      102063911
     ],
-    "wof:brand_name":"B\u00fccker",
-    "wof:brand_size":"",
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q565053",
-        "wk:page":"B\u00fccker Flugzeugbau",
-        "wk:pageid":466869
+    "wof:brand_name": "Bücker",
+    "wof:brand_size": "",
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q565053",
+      "wk:page": "Bücker Flugzeugbau",
+      "wk:pageid": 466869
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"DE",
-    "wof:geomhash":"855c27af28b3fd843245a729b4521113",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102063911,
-            "enterprise_id":1159293665,
-            "locality_id":101819585,
-            "region_id":85682553
-        }
+    "wof:country": "DE",
+    "wof:created": 1619636571,
+    "wof:geomhash": "855c27af28b3fd843245a729b4521113",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159293665,
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063911,
+        "enterprise_id": 1159293665,
+        "locality_id": 101819585,
+        "region_id": 85682553
+      }
     ],
-    "wof:id":1159293665,
-    "wof:lastmodified":1606835770,
-    "wof:name":"B\u00fccker",
-    "wof:parent_id":101819585,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "business",
-        "enterprise"
+    "wof:id": 1159293665,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Bücker",
+    "wof:parent_id": 101819585,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [],
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "business",
+      "enterprise"
     ]
-},
+  },
   "bbox": [
     13.442033,
     52.287696,
     13.442033,
     52.287696
-],
+  ],
   "geometry": {"coordinates":[13.442033,52.287696],"type":"Point"}
 }

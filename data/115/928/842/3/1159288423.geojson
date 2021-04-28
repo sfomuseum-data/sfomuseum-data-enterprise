@@ -51,6 +51,7 @@
     "wof:geomhash": "fdea3739db1e3bf347edebb17aa2f4a2",
     "wof:hierarchy": [
       {
+        "company_id": 1159288423,
         "continent_id": 102191569,
         "country_id": 85632695,
         "enterprise_id": 1159288423,
@@ -59,10 +60,11 @@
       }
     ],
     "wof:id": 1159288423,
-    "wof:lastmodified": 1619636531,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Xiamen Airlines",
     "wof:parent_id": 102027043,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

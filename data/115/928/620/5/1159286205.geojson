@@ -57,6 +57,7 @@
     "wof:geomhash": "0c7fd80c6b06905293c419b29e681e19",
     "wof:hierarchy": [
       {
+        "airline_id": 1159286205,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081401,
@@ -66,10 +67,11 @@
       }
     ],
     "wof:id": 1159286205,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Bering Air",
     "wof:parent_id": 85915489,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288581

@@ -65,6 +65,7 @@
     "wof:geomhash": "edbb74d99b044b4b44a64e901c4475a3",
     "wof:hierarchy": [
       {
+        "airline_id": 1159283813,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086191,
@@ -74,10 +75,11 @@
       }
     ],
     "wof:id": 1159283813,
-    "wof:lastmodified": 1619636476,
+    "wof:lastmodified": 1619636675,
     "wof:name": "Alaska Airlines",
     "wof:parent_id": 101730401,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288915

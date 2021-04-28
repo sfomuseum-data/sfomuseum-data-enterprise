@@ -60,6 +60,7 @@
     "wof:geomhash": "96ece1f65685226bde0af46288a59492",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285147,
         "campus_id": 102550859,
         "continent_id": 102191569,
         "country_id": 85632695,
@@ -71,10 +72,11 @@
       }
     ],
     "wof:id": 1159285147,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Shenzhen Airlines",
     "wof:parent_id": 102550859,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287447

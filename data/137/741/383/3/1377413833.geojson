@@ -49,6 +49,7 @@
     "wof:geomhash": "2d133fff704257e2ba73764a7f320a14",
     "wof:hierarchy": [
       {
+        "airline_id": 1377413833,
         "continent_id": 102191581,
         "country_id": 85633253,
         "enterprise_id": 1377413833,
@@ -59,10 +60,11 @@
       }
     ],
     "wof:id": 1377413833,
-    "wof:lastmodified": 1619636531,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Air Italy",
     "wof:parent_id": 101777479,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": [],

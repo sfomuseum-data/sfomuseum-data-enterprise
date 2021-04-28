@@ -2,76 +2,79 @@
   "id": 1159284083,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2001-01-01",
-    "date:cessation_upper":"2001-12-31",
-    "date:inception_lower":"1988-01-01",
-    "date:inception_upper":"1988-12-31",
-    "edtf:cessation":"2001",
-    "edtf:inception":"1988",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-79.38171,43.64877,-79.38171,43.64877",
-    "geom:latitude":43.64877,
-    "geom:longitude":-79.38171,
-    "iso:country":"CA",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":276,
-    "sfomuseum:count_objects_public":2,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Canada 3000",
-    "sfomuseum:name":"Canada 3000",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:headquarters":"Q172",
-    "wof:belongsto":[
-        85682057,
-        102191575,
-        85633041,
-        101735835,
-        890457465
+    "date:cessation_lower": "2001-01-01",
+    "date:cessation_upper": "2001-12-31",
+    "date:inception_lower": "1988-01-01",
+    "date:inception_upper": "1988-12-31",
+    "edtf:cessation": "2001",
+    "edtf:inception": "1988",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-79.381710,43.648770,-79.381710,43.648770",
+    "geom:latitude": 43.64877,
+    "geom:longitude": -79.38171,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 276,
+    "sfomuseum:count_objects_public": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Canada 3000",
+    "sfomuseum:name": "Canada 3000",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:headquarters": "Q172",
+    "wof:belongsto": [
+      85682057,
+      102191575,
+      85633041,
+      101735835,
+      890457465
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q1031924",
-        "wk:page":"Canada 3000",
-        "wk:pageid":1293554
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q1031924",
+      "wk:page": "Canada 3000",
+      "wk:pageid": 1293554
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"CA",
-    "wof:geomhash":"7ff1fa9b9a2260418c3d17d49d6f17dc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890457465,
-            "enterprise_id":1159284083,
-            "locality_id":101735835,
-            "region_id":85682057
-        }
+    "wof:country": "CA",
+    "wof:created": 1619636570,
+    "wof:geomhash": "7ff1fa9b9a2260418c3d17d49d6f17dc",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159284083,
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "county_id": 890457465,
+        "enterprise_id": 1159284083,
+        "locality_id": 101735835,
+        "region_id": 85682057
+      }
     ],
-    "wof:id":1159284083,
-    "wof:lastmodified":1606847642,
-    "wof:name":"Canada 3000",
-    "wof:parent_id":101735835,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159286693
+    "wof:id": 1159284083,
+    "wof:lastmodified": 1619636678,
+    "wof:name": "Canada 3000",
+    "wof:parent_id": 101735835,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159286693
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -79.38171,
     43.64877,
     -79.38171,
     43.64877
-],
+  ],
   "geometry": {"coordinates":[-79.38171,43.64877],"type":"Point"}
 }

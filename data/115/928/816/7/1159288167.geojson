@@ -54,6 +54,7 @@
     "wof:hierarchy": [
       {
         "campus_id": 102556835,
+        "company_id": 1159288167,
         "country_id": 85633159,
         "enterprise_id": 1159288167,
         "neighbourhood_id": 85791331,
@@ -61,10 +62,11 @@
       }
     ],
     "wof:id": 1159288167,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "easyJet",
     "wof:parent_id": 102556835,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

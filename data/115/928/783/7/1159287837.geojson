@@ -52,6 +52,7 @@
     "wof:geomhash": "8c73053475a2dbf4c75bd8bed05a178e",
     "wof:hierarchy": [
       {
+        "company_id": 1159287837,
         "continent_id": 102191569,
         "country_id": 85632763,
         "county_id": 1108782041,
@@ -61,10 +62,11 @@
       }
     ],
     "wof:id": 1159287837,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "Pacific Airlines",
     "wof:parent_id": 421176809,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

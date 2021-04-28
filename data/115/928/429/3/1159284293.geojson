@@ -37,16 +37,18 @@
     "wof:geomhash": "76194dcbdf096744263d1a340d7fa7bd",
     "wof:hierarchy": [
       {
+        "airline_id": 1159284293,
         "continent_id": 102191569,
         "country_id": 85632573,
         "enterprise_id": 1159284293
       }
     ],
     "wof:id": 1159284293,
-    "wof:lastmodified": 1619636477,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Santa Cruz Imperial Airlines",
     "wof:parent_id": 421174961,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287261

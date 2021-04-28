@@ -2,87 +2,90 @@
   "id": 1159285377,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1997-01-01",
-    "date:cessation_upper":"1997-12-31",
-    "date:inception_lower":"1995-01-01",
-    "date:inception_upper":"1995-12-31",
-    "edtf:cessation":"1997",
-    "edtf:inception":"1995",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-115.279104,36.190364,-115.279104,36.190364",
-    "geom:latitude":36.190364,
-    "geom:longitude":-115.279104,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":867,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"TriStar Airlines",
-    "sfomuseum:name":"TriStar Airlines",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q853886"
+    "date:cessation_lower": "1997-01-01",
+    "date:cessation_upper": "1997-12-31",
+    "date:inception_lower": "1995-01-01",
+    "date:inception_upper": "1995-12-31",
+    "edtf:cessation": "1997",
+    "edtf:inception": "1995",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-115.279104,36.190364,-115.279104,36.190364",
+    "geom:latitude": 36.190364,
+    "geom:longitude": -115.279104,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 867,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "TriStar Airlines",
+    "sfomuseum:name": "TriStar Airlines",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q853886"
     ],
-    "wd:country":"Q30",
-    "wd:headquarters":"Q23768",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q30",
+    "wd:headquarters": "Q23768",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85688531,
-        102191575,
-        85633793,
-        85974801,
-        102081553
+    "wof:belongsto": [
+      85688531,
+      102191575,
+      85633793,
+      85974801,
+      102081553
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"T3",
-        "iata:code":"T3",
-        "wd:id":"Q26916579",
-        "wk:page":"TriStar Airlines",
-        "wk:pageid":51635752
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "T3",
+      "iata:code": "T3",
+      "wd:id": "Q26916579",
+      "wk:page": "TriStar Airlines",
+      "wk:pageid": 51635752
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"9768bca1e2fd3c264258b29edf8845f3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081553,
-            "enterprise_id":1159285377,
-            "locality_id":85974801,
-            "region_id":85688531
-        }
+    "wof:country": "US",
+    "wof:created": 1619636571,
+    "wof:geomhash": "9768bca1e2fd3c264258b29edf8845f3",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159285377,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081553,
+        "enterprise_id": 1159285377,
+        "locality_id": 85974801,
+        "region_id": 85688531
+      }
     ],
-    "wof:id":1159285377,
-    "wof:lastmodified":1606847654,
-    "wof:name":"TriStar Airlines",
-    "wof:parent_id":85974801,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287527
+    "wof:id": 1159285377,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "TriStar Airlines",
+    "wof:parent_id": 85974801,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287527
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -115.279104,
     36.190364,
     -115.279104,
     36.190364
-],
+  ],
   "geometry": {"coordinates":[-115.279104,36.190364],"type":"Point"}
 }

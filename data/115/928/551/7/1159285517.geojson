@@ -2,89 +2,92 @@
   "id": 1159285517,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1987-01-01",
-    "date:cessation_upper":"1987-12-31",
-    "date:inception_lower":"1925-01-01",
-    "date:inception_upper":"1925-12-31",
-    "edtf:cessation":"1987",
-    "edtf:inception":"1925",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.25703,34.05513,-118.25703,34.05513",
-    "geom:latitude":34.05513,
-    "geom:longitude":-118.25703,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":929,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"airline",
-    "src:geom":"mz",
-    "wd:airline_hub":[
-        "Q8731",
-        "Q526488",
-        "Q1436575"
+    "date:cessation_lower": "1987-01-01",
+    "date:cessation_upper": "1987-12-31",
+    "date:inception_lower": "1925-01-01",
+    "date:inception_upper": "1925-12-31",
+    "edtf:cessation": "1987",
+    "edtf:inception": "1925",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.257030,34.055130,-118.257030,34.055130",
+    "geom:latitude": 34.05513,
+    "geom:longitude": -118.25703,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 929,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "airline",
+    "src:geom": "mz",
+    "wd:airline_hub": [
+      "Q8731",
+      "Q526488",
+      "Q1436575"
     ],
-    "wd:country":"Q30",
-    "wd:headquarters":"Q65",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q30",
+    "wd:headquarters": "Q65",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"WA",
-        "iata:code":"WA",
-        "icao:code":"WAL",
-        "wd:id":"Q1583020",
-        "wk:page":"Western Airlines",
-        "wk:pageid":149130
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "WA",
+      "iata:code": "WA",
+      "icao:code": "WAL",
+      "wd:id": "Q1583020",
+      "wk:page": "Western Airlines",
+      "wk:pageid": 149130
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"2196c5789f776f4bf2d9c7983408b4bb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "enterprise_id":1159285517,
-            "locality_id":85923517,
-            "region_id":85688637
-        }
+    "wof:country": "US",
+    "wof:created": 1619636571,
+    "wof:geomhash": "2196c5789f776f4bf2d9c7983408b4bb",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159285517,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "enterprise_id": 1159285517,
+        "locality_id": 85923517,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159285517,
-    "wof:lastmodified":1557783763,
-    "wof:name":"Western Air Express",
-    "wof:parent_id":85923517,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159288117
+    "wof:id": 1159285517,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Western Air Express",
+    "wof:parent_id": 85923517,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159288117
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        "1159294433"
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      "1159294433"
     ],
-    "wof:tags":[
-        "airline"
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -118.25703,
     34.05513,
     -118.25703,
     34.05513
-],
+  ],
   "geometry": {"coordinates":[-118.25703,34.05513],"type":"Point"}
 }

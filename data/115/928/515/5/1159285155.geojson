@@ -2,81 +2,84 @@
   "id": 1159285155,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2006-01-01",
-    "date:cessation_upper":"2006-12-31",
-    "date:inception_lower":"1990-01-01",
-    "date:inception_upper":"1990-12-31",
-    "edtf:cessation":"2006",
-    "edtf:inception":"1990",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-11.756202,8.616007,-11.756202,8.616007",
-    "geom:latitude":8.616007,
-    "geom:longitude":-11.756202,
-    "iso:country":"SL",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:airline_id":760,
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:label":"Sierra Leone Airways  (Sierra Leone Airlines)",
-    "sfomuseum:name":"Sierra Leone Airways",
-    "sfomuseum:placetype":"airline",
-    "src:geom":"quattroshapes",
-    "wd:airline_hub":[
-        "Q1453722"
+    "date:cessation_lower": "2006-01-01",
+    "date:cessation_upper": "2006-12-31",
+    "date:inception_lower": "1990-01-01",
+    "date:inception_upper": "1990-12-31",
+    "edtf:cessation": "2006",
+    "edtf:inception": "1990",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-11.756202,8.616007,-11.756202,8.616007",
+    "geom:latitude": 8.616007,
+    "geom:longitude": -11.756202,
+    "iso:country": "SL",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:airline_id": 760,
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:label": "Sierra Leone Airways  (Sierra Leone Airlines)",
+    "sfomuseum:name": "Sierra Leone Airways",
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wd:airline_hub": [
+      "Q1453722"
     ],
-    "wd:country":"Q1044",
-    "wd:instance_of":[
-        "Q46970"
+    "wd:country": "Q1044",
+    "wd:instance_of": [
+      "Q46970"
     ],
-    "wof:belongsto":[
-        102191573,
-        85632467
+    "wof:belongsto": [
+      102191573,
+      85632467
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "flysfo:code":"LJ",
-        "iata:code":"LJ",
-        "icao:code":"SLA",
-        "wd:id":"Q305308",
-        "wk:page":"Sierra National Airlines",
-        "wk:pageid":8650002
+    "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:code": "LJ",
+      "iata:code": "LJ",
+      "icao:code": "SLA",
+      "wd:id": "Q305308",
+      "wk:page": "Sierra National Airlines",
+      "wk:pageid": 8650002
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"SL",
-    "wof:geomhash":"bba7aaeecadebe5514f3f0c177dbe032",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191573,
-            "country_id":85632467,
-            "enterprise_id":1159285155
-        }
+    "wof:country": "SL",
+    "wof:created": 1619636574,
+    "wof:geomhash": "bba7aaeecadebe5514f3f0c177dbe032",
+    "wof:hierarchy": [
+      {
+        "airline_id": 1159285155,
+        "continent_id": 102191573,
+        "country_id": 85632467,
+        "enterprise_id": 1159285155
+      }
     ],
-    "wof:id":1159285155,
-    "wof:lastmodified":1606847652,
-    "wof:name":"Sierra Leone Airways",
-    "wof:parent_id":85632467,
-    "wof:placetype":"enterprise",
-    "wof:repo":"sfomuseum-data-enterprise",
-    "wof:subordinate_of":[
-        1159287523
+    "wof:id": 1159285155,
+    "wof:lastmodified": 1619636676,
+    "wof:name": "Sierra Leone Airways",
+    "wof:parent_id": 85632467,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:subordinate_of": [
+      1159287523
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airline"
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airline"
     ]
-},
+  },
   "bbox": [
     -11.756202,
     8.616007,
     -11.756202,
     8.616007
-],
+  ],
   "geometry": {"coordinates":[-11.756202,8.616007],"type":"Point"}
 }

@@ -41,6 +41,7 @@
     "wof:geomhash": "0e53aaa63693fe39c3b741be0e02b2e8",
     "wof:hierarchy": [
       {
+        "airline_id": 1159285425,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102084317,
@@ -51,10 +52,11 @@
       }
     ],
     "wof:id": 1159285425,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636676,
     "wof:name": "Ted",
     "wof:parent_id": 85940195,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "airline",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288779

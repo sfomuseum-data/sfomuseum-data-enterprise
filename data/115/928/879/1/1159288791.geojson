@@ -52,6 +52,7 @@
     "wof:geomhash": "aa4ed8f0a2624e958029e184fe369cc0",
     "wof:hierarchy": [
       {
+        "company_id": 1159288791,
         "continent_id": 102191569,
         "country_id": 85632475,
         "county_id": 421187803,
@@ -61,10 +62,11 @@
       }
     ],
     "wof:id": 1159288791,
-    "wof:lastmodified": 1619636532,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Biman Bangladesh Airlines",
     "wof:parent_id": 421181477,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

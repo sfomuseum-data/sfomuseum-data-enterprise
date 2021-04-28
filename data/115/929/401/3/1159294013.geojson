@@ -52,6 +52,7 @@
     "wof:geomhash": "3c9a68c7ce9b5c50ab9665cda96be302",
     "wof:hierarchy": [
       {
+        "company_id": 1159294013,
         "continent_id": 102191581,
         "country_id": 85633253,
         "enterprise_id": 1159294013,
@@ -62,10 +63,11 @@
       }
     ],
     "wof:id": 1159294013,
-    "wof:lastmodified": 1619636479,
+    "wof:lastmodified": 1619636678,
     "wof:name": "Fiat",
     "wof:parent_id": 101752697,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

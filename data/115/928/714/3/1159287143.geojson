@@ -48,6 +48,7 @@
     "wof:geomhash": "3a3e94d5cc49d7b5216a92e03c4b887f",
     "wof:hierarchy": [
       {
+        "company_id": 1159287143,
         "continent_id": 102191581,
         "country_id": 85633735,
         "enterprise_id": 1159287143,
@@ -56,10 +57,11 @@
       }
     ],
     "wof:id": 1159287143,
-    "wof:lastmodified": 1619636478,
+    "wof:lastmodified": 1619636677,
     "wof:name": "SATA Air Azores",
     "wof:parent_id": 101849933,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

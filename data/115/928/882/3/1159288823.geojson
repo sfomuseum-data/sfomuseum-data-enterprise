@@ -52,6 +52,7 @@
     "wof:geomhash": "62eb491e6c556f528df0b4ed628c1a16",
     "wof:hierarchy": [
       {
+        "company_id": 1159288823,
         "continent_id": 102191575,
         "country_id": -1,
         "dependency_id": 85632611,
@@ -62,10 +63,11 @@
       }
     ],
     "wof:id": 1159288823,
-    "wof:lastmodified": 1619636532,
+    "wof:lastmodified": 1619636679,
     "wof:name": "Cayman Airways",
     "wof:parent_id": 890434949,
-    "wof:placetype": "enterprise",
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],
