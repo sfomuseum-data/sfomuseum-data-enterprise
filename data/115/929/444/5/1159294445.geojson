@@ -58,7 +58,7 @@
       }
     ],
     "wof:id": 1159294445,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1624649382,
     "wof:name": "Yemenia",
     "wof:parent_id": 85632499,
     "wof:placetype": "custom",
@@ -68,7 +68,9 @@
       1159287967
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159285567
+    ],
     "wof:tags": [
       "airline"
     ]
