@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 1159294447,
-    "wof:lastmodified": 1619636675,
+    "wof:lastmodified": 1624649988,
     "wof:name": "Yukon Southern Air Transport",
     "wof:parent_id": 85633041,
     "wof:placetype": "custom",
@@ -53,7 +53,9 @@
       1159286565
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159285561
+    ],
     "wof:tags": []
   },
   "bbox": [
