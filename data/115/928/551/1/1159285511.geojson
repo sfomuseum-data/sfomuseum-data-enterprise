@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
+    "edtf:deprecated": "2021-06-25",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -38,7 +39,7 @@
       }
     ],
     "wof:id": 1159285511,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1624649522,
     "wof:name": "West Indian Aerial Express",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
@@ -47,7 +48,9 @@
     "wof:subordinate_of": [
       1159288717
     ],
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1159294435
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },

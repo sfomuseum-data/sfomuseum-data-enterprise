@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 1159294435,
-    "wof:lastmodified": 1619636675,
+    "wof:lastmodified": 1624649522,
     "wof:name": "West Indian Aerial Express",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
@@ -51,7 +51,9 @@
       1159288717
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159285511
+    ],
     "wof:tags": []
   },
   "bbox": [
