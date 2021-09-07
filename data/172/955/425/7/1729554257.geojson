@@ -4,6 +4,7 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
+    "edtf:deprecated": "2021-09-07",    
     "geom:area": 0,
     "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
     "geom:latitude": 0,
@@ -37,7 +38,9 @@
     "wof:placetype": "custom",
     "wof:placetype_alt": "company",
     "wof:repo": "sfomuseum-data-enterprise",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+    			 1159293995
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },

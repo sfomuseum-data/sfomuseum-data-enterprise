@@ -66,7 +66,9 @@
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+        1729554257
+    ],
     "wof:tags": [
       "aerospace manufacturer"
     ]
