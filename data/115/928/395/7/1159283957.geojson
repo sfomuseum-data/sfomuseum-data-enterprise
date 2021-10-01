@@ -16,7 +16,7 @@
     "iso:country": "CO",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:airline_id": 218,
     "sfomuseum:count_objects_public": 14,
     "sfomuseum:is_sfo": 1,
@@ -67,7 +67,7 @@
       }
     ],
     "wof:id": 1159283957,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1633113990,
     "wof:name": "Avianca Airlines",
     "wof:parent_id": 421186687,
     "wof:placetype": "custom",
@@ -76,7 +76,9 @@
     "wof:subordinate_of": [
       1159287217
     ],
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1159285749
+    ],
     "wof:supersedes": [],
     "wof:tags": [
       "airline"
