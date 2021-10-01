@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1159284325,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1633116222,
     "wof:name": "EgyptAir",
     "wof:parent_id": 421174399,
     "wof:placetype": "custom",
@@ -74,7 +74,10 @@
       1159287197
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159284811,
+      1159285427
+    ],
     "wof:tags": [
       "airline"
     ]
