@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1159284389,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1633116956,
     "wof:name": "Finnair",
     "wof:parent_id": 85633143,
     "wof:placetype": "custom",
@@ -75,7 +75,9 @@
       1159287841
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159286313
+    ],
     "wof:tags": [
       "airline"
     ]
