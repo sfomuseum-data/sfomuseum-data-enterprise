@@ -72,7 +72,7 @@
       }
     ],
     "wof:id": 1159284489,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1633115363,
     "wof:name": "Hawaiian Airlines",
     "wof:parent_id": 1141909415,
     "wof:placetype": "custom",
@@ -82,7 +82,9 @@
       1159287913
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159285781
+    ],
     "wof:tags": [
       "airline"
     ]
