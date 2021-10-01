@@ -16,6 +16,7 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:airline_id": 561,
+    "sfomuseum:airline_role": "cargo",
     "sfomuseum:count_objects_public": 3,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Lufthansa Cargo  (Lufthansa)",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1159284713,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1633116026,
     "wof:name": "Lufthansa Cargo",
     "wof:parent_id": 101752771,
     "wof:placetype": "custom",
