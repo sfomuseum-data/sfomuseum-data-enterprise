@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1159283717,
-    "wof:lastmodified": 1619636675,
+    "wof:lastmodified": 1633115257,
     "wof:name": "Fiji Airways",
     "wof:parent_id": 102555575,
     "wof:placetype": "custom",
@@ -75,7 +75,9 @@
       1159287443
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159283715
+    ],
     "wof:tags": [
       "airline"
     ]
