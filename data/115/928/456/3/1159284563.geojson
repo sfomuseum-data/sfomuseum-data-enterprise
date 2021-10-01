@@ -50,7 +50,7 @@
       }
     ],
     "wof:id": 1159284563,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1633115429,
     "wof:name": "JAL (Japan Airlines)",
     "wof:parent_id": 85632429,
     "wof:placetype": "custom",
@@ -60,7 +60,9 @@
       1159288585
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159285615
+    ],
     "wof:tags": []
   },
   "bbox": [

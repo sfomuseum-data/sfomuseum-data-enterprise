@@ -14,7 +14,7 @@
     "iso:country": "JP",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:airline_id": 979,
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
@@ -67,7 +67,7 @@
       }
     ],
     "wof:id": 1159285615,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1633115429,
     "wof:name": "Japan Airways",
     "wof:parent_id": 102031379,
     "wof:placetype": "custom",
@@ -76,7 +76,9 @@
     "wof:subordinate_of": [
       1159287271
     ],
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1159284563
+    ],
     "wof:supersedes": [],
     "wof:tags": [
       "airline"
