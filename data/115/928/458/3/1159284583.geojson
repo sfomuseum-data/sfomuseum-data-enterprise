@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1159284583,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1633114481,
     "wof:name": "JetBlue Airways",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
@@ -74,7 +74,9 @@
       1159287011
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1360700745
+    ],
     "wof:tags": [
       "airline",
       "low-cost airline"
