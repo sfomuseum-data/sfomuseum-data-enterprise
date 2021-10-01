@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1159284071,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1633115016,
     "wof:name": "Caledonian Airways",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",
@@ -70,7 +70,9 @@
     "wof:subordinate_of": [
       1159287337
     ],
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1159284023
+    ],
     "wof:supersedes": [],
     "wof:tags": [
       "airline"

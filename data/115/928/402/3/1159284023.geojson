@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1159284023,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1633115016,
     "wof:name": "British Caledonian Airways",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",
@@ -72,7 +72,9 @@
       1159286551
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159284071
+    ],
     "wof:tags": [
       "airline"
     ]
