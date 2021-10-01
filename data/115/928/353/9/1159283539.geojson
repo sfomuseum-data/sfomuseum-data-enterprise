@@ -72,7 +72,7 @@
       }
     ],
     "wof:id": 1159283539,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1633113884,
     "wof:name": "AeroMéxico",
     "wof:parent_id": 857683023,
     "wof:placetype": "custom",
@@ -82,7 +82,9 @@
       1159287499
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159283541
+    ],
     "wof:tags": [
       "airline"
     ]
