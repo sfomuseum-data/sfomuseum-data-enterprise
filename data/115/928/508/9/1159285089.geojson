@@ -16,6 +16,7 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:airline_id": 731,
+    "sfomuseum:airline_role": "cargo",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Royal Jordanian Cargo  (Royal Jordanian Airlines)",
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159285089,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1633116464,
     "wof:name": "Royal Jordanian Cargo",
     "wof:parent_id": 421200421,
     "wof:placetype": "custom",
