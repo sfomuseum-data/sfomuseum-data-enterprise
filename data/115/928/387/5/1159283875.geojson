@@ -56,7 +56,7 @@
       }
     ],
     "wof:id": 1159283875,
-    "wof:lastmodified": 1619636675,
+    "wof:lastmodified": 1633116279,
     "wof:name": "ANA (All Nippon Airways)",
     "wof:parent_id": 85632429,
     "wof:placetype": "custom",
@@ -66,7 +66,9 @@
       1159287625
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159285739
+    ],
     "wof:tags": []
   },
   "bbox": [

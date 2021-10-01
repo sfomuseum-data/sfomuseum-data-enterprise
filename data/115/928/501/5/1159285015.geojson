@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1159285015,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1633116328,
     "wof:name": "Philippine Airlines",
     "wof:parent_id": 421169759,
     "wof:placetype": "custom",
@@ -75,7 +75,9 @@
       1159287151
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159285661
+    ],
     "wof:tags": [
       "airline"
     ]
