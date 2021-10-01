@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1159284625,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1633115657,
     "wof:name": "Korean Air",
     "wof:parent_id": 85632231,
     "wof:placetype": "custom",
@@ -73,7 +73,9 @@
       1159287567
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159284623
+    ],
     "wof:tags": [
       "airline"
     ]
