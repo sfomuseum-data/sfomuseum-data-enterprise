@@ -82,7 +82,7 @@
       }
     ],
     "wof:id": 1159283849,
-    "wof:lastmodified": 1619636675,
+    "wof:lastmodified": 1633110067,
     "wof:name": "American Airlines",
     "wof:parent_id": 101724443,
     "wof:placetype": "custom",
@@ -92,7 +92,9 @@
       1360700619
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159283851
+    ],
     "wof:tags": [
       "airline"
     ]

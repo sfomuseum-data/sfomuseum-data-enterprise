@@ -14,7 +14,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:airline_id": 170,
     "sfomuseum:brand": "American Airlines",
     "sfomuseum:count_objects_public": 0,
@@ -75,7 +75,7 @@
       }
     ],
     "wof:id": 1159283851,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1633110067,
     "wof:name": "American Air Lines",
     "wof:parent_id": 101724443,
     "wof:placetype": "custom",
@@ -84,8 +84,12 @@
     "wof:subordinate_of": [
       1360700619
     ],
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:superseded_by": [
+      1159283849
+    ],
+    "wof:supersedes": [
+      1159286017
+    ],
     "wof:tags": [
       "airline"
     ]
