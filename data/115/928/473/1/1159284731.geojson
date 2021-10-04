@@ -73,7 +73,7 @@
       }
     ],
     "wof:id": 1159284731,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1633366118,
     "wof:name": "Malaysia Airlines",
     "wof:parent_id": 102551935,
     "wof:placetype": "custom",
@@ -83,7 +83,9 @@
       1159288691
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159284733
+    ],
     "wof:tags": [
       "airline"
     ]
