@@ -16,6 +16,7 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:airline_id": 296,
+    "sfomuseum:airline_role": "cargo",
     "sfomuseum:count_objects_public": 1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Cathay Pacific Cargo  (Cathay Pacific Airways)",
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159284129,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1633454267,
     "wof:name": "Cathay Pacific Cargo",
     "wof:parent_id": 85632695,
     "wof:placetype": "custom",
