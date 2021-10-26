@@ -14,6 +14,7 @@
     "geom:latitude": 10.75,
     "geom:longitude": 106.66667,
     "iso:country": "VN",
+    "millsfield:count_images": 40,
     "millsfield:count_objects": 30,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -69,7 +70,7 @@
       }
     ],
     "wof:id": 1159284947,
-    "wof:lastmodified": 1635207824,
+    "wof:lastmodified": 1635209148,
     "wof:name": "Pacific Air Lines",
     "wof:parent_id": 421176809,
     "wof:placetype": "custom",

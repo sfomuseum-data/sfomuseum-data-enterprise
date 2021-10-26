@@ -12,6 +12,7 @@
     "geom:latitude": 50.780688,
     "geom:longitude": 4.792712,
     "iso:country": "BE",
+    "millsfield:count_images": 3,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159283589,
-    "wof:lastmodified": 1635207824,
+    "wof:lastmodified": 1635209148,
     "wof:name": "Air Belgium",
     "wof:parent_id": 85632997,
     "wof:placetype": "custom",

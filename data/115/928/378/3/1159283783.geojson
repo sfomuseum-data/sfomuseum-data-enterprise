@@ -14,6 +14,7 @@
     "geom:latitude": -17.82772,
     "geom:longitude": 31.05337,
     "iso:country": "ZW",
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -66,7 +67,7 @@
       }
     ],
     "wof:id": 1159283783,
-    "wof:lastmodified": 1635207824,
+    "wof:lastmodified": 1635209148,
     "wof:name": "Air Zimbabwe",
     "wof:parent_id": 421201479,
     "wof:placetype": "custom",

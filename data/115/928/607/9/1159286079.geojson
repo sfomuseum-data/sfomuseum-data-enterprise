@@ -14,6 +14,7 @@
     "geom:latitude": 7.622919,
     "geom:longitude": 80.68822,
     "iso:country": "LK",
+    "millsfield:count_images": 1,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -59,7 +60,7 @@
       }
     ],
     "wof:id": 1159286079,
-    "wof:lastmodified": 1635207824,
+    "wof:lastmodified": 1635209148,
     "wof:name": "Air Ceylon",
     "wof:parent_id": 85632313,
     "wof:placetype": "custom",

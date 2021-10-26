@@ -12,6 +12,7 @@
     "geom:latitude": 44.251791,
     "geom:longitude": 20.589197,
     "iso:country": "RS",
+    "millsfield:count_images": 4,
     "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -45,7 +46,7 @@
       }
     ],
     "wof:id": 1159284593,
-    "wof:lastmodified": 1635207824,
+    "wof:lastmodified": 1635209148,
     "wof:name": "Jugoslovenski Aerotransport (JAT)",
     "wof:parent_id": 85633755,
     "wof:placetype": "custom",

@@ -12,6 +12,7 @@
     "geom:latitude": -1.241567,
     "geom:longitude": -78.322784,
     "iso:country": "EC",
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -46,7 +47,7 @@
       }
     ],
     "wof:id": 1159285263,
-    "wof:lastmodified": 1635207824,
+    "wof:lastmodified": 1635209148,
     "wof:name": "TAME (Transportes Aéreos Militares Ecuatorianos)",
     "wof:parent_id": 85632261,
     "wof:placetype": "custom",

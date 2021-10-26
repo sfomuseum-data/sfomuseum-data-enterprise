@@ -16,6 +16,7 @@
     "geom:latitude": 51.196755,
     "geom:longitude": 9.62743,
     "iso:country": "DE",
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -65,7 +66,7 @@
       }
     ],
     "wof:id": 1159284477,
-    "wof:lastmodified": 1635207824,
+    "wof:lastmodified": 1635209148,
     "wof:name": "Hamburg Airlines",
     "wof:parent_id": 85633111,
     "wof:placetype": "custom",

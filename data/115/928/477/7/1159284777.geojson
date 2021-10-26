@@ -12,6 +12,7 @@
     "geom:latitude": 23.920061,
     "geom:longitude": -102.289691,
     "iso:country": "MX",
+    "millsfield:count_images": 7,
     "millsfield:count_objects": 7,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -45,7 +46,7 @@
       }
     ],
     "wof:id": 1159284777,
-    "wof:lastmodified": 1635207824,
+    "wof:lastmodified": 1635209148,
     "wof:name": "Mexican Aviation Company",
     "wof:parent_id": 85633293,
     "wof:placetype": "custom",

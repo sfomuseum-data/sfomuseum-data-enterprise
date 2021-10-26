@@ -12,6 +12,7 @@
     "geom:latitude": -37.825071,
     "geom:longitude": 144.978682,
     "iso:country": "AU",
+    "millsfield:count_images": 1,
     "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -47,7 +48,7 @@
       }
     ],
     "wof:id": 1159283879,
-    "wof:lastmodified": 1635207824,
+    "wof:lastmodified": 1635209148,
     "wof:name": "Ansett Air",
     "wof:parent_id": 101933229,
     "wof:placetype": "custom",
