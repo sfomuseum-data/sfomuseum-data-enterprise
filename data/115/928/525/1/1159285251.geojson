@@ -12,6 +12,7 @@
     "geom:latitude": 33.5102,
     "geom:longitude": 36.29128,
     "iso:country": "SY",
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1159285251,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1635207824,
     "wof:name": "Syrian Arab Airlines",
     "wof:parent_id": 421202165,
     "wof:placetype": "custom",

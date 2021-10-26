@@ -14,6 +14,7 @@
     "geom:latitude": -22.935024,
     "geom:longitude": -43.518246,
     "iso:country": "BR",
+    "millsfield:count_objects": 28,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1159284995,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1635207824,
     "wof:name": "Panair do Brasil",
     "wof:parent_id": 101953261,
     "wof:placetype": "custom",

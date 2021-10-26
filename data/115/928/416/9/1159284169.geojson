@@ -12,6 +12,7 @@
     "geom:latitude": 39.937967,
     "geom:longitude": 116.417592,
     "iso:country": "CN",
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1159284169,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1635207824,
     "wof:name": "China Xinhua Airlines",
     "wof:parent_id": 102027745,
     "wof:placetype": "custom",

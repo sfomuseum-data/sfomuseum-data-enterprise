@@ -12,6 +12,7 @@
     "geom:latitude": 30.902941,
     "geom:longitude": 34.860794,
     "iso:country": "IL",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -61,7 +62,7 @@
       }
     ],
     "wof:id": 1159284557,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1635207824,
     "wof:name": "Israir Airlines",
     "wof:parent_id": 85632315,
     "wof:placetype": "custom",

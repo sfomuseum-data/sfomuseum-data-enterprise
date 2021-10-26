@@ -12,6 +12,7 @@
     "geom:latitude": 7.18646,
     "geom:longitude": -64.568705,
     "iso:country": "VE",
+    "millsfield:count_objects": 3,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -58,7 +59,7 @@
       }
     ],
     "wof:id": 1159286263,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1635207824,
     "wof:name": "Avensa",
     "wof:parent_id": 85632317,
     "wof:placetype": "custom",

@@ -10,6 +10,7 @@
     "geom:latitude": -23.992438,
     "geom:longitude": 134.050443,
     "iso:country": "AU",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159284917,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1635207824,
     "wof:name": "NSW Air",
     "wof:parent_id": 85632793,
     "wof:placetype": "custom",

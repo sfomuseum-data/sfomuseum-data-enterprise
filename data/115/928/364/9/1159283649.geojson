@@ -14,6 +14,7 @@
     "geom:latitude": 22.364293,
     "geom:longitude": 79.029432,
     "iso:country": "IN",
+    "millsfield:count_objects": 17,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -65,7 +66,7 @@
       }
     ],
     "wof:id": 1159283649,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1635207824,
     "wof:name": "Air India",
     "wof:parent_id": 85632469,
     "wof:placetype": "custom",

@@ -12,6 +12,7 @@
     "geom:latitude": 44.265929,
     "geom:longitude": -88.394699,
     "iso:country": "US",
+    "millsfield:count_objects": 4,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -68,7 +69,7 @@
       }
     ],
     "wof:id": 1159283777,
-    "wof:lastmodified": 1619636675,
+    "wof:lastmodified": 1635207824,
     "wof:name": "Air Wisconsin",
     "wof:parent_id": 101732417,
     "wof:placetype": "custom",
