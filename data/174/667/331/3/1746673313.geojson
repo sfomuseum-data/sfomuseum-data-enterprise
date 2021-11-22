@@ -1,0 +1,58 @@
+{
+  "id": 1746673313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "2019-01-16",
+    "flysfo:airline_code": "QH",    
+    "geom:area": 0,
+    "geom:bbox": "105.841170,21.024500,105.841170,21.024500",
+    "geom:latitude": 21.0245,
+    "geom:longitude": 105.84117,
+    "mz:is_approximate": 1,    
+    "mz:is_current": 1,    
+    "sfomuseum:placetype": "airline",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      102191569,
+      85632763,
+      1108780787,
+      421177479,
+      85680653
+    ],
+    "wof:concordances": {
+      "iata:code": "QH",
+      "icao:code": "BAV",
+      "icao:callsign": "BAMBOO",
+      "wd:id": "Q51779763"
+    },    
+    "wof:country": "VN",
+    "wof:created": 1637614137,
+    "wof:geomhash": "13277bf369b4f04030274f5f13f31520",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632763,
+        "county_id": 1108780787,
+        "custom_id": 1746673313,
+        "locality_id": 421177479,
+        "region_id": 85680653
+      }
+    ],
+    "wof:id": 1746673313,
+    "wof:lastmodified": 1637614137,
+    "wof:name": "Bamboo Airways",
+    "wof:parent_id": 421177479,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    105.84117,
+    21.0245,
+    105.84117,
+    21.0245
+  ],
+  "geometry": {"coordinates":[105.84117,21.0245],"type":"Point"}
+}
