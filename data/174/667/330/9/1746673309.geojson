@@ -9,6 +9,7 @@
     "geom:bbox": "105.841170,21.024500,105.841170,21.024500",
     "geom:latitude": 21.0245,
     "geom:longitude": 105.84117,
+    "mz:is_approximate": 1,    
     "mz:is_current": 1,
     "sfomuseum:placetype": "airline",
     "src:geom": "sfomuseum",
