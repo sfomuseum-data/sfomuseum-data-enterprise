@@ -12,6 +12,7 @@
     "mz:is_approximate": 1,    
     "mz:is_current": 1,
     "sfomuseum:placetype": "airline",
+    "sfomuseum:airline_id": -1,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191569,
