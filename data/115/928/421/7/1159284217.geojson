@@ -14,7 +14,7 @@
     "geom:latitude": 49.19333,
     "geom:longitude": -123.1792,
     "iso:country": "CA",
-    "millsfield:count_images": 42,
+    "millsfield:count_images": 43,
     "millsfield:count_objects": 42,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -58,7 +58,7 @@
       }
     ],
     "wof:id": 1159284217,
-    "wof:lastmodified": 1636152051,
+    "wof:lastmodified": 1637706975,
     "wof:name": "Canadian Pacific Airlines",
     "wof:parent_id": "102555307",
     "wof:placetype": "custom",

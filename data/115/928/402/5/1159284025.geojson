@@ -12,7 +12,7 @@
     "geom:latitude": -23.992438,
     "geom:longitude": 134.050443,
     "iso:country": "AU",
-    "millsfield:count_images": 62,
+    "millsfield:count_images": 64,
     "millsfield:count_objects": 45,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1159284025,
-    "wof:lastmodified": 1635209148,
+    "wof:lastmodified": 1637706976,
     "wof:name": "British Commonwealth Pacific Airlines (BCPA)",
     "wof:parent_id": 85632793,
     "wof:placetype": "custom",
