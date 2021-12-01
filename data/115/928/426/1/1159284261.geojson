@@ -15,7 +15,7 @@
     "geom:longitude": -84.414581,
     "iso:country": "US",
     "millsfield:count_images": 275,
-    "millsfield:count_objects": 262,
+    "millsfield:count_objects": 266,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -81,7 +81,7 @@
       }
     ],
     "wof:id": 1159284261,
-    "wof:lastmodified": 1638212736,
+    "wof:lastmodified": 1638390455,
     "wof:name": "Delta Air Lines",
     "wof:parent_id": 85936429,
     "wof:placetype": "custom",
