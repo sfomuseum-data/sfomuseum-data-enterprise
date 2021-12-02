@@ -17,7 +17,7 @@
     "geom:longitude": 4.483564,
     "iso:country": "BE",
     "millsfield:count_images": 20,
-    "millsfield:count_objects": 13,
+    "millsfield:count_objects": 14,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -77,7 +77,7 @@
       }
     ],
     "wof:id": 1159285101,
-    "wof:lastmodified": 1637706976,
+    "wof:lastmodified": 1638482215,
     "wof:name": "Sabena",
     "wof:parent_id": 85802033,
     "wof:placetype": "custom",

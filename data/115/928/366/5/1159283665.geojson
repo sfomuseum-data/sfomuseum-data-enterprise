@@ -15,7 +15,7 @@
     "geom:longitude": 2.549047,
     "iso:country": "FR",
     "millsfield:count_images": 5,
-    "millsfield:count_objects": 3,
+    "millsfield:count_objects": 4,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1159283665,
-    "wof:lastmodified": 1635209148,
+    "wof:lastmodified": 1638482216,
     "wof:name": "Air Littoral",
     "wof:parent_id": 85633147,
     "wof:placetype": "custom",

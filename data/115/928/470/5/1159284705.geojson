@@ -13,7 +13,7 @@
     "geom:longitude": 20.388926,
     "iso:country": "PL",
     "millsfield:count_images": 11,
-    "millsfield:count_objects": 11,
+    "millsfield:count_objects": 13,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -53,7 +53,7 @@
       }
     ],
     "wof:id": 1159284705,
-    "wof:lastmodified": 1635209148,
+    "wof:lastmodified": 1638482215,
     "wof:name": "LOT (Polish Airlines)",
     "wof:parent_id": 85633723,
     "wof:placetype": "custom",

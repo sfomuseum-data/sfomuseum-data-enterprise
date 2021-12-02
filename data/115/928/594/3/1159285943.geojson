@@ -12,6 +12,7 @@
     "geom:latitude": -33.528049,
     "geom:longitude": -64.168459,
     "iso:country": "AR",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -45,7 +46,7 @@
       }
     ],
     "wof:id": 1159285943,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1638482215,
     "wof:name": "Lineas Aereas Del Estado (LADE)",
     "wof:parent_id": 85632505,
     "wof:placetype": "custom",

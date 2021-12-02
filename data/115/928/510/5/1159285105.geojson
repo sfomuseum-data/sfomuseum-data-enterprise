@@ -15,7 +15,7 @@
     "geom:longitude": 4.483564,
     "iso:country": "BE",
     "millsfield:count_images": 51,
-    "millsfield:count_objects": 40,
+    "millsfield:count_objects": 42,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -75,7 +75,7 @@
       }
     ],
     "wof:id": 1159285105,
-    "wof:lastmodified": 1635370240,
+    "wof:lastmodified": 1638482216,
     "wof:name": "Sabena Belgian World Airlines",
     "wof:parent_id": 85802033,
     "wof:placetype": "custom",

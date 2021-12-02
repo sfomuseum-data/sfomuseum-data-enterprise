@@ -15,7 +15,7 @@
     "geom:longitude": 120.955426,
     "iso:country": "TW",
     "millsfield:count_images": 436,
-    "millsfield:count_objects": 432,
+    "millsfield:count_objects": 433,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1159284349,
-    "wof:lastmodified": 1637706975,
+    "wof:lastmodified": 1638482215,
     "wof:name": "EVA Air",
     "wof:parent_id": 85632403,
     "wof:placetype": "custom",

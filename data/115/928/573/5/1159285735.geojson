@@ -12,6 +12,7 @@
     "geom:latitude": 39.715956,
     "geom:longitude": -96.999668,
     "iso:country": "US",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -46,7 +47,7 @@
       }
     ],
     "wof:id": 1159285735,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1638482215,
     "wof:name": "StatesWest",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

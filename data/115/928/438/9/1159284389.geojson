@@ -15,7 +15,7 @@
     "geom:longitude": 27.276469,
     "iso:country": "FI",
     "millsfield:count_images": 42,
-    "millsfield:count_objects": 40,
+    "millsfield:count_objects": 42,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -67,7 +67,7 @@
       }
     ],
     "wof:id": 1159284389,
-    "wof:lastmodified": 1638390471,
+    "wof:lastmodified": 1638482215,
     "wof:name": "Finnair",
     "wof:parent_id": 85633143,
     "wof:placetype": "custom",
