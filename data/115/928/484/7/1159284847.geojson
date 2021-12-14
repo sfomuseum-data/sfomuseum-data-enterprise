@@ -12,7 +12,8 @@
     "geom:latitude": -34.923592,
     "geom:longitude": 138.562508,
     "iso:country": "",
-    "millsfield:count_objects": 1,
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -76,7 +77,7 @@
       }
     ],
     "wof:id": 1159284847,
-    "wof:lastmodified": 1635207824,
+    "wof:lastmodified": 1639525782,
     "wof:name": "National Jet",
     "wof:parent_id": 102557785,
     "wof:placetype": "custom",
