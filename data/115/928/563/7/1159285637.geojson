@@ -12,6 +12,8 @@
     "geom:latitude": -33.939229,
     "geom:longitude": 151.176373,
     "iso:country": "AU",
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -48,7 +50,7 @@
       }
     ],
     "wof:id": 1159285637,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1640031589,
     "wof:name": "Ansett NSW (New South Wales)",
     "wof:parent_id": 101931173,
     "wof:placetype": "custom",
