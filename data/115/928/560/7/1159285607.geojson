@@ -21,6 +21,7 @@
     "sfomuseum:airline_id": 972,
     "sfomuseum:count_objects_public": 1,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "NAC (New Zealand National Airways)",
     "sfomuseum:placetype": "airline",
     "src:geom": "whosonfirst",
     "wof:belongsto": [
@@ -46,7 +47,7 @@
       }
     ],
     "wof:id": 1159285607,
-    "wof:lastmodified": 1638482216,
+    "wof:lastmodified": 1640740881,
     "wof:name": "NAC (New Zealand National Airways)",
     "wof:parent_id": 85633345,
     "wof:placetype": "custom",

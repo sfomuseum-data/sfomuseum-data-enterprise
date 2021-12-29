@@ -19,7 +19,7 @@
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "National Airline of the Stars  (National Airlines)",
-    "sfomuseum:name": "National Airline of the Stars",
+    "sfomuseum:name": "National Airlines",
     "sfomuseum:placetype": "airline",
     "src:geom": "quattroshapes",
     "wof:belongsto": [
@@ -46,8 +46,8 @@
       }
     ],
     "wof:id": 1159285801,
-    "wof:lastmodified": 1637696265,
-    "wof:name": "National Airline of the Stars",
+    "wof:lastmodified": 1640740881,
+    "wof:name": "National Airlines",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",

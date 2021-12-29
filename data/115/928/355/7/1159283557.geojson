@@ -17,7 +17,7 @@
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Aerotours Dominicano Airlines",
-    "sfomuseum:name": "Aerotours Dominicano Airlines",
+    "sfomuseum:name": "Aerotours Dominicana",
     "sfomuseum:placetype": "airline",
     "src:geom": "quattroshapes",
     "wof:belongsto": [
@@ -42,8 +42,8 @@
       }
     ],
     "wof:id": 1159283557,
-    "wof:lastmodified": 1619636678,
-    "wof:name": "Aerotours Dominicano Airlines",
+    "wof:lastmodified": 1640740881,
+    "wof:name": "Aerotours Dominicana",
     "wof:parent_id": 85632713,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",
