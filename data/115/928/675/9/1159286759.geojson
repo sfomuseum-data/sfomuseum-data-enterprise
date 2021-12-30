@@ -12,6 +12,7 @@
     "geom:latitude": 32.529718,
     "geom:longitude": 106.802874,
     "iso:country": "CN",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159286759,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1640906184,
     "wof:name": "Zhejiang Airlines",
     "wof:parent_id": 85632695,
     "wof:placetype": "custom",

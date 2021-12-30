@@ -12,6 +12,8 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -60,7 +62,7 @@
       }
     ],
     "wof:id": 1159286793,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1640906241,
     "wof:name": "TAROM (Romanian Air Transport)",
     "wof:parent_id": 102559229,
     "wof:placetype": "custom",

@@ -12,6 +12,8 @@
     "geom:latitude": 35.755744,
     "geom:longitude": 140.395257,
     "iso:country": "JP",
+    "millsfield:count_images": 36,
+    "millsfield:count_objects": 17,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -66,7 +68,7 @@
       }
     ],
     "wof:id": 1159287387,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1640906241,
     "wof:name": "Nippon Cargo Airlines",
     "wof:parent_id": 102541685,
     "wof:placetype": "custom",

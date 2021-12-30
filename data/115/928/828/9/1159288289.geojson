@@ -12,6 +12,8 @@
     "geom:latitude": 7.622919,
     "geom:longitude": 80.68822,
     "iso:country": "LK",
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -55,7 +57,7 @@
       }
     ],
     "wof:id": 1159288289,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1640906241,
     "wof:name": "Air Lanka",
     "wof:parent_id": 85632313,
     "wof:placetype": "custom",

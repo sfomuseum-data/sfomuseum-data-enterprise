@@ -14,6 +14,8 @@
     "geom:latitude": 51.846273,
     "geom:longitude": -0.145641,
     "iso:country": "GB",
+    "millsfield:count_images": 5,
+    "millsfield:count_objects": 3,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -58,7 +60,7 @@
       }
     ],
     "wof:id": 1159293995,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1640906241,
     "wof:name": "de Havilland",
     "wof:parent_id": 85684331,
     "wof:placetype": "custom",
@@ -67,8 +69,8 @@
     "wof:subordinate_of": [],
     "wof:superseded_by": [],
     "wof:supersedes": [
-        1729554257,
-	1159294299
+      1729554257,
+      1159294299
     ],
     "wof:tags": [
       "aerospace manufacturer"
