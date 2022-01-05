@@ -14,7 +14,8 @@
     "geom:latitude": 43.603902,
     "geom:longitude": 1.440694,
     "iso:country": "FR",
-    "millsfield:count_objects": 2,
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 3,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -68,7 +69,7 @@
       }
     ],
     "wof:id": 1159294137,
-    "wof:lastmodified": 1640906185,
+    "wof:lastmodified": 1641361430,
     "wof:name": "SNCASE",
     "wof:parent_id": 101750691,
     "wof:placetype": "custom",

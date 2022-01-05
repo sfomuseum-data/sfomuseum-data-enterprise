@@ -14,6 +14,8 @@
     "geom:latitude": -11.928923,
     "geom:longitude": -49.542449,
     "iso:country": "BR",
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -47,7 +49,7 @@
       }
     ],
     "wof:id": 1159286413,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1641361414,
     "wof:name": "Cruzeiro do Sul",
     "wof:parent_id": 85633009,
     "wof:placetype": "custom",

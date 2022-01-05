@@ -12,6 +12,8 @@
     "geom:latitude": 39.990821,
     "geom:longitude": -75.168428,
     "iso:country": "US",
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -46,7 +48,7 @@
       }
     ],
     "wof:id": 1159285895,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1641361414,
     "wof:name": "Capital Airlines System",
     "wof:parent_id": 101718083,
     "wof:placetype": "custom",

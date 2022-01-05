@@ -14,7 +14,8 @@
     "geom:latitude": -12.049141,
     "geom:longitude": -77.021217,
     "iso:country": "PE",
-    "millsfield:count_objects": 1,
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 4,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -68,7 +69,7 @@
       }
     ],
     "wof:id": 1159283551,
-    "wof:lastmodified": 1638482216,
+    "wof:lastmodified": 1641361414,
     "wof:name": "Aeroperu",
     "wof:parent_id": 421186805,
     "wof:placetype": "custom",

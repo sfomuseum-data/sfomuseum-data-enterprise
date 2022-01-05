@@ -14,6 +14,8 @@
     "geom:latitude": 41.878243,
     "geom:longitude": 12.52809,
     "iso:country": "IT",
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -63,7 +65,7 @@
       }
     ],
     "wof:id": 1159287517,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1641361430,
     "wof:name": "Ala Littoria",
     "wof:parent_id": 101752607,
     "wof:placetype": "custom",
