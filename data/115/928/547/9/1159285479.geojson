@@ -45,6 +45,7 @@
     "wof:concordances": {
       "flysfo:code": "VN",
       "iata:code": "VN",
+      "icao:callsign": "VIET NAM AIRLINES",
       "icao:code": "HVN",
       "wd:id": "Q174386",
       "wk:page": "Vietnam Airlines",
@@ -68,7 +69,7 @@
       }
     ],
     "wof:id": 1159285479,
-    "wof:lastmodified": 1639525782,
+    "wof:lastmodified": 1641590557,
     "wof:name": "Vietnam Airlines",
     "wof:parent_id": 1108780791,
     "wof:placetype": "custom",
