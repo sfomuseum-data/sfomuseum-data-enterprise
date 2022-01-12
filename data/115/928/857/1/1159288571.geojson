@@ -12,6 +12,7 @@
     "geom:latitude": -22.570006,
     "geom:longitude": 17.083546,
     "iso:country": "NA",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159288571,
-    "wof:lastmodified": 1619636679,
+    "wof:lastmodified": 1641942130,
     "wof:name": "Air Namibia",
     "wof:parent_id": 1141909361,
     "wof:placetype": "custom",

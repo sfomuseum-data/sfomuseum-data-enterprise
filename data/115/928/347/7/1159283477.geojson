@@ -12,6 +12,7 @@
     "geom:latitude": -22.904243,
     "geom:longitude": -47.109468,
     "iso:country": "BR",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -68,7 +69,7 @@
       }
     ],
     "wof:id": 1159283477,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1641942100,
     "wof:name": "ABSA Cargo Airline",
     "wof:parent_id": 101956069,
     "wof:placetype": "custom",

@@ -15,7 +15,7 @@
     "geom:longitude": 123.426898,
     "iso:country": "CN",
     "millsfield:count_images": 4,
-    "millsfield:count_objects": 4,
+    "millsfield:count_objects": 6,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1159286873,
-    "wof:lastmodified": 1640906241,
+    "wof:lastmodified": 1641942131,
     "wof:name": "China Northern Airlines",
     "wof:parent_id": 102027875,
     "wof:placetype": "custom",

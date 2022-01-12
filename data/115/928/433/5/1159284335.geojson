@@ -13,7 +13,7 @@
     "geom:longitude": -96.999668,
     "iso:country": "US",
     "millsfield:count_images": 14,
-    "millsfield:count_objects": 16,
+    "millsfield:count_objects": 14,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -60,7 +60,7 @@
       }
     ],
     "wof:id": 1159284335,
-    "wof:lastmodified": 1641361370,
+    "wof:lastmodified": 1641942100,
     "wof:name": "Empire Airlines",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

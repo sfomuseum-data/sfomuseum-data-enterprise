@@ -15,7 +15,7 @@
     "geom:longitude": -96.999668,
     "iso:country": "US",
     "millsfield:count_images": 14,
-    "millsfield:count_objects": 15,
+    "millsfield:count_objects": 18,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1159284011,
-    "wof:lastmodified": 1641361415,
+    "wof:lastmodified": 1641942098,
     "wof:name": "Braniff Airways",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

@@ -15,7 +15,7 @@
     "geom:longitude": 4.792712,
     "iso:country": "BE",
     "millsfield:count_images": 2,
-    "millsfield:count_objects": 1,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1159287405,
-    "wof:lastmodified": 1641361430,
+    "wof:lastmodified": 1641942131,
     "wof:name": "Sobelair",
     "wof:parent_id": 85632997,
     "wof:placetype": "custom",
