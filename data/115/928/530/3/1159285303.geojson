@@ -11,7 +11,7 @@
     "geom:longitude": 0,
     "iso:country": "XN",
     "millsfield:count_images": 4,
-    "millsfield:count_objects": 3,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 1159285303,
-    "wof:lastmodified": 1641361414,
+    "wof:lastmodified": 1641942099,
     "wof:name": "Toa Domestic Airlines (TDA)",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

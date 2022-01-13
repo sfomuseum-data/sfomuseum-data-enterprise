@@ -12,6 +12,7 @@
     "geom:latitude": 17.32657,
     "geom:longitude": 95.71155,
     "iso:country": "MM",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -50,7 +51,7 @@
       }
     ],
     "wof:id": 1159284835,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1641942099,
     "wof:name": "Myanmar Airways",
     "wof:parent_id": 421173357,
     "wof:placetype": "custom",

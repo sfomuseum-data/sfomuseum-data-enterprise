@@ -15,7 +15,7 @@
     "geom:longitude": 138.441899,
     "iso:country": "JP",
     "millsfield:count_images": 4,
-    "millsfield:count_objects": 3,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1159285727,
-    "wof:lastmodified": 1641361414,
+    "wof:lastmodified": 1641942100,
     "wof:name": "Japan Air System",
     "wof:parent_id": 85632429,
     "wof:placetype": "custom",

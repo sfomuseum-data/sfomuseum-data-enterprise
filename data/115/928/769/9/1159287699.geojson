@@ -15,7 +15,7 @@
     "geom:longitude": -49.542449,
     "iso:country": "BR",
     "millsfield:count_images": 2,
-    "millsfield:count_objects": 2,
+    "millsfield:count_objects": 5,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1159287699,
-    "wof:lastmodified": 1641361430,
+    "wof:lastmodified": 1641942131,
     "wof:name": "VASP",
     "wof:parent_id": 85633009,
     "wof:placetype": "custom",

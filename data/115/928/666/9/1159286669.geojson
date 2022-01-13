@@ -12,6 +12,7 @@
     "geom:latitude": 54.303602,
     "geom:longitude": 48.298334,
     "iso:country": "RU",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159286669,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1641942130,
     "wof:name": "Volga-Dnepr Airlines",
     "wof:parent_id": 102009997,
     "wof:placetype": "custom",

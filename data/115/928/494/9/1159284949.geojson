@@ -15,7 +15,7 @@
     "geom:longitude": 106.66667,
     "iso:country": "VN",
     "millsfield:count_images": 81,
-    "millsfield:count_objects": 62,
+    "millsfield:count_objects": 60,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -55,7 +55,7 @@
       }
     ],
     "wof:id": 1159284949,
-    "wof:lastmodified": 1641361414,
+    "wof:lastmodified": 1641942100,
     "wof:name": "Southwest Airways",
     "wof:parent_id": 421176809,
     "wof:placetype": "custom",

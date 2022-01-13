@@ -12,6 +12,7 @@
     "geom:latitude": 41.04093,
     "geom:longitude": -73.71457,
     "iso:country": "US",
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1159288287,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1641942131,
     "wof:name": "Polar Air Cargo",
     "wof:parent_id": 1125816673,
     "wof:placetype": "custom",
