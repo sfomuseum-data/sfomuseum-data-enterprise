@@ -23,7 +23,7 @@
     "sfomuseum:count_objects_public": 79,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Frontier Airlines",
-    "sfomuseum:name": "Frontier Airlines",
+    "sfomuseum:name": "Frontier Airlines (1994-)",
     "sfomuseum:placetype": "airline",
     "src:geom": "mz",
     "wd:airline_hub": [
@@ -71,8 +71,8 @@
       }
     ],
     "wof:id": 1159284401,
-    "wof:lastmodified": 1642731941,
-    "wof:name": "Frontier Airlines",
+    "wof:lastmodified": 1644376134,
+    "wof:name": "Frontier Airlines (1994-)",
     "wof:parent_id": 85928879,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",
