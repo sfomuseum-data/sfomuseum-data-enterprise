@@ -21,7 +21,7 @@
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Braniff International Airlines",
-    "sfomuseum:name": "Braniff International Airlines (1991-1992)",
+    "sfomuseum:name": "Braniff International Airlines",
     "sfomuseum:placetype": "airline",
     "src:geom": "quattroshapes",
     "wd:airline_hub": [
@@ -62,8 +62,8 @@
       }
     ],
     "wof:id": 1159286459,
-    "wof:lastmodified": 1644376134,
-    "wof:name": "Braniff International Airlines (1991-1992)",
+    "wof:lastmodified": 1644567501,
+    "wof:name": "Braniff International Airlines",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",
