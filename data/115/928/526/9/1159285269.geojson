@@ -19,7 +19,7 @@
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Tan - Sahsa",
-    "sfomuseum:name": "Tan - Sahsa",
+    "sfomuseum:name": "TAN-SAHSA",
     "sfomuseum:placetype": "airline",
     "src:geom": "quattroshapes",
     "wof:belongsto": [
@@ -44,8 +44,8 @@
       }
     ],
     "wof:id": 1159285269,
-    "wof:lastmodified": 1619636676,
-    "wof:name": "Tan - Sahsa",
+    "wof:lastmodified": 1644567501,
+    "wof:name": "TAN-SAHSA",
     "wof:parent_id": 85632323,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",
