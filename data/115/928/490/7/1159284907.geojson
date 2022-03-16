@@ -15,7 +15,7 @@
     "geom:longitude": -93.163792,
     "iso:country": "US",
     "millsfield:count_images": 315,
-    "millsfield:count_objects": 236,
+    "millsfield:count_objects": 237,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -75,7 +75,7 @@
       }
     ],
     "wof:id": 1159284907,
-    "wof:lastmodified": 1644019810,
+    "wof:lastmodified": 1647416780,
     "wof:name": "Northwest Airlines",
     "wof:parent_id": 85968491,
     "wof:placetype": "custom",
