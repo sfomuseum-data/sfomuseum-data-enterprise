@@ -15,7 +15,7 @@
     "geom:longitude": 174.672404,
     "iso:country": "NZ",
     "millsfield:count_images": 94,
-    "millsfield:count_objects": 78,
+    "millsfield:count_objects": 80,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 1159283697,
-    "wof:lastmodified": 1642731941,
+    "wof:lastmodified": 1647589786,
     "wof:name": "Air New Zealand",
     "wof:parent_id": 101914257,
     "wof:placetype": "custom",
