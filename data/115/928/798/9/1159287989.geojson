@@ -12,6 +12,7 @@
     "geom:latitude": 53.078731,
     "geom:longitude": -7.798618,
     "iso:country": "IE",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -49,7 +50,7 @@
       }
     ],
     "wof:id": 1159287989,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1648683801,
     "wof:name": "Aer Turas",
     "wof:parent_id": 85633241,
     "wof:placetype": "custom",

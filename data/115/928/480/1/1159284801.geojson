@@ -14,7 +14,8 @@
     "geom:latitude": 42.87921,
     "geom:longitude": -87.914662,
     "iso:country": "US",
-    "millsfield:count_objects": 1,
+    "millsfield:count_images": 7,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -70,7 +71,7 @@
       }
     ],
     "wof:id": 1159284801,
-    "wof:lastmodified": 1638482215,
+    "wof:lastmodified": 1648683813,
     "wof:name": "Midwest Airlines",
     "wof:parent_id": 101733079,
     "wof:placetype": "custom",

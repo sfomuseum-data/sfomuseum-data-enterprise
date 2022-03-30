@@ -12,6 +12,7 @@
     "geom:latitude": 41.87897,
     "geom:longitude": -87.66063,
     "iso:country": "US",
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -53,7 +54,7 @@
       }
     ],
     "wof:id": 1159286023,
-    "wof:lastmodified": 1638482216,
+    "wof:lastmodified": 1648683813,
     "wof:name": "Stout Air Transport",
     "wof:parent_id": 85940195,
     "wof:placetype": "custom",

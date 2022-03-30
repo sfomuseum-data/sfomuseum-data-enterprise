@@ -12,7 +12,7 @@
     "geom:latitude": 41.01384,
     "geom:longitude": 28.94966,
     "iso:country": "TR",
-    "millsfield:count_objects": 1,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1159287843,
-    "wof:lastmodified": 1641942131,
+    "wof:lastmodified": 1648683800,
     "wof:name": "Pegasus Airlines",
     "wof:parent_id": 890460455,
     "wof:placetype": "custom",

@@ -14,6 +14,8 @@
     "geom:latitude": 41.878243,
     "geom:longitude": 12.52809,
     "iso:country": "IT",
+    "millsfield:count_images": 3,
+    "millsfield:count_objects": 3,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -66,7 +68,7 @@
       }
     ],
     "wof:id": 1159287455,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1648683829,
     "wof:name": "Linee Aeree Italiane",
     "wof:parent_id": 101752607,
     "wof:placetype": "custom",
