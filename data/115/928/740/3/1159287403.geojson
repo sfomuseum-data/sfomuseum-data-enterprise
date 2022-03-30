@@ -12,6 +12,7 @@
     "geom:latitude": -23.992438,
     "geom:longitude": 134.050443,
     "iso:country": "AU",
+    "millsfield:count_images": 1,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -51,7 +52,7 @@
       }
     ],
     "wof:id": 1159287403,
-    "wof:lastmodified": 1640906184,
+    "wof:lastmodified": 1648626357,
     "wof:name": "Queensland Airline",
     "wof:parent_id": 85632793,
     "wof:placetype": "custom",
