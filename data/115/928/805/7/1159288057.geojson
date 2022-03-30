@@ -12,7 +12,7 @@
     "geom:latitude": 23.798532,
     "geom:longitude": 120.955426,
     "iso:country": "TW",
-    "millsfield:count_images": 248,
+    "millsfield:count_images": 252,
     "millsfield:count_objects": 230,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -58,7 +58,7 @@
       }
     ],
     "wof:id": 1159288057,
-    "wof:lastmodified": 1641942187,
+    "wof:lastmodified": 1648626357,
     "wof:name": "China Airlines",
     "wof:parent_id": 85632403,
     "wof:placetype": "custom",
