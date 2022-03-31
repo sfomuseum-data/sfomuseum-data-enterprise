@@ -14,6 +14,8 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
+    "millsfield:count_images": 6,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -82,7 +84,7 @@
       }
     ],
     "wof:id": 1159286475,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1648683813,
     "wof:name": "SWISS",
     "wof:parent_id": 102544737,
     "wof:placetype": "custom",

@@ -12,6 +12,8 @@
     "geom:latitude": 47.90771,
     "geom:longitude": 106.88324,
     "iso:country": "MN",
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -62,7 +64,7 @@
       }
     ],
     "wof:id": 1159288535,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1648683829,
     "wof:name": "MIAT Mongolian Airlines",
     "wof:parent_id": 421186169,
     "wof:placetype": "custom",

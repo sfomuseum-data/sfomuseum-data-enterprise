@@ -14,7 +14,8 @@
     "geom:latitude": 52.418788,
     "geom:longitude": -1.247349,
     "iso:country": "GB",
-    "millsfield:count_objects": 2,
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 7,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -61,7 +62,7 @@
       }
     ],
     "wof:id": 1159283563,
-    "wof:lastmodified": 1641942099,
+    "wof:lastmodified": 1648683813,
     "wof:name": "Air 2000",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

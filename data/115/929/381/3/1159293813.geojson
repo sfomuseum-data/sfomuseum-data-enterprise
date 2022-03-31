@@ -12,7 +12,7 @@
     "geom:latitude": 50.469863,
     "geom:longitude": 30.431971,
     "iso:country": "UA",
-    "millsfield:count_objects": 3,
+    "millsfield:count_objects": 4,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1159293813,
-    "wof:lastmodified": 1641942131,
+    "wof:lastmodified": 1648683800,
     "wof:name": "Antonov",
     "wof:parent_id": 101752489,
     "wof:placetype": "custom",

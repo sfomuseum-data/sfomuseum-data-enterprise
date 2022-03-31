@@ -14,6 +14,8 @@
     "geom:latitude": 15.13855,
     "geom:longitude": -14.768082,
     "iso:country": "SN",
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -61,7 +63,7 @@
       }
     ],
     "wof:id": 1159283737,
-    "wof:lastmodified": 1619636675,
+    "wof:lastmodified": 1648683813,
     "wof:name": "Air Sénégal International",
     "wof:parent_id": 85632365,
     "wof:placetype": "custom",

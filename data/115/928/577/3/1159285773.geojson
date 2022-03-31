@@ -12,6 +12,8 @@
     "geom:latitude": -12.98078,
     "geom:longitude": -72.876651,
     "iso:country": "PE",
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -44,7 +46,7 @@
       }
     ],
     "wof:id": 1159285773,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1648683813,
     "wof:name": "Faucett Peruvian Airlines",
     "wof:parent_id": 85632521,
     "wof:placetype": "custom",
