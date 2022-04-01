@@ -10,6 +10,7 @@
     "geom:latitude": 50.780688,
     "geom:longitude": 4.792712,
     "iso:country": "BE",
+    "millsfield:count_images": 1,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -41,7 +42,7 @@
       }
     ],
     "wof:id": 1159286683,
-    "wof:lastmodified": 1648683800,
+    "wof:lastmodified": 1648799230,
     "wof:name": "Euro Belgium Airlines",
     "wof:parent_id": 85632997,
     "wof:placetype": "custom",

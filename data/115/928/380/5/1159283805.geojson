@@ -14,7 +14,7 @@
     "geom:latitude": 32.736212,
     "geom:longitude": -96.784359,
     "iso:country": "US",
-    "millsfield:count_images": 48,
+    "millsfield:count_images": 49,
     "millsfield:count_objects": 42,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -72,7 +72,7 @@
       }
     ],
     "wof:id": 1159283805,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1648799214,
     "wof:name": "AirTran Airways",
     "wof:parent_id": 101724385,
     "wof:placetype": "custom",

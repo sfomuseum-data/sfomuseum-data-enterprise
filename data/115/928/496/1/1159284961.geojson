@@ -12,7 +12,7 @@
     "geom:latitude": 58.33747,
     "geom:longitude": -112.384858,
     "iso:country": "CA",
-    "millsfield:count_images": 20,
+    "millsfield:count_images": 21,
     "millsfield:count_objects": 19,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 1159284961,
-    "wof:lastmodified": 1641361414,
+    "wof:lastmodified": 1648799214,
     "wof:name": "Pacific Coast Airlines",
     "wof:parent_id": 85633041,
     "wof:placetype": "custom",
