@@ -12,7 +12,7 @@
     "geom:latitude": 51.056508,
     "geom:longitude": -114.033822,
     "iso:country": "CA",
-    "millsfield:count_images": 2,
+    "millsfield:count_images": 3,
     "millsfield:count_objects": 14,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1159287061,
-    "wof:lastmodified": 1648683829,
+    "wof:lastmodified": 1648799230,
     "wof:name": "WestJet Airlines",
     "wof:parent_id": 890458845,
     "wof:placetype": "custom",

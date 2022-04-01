@@ -14,7 +14,7 @@
     "geom:latitude": -30.099115,
     "geom:longitude": -51.179506,
     "iso:country": "BR",
-    "millsfield:count_images": 100,
+    "millsfield:count_images": 104,
     "millsfield:count_objects": 83,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -69,7 +69,7 @@
       }
     ],
     "wof:id": 1159285461,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1648799214,
     "wof:name": "VARIG",
     "wof:parent_id": 101960525,
     "wof:placetype": "custom",
