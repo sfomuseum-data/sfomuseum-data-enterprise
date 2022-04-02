@@ -14,7 +14,7 @@
     "geom:latitude": 40.68295,
     "geom:longitude": -73.9708,
     "iso:country": "US",
-    "millsfield:count_images": 4354,
+    "millsfield:count_images": 4355,
     "millsfield:count_objects": 3525,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -111,7 +111,7 @@
       }
     ],
     "wof:id": 1159286839,
-    "wof:lastmodified": 1648799230,
+    "wof:lastmodified": 1648885061,
     "wof:name": "Pan American World Airways",
     "wof:parent_id": 85977539,
     "wof:placetype": "custom",
