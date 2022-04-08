@@ -11,7 +11,7 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XY",
-    "millsfield:count_images": 14,
+    "millsfield:count_images": 17,
     "millsfield:count_objects": 17,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -36,7 +36,7 @@
       }
     ],
     "wof:id": 1729557905,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1649405545,
     "wof:name": "Delta-C\u0026S (Chicago \u0026 Southern Air Lines)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

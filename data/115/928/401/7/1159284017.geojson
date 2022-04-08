@@ -14,7 +14,7 @@
     "geom:latitude": 52.418788,
     "geom:longitude": -1.247349,
     "iso:country": "GB",
-    "millsfield:count_images": 13,
+    "millsfield:count_images": 14,
     "millsfield:count_objects": 7,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1159284017,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1649405545,
     "wof:name": "British Eagle International Airlines",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

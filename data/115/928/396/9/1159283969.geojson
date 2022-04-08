@@ -12,6 +12,7 @@
     "geom:latitude": 16.34997,
     "geom:longitude": 29.381307,
     "iso:country": "SD",
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -45,7 +46,7 @@
       }
     ],
     "wof:id": 1159283969,
-    "wof:lastmodified": 1641942100,
+    "wof:lastmodified": 1649405545,
     "wof:name": "AZZA Air Transport",
     "wof:parent_id": 85632751,
     "wof:placetype": "custom",

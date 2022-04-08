@@ -12,6 +12,7 @@
     "geom:latitude": 51.867374,
     "geom:longitude": -0.378606,
     "iso:country": "",
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -63,7 +64,7 @@
       }
     ],
     "wof:id": 1159288167,
-    "wof:lastmodified": 1641942131,
+    "wof:lastmodified": 1649405563,
     "wof:name": "easyJet",
     "wof:parent_id": 102556835,
     "wof:placetype": "custom",

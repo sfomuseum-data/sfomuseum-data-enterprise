@@ -14,7 +14,7 @@
     "geom:latitude": 48.724575,
     "geom:longitude": 2.360117,
     "iso:country": "FR",
-    "millsfield:count_images": 32,
+    "millsfield:count_images": 33,
     "millsfield:count_objects": 28,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -72,7 +72,7 @@
       }
     ],
     "wof:id": 1159286621,
-    "wof:lastmodified": 1641942187,
+    "wof:lastmodified": 1649405563,
     "wof:name": "Air Inter",
     "wof:parent_id": 101751005,
     "wof:placetype": "custom",

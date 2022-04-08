@@ -12,7 +12,7 @@
     "geom:latitude": 23.798532,
     "geom:longitude": 120.955426,
     "iso:country": "TW",
-    "millsfield:count_images": 8,
+    "millsfield:count_images": 9,
     "millsfield:count_objects": 4,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1159284155,
-    "wof:lastmodified": 1648799214,
+    "wof:lastmodified": 1649405545,
     "wof:name": "China Airlines Cargo",
     "wof:parent_id": 85632403,
     "wof:placetype": "custom",

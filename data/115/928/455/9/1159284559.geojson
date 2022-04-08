@@ -10,6 +10,7 @@
     "geom:latitude": 39.339547,
     "geom:longitude": 34.51052,
     "iso:country": "TR",
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -43,7 +44,7 @@
       }
     ],
     "wof:id": 1159284559,
-    "wof:lastmodified": 1641942099,
+    "wof:lastmodified": 1649405545,
     "wof:name": "Istanbul Airlines",
     "wof:parent_id": 85632393,
     "wof:placetype": "custom",

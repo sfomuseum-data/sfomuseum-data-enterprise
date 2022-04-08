@@ -10,6 +10,7 @@
     "geom:latitude": 5.121996,
     "geom:longitude": -58.912352,
     "iso:country": "GY",
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -41,7 +42,7 @@
       }
     ],
     "wof:id": 1159287265,
-    "wof:lastmodified": 1641942130,
+    "wof:lastmodified": 1649405563,
     "wof:name": "Guyana Air 2000",
     "wof:parent_id": 85632397,
     "wof:placetype": "custom",

@@ -10,6 +10,7 @@
     "geom:latitude": -1.241567,
     "geom:longitude": -78.322784,
     "iso:country": "EC",
+    "millsfield:count_images": 1,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -41,7 +42,7 @@
       }
     ],
     "wof:id": 1159287787,
-    "wof:lastmodified": 1641942131,
+    "wof:lastmodified": 1649405563,
     "wof:name": "AECA Carga",
     "wof:parent_id": 85632261,
     "wof:placetype": "custom",

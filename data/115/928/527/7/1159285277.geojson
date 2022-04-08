@@ -12,7 +12,7 @@
     "geom:latitude": 38.772844,
     "geom:longitude": -9.135591,
     "iso:country": "",
-    "millsfield:count_images": 21,
+    "millsfield:count_images": 23,
     "millsfield:count_objects": 17,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 1159285277,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1649405545,
     "wof:name": "TAP (Transportes Aereos Portugueses)",
     "wof:parent_id": 102535643,
     "wof:placetype": "custom",

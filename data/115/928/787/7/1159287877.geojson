@@ -14,7 +14,7 @@
     "geom:latitude": 54.700902,
     "geom:longitude": 25.251531,
     "iso:country": "LT",
-    "millsfield:count_images": 7,
+    "millsfield:count_images": 8,
     "millsfield:count_objects": 5,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1159287877,
-    "wof:lastmodified": 1648683829,
+    "wof:lastmodified": 1649405563,
     "wof:name": "Lithuanian Airlines",
     "wof:parent_id": 101753031,
     "wof:placetype": "custom",

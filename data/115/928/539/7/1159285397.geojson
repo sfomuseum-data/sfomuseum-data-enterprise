@@ -12,7 +12,7 @@
     "geom:latitude": 39.715956,
     "geom:longitude": -96.999668,
     "iso:country": "US",
-    "millsfield:count_images": 7,
+    "millsfield:count_images": 9,
     "millsfield:count_objects": 6,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -55,7 +55,7 @@
       }
     ],
     "wof:id": 1159285397,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1649405545,
     "wof:name": "Trans World Express",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

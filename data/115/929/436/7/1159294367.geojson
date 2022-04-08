@@ -12,7 +12,7 @@
     "geom:latitude": -23.236577,
     "geom:longitude": -45.859225,
     "iso:country": "BR",
-    "millsfield:count_images": 22,
+    "millsfield:count_images": 34,
     "millsfield:count_objects": 23,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1159294367,
-    "wof:lastmodified": 1648799230,
+    "wof:lastmodified": 1649405563,
     "wof:name": "Embraer",
     "wof:parent_id": 101965823,
     "wof:placetype": "custom",
