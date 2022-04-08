@@ -12,6 +12,7 @@
     "geom:latitude": -8.078523,
     "geom:longitude": 159.243596,
     "iso:country": "SB",
+    "millsfield:count_images": 1,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -53,7 +54,7 @@
       }
     ],
     "wof:id": 1159288901,
-    "wof:lastmodified": 1641942130,
+    "wof:lastmodified": 1649405563,
     "wof:name": "Pacific Air Express",
     "wof:parent_id": 85632591,
     "wof:placetype": "custom",

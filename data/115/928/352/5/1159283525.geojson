@@ -14,7 +14,7 @@
     "geom:latitude": 55.741469,
     "geom:longitude": 37.615561,
     "iso:country": "RU",
-    "millsfield:count_images": 16,
+    "millsfield:count_images": 30,
     "millsfield:count_objects": 27,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -74,7 +74,7 @@
       }
     ],
     "wof:id": 1159283525,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1649405545,
     "wof:name": "Aeroflot Russian Airlines",
     "wof:parent_id": 102003033,
     "wof:placetype": "custom",

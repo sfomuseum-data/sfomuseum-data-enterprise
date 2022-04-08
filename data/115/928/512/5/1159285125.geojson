@@ -12,6 +12,7 @@
     "geom:latitude": 21.51694,
     "geom:longitude": 39.21917,
     "iso:country": "SA",
+    "millsfield:count_images": 1,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -68,7 +69,7 @@
       }
     ],
     "wof:id": 1159285125,
-    "wof:lastmodified": 1641942099,
+    "wof:lastmodified": 1649405545,
     "wof:name": "Saudi Arabian Airlines Cargo",
     "wof:parent_id": 890441449,
     "wof:placetype": "custom",

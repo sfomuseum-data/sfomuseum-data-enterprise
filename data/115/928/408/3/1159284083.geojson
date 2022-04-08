@@ -14,7 +14,7 @@
     "geom:latitude": 43.64877,
     "geom:longitude": -79.38171,
     "iso:country": "CA",
-    "millsfield:count_images": 6,
+    "millsfield:count_images": 8,
     "millsfield:count_objects": 6,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1159284083,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1649405545,
     "wof:name": "Canada 3000",
     "wof:parent_id": 101735835,
     "wof:placetype": "custom",

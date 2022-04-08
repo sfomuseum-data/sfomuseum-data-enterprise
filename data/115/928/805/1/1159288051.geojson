@@ -10,7 +10,7 @@
     "geom:latitude": 39.715956,
     "geom:longitude": -96.999668,
     "iso:country": "US",
-    "millsfield:count_images": 197,
+    "millsfield:count_images": 199,
     "millsfield:count_objects": 173,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 1159288051,
-    "wof:lastmodified": 1648683829,
+    "wof:lastmodified": 1649405563,
     "wof:name": "SFO Helicopter Airlines",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

@@ -14,7 +14,7 @@
     "geom:latitude": 39.029372,
     "geom:longitude": -84.604307,
     "iso:country": "US",
-    "millsfield:count_images": 11,
+    "millsfield:count_images": 13,
     "millsfield:count_objects": 13,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -66,7 +66,7 @@
       }
     ],
     "wof:id": 1159284191,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1649405545,
     "wof:name": "ComAir",
     "wof:parent_id": 85947221,
     "wof:placetype": "custom",

@@ -14,6 +14,7 @@
     "geom:latitude": 63.314401,
     "geom:longitude": 93.884016,
     "iso:country": "RU",
+    "millsfield:count_images": 1,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -65,7 +66,7 @@
       }
     ],
     "wof:id": 1159284631,
-    "wof:lastmodified": 1635207824,
+    "wof:lastmodified": 1649405545,
     "wof:name": "Kuban Airlines",
     "wof:parent_id": 85632685,
     "wof:placetype": "custom",

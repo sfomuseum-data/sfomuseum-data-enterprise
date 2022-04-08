@@ -10,6 +10,7 @@
     "geom:latitude": 3.568925,
     "geom:longitude": 45.19238,
     "iso:country": "SO",
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -41,7 +42,7 @@
       }
     ],
     "wof:id": 1159286887,
-    "wof:lastmodified": 1641942131,
+    "wof:lastmodified": 1649405563,
     "wof:name": "Damal Airlines",
     "wof:parent_id": 85632379,
     "wof:placetype": "custom",

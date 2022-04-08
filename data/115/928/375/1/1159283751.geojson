@@ -14,6 +14,7 @@
     "geom:latitude": 43.603902,
     "geom:longitude": 1.440694,
     "iso:country": "FR",
+    "millsfield:count_images": 1,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -76,7 +77,7 @@
       }
     ],
     "wof:id": 1159283751,
-    "wof:lastmodified": 1641942099,
+    "wof:lastmodified": 1649405545,
     "wof:name": "Air Toulouse International",
     "wof:parent_id": 101750691,
     "wof:placetype": "custom",

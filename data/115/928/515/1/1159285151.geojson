@@ -12,7 +12,7 @@
     "geom:latitude": 30.652751,
     "geom:longitude": 104.068108,
     "iso:country": "CN",
-    "millsfield:count_images": 1,
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 1159285151,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1649405545,
     "wof:name": "Sichuan Airlines",
     "wof:parent_id": 102027703,
     "wof:placetype": "custom",

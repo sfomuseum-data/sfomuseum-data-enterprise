@@ -12,6 +12,7 @@
     "geom:latitude": 3.083714,
     "geom:longitude": 101.570241,
     "iso:country": "",
+    "millsfield:count_images": 1,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -45,7 +46,7 @@
       }
     ],
     "wof:id": 1159284739,
-    "wof:lastmodified": 1641942098,
+    "wof:lastmodified": 1649405545,
     "wof:name": "Malaysia Airlines Cargo",
     "wof:parent_id": 102551935,
     "wof:placetype": "custom",

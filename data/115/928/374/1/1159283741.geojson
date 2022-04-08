@@ -10,7 +10,7 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
-    "millsfield:count_images": 1,
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -43,7 +43,7 @@
       }
     ],
     "wof:id": 1159283741,
-    "wof:lastmodified": 1638482216,
+    "wof:lastmodified": 1649405545,
     "wof:name": "Air South",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
