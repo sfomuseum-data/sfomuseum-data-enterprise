@@ -37,9 +37,10 @@
     ],
     "wof:breaches": [],
     "wof:concordances": {
-      "wd:id": "Q1211606",
-      "wk:page": "Condor",
-      "wk:pageid": 148343
+      "iata:code": "DE",
+      "icao:code": "CFG",
+      "wd:id": "Q312517",
+      "wk:page": "Condor_(airline)",
     },
     "wof:controlled": [
       "wof:hierarchy",
