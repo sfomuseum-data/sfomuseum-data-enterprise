@@ -1,0 +1,61 @@
+{
+  "id": 1763552131,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2021-05-27",
+    "date:inception_upper": "2021-05-27",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-05-27",
+    "flysfo:airline_code": "MX",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0,
+    "geom:bbox": "-111.814510,40.618873,-111.814510,40.618873",
+    "geom:latitude": 40.618873,
+    "geom:longitude": -111.81451,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": -1,
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      102191575,
+      85633793,
+      102082877,
+      101728065,
+      85688567
+    ],
+    "wof:concordances": {
+      "iata:code": "MX",
+      "icao:code": "MXY",
+      "wk:id": "Q55641146"
+    },
+    "wof:country": "XY",
+    "wof:created": 1650494528,
+    "wof:geomhash": "439cbc13331004971faf12034111ea29",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082877,
+        "custom_id": 1763552131,
+        "locality_id": 101728065,
+        "region_id": 85688567
+      }
+    ],
+    "wof:id": 1763552131,
+    "wof:lastmodified": 1650494528,
+    "wof:name": "Breeze Airways",
+    "wof:parent_id": 101728065,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -111.81451,
+    40.618873,
+    -111.81451,
+    40.618873
+  ],
+  "geometry": {"coordinates":[-111.81451,40.618873],"type":"Point"}
+}
