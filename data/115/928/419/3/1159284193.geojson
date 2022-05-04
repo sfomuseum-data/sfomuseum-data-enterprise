@@ -40,7 +40,7 @@
       "iata:code": "DE",
       "icao:code": "CFG",
       "wd:id": "Q312517",
-      "wk:page": "Condor_(airline)",
+      "wk:page": "Condor_(airline)"
     },
     "wof:controlled": [
       "wof:hierarchy",
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1159284193,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1651702679,
     "wof:name": "Condor",
     "wof:parent_id": 101913837,
     "wof:placetype": "custom",
