@@ -1,0 +1,63 @@
+{
+  "id": 1763699293,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2020-11-11",
+    "date:inception_upper": "2020-11-11",
+    "edtf:cessation": "..",
+    "edtf:inception": "2020-11-11",
+    "flysfo:airline_code": "AZ",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0,
+    "geom:bbox": "12.528090,41.878243,12.528090,41.878243",
+    "geom:latitude": 41.878243,
+    "geom:longitude": 12.52809,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": -1,
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      102191581,
+      85633253,
+      404461721,
+      101752607,
+      404227517,
+      85685461
+    ],
+    "wof:concordances": {
+      "iata:code": "AZ",
+      "icao:code": "ITY",
+      "wk:id": "Q108251249"
+    },
+    "wof:country": "XY",
+    "wof:created": 1652218701,
+    "wof:geomhash": "c6d28eefba76e07d888676a25601fbc8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633253,
+        "custom_id": 1763699293,
+        "localadmin_id": 404461721,
+        "locality_id": 101752607,
+        "macroregion_id": 404227517,
+        "region_id": 85685461
+      }
+    ],
+    "wof:id": 1763699293,
+    "wof:lastmodified": 1652218701,
+    "wof:name": "ITA Airways",
+    "wof:parent_id": 101752607,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    12.52809,
+    41.878243,
+    12.52809,
+    41.878243
+  ],
+  "geometry": {"coordinates":[12.52809,41.878243],"type":"Point"}
+}
