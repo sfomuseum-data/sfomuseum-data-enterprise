@@ -21,7 +21,7 @@
     "sfomuseum:count_objects_public": 58,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "BOAC (British Overseas Airways Corporation)",
-    "sfomuseum:name": "BOAC (British Overseas Airways Corporation)",
+    "sfomuseum:name": "British Overseas Airways Corporation (BOAC)",
     "sfomuseum:placetype": "airline",
     "src:geom": "mz",
     "wof:belongsto": [
@@ -48,8 +48,8 @@
       }
     ],
     "wof:id": 1159283999,
-    "wof:lastmodified": 1652428663,
-    "wof:name": "BOAC (British Overseas Airways Corporation)",
+    "wof:lastmodified": 1652944859,
+    "wof:name": "British Overseas Airways Corporation (BOAC)",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",
