@@ -1,5 +1,5 @@
 {
-  "id": 1762973287,
+  "id": 1779533511,
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
@@ -8,29 +8,29 @@
     "geom:bbox": "-0.000500,-0.000282,0.000379,0.000309",
     "geom:latitude": 0.0000033079147747203835,
     "geom:longitude": 0.000010113151096985458,
-    "millsfield:count_images": 172,
-    "millsfield:count_objects": 153,
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:is_current": -1,
-    "sfomuseum:airline_id": 1503,
+    "sfomuseum:airline_id": 1557,
     "sfomuseum:is_sfo": 1,
-    "sfomuseum:name": "Frontier Airlines",
+    "sfomuseum:name": "Blue Air",
     "sfomuseum:placetype": "airline",
     "src:geom": "nullisland",
     "wof:belongsto": [
       1
     ],
     "wof:country": "XN",
-    "wof:created": 1644376135,
+    "wof:created": 1653549819,
     "wof:geomhash": "22d11fea01c64b218102f3fcb34655a9",
     "wof:hierarchy": [
       {
-        "airline_id": 1762973287,
+        "airline_id": 1779533511,
         "country_id": 1
       }
     ],
-    "wof:id": 1762973287,
+    "wof:id": 1779533511,
     "wof:lastmodified": 1653551743,
-    "wof:name": "Frontier Airlines",
+    "wof:name": "Blue Air",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",
