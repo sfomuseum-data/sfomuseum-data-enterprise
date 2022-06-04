@@ -15,7 +15,7 @@
     "geom:longitude": -95.386025,
     "iso:country": "US",
     "millsfield:count_images": 44,
-    "millsfield:count_objects": 33,
+    "millsfield:count_objects": 34,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -73,7 +73,7 @@
       }
     ],
     "wof:id": 1159284203,
-    "wof:lastmodified": 1653638353,
+    "wof:lastmodified": 1654329705,
     "wof:name": "Continental Air Lines",
     "wof:parent_id": 101725629,
     "wof:placetype": "custom",

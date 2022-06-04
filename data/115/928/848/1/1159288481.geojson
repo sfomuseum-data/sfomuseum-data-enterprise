@@ -10,6 +10,8 @@
     "geom:latitude": 17.206637,
     "geom:longitude": -88.714488,
     "iso:country": "BZ",
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -40,7 +42,7 @@
       }
     ],
     "wof:id": 1159288481,
-    "wof:lastmodified": 1619636679,
+    "wof:lastmodified": 1654329787,
     "wof:name": "Belize Airways Limited",
     "wof:parent_id": 85632571,
     "wof:placetype": "custom",
