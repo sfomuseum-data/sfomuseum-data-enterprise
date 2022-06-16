@@ -25,7 +25,7 @@
     "sfomuseum:hub": "Newark,\u003c NJ / Baltimore, MD",
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Pinhurst Airlines  (Pinehurst Airlines)",
-    "sfomuseum:name": "Pinhurst Airlines",
+    "sfomuseum:name": "Pinehurst Airlines",
     "sfomuseum:placetype": "airline",
     "src:geom": "quattroshapes",
     "wof:belongsto": [
@@ -53,8 +53,8 @@
       }
     ],
     "wof:id": 1159286203,
-    "wof:lastmodified": 1648683813,
-    "wof:name": "Pinhurst Airlines",
+    "wof:lastmodified": 1655364308,
+    "wof:name": "Pinehurst Airlines",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",
