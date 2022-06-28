@@ -12,7 +12,7 @@
     "geom:bbox": "-46.847052,-23.496212,-46.847052,-23.496212",
     "geom:latitude": -23.496212,
     "geom:longitude": -46.847052,
-    "mz:is_current": -1,
+    "mz:is_current": 1,
     "sfomuseum:airline_id": -1,
     "sfomuseum:placetype": "airline",
     "src:geom": "unknown",
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 1779770723,
-    "wof:lastmodified": 1656456815,
+    "wof:lastmodified": 1656457131,
     "wof:name": "Azul Brazilian Airlines",
     "wof:parent_id": 101952565,
     "wof:placetype": "custom",
