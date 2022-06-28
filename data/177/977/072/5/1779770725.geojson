@@ -1,0 +1,63 @@
+{
+  "id": 1779770725,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2000-01-01",
+    "date:inception_upper": "2000-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2000",
+    "flysfo:airline_code": "G3",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0,
+    "geom:bbox": "-43.518246,-22.935024,-43.518246,-22.935024",
+    "geom:latitude": -22.935024,
+    "geom:longitude": -43.518246,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": -1,
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      102191577,
+      85633009,
+      102058455,
+      101953261,
+      1511777411,
+      85681991
+    ],
+    "wof:concordances": {
+      "iata:code": "G3",
+      "icao:code": "GLO",
+      "wk:id": "Q691637"
+    },
+    "wof:country": "XY",
+    "wof:created": 1656456671,
+    "wof:geomhash": "d8c99af09d90131561f6f1f633126b6f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191577,
+        "country_id": 85633009,
+        "county_id": 102058455,
+        "custom_id": 1779770725,
+        "locality_id": 101953261,
+        "macroregion_id": 1511777411,
+        "region_id": 85681991
+      }
+    ],
+    "wof:id": 1779770725,
+    "wof:lastmodified": 1656456671,
+    "wof:name": "GOL Linhas Aereas",
+    "wof:parent_id": 101953261,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -43.518246,
+    -22.935024,
+    -43.518246,
+    -22.935024
+  ],
+  "geometry": {"coordinates":[-43.518246,-22.935024],"type":"Point"}
+}

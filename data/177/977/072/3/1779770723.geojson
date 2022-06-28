@@ -2,45 +2,62 @@
   "id": 1779770723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "2008-01-01",
+    "date:inception_upper": "2008-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2008",
     "flysfo:airline_code": "AD",
     "flysfo:is_sfo": 1,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-46.847052,-23.496212,-46.847052,-23.496212",
+    "geom:latitude": -23.496212,
+    "geom:longitude": -46.847052,
     "mz:is_current": -1,
     "sfomuseum:airline_id": -1,
     "sfomuseum:placetype": "airline",
     "src:geom": "unknown",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      102191577,
+      85633009,
+      102061135,
+      404566153,
+      101952565,
+      1511777411,
+      85682041
+    ],
     "wof:concordances": {
       "iata:code": "AD",
       "icao:code": "AZU"
     },
-    "wof:country": "XY",
+    "wof:country": "BR",
     "wof:created": 1656456356,
-    "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash": "8d942d675ac01f36a6d4fe95a1a8a1b0",
     "wof:hierarchy": [
       {
-        "custom_id": 1779770723
+        "continent_id": 102191577,
+        "country_id": 85633009,
+        "county_id": 102061135,
+        "custom_id": 1779770723,
+        "localadmin_id": 404566153,
+        "locality_id": 101952565,
+        "macroregion_id": 1511777411,
+        "region_id": 85682041
       }
     ],
     "wof:id": 1779770723,
-    "wof:lastmodified": 1656456356,
-    "wof:name": "Azul",
-    "wof:parent_id": -1,
+    "wof:lastmodified": 1656456815,
+    "wof:name": "Azul Brazilian Airlines",
+    "wof:parent_id": 101952565,
     "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -46.847052,
+    -23.496212,
+    -46.847052,
+    -23.496212
   ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[-46.847052,-23.496212],"type":"Point"}
 }
