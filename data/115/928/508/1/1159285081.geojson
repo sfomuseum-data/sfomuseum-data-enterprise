@@ -36,7 +36,10 @@
       85673905
     ],
     "wof:breaches": [],
-    "wof:concordances": {},
+    "wof:concordances": {
+      "iata:code": "AT",
+      "icao:code": "RAM"
+    },
     "wof:controlled": [
       "wof:hierarchy",
       "wof:parent_id"
@@ -58,7 +61,7 @@
       }
     ],
     "wof:id": 1159285081,
-    "wof:lastmodified": 1653379342,
+    "wof:lastmodified": 1656544907,
     "wof:name": "Royal Air Maroc (RAM)",
     "wof:parent_id": 102546505,
     "wof:placetype": "custom",
