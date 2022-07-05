@@ -1,0 +1,61 @@
+{
+  "id": 1779782741,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2000-07-01",
+    "date:inception_upper": "2000-07-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2000-07",
+    "flysfo:airline_code": "TX",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0,
+    "geom:bbox": "-61.501704,16.271788,-61.501704,16.271788",
+    "geom:latitude": 16.271788,
+    "geom:longitude": -61.501704,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": -1,
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      102191581,
+      85633147,
+      136253037,
+      404428957,
+      85671209
+    ],
+    "wof:concordances": {
+      "iata:code": "TX",
+      "icao:code": "FWI",
+      "wk:id": "Q406992"
+    },
+    "wof:country": "XY",
+    "wof:created": 1657049397,
+    "wof:geomhash": "e6e160aa652594a2d98fa08b056c6104",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "custom_id": 1779782741,
+        "empire_id": 136253037,
+        "localadmin_id": 404428957,
+        "region_id": 85671209
+      }
+    ],
+    "wof:id": 1779782741,
+    "wof:lastmodified": 1657049397,
+    "wof:name": "Air Caraïbes",
+    "wof:parent_id": 404428957,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -61.501704,
+    16.271788,
+    -61.501704,
+    16.271788
+  ],
+  "geometry": {"coordinates":[-61.501704,16.271788],"type":"Point"}
+}
