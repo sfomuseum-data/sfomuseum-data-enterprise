@@ -12,6 +12,8 @@
     "geom:latitude": 38.765198,
     "geom:longitude": -90.428365,
     "iso:country": "US",
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 4,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -64,7 +66,7 @@
       }
     ],
     "wof:id": 1159288853,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1658735586,
     "wof:name": "Trans States Airlines",
     "wof:parent_id": 85972341,
     "wof:placetype": "custom",
