@@ -15,7 +15,7 @@
     "geom:longitude": 120.99694,
     "iso:country": "PH",
     "millsfield:count_images": 42,
-    "millsfield:count_objects": 28,
+    "millsfield:count_objects": 29,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1159285661,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1658822154,
     "wof:name": "Philippine Air Lines",
     "wof:parent_id": 421169759,
     "wof:placetype": "custom",
