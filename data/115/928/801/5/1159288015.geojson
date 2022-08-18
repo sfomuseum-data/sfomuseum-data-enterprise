@@ -13,7 +13,7 @@
     "geom:longitude": 144.978682,
     "iso:country": "AU",
     "millsfield:count_images": 3,
-    "millsfield:count_objects": 3,
+    "millsfield:count_objects": 4,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 1159288015,
-    "wof:lastmodified": 1649405563,
+    "wof:lastmodified": 1660809702,
     "wof:name": "Jetstar Airways",
     "wof:parent_id": 101933229,
     "wof:placetype": "custom",
