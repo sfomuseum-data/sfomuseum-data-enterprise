@@ -19,7 +19,7 @@
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Cam Air International",
-    "sfomuseum:name": "Cam Air International",
+    "sfomuseum:name": "CAM Air International",
     "sfomuseum:placetype": "airline",
     "src:geom": "quattroshapes",
     "wof:belongsto": [
@@ -46,8 +46,8 @@
       }
     ],
     "wof:id": 1159284079,
-    "wof:lastmodified": 1648799214,
-    "wof:name": "Cam Air International",
+    "wof:lastmodified": 1662794747,
+    "wof:name": "CAM Air International",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",

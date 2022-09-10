@@ -21,7 +21,7 @@
     "sfomuseum:hub": "Prague",
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "ČSA (Czechoslovak Airlines)  (Czech Airlines)",
-    "sfomuseum:name": "ČSA (Czechoslovak Airlines)",
+    "sfomuseum:name": "Czechoslovak Airlines",
     "sfomuseum:placetype": "airline",
     "src:geom": "quattroshapes",
     "wof:belongsto": [
@@ -46,8 +46,8 @@
       }
     ],
     "wof:id": 1159286397,
-    "wof:lastmodified": 1619636677,
-    "wof:name": "ČSA (Czechoslovak Airlines)",
+    "wof:lastmodified": 1662794747,
+    "wof:name": "Czechoslovak Airlines",
     "wof:parent_id": 101748113,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",
