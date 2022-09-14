@@ -21,7 +21,7 @@
     "sfomuseum:count_objects_public": 7,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Saudia Airlines  (Saudi Arabian Airlines)",
-    "sfomuseum:name": "Saudia Airlines",
+    "sfomuseum:name": "Saudia",
     "sfomuseum:placetype": "airline",
     "src:geom": "unknown",
     "wd:airline_hub": [
@@ -70,8 +70,8 @@
       }
     ],
     "wof:id": 1159285123,
-    "wof:lastmodified": 1653379342,
-    "wof:name": "Saudia Airlines",
+    "wof:lastmodified": 1663140372,
+    "wof:name": "Saudia",
     "wof:parent_id": 890441449,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",

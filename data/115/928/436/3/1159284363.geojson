@@ -21,7 +21,7 @@
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Express Jet Airlines",
-    "sfomuseum:name": "Express Jet Airlines",
+    "sfomuseum:name": "ExpressJet Airlines",
     "sfomuseum:placetype": "airline",
     "src:geom": "atldpcd",
     "wd:airline_hub": [
@@ -75,8 +75,8 @@
       }
     ],
     "wof:id": 1159284363,
-    "wof:lastmodified": 1660636702,
-    "wof:name": "Express Jet Airlines",
+    "wof:lastmodified": 1663140372,
+    "wof:name": "ExpressJet Airlines",
     "wof:parent_id": 85936429,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",

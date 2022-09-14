@@ -18,7 +18,7 @@
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "U.A.S. Cargo",
-    "sfomuseum:name": "U.A.S. Cargo",
+    "sfomuseum:name": "United Air Services",
     "sfomuseum:placetype": "airline",
     "src:geom": "nullisland",
     "wof:belongsto": [
@@ -41,8 +41,8 @@
       }
     ],
     "wof:id": 1159285403,
-    "wof:lastmodified": 1619636678,
-    "wof:name": "U.A.S. Cargo",
+    "wof:lastmodified": 1663140372,
+    "wof:name": "United Air Services",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",

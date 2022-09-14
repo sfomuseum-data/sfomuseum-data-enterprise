@@ -21,7 +21,7 @@
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Odyssey International Airlines",
-    "sfomuseum:name": "Odyssey International Airlines",
+    "sfomuseum:name": "Odyssey International",
     "sfomuseum:placetype": "airline",
     "src:geom": "whosonfirst",
     "wof:belongsto": [
@@ -46,8 +46,8 @@
       }
     ],
     "wof:id": 1159284923,
-    "wof:lastmodified": 1650008876,
-    "wof:name": "Odyssey International Airlines",
+    "wof:lastmodified": 1663140372,
+    "wof:name": "Odyssey International",
     "wof:parent_id": 85633041,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",
