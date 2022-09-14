@@ -21,7 +21,7 @@
     "sfomuseum:count_objects_public": 1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Express Net Airlines",
-    "sfomuseum:name": "Express Net Airlines",
+    "sfomuseum:name": "Express.Net Airlines",
     "sfomuseum:placetype": "airline",
     "src:geom": "quattroshapes",
     "wof:belongsto": [
@@ -48,8 +48,8 @@
       }
     ],
     "wof:id": 1159284367,
-    "wof:lastmodified": 1649405545,
-    "wof:name": "Express Net Airlines",
+    "wof:lastmodified": 1663140372,
+    "wof:name": "Express.Net Airlines",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",

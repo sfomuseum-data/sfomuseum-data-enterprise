@@ -21,7 +21,7 @@
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Oasis Air Europe",
-    "sfomuseum:name": "Oasis Air Europe",
+    "sfomuseum:name": "Oasis Airlines",
     "sfomuseum:placetype": "airline",
     "src:geom": "whosonfirst",
     "wof:belongsto": [
@@ -46,8 +46,8 @@
       }
     ],
     "wof:id": 1159284919,
-    "wof:lastmodified": 1649405545,
-    "wof:name": "Oasis Air Europe",
+    "wof:lastmodified": 1663140372,
+    "wof:name": "Oasis Airlines",
     "wof:parent_id": 85633129,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",

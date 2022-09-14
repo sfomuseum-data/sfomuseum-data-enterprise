@@ -19,7 +19,7 @@
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "MMA Airlines",
-    "sfomuseum:name": "MMA Airlines",
+    "sfomuseum:name": "MacRobertson Miller Airlines",
     "sfomuseum:placetype": "airline",
     "src:geom": "whosonfirst",
     "wof:belongsto": [
@@ -46,8 +46,8 @@
       }
     ],
     "wof:id": 1159284817,
-    "wof:lastmodified": 1619636676,
-    "wof:name": "MMA Airlines",
+    "wof:lastmodified": 1663140372,
+    "wof:name": "MacRobertson Miller Airlines",
     "wof:parent_id": 85632793,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",

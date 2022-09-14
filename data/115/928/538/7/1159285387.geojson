@@ -18,7 +18,7 @@
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Trust Territory Airlines",
-    "sfomuseum:name": "Trust Territory Airlines",
+    "sfomuseum:name": "Trust Territory Air Service",
     "sfomuseum:placetype": "airline",
     "src:geom": "nullisland",
     "wof:belongsto": [
@@ -41,8 +41,8 @@
       }
     ],
     "wof:id": 1159285387,
-    "wof:lastmodified": 1619636676,
-    "wof:name": "Trust Territory Airlines",
+    "wof:lastmodified": 1663140372,
+    "wof:name": "Trust Territory Air Service",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",
