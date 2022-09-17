@@ -20,7 +20,7 @@
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "LACSA (Avanca Airlines)  (LACSA (Avianca Airlines))",
-    "sfomuseum:name": "LACSA (Avanca Airlines)",
+    "sfomuseum:name": "LACSA (Avianca Costa Rica)",
     "sfomuseum:placetype": "airline",
     "src:geom": "nullisland",
     "wof:belongsto": [
@@ -43,8 +43,8 @@
       }
     ],
     "wof:id": 1159286041,
-    "wof:lastmodified": 1619636676,
-    "wof:name": "LACSA (Avanca Airlines)",
+    "wof:lastmodified": 1663400612,
+    "wof:name": "LACSA (Avianca Costa Rica)",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",

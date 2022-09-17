@@ -19,7 +19,7 @@
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Airways India Limited",
-    "sfomuseum:name": "Airways India Limited",
+    "sfomuseum:name": "Airways (India) Limited",
     "sfomuseum:placetype": "airline",
     "src:geom": "wof",
     "wof:belongsto": [
@@ -44,8 +44,8 @@
       }
     ],
     "wof:id": 1159286299,
-    "wof:lastmodified": 1648683813,
-    "wof:name": "Airways India Limited",
+    "wof:lastmodified": 1663400612,
+    "wof:name": "Airways (India) Limited",
     "wof:parent_id": 85632469,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",
