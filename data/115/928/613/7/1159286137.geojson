@@ -14,6 +14,8 @@
     "geom:latitude": 25.766368,
     "geom:longitude": -80.210268,
     "iso:country": "US",
+    "millsfield:count_images": 6,
+    "millsfield:count_objects": 3,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -24,7 +26,7 @@
     "sfomuseum:hub": "New York",
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "Eatsern Air Transport  (Eastern Air Lines)",
-    "sfomuseum:name": "Eatsern Air Transport",
+    "sfomuseum:name": "Eastern Air Transport",
     "sfomuseum:placetype": "airline",
     "src:geom": "quattroshapes",
     "wof:belongsto": [
@@ -51,8 +53,8 @@
       }
     ],
     "wof:id": 1159286137,
-    "wof:lastmodified": 1619636676,
-    "wof:name": "Eatsern Air Transport",
+    "wof:lastmodified": 1663748243,
+    "wof:name": "Eastern Air Transport",
     "wof:parent_id": 85933669,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",
