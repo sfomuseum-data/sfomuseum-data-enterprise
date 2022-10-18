@@ -12,6 +12,7 @@
     "geom:latitude": 3.083714,
     "geom:longitude": 101.570241,
     "iso:country": "",
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159284741,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1666079864,
     "wof:name": "MAS Kargo",
     "wof:parent_id": 102551935,
     "wof:placetype": "custom",
