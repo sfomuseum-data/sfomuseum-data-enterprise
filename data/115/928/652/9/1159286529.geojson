@@ -13,7 +13,7 @@
     "geom:longitude": -1.247349,
     "iso:country": "GB",
     "millsfield:count_images": 204,
-    "millsfield:count_objects": 155,
+    "millsfield:count_objects": 156,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -58,7 +58,7 @@
       }
     ],
     "wof:id": 1159286529,
-    "wof:lastmodified": 1665820670,
+    "wof:lastmodified": 1666079891,
     "wof:name": "BOAC (British Overseas Airways Corporation)",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",
