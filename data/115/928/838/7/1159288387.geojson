@@ -12,7 +12,7 @@
     "geom:latitude": -23.992438,
     "geom:longitude": 134.050443,
     "iso:country": "AU",
-    "millsfield:count_images": 44,
+    "millsfield:count_images": 45,
     "millsfield:count_objects": 40,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -56,7 +56,7 @@
       }
     ],
     "wof:id": 1159288387,
-    "wof:lastmodified": 1667289187,
+    "wof:lastmodified": 1676053874,
     "wof:name": "Trans Australia Airlines (TAA)",
     "wof:parent_id": 85632793,
     "wof:placetype": "custom",
