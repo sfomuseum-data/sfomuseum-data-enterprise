@@ -1,0 +1,60 @@
+{
+  "id": 1813375131,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2018-07-31",
+    "date:inception_upper": "2018-07-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2018-07-31",
+    "flysfo:airline_code": "ZG",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0,
+    "geom:bbox": "140.342774,35.771265,140.342774,35.771265",
+    "geom:latitude": 35.771265,
+    "geom:longitude": 140.342774,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": -1,
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      102191569,
+      85632429,
+      890524535,
+      102031933,
+      85672797
+    ],
+    "wof:concordances": {
+      "iata:code": "ZG",
+      "icao:code": "TZP"
+    },
+    "wof:country": "XY",
+    "wof:created": 1677703396,
+    "wof:geomhash": "c1bd9b6d33cc85601df748bc97675ef8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632429,
+        "county_id": 890524535,
+        "custom_id": 1813375131,
+        "locality_id": 102031933,
+        "region_id": 85672797
+      }
+    ],
+    "wof:id": 1813375131,
+    "wof:lastmodified": 1677703396,
+    "wof:name": "Zipair",
+    "wof:parent_id": 102031933,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    140.342774,
+    35.771265,
+    140.342774,
+    35.771265
+  ],
+  "geometry": {"coordinates":[140.342774,35.771265],"type":"Point"}
+}
