@@ -18,6 +18,7 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:airline_id": 516,
+    "sfomuseum:airline_role": "subsidiary",
     "sfomuseum:count_objects_public": 1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:label": "KLM asia  (KLM (Royal Dutch Airlines))",
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159284615,
-    "wof:lastmodified": 1660722833,
+    "wof:lastmodified": 1678927727,
     "wof:name": "KLM asia",
     "wof:parent_id": 85633337,
     "wof:placetype": "custom",
