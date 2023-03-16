@@ -16,6 +16,7 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfomuseum:airline_id": 361,
+    "sfomuseum:airline_role": "shuttle",
     "sfomuseum:brand": "Delta Air Lines",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
@@ -57,7 +58,7 @@
       }
     ],
     "wof:id": 1159284275,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1678926530,
     "wof:name": "Delta Shuttle",
     "wof:parent_id": 85936429,
     "wof:placetype": "custom",
