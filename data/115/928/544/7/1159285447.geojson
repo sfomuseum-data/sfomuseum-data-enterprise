@@ -51,7 +51,7 @@
     "wof:concordances": {
       "flysfo:code": "US",
       "iata:code": "US",
-      "icao:code": "AAL",
+      "icao:code": "AWE",
       "wd:id": "Q208046",
       "wk:page": "US Airways",
       "wk:pageid": 291315
@@ -75,7 +75,7 @@
       }
     ],
     "wof:id": 1159285447,
-    "wof:lastmodified": 1676316695,
+    "wof:lastmodified": 1679506891,
     "wof:name": "USAir",
     "wof:parent_id": 85917469,
     "wof:placetype": "custom",
