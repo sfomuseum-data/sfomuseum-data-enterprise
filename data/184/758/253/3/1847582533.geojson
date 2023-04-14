@@ -1,5 +1,5 @@
 {
-  "id": 1847515035,
+  "id": 1847582533,
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
@@ -8,29 +8,29 @@
     "geom:bbox": "-0.000500,-0.000282,0.000379,0.000309",
     "geom:latitude": 0.0000033079147747203835,
     "geom:longitude": 0.000010113151096985458,
-    "millsfield:count_images": 54,
-    "millsfield:count_objects": 54,
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 2,
     "mz:is_current": -1,
-    "sfomuseum:airline_id": 1587,
+    "sfomuseum:airline_id": 1589,
     "sfomuseum:is_sfo": 1,
-    "sfomuseum:name": "Pollack Flying Service",
+    "sfomuseum:name": "Alaska Air Transport",
     "sfomuseum:placetype": "airline",
     "src:geom": "nullisland",
     "wof:belongsto": [
       1
     ],
     "wof:country": "XN",
-    "wof:created": 1680852592,
+    "wof:created": 1681457312,
     "wof:geomhash": "22d11fea01c64b218102f3fcb34655a9",
     "wof:hierarchy": [
       {
-        "airline_id": 1847515035,
+        "airline_id": 1847582533,
         "country_id": 1
       }
     ],
-    "wof:id": 1847515035,
+    "wof:id": 1847582533,
     "wof:lastmodified": 1681460192,
-    "wof:name": "Pollack Flying Service",
+    "wof:name": "Alaska Air Transport",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
     "wof:placetype_alt": "airline",
