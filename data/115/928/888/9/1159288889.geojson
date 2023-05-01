@@ -14,7 +14,7 @@
     "geom:latitude": -12.98078,
     "geom:longitude": -72.876651,
     "iso:country": "PE",
-    "millsfield:count_images": 2,
+    "millsfield:count_images": 3,
     "millsfield:count_objects": 3,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1159288889,
-    "wof:lastmodified": 1666079891,
+    "wof:lastmodified": 1682973928,
     "wof:name": "Faucett Airlines",
     "wof:parent_id": 85632521,
     "wof:placetype": "custom",

@@ -14,7 +14,7 @@
     "geom:latitude": 34.05513,
     "geom:longitude": -118.25703,
     "iso:country": "US",
-    "millsfield:count_images": 119,
+    "millsfield:count_images": 120,
     "millsfield:count_objects": 106,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 1159285663,
-    "wof:lastmodified": 1679041111,
+    "wof:lastmodified": 1682973887,
     "wof:name": "Western Air Lines",
     "wof:parent_id": 85923517,
     "wof:placetype": "custom",

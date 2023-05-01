@@ -12,7 +12,7 @@
     "geom:latitude": 45.462004,
     "geom:longitude": -73.744749,
     "iso:country": "CA",
-    "millsfield:count_images": 413,
+    "millsfield:count_images": 415,
     "millsfield:count_objects": 321,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 1159288851,
-    "wof:lastmodified": 1676316731,
+    "wof:lastmodified": 1682973928,
     "wof:name": "Air Canada",
     "wof:parent_id": 102554351,
     "wof:placetype": "custom",
