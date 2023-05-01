@@ -14,7 +14,7 @@
     "geom:latitude": 8.987219,
     "geom:longitude": 38.794301,
     "iso:country": "",
-    "millsfield:count_images": 36,
+    "millsfield:count_images": 37,
     "millsfield:count_objects": 29,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 1159284341,
-    "wof:lastmodified": 1676316695,
+    "wof:lastmodified": 1682973887,
     "wof:name": "Ethiopian Airlines",
     "wof:parent_id": 102551565,
     "wof:placetype": "custom",

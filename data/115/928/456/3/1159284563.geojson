@@ -12,7 +12,7 @@
     "geom:latitude": 36.13793,
     "geom:longitude": 138.441899,
     "iso:country": "JP",
-    "millsfield:count_images": 251,
+    "millsfield:count_images": 266,
     "millsfield:count_objects": 225,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -52,7 +52,7 @@
       }
     ],
     "wof:id": 1159284563,
-    "wof:lastmodified": 1674292546,
+    "wof:lastmodified": 1682973887,
     "wof:name": "Japan Airlines",
     "wof:parent_id": 85632429,
     "wof:placetype": "custom",

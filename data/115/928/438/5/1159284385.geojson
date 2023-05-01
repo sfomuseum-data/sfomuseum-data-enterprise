@@ -12,7 +12,7 @@
     "geom:latitude": 35.112125,
     "geom:longitude": -89.954644,
     "iso:country": "US",
-    "millsfield:count_images": 25,
+    "millsfield:count_images": 26,
     "millsfield:count_objects": 42,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1159284385,
-    "wof:lastmodified": 1666857358,
+    "wof:lastmodified": 1682973887,
     "wof:name": "FedEx",
     "wof:parent_id": 101722645,
     "wof:placetype": "custom",
