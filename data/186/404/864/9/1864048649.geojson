@@ -1,0 +1,61 @@
+{
+  "id": 1864048649,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2021-02-01",
+    "date:inception_upper": "2021-02-28",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-02",
+    "flysfo:airline_code": "N0",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0,
+    "geom:bbox": "8.768302,58.470105,8.768302,58.470105",
+    "geom:latitude": 58.470105,
+    "geom:longitude": 8.768302,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": -1,
+    "sfomuseum:placetype": "airline",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      102191581,
+      85633341,
+      1159297607,
+      101803769,
+      1527947265
+    ],
+    "wof:concordances": {
+      "iata:code": "N0",
+      "icao:callsign": "LONGSHIP",
+      "icao:code": "NBT"
+    },
+    "wof:country": "XY",
+    "wof:created": 1688489908,
+    "wof:geomhash": "847867795e5d9175cfa8c80aabbab6c8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633341,
+        "custom_id": 1864048649,
+        "localadmin_id": 1159297607,
+        "locality_id": 101803769,
+        "region_id": 1527947265
+      }
+    ],
+    "wof:id": 1864048649,
+    "wof:lastmodified": 1688489974,
+    "wof:name": "Norse Atlantic Airways",
+    "wof:parent_id": 101803769,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    8.768302,
+    58.470105,
+    8.768302,
+    58.470105
+  ],
+  "geometry": {"coordinates":[8.768302,58.470105],"type":"Point"}
+}
