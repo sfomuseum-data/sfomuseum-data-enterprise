@@ -13,7 +13,7 @@
     "geom:longitude": 106.656401,
     "iso:country": "",
     "millsfield:count_images": 55,
-    "millsfield:count_objects": 41,
+    "millsfield:count_objects": 42,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 1159288251,
-    "wof:lastmodified": 1668157397,
+    "wof:lastmodified": 1693643031,
     "wof:name": "Garuda Indonesia",
     "wof:parent_id": 102552069,
     "wof:placetype": "custom",
