@@ -2,8 +2,6 @@
   "id": 1159288467,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1928-01-01",
-    "date:cessation_upper": "1928-12-31",
     "date:inception_lower": "1945-01-01",
     "date:inception_upper": "1945-12-31",
     "edtf:cessation": "..",
@@ -14,6 +12,8 @@
     "geom:latitude": 52.237695,
     "geom:longitude": 21.005427,
     "iso:country": "PL",
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1159288467,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1694023414,
     "wof:name": "LOT Polish Airlines",
     "wof:parent_id": 101752777,
     "wof:placetype": "custom",
