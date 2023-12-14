@@ -14,7 +14,7 @@
     "geom:latitude": 40.68295,
     "geom:longitude": -73.9708,
     "iso:country": "US",
-    "millsfield:count_images": 27,
+    "millsfield:count_images": 30,
     "millsfield:count_objects": 17,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -109,7 +109,7 @@
       }
     ],
     "wof:id": 1159285135,
-    "wof:lastmodified": 1694161683,
+    "wof:lastmodified": 1702543089,
     "wof:name": "Seaboard World Airlines",
     "wof:parent_id": 85977539,
     "wof:placetype": "custom",
