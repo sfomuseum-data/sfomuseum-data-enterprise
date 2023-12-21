@@ -12,7 +12,7 @@
     "geom:latitude": 32.529718,
     "geom:longitude": 106.802874,
     "iso:country": "CN",
-    "millsfield:count_images": 564,
+    "millsfield:count_images": 567,
     "millsfield:count_objects": 341,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -60,7 +60,7 @@
       }
     ],
     "wof:id": 1159286837,
-    "wof:lastmodified": 1701884050,
+    "wof:lastmodified": 1703148033,
     "wof:name": "Cathay Pacific Airways",
     "wof:parent_id": 85632695,
     "wof:placetype": "custom",
