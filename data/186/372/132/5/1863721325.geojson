@@ -8,6 +8,8 @@
     "geom:bbox": "-0.000500,-0.000282,0.000379,0.000309",
     "geom:latitude": 0.0000033079147747203835,
     "geom:longitude": 0.000010113151096985458,
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:is_current": -1,
     "sfomuseum:airline_id": 1591,
     "sfomuseum:is_sfo": 1,
@@ -27,7 +29,7 @@
       }
     ],
     "wof:id": 1863721325,
-    "wof:lastmodified": 1685347092,
+    "wof:lastmodified": 1706603735,
     "wof:name": "Endeavor Air (Delta Connection)",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
