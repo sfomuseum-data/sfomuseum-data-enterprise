@@ -14,7 +14,7 @@
     "geom:latitude": 23.113511,
     "geom:longitude": 113.289942,
     "iso:country": "CN",
-    "millsfield:count_images": 22,
+    "millsfield:count_images": 26,
     "millsfield:count_objects": 15,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -75,7 +75,7 @@
       }
     ],
     "wof:id": 1159284165,
-    "wof:lastmodified": 1695198076,
+    "wof:lastmodified": 1707899950,
     "wof:name": "China Southern Airlines",
     "wof:parent_id": 102027597,
     "wof:placetype": "custom",
