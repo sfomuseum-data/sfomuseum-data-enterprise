@@ -12,7 +12,7 @@
     "geom:latitude": 32.529718,
     "geom:longitude": 106.802874,
     "iso:country": "CN",
-    "millsfield:count_images": 103,
+    "millsfield:count_images": 105,
     "millsfield:count_objects": 85,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1159287599,
-    "wof:lastmodified": 1695717059,
+    "wof:lastmodified": 1707986531,
     "wof:name": "Air China",
     "wof:parent_id": 85632695,
     "wof:placetype": "custom",
