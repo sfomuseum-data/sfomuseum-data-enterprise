@@ -12,7 +12,7 @@
     "geom:latitude": 30.802278,
     "geom:longitude": 36.391378,
     "iso:country": "JO",
-    "millsfield:count_images": 41,
+    "millsfield:count_images": 42,
     "millsfield:count_objects": 26,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -55,7 +55,7 @@
       }
     ],
     "wof:id": 1159288611,
-    "wof:lastmodified": 1710356047,
+    "wof:lastmodified": 1711611894,
     "wof:name": "Alia (Royal Jordanian Airlines)",
     "wof:parent_id": 85632425,
     "wof:placetype": "custom",
