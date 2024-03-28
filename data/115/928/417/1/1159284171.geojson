@@ -14,7 +14,7 @@
     "geom:latitude": 32.529718,
     "geom:longitude": 106.802874,
     "iso:country": "CN",
-    "millsfield:count_images": 4,
+    "millsfield:count_images": 5,
     "millsfield:count_objects": 3,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1159284171,
-    "wof:lastmodified": 1653119539,
+    "wof:lastmodified": 1711611827,
     "wof:name": "China Xinjiang Airlines",
     "wof:parent_id": 85632695,
     "wof:placetype": "custom",

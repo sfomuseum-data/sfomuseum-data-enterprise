@@ -12,7 +12,7 @@
     "geom:latitude": 21.51694,
     "geom:longitude": 39.21917,
     "iso:country": "SA",
-    "millsfield:count_images": 41,
+    "millsfield:count_images": 46,
     "millsfield:count_objects": 34,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 1159285123,
-    "wof:lastmodified": 1666339123,
+    "wof:lastmodified": 1711611827,
     "wof:name": "Saudia",
     "wof:parent_id": 890441449,
     "wof:placetype": "custom",
