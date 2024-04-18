@@ -14,7 +14,7 @@
     "geom:latitude": 34.021711,
     "geom:longitude": -118.479052,
     "iso:country": "US",
-    "millsfield:count_images": 2,
+    "millsfield:count_images": 3,
     "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -58,7 +58,7 @@
       }
     ],
     "wof:id": 1159290395,
-    "wof:lastmodified": 1710356047,
+    "wof:lastmodified": 1713468143,
     "wof:name": "Douglas",
     "wof:parent_id": 85923817,
     "wof:placetype": "custom",
