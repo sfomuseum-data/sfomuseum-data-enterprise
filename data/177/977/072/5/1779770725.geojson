@@ -35,6 +35,8 @@
     "wof:geomhash": "d8c99af09d90131561f6f1f633126b6f",
     "wof:hierarchy": [
       {
+        "[\"airline\"]_id": 1779770725,
+        "airline_id": 1779770725,
         "continent_id": 102191577,
         "country_id": 85633009,
         "county_id": 102058455,
@@ -45,10 +47,13 @@
       }
     ],
     "wof:id": 1779770725,
-    "wof:lastmodified": 1656456671,
+    "wof:lastmodified": 1716594223,
     "wof:name": "GOL Linhas Aereas",
     "wof:parent_id": 101953261,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -55,16 +55,19 @@
         "company_id": 1159287649,
         "continent_id": 102191569,
         "country_id": 85632429,
+        "custom_id": 1159287649,
         "enterprise_id": 1159287649,
         "region_id": 85672817
       }
     ],
     "wof:id": 1159287649,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Harlequin Air",
     "wof:parent_id": 85672817,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

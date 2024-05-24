@@ -56,16 +56,19 @@
         "company_id": 1159287785,
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159287785,
         "empire_id": 136253055,
         "enterprise_id": 1159287785
       }
     ],
     "wof:id": 1159287785,
-    "wof:lastmodified": 1649405563,
+    "wof:lastmodified": 1716594223,
     "wof:name": "DAS Air Cargo",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

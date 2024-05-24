@@ -63,17 +63,20 @@
         "continent_id": 102191577,
         "country_id": 85632521,
         "county_id": 421202549,
+        "custom_id": 1159283551,
         "enterprise_id": 1159283551,
         "locality_id": 421186805,
         "region_id": 85675909
       }
     ],
     "wof:id": 1159283551,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Aeroperu",
     "wof:parent_id": 421186805,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288147

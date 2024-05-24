@@ -58,17 +58,20 @@
         "continent_id": 102191569,
         "country_id": 85632181,
         "county_id": 1092047835,
+        "custom_id": 1159287005,
         "enterprise_id": 1159287005,
         "locality_id": 421173357,
         "region_id": 85674569
       }
     ],
     "wof:id": 1159287005,
-    "wof:lastmodified": 1710356047,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Myanmar Airways",
     "wof:parent_id": 421173357,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -58,17 +58,20 @@
         "continent_id": 102191569,
         "country_id": 85632639,
         "county_id": 1108747951,
+        "custom_id": 1159288591,
         "enterprise_id": 1159288591,
         "locality_id": 421188981,
         "region_id": 85676611
       }
     ],
     "wof:id": 1159288591,
-    "wof:lastmodified": 1710356048,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Koryo",
     "wof:parent_id": 421188981,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

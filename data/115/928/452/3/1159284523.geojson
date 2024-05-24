@@ -56,15 +56,18 @@
         "airline_id": 1159284523,
         "continent_id": 102191569,
         "country_id": 85632429,
+        "custom_id": 1159284523,
         "enterprise_id": 1159288463
       }
     ],
     "wof:id": 1159284523,
-    "wof:lastmodified": 1641942098,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Imperial Japan Airways",
     "wof:parent_id": 85632429,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288463

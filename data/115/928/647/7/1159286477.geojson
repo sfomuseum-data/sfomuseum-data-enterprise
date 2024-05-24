@@ -2,8 +2,6 @@
   "id": 1159286477,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1990-01-01",
-    "date:cessation_upper": "1990-12-31",
     "date:inception_lower": "1980-01-01",
     "date:inception_upper": "1980-12-31",
     "edtf:cessation": "..",
@@ -65,6 +63,7 @@
         "continent_id": 102191575,
         "country_id": 85632179,
         "county_id": 421196975,
+        "custom_id": 1159286477,
         "enterprise_id": 1159286477,
         "locality_id": -1,
         "neighbourhood_id": 85763949,
@@ -72,11 +71,13 @@
       }
     ],
     "wof:id": 1159286477,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Panama",
     "wof:parent_id": 85632179,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287043

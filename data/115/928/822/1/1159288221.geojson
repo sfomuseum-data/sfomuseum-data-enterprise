@@ -58,6 +58,7 @@
         "company_id": 1159288221,
         "continent_id": 102191581,
         "country_id": 85633253,
+        "custom_id": 1159288221,
         "enterprise_id": 1159288221,
         "localadmin_id": 404461785,
         "locality_id": 101757057,
@@ -66,11 +67,13 @@
       }
     ],
     "wof:id": 1159288221,
-    "wof:lastmodified": 1711611894,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Alitalia",
     "wof:parent_id": 101757057,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

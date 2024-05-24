@@ -65,17 +65,20 @@
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063913,
+        "custom_id": 1159284535,
         "enterprise_id": 1159284535,
         "locality_id": 101756499,
         "region_id": 85682553
       }
     ],
     "wof:id": 1159284535,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Interflug",
     "wof:parent_id": 101756499,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286523

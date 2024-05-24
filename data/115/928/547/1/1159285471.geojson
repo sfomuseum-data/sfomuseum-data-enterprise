@@ -58,15 +58,18 @@
         "airline_id": 1159285471,
         "continent_id": 102191577,
         "country_id": 85633009,
+        "custom_id": 1159285471,
         "enterprise_id": 1159285471
       }
     ],
     "wof:id": 1159285471,
-    "wof:lastmodified": 1660809723,
+    "wof:lastmodified": 1716594224,
     "wof:name": "VASP",
     "wof:parent_id": 85633009,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287699

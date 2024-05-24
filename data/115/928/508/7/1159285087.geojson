@@ -62,17 +62,20 @@
         "airline_id": 1159285087,
         "continent_id": 102191569,
         "country_id": 85632425,
+        "custom_id": 1159285087,
         "enterprise_id": 1159285087,
         "locality_id": 421200421,
         "region_id": 85672627
       }
     ],
     "wof:id": 1159285087,
-    "wof:lastmodified": 1666684296,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Royal Jordanian Airlines",
     "wof:parent_id": 421200421,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288621

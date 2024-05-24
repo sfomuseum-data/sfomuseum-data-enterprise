@@ -63,6 +63,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081851,
+        "custom_id": 1159283777,
         "enterprise_id": 1159283777,
         "localadmin_id": 404494867,
         "locality_id": 101732417,
@@ -70,11 +71,13 @@
       }
     ],
     "wof:id": 1159283777,
-    "wof:lastmodified": 1715154103,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Wisconsin",
     "wof:parent_id": 101732417,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287959

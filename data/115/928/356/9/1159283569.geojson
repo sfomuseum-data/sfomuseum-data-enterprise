@@ -60,17 +60,20 @@
         "airline_id": 1159283569,
         "continent_id": 102191573,
         "country_id": 85632451,
+        "custom_id": 1159283569,
         "enterprise_id": 1159283569,
         "locality_id": 421174649,
         "region_id": 85670761
       }
     ],
     "wof:id": 1159283569,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Algérie",
     "wof:parent_id": 421174649,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287767

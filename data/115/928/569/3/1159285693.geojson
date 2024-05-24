@@ -42,6 +42,7 @@
         "campus_id": 102558779,
         "continent_id": -1,
         "country_id": -1,
+        "custom_id": 1159285693,
         "enterprise_id": 1159285693,
         "locality_id": -1,
         "neighbourhood_id": -1,
@@ -49,11 +50,13 @@
       }
     ],
     "wof:id": 1159285693,
-    "wof:lastmodified": 1663140372,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Air Polynesia",
     "wof:parent_id": 102558779,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286973

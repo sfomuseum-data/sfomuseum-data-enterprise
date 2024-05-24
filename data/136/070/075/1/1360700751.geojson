@@ -50,17 +50,20 @@
         "airline_id": 1360700751,
         "continent_id": 102191577,
         "country_id": 85632505,
+        "custom_id": 1360700751,
         "enterprise_id": 1360700751,
         "locality_id": 421174285,
         "region_id": 85668081
       }
     ],
     "wof:id": 1360700751,
-    "wof:lastmodified": 1619636675,
+    "wof:lastmodified": 1716594224,
     "wof:name": "LATAM Argentina",
     "wof:parent_id": 421174285,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -37,15 +37,18 @@
       {
         "company_id": 1159288455,
         "country_id": 1,
+        "custom_id": 1159288455,
         "enterprise_id": 1159288455
       }
     ],
     "wof:id": 1159288455,
-    "wof:lastmodified": 1648683829,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Transamerican Airlines Corp.",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

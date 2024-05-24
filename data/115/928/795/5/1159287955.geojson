@@ -57,6 +57,7 @@
         "continent_id": 102191573,
         "country_id": 85632693,
         "county_id": 890442533,
+        "custom_id": 1159287955,
         "enterprise_id": 1159287955,
         "locality_id": -1,
         "neighbourhood_id": 85802293,
@@ -64,11 +65,13 @@
       }
     ],
     "wof:id": 1159287955,
-    "wof:lastmodified": 1711611894,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Royal Air Maroc (RAM)",
     "wof:parent_id": 102546505,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

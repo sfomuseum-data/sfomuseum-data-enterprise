@@ -60,17 +60,20 @@
         "continent_id": 102191577,
         "country_id": 85633009,
         "county_id": 102051815,
+        "custom_id": 1159287793,
         "enterprise_id": 1159287793,
         "locality_id": 101964877,
         "region_id": 85681911
       }
     ],
     "wof:id": 1159287793,
-    "wof:lastmodified": 1710356048,
+    "wof:lastmodified": 1716594223,
     "wof:name": "TransBrasil",
     "wof:parent_id": 101964877,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

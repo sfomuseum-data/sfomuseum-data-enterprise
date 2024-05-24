@@ -60,6 +60,7 @@
         "continent_id": 102191581,
         "country_id": 85632785,
         "county_id": 102049723,
+        "custom_id": 1159285399,
         "enterprise_id": 1159285399,
         "localadmin_id": 1108837687,
         "locality_id": 101748061,
@@ -67,11 +68,13 @@
       }
     ],
     "wof:id": 1159285399,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Tyrolean Jet Services",
     "wof:parent_id": 101748061,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286987

@@ -48,16 +48,19 @@
         "airline_id": 1159286137,
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1159286137,
         "empire_id": 136253057,
         "enterprise_id": 1159286137
       }
     ],
     "wof:id": 1159286137,
-    "wof:lastmodified": 1663748243,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Eastern Air Transport",
     "wof:parent_id": 85933669,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287349

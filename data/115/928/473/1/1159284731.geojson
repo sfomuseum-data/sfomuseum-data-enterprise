@@ -68,6 +68,7 @@
         "continent_id": 0,
         "country_id": 85632739,
         "county_id": 890490605,
+        "custom_id": 1159284731,
         "enterprise_id": 1159284731,
         "locality_id": 102023395,
         "neighbourhood_id": 85784199,
@@ -75,11 +76,13 @@
       }
     ],
     "wof:id": 1159284731,
-    "wof:lastmodified": 1666079915,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Malaysia Airlines",
     "wof:parent_id": 102551935,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288691

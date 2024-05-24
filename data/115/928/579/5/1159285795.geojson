@@ -57,15 +57,18 @@
         "airline_id": 1159285795,
         "continent_id": 102191577,
         "country_id": 85632355,
+        "custom_id": 1159285795,
         "enterprise_id": 1159285795
       }
     ],
     "wof:id": 1159285795,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Lineas Aereas Paraguayas",
     "wof:parent_id": 85632355,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288827

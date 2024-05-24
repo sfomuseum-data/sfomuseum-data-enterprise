@@ -31,15 +31,18 @@
     "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy": [
       {
-        "airline_id": 1729557901
+        "airline_id": 1729557901,
+        "custom_id": 1729557901
       }
     ],
     "wof:id": 1729557901,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Providence Air Charter",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": [],

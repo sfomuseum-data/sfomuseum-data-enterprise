@@ -47,6 +47,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102084317,
+        "custom_id": 1159286023,
         "enterprise_id": 1159286023,
         "localadmin_id": 404496273,
         "locality_id": 85940195,
@@ -54,11 +55,13 @@
       }
     ],
     "wof:id": 1159286023,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Stout Air Transport",
     "wof:parent_id": 85940195,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288779

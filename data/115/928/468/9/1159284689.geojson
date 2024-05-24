@@ -64,6 +64,7 @@
         "continent_id": 102191581,
         "country_id": 85633789,
         "county_id": 1159303035,
+        "custom_id": 1159284689,
         "enterprise_id": 1159284689,
         "localadmin_id": 1125362217,
         "locality_id": 101752307,
@@ -71,11 +72,13 @@
       }
     ],
     "wof:id": 1159284689,
-    "wof:lastmodified": 1706171869,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Linjeflyg",
     "wof:parent_id": 101752307,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286771

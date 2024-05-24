@@ -64,6 +64,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087895,
+        "custom_id": 1159284913,
         "enterprise_id": 1159284913,
         "localadmin_id": 404512099,
         "locality_id": 85968491,
@@ -71,11 +72,13 @@
       }
     ],
     "wof:id": 1159284913,
-    "wof:lastmodified": 1672479097,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Northwest Orient Airlines",
     "wof:parent_id": 85968491,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287407

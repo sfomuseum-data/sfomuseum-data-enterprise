@@ -42,15 +42,18 @@
         "airline_id": 1159285807,
         "continent_id": 102191581,
         "country_id": 85632997,
+        "custom_id": 1159285807,
         "enterprise_id": 1159285807
       }
     ],
     "wof:id": 1159285807,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Sabena Belgian Airlines",
     "wof:parent_id": 85802033,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286639

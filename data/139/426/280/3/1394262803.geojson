@@ -54,6 +54,7 @@
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102070301,
+        "custom_id": 1394262803,
         "enterprise_id": 1394262803,
         "localadmin_id": 1159322263,
         "locality_id": 101751163,
@@ -63,11 +64,13 @@
       }
     ],
     "wof:id": 1394262803,
-    "wof:lastmodified": 1619636675,
+    "wof:lastmodified": 1716594224,
     "wof:name": "XL Airways France",
     "wof:parent_id": 101751163,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": [],

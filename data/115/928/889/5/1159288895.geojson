@@ -58,17 +58,20 @@
         "company_id": 1159288895,
         "continent_id": 102191581,
         "country_id": 85633105,
+        "custom_id": 1159288895,
         "enterprise_id": 1159288895,
         "locality_id": 101748113,
         "region_id": 85682437
       }
     ],
     "wof:id": 1159288895,
-    "wof:lastmodified": 1662796474,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Czechoslovak Airlines",
     "wof:parent_id": 101748113,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

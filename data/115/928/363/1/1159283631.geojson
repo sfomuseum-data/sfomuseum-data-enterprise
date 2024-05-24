@@ -66,6 +66,7 @@
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102065873,
+        "custom_id": 1159283631,
         "enterprise_id": 1159283631,
         "localadmin_id": 404417837,
         "locality_id": 101749819,
@@ -76,11 +77,13 @@
       }
     ],
     "wof:id": 1159283631,
-    "wof:lastmodified": 1694023359,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Union",
     "wof:parent_id": 102544459,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1360700617

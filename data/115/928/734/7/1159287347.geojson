@@ -50,16 +50,19 @@
         "company_id": 1159287347,
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1159287347,
         "empire_id": 136253057,
         "enterprise_id": 1159287347
       }
     ],
     "wof:id": 1159287347,
-    "wof:lastmodified": 1665043416,
+    "wof:lastmodified": 1716594224,
     "wof:name": "WestAir Airlines",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

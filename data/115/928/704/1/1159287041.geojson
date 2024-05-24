@@ -52,17 +52,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102084889,
+        "custom_id": 1159287041,
         "enterprise_id": 1159287041,
         "locality_id": 85931779,
         "region_id": 85688741
       }
     ],
     "wof:id": 1159287041,
-    "wof:lastmodified": 1619636679,
+    "wof:lastmodified": 1716594224,
     "wof:name": "NASA",
     "wof:parent_id": 85931779,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "agency",
+    "wof:placetype_alt": [
+      "agency"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

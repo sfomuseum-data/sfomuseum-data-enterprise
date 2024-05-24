@@ -59,17 +59,20 @@
         "airline_id": 1159284715,
         "continent_id": 102191581,
         "country_id": 85633275,
+        "custom_id": 1159284715,
         "enterprise_id": 1159284715,
         "locality_id": 1126007063,
         "region_id": 85673875
       }
     ],
     "wof:id": 1159284715,
-    "wof:lastmodified": 1693643063,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Luxair",
     "wof:parent_id": 1126007063,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287253

@@ -54,17 +54,20 @@
         "company_id": 1159287287,
         "continent_id": 102191569,
         "country_id": 85632307,
+        "custom_id": 1159287287,
         "enterprise_id": 1159287287,
         "locality_id": 421176003,
         "region_id": 85672937
       }
     ],
     "wof:id": 1159287287,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Astana",
     "wof:parent_id": 421176003,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

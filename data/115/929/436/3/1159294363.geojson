@@ -56,6 +56,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085381,
+        "custom_id": 1159294363,
         "enterprise_id": 1159294363,
         "localadmin_id": 404495981,
         "locality_id": 85930819,
@@ -63,11 +64,13 @@
       }
     ],
     "wof:id": 1159294363,
-    "wof:lastmodified": 1619636675,
+    "wof:lastmodified": 1716594223,
     "wof:name": "United Aircraft",
     "wof:parent_id": 85930819,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

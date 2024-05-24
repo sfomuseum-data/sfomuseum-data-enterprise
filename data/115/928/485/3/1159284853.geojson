@@ -61,6 +61,7 @@
         "continent_id": 102191569,
         "country_id": 85632465,
         "county_id": 1092048931,
+        "custom_id": 1159284853,
         "enterprise_id": 1159284853,
         "locality_id": 421168831,
         "region_id": 1108807143
@@ -70,17 +71,20 @@
         "continent_id": 102191569,
         "country_id": 85632465,
         "county_id": 1092048931,
+        "custom_id": 1159284853,
         "enterprise_id": 1159284853,
         "locality_id": 421168831,
         "region_id": 85675575
       }
     ],
     "wof:id": 1159284853,
-    "wof:lastmodified": 1642731941,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Royal Nepal Airlines",
     "wof:parent_id": 421168831,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287647

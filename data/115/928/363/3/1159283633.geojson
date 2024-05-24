@@ -61,6 +61,7 @@
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102069753,
+        "custom_id": 1159283633,
         "enterprise_id": 1159283633,
         "localadmin_id": 404413665,
         "locality_id": 1125768175,
@@ -70,11 +71,13 @@
       }
     ],
     "wof:id": 1159283633,
-    "wof:lastmodified": 1641361414,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Société Générale des Transports Aériens",
     "wof:parent_id": 1125768175,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -59,15 +59,18 @@
         "airline_id": 1159284979,
         "continent_id": 102191569,
         "country_id": 85632659,
+        "custom_id": 1159284979,
         "enterprise_id": 1159284979
       }
     ],
     "wof:id": 1159284979,
-    "wof:lastmodified": 1715067635,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Pakistan International Airlines",
     "wof:parent_id": 85632659,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288213

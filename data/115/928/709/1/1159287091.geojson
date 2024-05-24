@@ -60,6 +60,7 @@
         "company_id": 1159287091,
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159287091,
         "enterprise_id": 1159287091,
         "localadmin_id": 404446393,
         "locality_id": 101750397,
@@ -68,11 +69,13 @@
       }
     ],
     "wof:id": 1159287091,
-    "wof:lastmodified": 1665820670,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Cambrian Airways",
     "wof:parent_id": 101750397,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

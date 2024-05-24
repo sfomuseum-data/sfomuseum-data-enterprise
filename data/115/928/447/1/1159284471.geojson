@@ -58,15 +58,18 @@
         "airline_id": 1159284471,
         "continent_id": 102191577,
         "country_id": 85632397,
+        "custom_id": 1159284471,
         "enterprise_id": 1159284471
       }
     ],
     "wof:id": 1159284471,
-    "wof:lastmodified": 1648799214,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Guyana Airways",
     "wof:parent_id": 85632397,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287609

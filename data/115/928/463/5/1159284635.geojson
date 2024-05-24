@@ -40,15 +40,18 @@
         "airline_id": 1159284635,
         "continent_id": 102191569,
         "country_id": 85632401,
+        "custom_id": 1159284635,
         "enterprise_id": 1159284635
       }
     ],
     "wof:id": 1159284635,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Kuwait Air",
     "wof:parent_id": 421202465,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288633

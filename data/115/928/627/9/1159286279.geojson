@@ -2,8 +2,6 @@
   "id": 1159286279,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2014-01-01",
-    "date:cessation_upper": "2014-12-31",
     "date:inception_lower": "1981-01-01",
     "date:inception_upper": "1981-12-31",
     "edtf:cessation": "..",
@@ -51,15 +49,18 @@
         "airline_id": 1159286279,
         "continent_id": 102191581,
         "country_id": 85633253,
+        "custom_id": 1159286279,
         "enterprise_id": 1159286279
       }
     ],
     "wof:id": 1159286279,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Airone",
     "wof:parent_id": 101757057,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288221

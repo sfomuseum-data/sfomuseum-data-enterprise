@@ -31,15 +31,18 @@
     "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy": [
       {
-        "airline_id": 1729557825
+        "airline_id": 1729557825,
+        "custom_id": 1729557825
       }
     ],
     "wof:id": 1729557825,
-    "wof:lastmodified": 1663746632,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Philadelphia Rapid Transit Air Service",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": [],

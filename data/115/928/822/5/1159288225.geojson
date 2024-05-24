@@ -51,15 +51,18 @@
         "company_id": 1159288225,
         "continent_id": 102191577,
         "country_id": 85632505,
+        "custom_id": 1159288225,
         "enterprise_id": 1159288225
       }
     ],
     "wof:id": 1159288225,
-    "wof:lastmodified": 1648683829,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Lineas Aereas Del Estado (LADE)",
     "wof:parent_id": 85632505,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

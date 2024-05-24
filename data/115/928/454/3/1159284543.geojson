@@ -62,17 +62,20 @@
         "continent_id": 102191569,
         "country_id": 85632361,
         "county_id": 1108720491,
+        "custom_id": 1159284543,
         "enterprise_id": 1159284543,
         "locality_id": 421204533,
         "region_id": 85672313
       }
     ],
     "wof:id": 1159284543,
-    "wof:lastmodified": 1715154103,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Iran Air",
     "wof:parent_id": 421204533,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287155

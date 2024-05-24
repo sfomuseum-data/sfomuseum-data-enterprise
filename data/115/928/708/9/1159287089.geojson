@@ -2,8 +2,6 @@
   "id": 1159287089,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1971-01-01",
-    "date:cessation_upper": "1971-12-31",
     "date:inception_lower": "1964-01-01",
     "date:inception_upper": "1964-12-31",
     "edtf:cessation": "..",
@@ -49,15 +47,18 @@
         "company_id": 1159287089,
         "continent_id": 102191569,
         "country_id": 85632429,
+        "custom_id": 1159287089,
         "enterprise_id": 1159287089
       }
     ],
     "wof:id": 1159287089,
-    "wof:lastmodified": 1641361430,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Japan Domestic Airlines",
     "wof:parent_id": 85632429,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

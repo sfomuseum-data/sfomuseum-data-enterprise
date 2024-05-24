@@ -61,17 +61,20 @@
         "airline_id": 1159283783,
         "continent_id": 102191573,
         "country_id": 85632243,
+        "custom_id": 1159283783,
         "enterprise_id": 1159283783,
         "locality_id": 421201479,
         "region_id": 85681097
       }
     ],
     "wof:id": 1159283783,
-    "wof:lastmodified": 1666684296,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Zimbabwe",
     "wof:parent_id": 421201479,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288595

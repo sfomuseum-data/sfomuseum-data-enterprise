@@ -38,15 +38,18 @@
         "company_id": 1159288481,
         "continent_id": 102191575,
         "country_id": 85632571,
+        "custom_id": 1159288481,
         "enterprise_id": 1159288481
       }
     ],
     "wof:id": 1159288481,
-    "wof:lastmodified": 1654329787,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Belize Airways Limited",
     "wof:parent_id": 85632571,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

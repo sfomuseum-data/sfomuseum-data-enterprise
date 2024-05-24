@@ -49,16 +49,19 @@
         "agency_id": 1159286547,
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1159286547,
         "empire_id": 136253057,
         "enterprise_id": 1159286547
       }
     ],
     "wof:id": 1159286547,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1716594223,
     "wof:name": "U.S. Air Force",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "agency",
+    "wof:placetype_alt": [
+      "agency"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

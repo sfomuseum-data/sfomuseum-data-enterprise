@@ -50,16 +50,19 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085953,
+        "custom_id": 1159286573,
         "enterprise_id": 1159286573,
         "region_id": 85688747
       }
     ],
     "wof:id": 1159286573,
-    "wof:lastmodified": 1640906242,
+    "wof:lastmodified": 1716594223,
     "wof:name": "U.S. Navy",
     "wof:parent_id": 102085953,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "agency",
+    "wof:placetype_alt": [
+      "agency"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

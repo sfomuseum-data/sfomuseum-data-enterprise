@@ -35,6 +35,8 @@
     "wof:geomhash": "c6d28eefba76e07d888676a25601fbc8",
     "wof:hierarchy": [
       {
+        "[\"airline\"]_id": 1763699293,
+        "airline_id": 1763699293,
         "continent_id": 102191581,
         "country_id": 85633253,
         "custom_id": 1763699293,
@@ -45,10 +47,13 @@
       }
     ],
     "wof:id": 1763699293,
-    "wof:lastmodified": 1652218701,
+    "wof:lastmodified": 1716594224,
     "wof:name": "ITA Airways",
     "wof:parent_id": 101752607,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": []

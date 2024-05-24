@@ -62,6 +62,7 @@
         "continent_id": 102191583,
         "country_id": 85632793,
         "county_id": 102049169,
+        "custom_id": 1159287295,
         "empire_id": 136253039,
         "enterprise_id": 1159287295,
         "localadmin_id": 404539427,
@@ -70,11 +71,13 @@
       }
     ],
     "wof:id": 1159287295,
-    "wof:lastmodified": 1710356048,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Ansett Australia",
     "wof:parent_id": 101933229,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

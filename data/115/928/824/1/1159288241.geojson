@@ -38,15 +38,18 @@
         "company_id": 1159288241,
         "continent_id": 102191569,
         "country_id": 85632469,
+        "custom_id": 1159288241,
         "enterprise_id": 1159288241
       }
     ],
     "wof:id": 1159288241,
-    "wof:lastmodified": 1648683829,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Airways India Limited",
     "wof:parent_id": 85632469,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

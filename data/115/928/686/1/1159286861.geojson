@@ -55,16 +55,19 @@
         "company_id": 1159286861,
         "continent_id": 102191569,
         "country_id": 85632315,
+        "custom_id": 1159286861,
         "empire_id": 136253049,
         "enterprise_id": 1159286861
       }
     ],
     "wof:id": 1159286861,
-    "wof:lastmodified": 1640906242,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Israir Airlines",
     "wof:parent_id": 85632315,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

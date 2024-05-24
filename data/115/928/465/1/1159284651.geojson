@@ -58,17 +58,20 @@
         "continent_id": 102191573,
         "country_id": 85632729,
         "county_id": 1091697125,
+        "custom_id": 1159284651,
         "enterprise_id": 1159284651,
         "locality_id": 421167893,
         "region_id": 85674853
       }
     ],
     "wof:id": 1159284651,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1716594224,
     "wof:name": "LAM Mozambique Airlines",
     "wof:parent_id": 421167893,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287371

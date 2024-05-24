@@ -37,15 +37,18 @@
       {
         "airline_id": 1159285981,
         "country_id": 1,
+        "custom_id": 1159285981,
         "enterprise_id": 1159285981
       }
     ],
     "wof:id": 1159285981,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Sociedade Acoriana de Transportes Aereos, LDA",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288237

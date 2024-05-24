@@ -60,17 +60,20 @@
         "continent_id": 102191575,
         "country_id": 85633041,
         "county_id": 890458661,
+        "custom_id": 1159287553,
         "enterprise_id": 1159287553,
         "locality_id": 101736545,
         "region_id": 136251273
       }
     ],
     "wof:id": 1159287553,
-    "wof:lastmodified": 1649405563,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Transat",
     "wof:parent_id": 101736545,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

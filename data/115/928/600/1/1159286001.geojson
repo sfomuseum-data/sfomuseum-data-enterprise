@@ -53,15 +53,18 @@
         "airline_id": 1159286001,
         "continent_id": 102191569,
         "country_id": 85632469,
+        "custom_id": 1159286001,
         "enterprise_id": 1159286001
       }
     ],
     "wof:id": 1159286001,
-    "wof:lastmodified": 1662623610,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Indian National Airways ",
     "wof:parent_id": 102030425,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287037

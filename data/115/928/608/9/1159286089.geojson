@@ -60,17 +60,20 @@
         "continent_id": 102191569,
         "country_id": 85632393,
         "county_id": 1108709503,
+        "custom_id": 1159286089,
         "enterprise_id": 1159286089,
         "locality_id": 890460455,
         "region_id": 85679237
       }
     ],
     "wof:id": 1159286089,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Birgenair",
     "wof:parent_id": 890460455,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287185

@@ -3,8 +3,8 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
+    "edtf:deprecated": "2021-09-07",
     "edtf:inception": "",
-    "edtf:deprecated": "2021-09-07",    
     "geom:area": 0,
     "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
     "geom:latitude": 0,
@@ -28,18 +28,21 @@
     "wof:hierarchy": [
       {
         "company_id": 1729554257,
+        "custom_id": 1729554257,
         "enterprise_id": 1729554257
       }
     ],
     "wof:id": 1729554257,
-    "wof:lastmodified": 1619636675,
+    "wof:lastmodified": 1716594224,
     "wof:name": "de Havilland\r",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [
-    			 1159293995
+      1159293995
     ],
     "wof:supersedes": [],
     "wof:tags": []

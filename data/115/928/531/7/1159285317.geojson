@@ -52,15 +52,18 @@
         "airline_id": 1159285317,
         "continent_id": 102191581,
         "country_id": 85632997,
+        "custom_id": 1159285317,
         "enterprise_id": 1159285317
       }
     ],
     "wof:id": 1159285317,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Trans European Airways",
     "wof:parent_id": 85632997,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288783

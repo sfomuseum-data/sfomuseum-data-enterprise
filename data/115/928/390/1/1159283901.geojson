@@ -40,15 +40,18 @@
         "airline_id": 1159283901,
         "continent_id": 102191577,
         "country_id": 85632519,
+        "custom_id": 1159283901,
         "enterprise_id": 1159283901
       }
     ],
     "wof:id": 1159283901,
-    "wof:lastmodified": 1662794747,
+    "wof:lastmodified": 1716594223,
     "wof:name": "ARCA Colombia",
     "wof:parent_id": 85632519,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287293

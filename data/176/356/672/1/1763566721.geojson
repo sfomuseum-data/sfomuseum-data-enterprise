@@ -34,6 +34,8 @@
     "wof:geomhash": "bb13cccf6b96024729d89bd2b2d11c6f",
     "wof:hierarchy": [
       {
+        "[\"airline\"]_id": 1763566721,
+        "airline_id": 1763566721,
         "continent_id": 102191575,
         "country_id": 85633041,
         "county_id": 1511799789,
@@ -43,14 +45,17 @@
       }
     ],
     "wof:id": 1763566721,
-    "wof:lastmodified": 1650671792,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Swoop",
     "wof:parent_id": 890458845,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287061
-    ],    
+    ],
     "wof:superseded_by": [],
     "wof:supersedes": []
   },

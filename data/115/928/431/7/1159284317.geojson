@@ -61,17 +61,20 @@
         "airline_id": 1159284317,
         "campus_id": 102556835,
         "country_id": 85633159,
+        "custom_id": 1159284317,
         "enterprise_id": 1159284317,
         "neighbourhood_id": 85791331,
         "region_id": 85684331
       }
     ],
     "wof:id": 1159284317,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "easyJet",
     "wof:parent_id": 102556835,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288167

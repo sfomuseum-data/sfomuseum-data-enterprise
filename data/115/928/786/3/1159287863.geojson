@@ -57,15 +57,18 @@
         "company_id": 1159287863,
         "continent_id": 102191569,
         "country_id": 85632469,
+        "custom_id": 1159287863,
         "enterprise_id": 1159287863
       }
     ],
     "wof:id": 1159287863,
-    "wof:lastmodified": 1711611894,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air India",
     "wof:parent_id": 85632469,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

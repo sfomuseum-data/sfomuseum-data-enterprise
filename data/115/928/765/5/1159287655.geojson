@@ -56,16 +56,19 @@
         "company_id": 1159287655,
         "continent_id": 102191569,
         "country_id": 85632315,
+        "custom_id": 1159287655,
         "empire_id": 136253049,
         "enterprise_id": 1159287655
       }
     ],
     "wof:id": 1159287655,
-    "wof:lastmodified": 1710356048,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Arkia Israel Airlines",
     "wof:parent_id": 85632315,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

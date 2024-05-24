@@ -58,15 +58,18 @@
         "company_id": 1159287563,
         "continent_id": 102191573,
         "country_id": 85632365,
+        "custom_id": 1159287563,
         "enterprise_id": 1159287563
       }
     ],
     "wof:id": 1159287563,
-    "wof:lastmodified": 1648683829,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Air Senegal International",
     "wof:parent_id": 85632365,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

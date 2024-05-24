@@ -56,16 +56,19 @@
         "airline_id": 1159284019,
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159284019,
         "empire_id": 136253055,
         "enterprise_id": 1159287581
       }
     ],
     "wof:id": 1159284019,
-    "wof:lastmodified": 1694023359,
+    "wof:lastmodified": 1716594223,
     "wof:name": "British Air Ferries",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287581

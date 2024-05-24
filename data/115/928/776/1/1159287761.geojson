@@ -55,16 +55,19 @@
         "company_id": 1159287761,
         "continent_id": 102191581,
         "country_id": 85633279,
+        "custom_id": 1159287761,
         "enterprise_id": 1159287761,
         "region_id": 85686007
       }
     ],
     "wof:id": 1159287761,
-    "wof:lastmodified": 1676316731,
+    "wof:lastmodified": 1716594224,
     "wof:name": "SmartLynx Airlines",
     "wof:parent_id": 85686007,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

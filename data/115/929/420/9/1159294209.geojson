@@ -48,16 +48,19 @@
         "company_id": 1159294209,
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1159294209,
         "empire_id": 136253057,
         "enterprise_id": 1159294209
       }
     ],
     "wof:id": 1159294209,
-    "wof:lastmodified": 1694023413,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Stout",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

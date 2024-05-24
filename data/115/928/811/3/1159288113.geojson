@@ -53,15 +53,18 @@
         "company_id": 1159288113,
         "continent_id": 102191575,
         "country_id": 85632385,
+        "custom_id": 1159288113,
         "enterprise_id": 1159288113
       }
     ],
     "wof:id": 1159288113,
-    "wof:lastmodified": 1710356048,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Aviateca",
     "wof:parent_id": 85632385,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

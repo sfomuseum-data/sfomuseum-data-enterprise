@@ -33,6 +33,8 @@
     "wof:geomhash": "c1bd9b6d33cc85601df748bc97675ef8",
     "wof:hierarchy": [
       {
+        "[\"airline\"]_id": 1813375131,
+        "airline_id": 1813375131,
         "continent_id": 102191569,
         "country_id": 85632429,
         "county_id": 890524535,
@@ -42,10 +44,13 @@
       }
     ],
     "wof:id": 1813375131,
-    "wof:lastmodified": 1677703396,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Zipair",
     "wof:parent_id": 102031933,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": []

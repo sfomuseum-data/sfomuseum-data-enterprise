@@ -50,15 +50,18 @@
         "company_id": 1159287173,
         "continent_id": 102191581,
         "country_id": 85633171,
+        "custom_id": 1159287173,
         "enterprise_id": 1159287173
       }
     ],
     "wof:id": 1159287173,
-    "wof:lastmodified": 1648683829,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Hellenic Airlines",
     "wof:parent_id": 85633171,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

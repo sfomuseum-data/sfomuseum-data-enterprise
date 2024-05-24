@@ -28,15 +28,18 @@
     "wof:hierarchy": [
       {
         "airline_id": 1729557899,
+        "custom_id": 1729557899,
         "enterprise_id": 1729557899
       }
     ],
     "wof:id": 1729557899,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1716594223,
     "wof:name": "WOW Air Iceland",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -40,15 +40,18 @@
         "airline_id": 1729557761,
         "continent_id": 102191575,
         "country_id": 85633041,
+        "custom_id": 1729557761,
         "enterprise_id": 1729557761
       }
     ],
     "wof:id": 1729557761,
-    "wof:lastmodified": 1650008876,
+    "wof:lastmodified": 1716594224,
     "wof:name": "NWT Air",
     "wof:parent_id": 85633041,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": [],

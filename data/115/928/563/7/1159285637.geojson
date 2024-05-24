@@ -45,16 +45,19 @@
         "airline_id": 1159285637,
         "continent_id": 102191583,
         "country_id": 85632793,
+        "custom_id": 1159285637,
         "empire_id": 136253039,
         "enterprise_id": 1159285637
       }
     ],
     "wof:id": 1159285637,
-    "wof:lastmodified": 1695717005,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Ansett Airlines of New South Wales",
     "wof:parent_id": 101931173,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287479

@@ -56,16 +56,19 @@
         "airline_id": 1159284343,
         "continent_id": 102191581,
         "country_id": 85633147,
+        "custom_id": 1159284343,
         "empire_id": 136253037,
         "enterprise_id": 1159288159
       }
     ],
     "wof:id": 1159284343,
-    "wof:lastmodified": 1708504779,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Euralair",
     "wof:parent_id": 85633147,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288159

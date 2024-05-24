@@ -62,17 +62,20 @@
         "airline_id": 1159285165,
         "continent_id": 102191569,
         "country_id": 85632605,
+        "custom_id": 1159285165,
         "enterprise_id": 1159285165,
         "locality_id": 102032341,
         "region_id": 85677041
       }
     ],
     "wof:id": 1159285165,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Singapore Airlines Cargo",
     "wof:parent_id": 102032341,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288903

@@ -58,6 +58,7 @@
         "company_id": 1159293569,
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159293569,
         "enterprise_id": 1159293569,
         "locality_id": 101750367,
         "macroregion_id": 404227469,
@@ -66,11 +67,13 @@
       }
     ],
     "wof:id": 1159293569,
-    "wof:lastmodified": 1710356047,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Airco",
     "wof:parent_id": 85790969,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

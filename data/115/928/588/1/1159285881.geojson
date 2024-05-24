@@ -41,15 +41,18 @@
         "airline_id": 1159285881,
         "continent_id": 102191573,
         "country_id": 85632581,
+        "custom_id": 1159285881,
         "enterprise_id": 1159285881
       }
     ],
     "wof:id": 1159285881,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Services Aeriens Internationaux D’Egypte (S.A.I.D.E.)",
     "wof:parent_id": 85632581,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287127

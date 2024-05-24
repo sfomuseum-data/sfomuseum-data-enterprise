@@ -67,6 +67,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102082361,
+        "custom_id": 1159286377,
         "enterprise_id": 1159286377,
         "locality_id": 85977539,
         "region_id": 85688543
@@ -76,6 +77,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102082377,
+        "custom_id": 1159286377,
         "enterprise_id": 1159286377,
         "locality_id": 85977539,
         "region_id": 85688543
@@ -85,6 +87,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081863,
+        "custom_id": 1159286377,
         "enterprise_id": 1159286377,
         "locality_id": 85977539,
         "region_id": 85688543
@@ -94,6 +97,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102083063,
+        "custom_id": 1159286377,
         "enterprise_id": 1159286377,
         "locality_id": 85977539,
         "region_id": 85688543
@@ -103,17 +107,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081779,
+        "custom_id": 1159286377,
         "enterprise_id": 1159286377,
         "locality_id": 85977539,
         "region_id": 85688543
       }
     ],
     "wof:id": 1159286377,
-    "wof:lastmodified": 1697788061,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Seaboard \u0026 Western Airlines",
     "wof:parent_id": 85977539,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288077

@@ -64,6 +64,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102082361,
+        "custom_id": 1159288077,
         "enterprise_id": 1159288077,
         "locality_id": 85977539,
         "region_id": 85688543
@@ -73,6 +74,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102082377,
+        "custom_id": 1159288077,
         "enterprise_id": 1159288077,
         "locality_id": 85977539,
         "region_id": 85688543
@@ -82,6 +84,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081863,
+        "custom_id": 1159288077,
         "enterprise_id": 1159288077,
         "locality_id": 85977539,
         "region_id": 85688543
@@ -91,6 +94,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102083063,
+        "custom_id": 1159288077,
         "enterprise_id": 1159288077,
         "locality_id": 85977539,
         "region_id": 85688543
@@ -100,17 +104,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081779,
+        "custom_id": 1159288077,
         "enterprise_id": 1159288077,
         "locality_id": 85977539,
         "region_id": 85688543
       }
     ],
     "wof:id": 1159288077,
-    "wof:lastmodified": 1715067709,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Seaboard World Airlines",
     "wof:parent_id": 85977539,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

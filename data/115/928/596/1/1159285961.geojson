@@ -60,15 +60,18 @@
         "airline_id": 1159285961,
         "continent_id": 102191569,
         "country_id": 85632293,
+        "custom_id": 1159285961,
         "enterprise_id": 1159285961
       }
     ],
     "wof:id": 1159285961,
-    "wof:lastmodified": 1640740881,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Thai Airways Company ",
     "wof:parent_id": 890466403,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287133

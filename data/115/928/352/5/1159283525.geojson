@@ -67,6 +67,7 @@
         "continent_id": 102191581,
         "country_id": 85632685,
         "county_id": 1108736095,
+        "custom_id": 1159283525,
         "empire_id": 874393555,
         "enterprise_id": 1159283525,
         "locality_id": 102003033,
@@ -74,11 +75,13 @@
       }
     ],
     "wof:id": 1159283525,
-    "wof:lastmodified": 1676316695,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Aeroflot Russian Airlines",
     "wof:parent_id": 102003033,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288379

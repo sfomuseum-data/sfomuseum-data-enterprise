@@ -54,15 +54,18 @@
         "airline_id": 1159283771,
         "continent_id": 102191569,
         "country_id": 85632763,
+        "custom_id": 1159283771,
         "enterprise_id": 1159283771
       }
     ],
     "wof:id": 1159283771,
-    "wof:lastmodified": 1652947185,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Vietnam",
     "wof:parent_id": 85632763,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287421

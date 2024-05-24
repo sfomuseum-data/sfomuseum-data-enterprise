@@ -40,15 +40,18 @@
         "airline_id": 1159284247,
         "continent_id": 102191573,
         "country_id": 85632379,
+        "custom_id": 1159284247,
         "enterprise_id": 1159284247
       }
     ],
     "wof:id": 1159284247,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Damal Airlines",
     "wof:parent_id": 85632379,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286887

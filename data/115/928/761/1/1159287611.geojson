@@ -60,17 +60,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086603,
+        "custom_id": 1159287611,
         "enterprise_id": 1159287611,
         "locality_id": 85944061,
         "region_id": 85688713
       }
     ],
     "wof:id": 1159287611,
-    "wof:lastmodified": 1711611894,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Access Air",
     "wof:parent_id": 85944061,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

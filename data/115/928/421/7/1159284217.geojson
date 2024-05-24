@@ -50,6 +50,7 @@
         "campus_id": 102555307,
         "continent_id": 102191575,
         "country_id": 85633041,
+        "custom_id": 1159284217,
         "enterprise_id": 1159284217,
         "locality_id": 101741081,
         "microhood_id": 1108952593,
@@ -58,11 +59,13 @@
       }
     ],
     "wof:id": 1159284217,
-    "wof:lastmodified": 1705653370,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Canadian Pacific Air Lines",
     "wof:parent_id": "102555307",
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288301

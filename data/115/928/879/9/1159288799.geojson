@@ -36,15 +36,18 @@
         "company_id": 1159288799,
         "continent_id": 102191573,
         "country_id": 85632635,
+        "custom_id": 1159288799,
         "enterprise_id": 1159288799
       }
     ],
     "wof:id": 1159288799,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Gulf Falcon",
     "wof:parent_id": 85632635,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

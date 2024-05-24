@@ -61,17 +61,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087421,
+        "custom_id": 1159285441,
         "enterprise_id": 1159285441,
         "locality_id": 85917469,
         "region_id": 85688719
       }
     ],
     "wof:id": 1159285441,
-    "wof:lastmodified": 1656058310,
+    "wof:lastmodified": 1716594224,
     "wof:name": "US Airways Express",
     "wof:parent_id": 85917469,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

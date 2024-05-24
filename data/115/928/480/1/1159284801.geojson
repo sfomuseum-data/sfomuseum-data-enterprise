@@ -64,6 +64,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081837,
+        "custom_id": 1159284801,
         "enterprise_id": 1159284801,
         "localadmin_id": 404494177,
         "locality_id": 101733079,
@@ -71,11 +72,13 @@
       }
     ],
     "wof:id": 1159284801,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Midwest Airlines",
     "wof:parent_id": 101733079,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288163

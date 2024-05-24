@@ -63,17 +63,20 @@
         "campus_id": 102535643,
         "continent_id": 102191581,
         "country_id": 85633735,
+        "custom_id": 1159285369,
         "enterprise_id": 1159285369,
         "neighbourhood_id": 85799047,
         "region_id": 85687367
       }
     ],
     "wof:id": 1159285369,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Transportes Aereos Portugueses",
     "wof:parent_id": 102535643,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288223

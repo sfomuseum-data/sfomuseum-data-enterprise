@@ -48,17 +48,20 @@
         "campus_id": 102544349,
         "continent_id": 102191581,
         "country_id": 85633279,
+        "custom_id": 1159286133,
         "enterprise_id": 1159286133,
         "locality_id": 101816355,
         "region_id": 85686007
       }
     ],
     "wof:id": 1159286133,
-    "wof:lastmodified": 1648799214,
+    "wof:lastmodified": 1716594223,
     "wof:name": "AirBaltic (airBaltic)",
     "wof:parent_id": 102544349,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286521

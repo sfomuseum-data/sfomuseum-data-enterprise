@@ -63,6 +63,7 @@
         "continent_id": 102191577,
         "country_id": 85633009,
         "county_id": 102061235,
+        "custom_id": 1159283477,
         "enterprise_id": 1159283477,
         "localadmin_id": 404566253,
         "locality_id": 101956069,
@@ -70,11 +71,13 @@
       }
     ],
     "wof:id": 1159283477,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "ABSA Cargo Airline",
     "wof:parent_id": 101956069,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287773

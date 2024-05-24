@@ -4,10 +4,10 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 2.789235e-7,
+    "geom:area": 2.789235000000002e-7,
     "geom:bbox": "-0.000500,-0.000282,0.000379,0.000309",
-    "geom:latitude": 0.0000033079147747203835,
-    "geom:longitude": 0.000010113151096985458,
+    "geom:latitude": 0.000003307914774720382,
+    "geom:longitude": 0.000010113151096985463,
     "millsfield:count_images": 1,
     "millsfield:count_objects": 1,
     "mz:is_current": -1,
@@ -25,15 +25,18 @@
     "wof:hierarchy": [
       {
         "airline_id": 1762995595,
-        "country_id": 1
+        "country_id": 1,
+        "custom_id": 1762995595
       }
     ],
     "wof:id": 1762995595,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Mountain West Airlines",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": []

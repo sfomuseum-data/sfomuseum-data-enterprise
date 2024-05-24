@@ -2,8 +2,6 @@
   "id": 1159287859,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2012-07-05",
-    "date:cessation_upper": "2012-07-05",
     "date:inception_lower": "1936-01-01",
     "date:inception_upper": "1936-12-31",
     "edtf:cessation": "..",
@@ -54,15 +52,18 @@
         "company_id": 1159287859,
         "continent_id": 102191577,
         "country_id": 85632511,
+        "custom_id": 1159287859,
         "enterprise_id": 1159287859
       }
     ],
     "wof:id": 1159287859,
-    "wof:lastmodified": 1648626357,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Pluna Lineas Aereas Uruguayas",
     "wof:parent_id": 85632511,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

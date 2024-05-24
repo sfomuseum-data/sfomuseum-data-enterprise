@@ -38,15 +38,18 @@
       {
         "airline_id": 1159284183,
         "country_id": 1,
+        "custom_id": 1159284183,
         "enterprise_id": 1159284183
       }
     ],
     "wof:id": 1159284183,
-    "wof:lastmodified": 1638482215,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Coast Airways",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288357

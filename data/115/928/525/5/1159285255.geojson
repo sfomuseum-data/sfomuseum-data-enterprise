@@ -66,17 +66,20 @@
         "continent_id": 102191575,
         "country_id": 85632545,
         "county_id": 421180907,
+        "custom_id": 1159285255,
         "enterprise_id": 1159285255,
         "locality_id": 421191785,
         "region_id": 85677163
       }
     ],
     "wof:id": 1159285255,
-    "wof:lastmodified": 1706344578,
+    "wof:lastmodified": 1716594223,
     "wof:name": "TACA International Airlines",
     "wof:parent_id": 421191785,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288637

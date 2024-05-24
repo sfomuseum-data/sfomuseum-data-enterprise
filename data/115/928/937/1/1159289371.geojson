@@ -38,15 +38,18 @@
         "actor_id": 1159289371,
         "company_id": 1159289371,
         "country_id": 1,
+        "custom_id": 1159289371,
         "enterprise_id": 1159289371
       }
     ],
     "wof:id": 1159289371,
-    "wof:lastmodified": 1619636679,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Aeronautica Lombarda",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294121

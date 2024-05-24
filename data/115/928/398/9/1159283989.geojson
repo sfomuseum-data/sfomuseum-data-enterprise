@@ -52,17 +52,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102080847,
+        "custom_id": 1159283989,
         "enterprise_id": 1159283989,
         "locality_id": 85923131,
         "region_id": 85688637
       }
     ],
     "wof:id": 1159283989,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Burlington Air Express",
     "wof:parent_id": 85923131,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286933

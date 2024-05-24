@@ -55,15 +55,18 @@
         "airline_id": 1159285073,
         "continent_id": 102191569,
         "country_id": 85632359,
+        "custom_id": 1159285073,
         "enterprise_id": 1159285073
       }
     ],
     "wof:id": 1159285073,
-    "wof:lastmodified": 1711611827,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Royal Air Cambodge",
     "wof:parent_id": 85632359,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287179

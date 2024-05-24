@@ -34,6 +34,8 @@
     "wof:geomhash": "2d5cae61ed175fc3ec7c21b7e37f368d",
     "wof:hierarchy": [
       {
+        "[\"airline\"]_id": 1763552143,
+        "airline_id": 1763552143,
         "continent_id": 102191575,
         "country_id": 85633041,
         "county_id": 1511799791,
@@ -43,10 +45,13 @@
       }
     ],
     "wof:id": 1763552143,
-    "wof:lastmodified": 1650494742,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Flair Airlines",
     "wof:parent_id": 890458485,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -58,17 +58,20 @@
         "company_id": 1159288277,
         "continent_id": 102191575,
         "country_id": 85632215,
+        "custom_id": 1159288277,
         "enterprise_id": 1159288277,
         "locality_id": 421186515,
         "region_id": 85672609
       }
     ],
     "wof:id": 1159288277,
-    "wof:lastmodified": 1710356048,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Jamaica",
     "wof:parent_id": 421186515,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

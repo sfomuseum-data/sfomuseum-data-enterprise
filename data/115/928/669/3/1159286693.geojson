@@ -60,17 +60,20 @@
         "continent_id": 102191575,
         "country_id": 85633041,
         "county_id": 890457465,
+        "custom_id": 1159286693,
         "enterprise_id": 1159286693,
         "locality_id": 101735835,
         "region_id": 85682057
       }
     ],
     "wof:id": 1159286693,
-    "wof:lastmodified": 1710356048,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Canada 3000",
     "wof:parent_id": 101735835,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

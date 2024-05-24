@@ -34,6 +34,8 @@
     "wof:geomhash": "847867795e5d9175cfa8c80aabbab6c8",
     "wof:hierarchy": [
       {
+        "[\"airline\"]_id": 1864048649,
+        "airline_id": 1864048649,
         "continent_id": 102191581,
         "country_id": 85633341,
         "custom_id": 1864048649,
@@ -43,10 +45,13 @@
       }
     ],
     "wof:id": 1864048649,
-    "wof:lastmodified": 1688489974,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Norse Atlantic Airways",
     "wof:parent_id": 101803769,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": []

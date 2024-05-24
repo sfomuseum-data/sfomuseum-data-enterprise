@@ -60,17 +60,20 @@
         "continent_id": 102191577,
         "country_id": 85633009,
         "county_id": 102058455,
+        "custom_id": 1159287213,
         "enterprise_id": 1159287213,
         "locality_id": 101953261,
         "region_id": 85681991
       }
     ],
     "wof:id": 1159287213,
-    "wof:lastmodified": 1714635933,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Panair do Brasil",
     "wof:parent_id": 101953261,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

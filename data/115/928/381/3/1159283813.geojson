@@ -71,17 +71,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086191,
+        "custom_id": 1159283813,
         "enterprise_id": 1159283813,
         "locality_id": 101730401,
         "region_id": 85688623
       }
     ],
     "wof:id": 1159283813,
-    "wof:lastmodified": 1715154103,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Alaska Airlines",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288915

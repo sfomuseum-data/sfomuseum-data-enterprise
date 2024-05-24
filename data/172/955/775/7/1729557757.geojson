@@ -30,15 +30,18 @@
     "wof:hierarchy": [
       {
         "airline_id": 1729557757,
+        "custom_id": 1729557757,
         "enterprise_id": 1729557757
       }
     ],
     "wof:id": 1729557757,
-    "wof:lastmodified": 1641361414,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Otis Spunkmeyer Air",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": [],

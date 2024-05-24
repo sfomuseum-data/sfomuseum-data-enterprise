@@ -61,17 +61,20 @@
         "continent_id": 102191577,
         "country_id": 85632519,
         "county_id": 1108700089,
+        "custom_id": 1159285749,
         "enterprise_id": 1159285749,
         "locality_id": 421186687,
         "region_id": 85670165
       }
     ],
     "wof:id": 1159285749,
-    "wof:lastmodified": 1658994939,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Avianca",
     "wof:parent_id": 421186687,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287217

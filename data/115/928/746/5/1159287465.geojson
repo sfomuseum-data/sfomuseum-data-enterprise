@@ -56,16 +56,19 @@
         "company_id": 1159287465,
         "continent_id": 102191569,
         "country_id": 85632695,
+        "custom_id": 1159287465,
         "empire_id": 136253041,
         "enterprise_id": 1159287465
       }
     ],
     "wof:id": 1159287465,
-    "wof:lastmodified": 1648683829,
+    "wof:lastmodified": 1716594223,
     "wof:name": "China Yunnan Airlines",
     "wof:parent_id": 85632695,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

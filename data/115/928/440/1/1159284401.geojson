@@ -65,17 +65,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086135,
+        "custom_id": 1159284401,
         "enterprise_id": 1159284401,
         "locality_id": 85928879,
         "region_id": 85688603
       }
     ],
     "wof:id": 1159284401,
-    "wof:lastmodified": 1713253277,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Frontier Airlines",
     "wof:parent_id": 85928879,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288193

@@ -42,15 +42,18 @@
         "airline_id": 1159285871,
         "continent_id": 102191573,
         "country_id": 85632243,
+        "custom_id": 1159285871,
         "enterprise_id": 1159285871
       }
     ],
     "wof:id": 1159285871,
-    "wof:lastmodified": 1641942099,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Central African Airways (CAA)",
     "wof:parent_id": 85632243,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288005

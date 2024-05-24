@@ -52,15 +52,18 @@
         "company_id": 1159294073,
         "continent_id": 102191581,
         "country_id": 85633111,
+        "custom_id": 1159294073,
         "enterprise_id": 1159294073
       }
     ],
     "wof:id": 1159294073,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Friedrichshafen",
     "wof:parent_id": 85633111,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

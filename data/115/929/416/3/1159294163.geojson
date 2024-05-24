@@ -49,17 +49,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102083201,
+        "custom_id": 1159294163,
         "enterprise_id": 1159294163,
         "locality_id": 101724443,
         "region_id": 85688753
       }
     ],
     "wof:id": 1159294163,
-    "wof:lastmodified": 1715758824,
+    "wof:lastmodified": 1716594223,
     "wof:name": "American Eagle",
     "wof:parent_id": 101724443,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1360700619

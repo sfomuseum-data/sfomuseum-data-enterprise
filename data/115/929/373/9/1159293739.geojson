@@ -57,6 +57,7 @@
         "company_id": 1159293739,
         "continent_id": 102191581,
         "country_id": 85633253,
+        "custom_id": 1159293739,
         "enterprise_id": 1159293739,
         "localadmin_id": 404467909,
         "locality_id": 101752729,
@@ -65,11 +66,13 @@
       }
     ],
     "wof:id": 1159293739,
-    "wof:lastmodified": 1710356048,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Macchi",
     "wof:parent_id": 101752729,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

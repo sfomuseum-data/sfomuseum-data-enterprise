@@ -42,15 +42,18 @@
         "airline_id": 1159284691,
         "continent_id": 102191577,
         "country_id": 85632623,
+        "custom_id": 1159284691,
         "enterprise_id": 1159284691
       }
     ],
     "wof:id": 1159284691,
-    "wof:lastmodified": 1656058310,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Lloyd Aereo Boliviano (LAB)",
     "wof:parent_id": 85632623,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287017

@@ -59,16 +59,19 @@
         "airline_id": 1159285319,
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1159285319,
         "empire_id": 136253057,
         "enterprise_id": 1159285319
       }
     ],
     "wof:id": 1159285319,
-    "wof:lastmodified": 1711611828,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Trans International Airlines",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287739

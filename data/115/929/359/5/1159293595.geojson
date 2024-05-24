@@ -38,15 +38,18 @@
       {
         "company_id": 1159293595,
         "country_id": 1,
+        "custom_id": 1159293595,
         "enterprise_id": 1159293595
       }
     ],
     "wof:id": 1159293595,
-    "wof:lastmodified": 1678394539,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Pitts",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

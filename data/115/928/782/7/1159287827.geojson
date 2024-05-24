@@ -56,17 +56,20 @@
         "company_id": 1159287827,
         "continent_id": 102191569,
         "country_id": 85632167,
+        "custom_id": 1159287827,
         "enterprise_id": 1159287827,
         "locality_id": 1125819119,
         "region_id": 85669059
       }
     ],
     "wof:id": 1159287827,
-    "wof:lastmodified": 1710356047,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Gulf Air",
     "wof:parent_id": 1125819119,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -34,15 +34,18 @@
     "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy": [
       {
-        "airline_id": 1729557781
+        "airline_id": 1729557781,
+        "custom_id": 1729557781
       }
     ],
     "wof:id": 1729557781,
-    "wof:lastmodified": 1707899950,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Atlantic Coast Airlines",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": [],

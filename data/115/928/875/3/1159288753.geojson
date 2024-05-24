@@ -58,17 +58,20 @@
         "continent_id": 102191569,
         "country_id": 85632241,
         "county_id": 1092027747,
+        "custom_id": 1159288753,
         "enterprise_id": 1159288753,
         "locality_id": 421168913,
         "region_id": 85673433
       }
     ],
     "wof:id": 1159288753,
-    "wof:lastmodified": 1710356047,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Lao Airlines",
     "wof:parent_id": 421168913,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -51,15 +51,18 @@
         "airline_id": 1159283731,
         "continent_id": 102191573,
         "country_id": 85632243,
+        "custom_id": 1159283731,
         "enterprise_id": 1159283731
       }
     ],
     "wof:id": 1159283731,
-    "wof:lastmodified": 1665820638,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Rhodesia",
     "wof:parent_id": 85632243,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287263

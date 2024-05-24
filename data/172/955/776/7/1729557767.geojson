@@ -30,15 +30,18 @@
     "wof:hierarchy": [
       {
         "airline_id": 1729557767,
+        "custom_id": 1729557767,
         "enterprise_id": 1729557767
       }
     ],
     "wof:id": 1729557767,
-    "wof:lastmodified": 1711697718,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Kanbawza",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": [],

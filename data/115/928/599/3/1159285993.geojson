@@ -42,16 +42,19 @@
         "airline_id": 1159285993,
         "continent_id": 102191581,
         "country_id": 85633147,
+        "custom_id": 1159285993,
         "empire_id": 136253037,
         "enterprise_id": 1159285993
       }
     ],
     "wof:id": 1159285993,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1716594223,
     "wof:name": "XL Airways",
     "wof:parent_id": 102544459,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288363

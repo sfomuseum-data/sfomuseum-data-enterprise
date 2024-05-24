@@ -40,15 +40,18 @@
         "airline_id": 1159286371,
         "continent_id": 102191581,
         "country_id": 85633253,
+        "custom_id": 1159286371,
         "enterprise_id": 1159286371
       }
     ],
     "wof:id": 1159286371,
-    "wof:lastmodified": 1706344579,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Air Sud",
     "wof:parent_id": 85633253,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286537

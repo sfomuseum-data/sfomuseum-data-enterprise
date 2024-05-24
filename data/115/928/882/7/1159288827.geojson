@@ -48,15 +48,18 @@
         "company_id": 1159288827,
         "continent_id": 102191577,
         "country_id": 85632355,
+        "custom_id": 1159288827,
         "enterprise_id": 1159288827
       }
     ],
     "wof:id": 1159288827,
-    "wof:lastmodified": 1710356048,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Paraguay",
     "wof:parent_id": 85632355,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

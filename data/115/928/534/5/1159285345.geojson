@@ -43,16 +43,19 @@
         "airline_id": 1159285345,
         "continent_id": 102191583,
         "country_id": 85632793,
+        "custom_id": 1159285345,
         "empire_id": 136253039,
         "enterprise_id": 1159285345
       }
     ],
     "wof:id": 1159285345,
-    "wof:lastmodified": 1703666639,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Trans Australia Airlines (TAA)",
     "wof:parent_id": 85632793,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288387

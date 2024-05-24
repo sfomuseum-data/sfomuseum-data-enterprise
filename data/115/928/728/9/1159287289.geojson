@@ -60,6 +60,7 @@
         "company_id": 1159287289,
         "continent_id": 102191569,
         "country_id": 85632403,
+        "custom_id": 1159287289,
         "enterprise_id": 1159287289,
         "localadmin_id": 890468701,
         "macroregion_id": 1108808545,
@@ -67,11 +68,13 @@
       }
     ],
     "wof:id": 1159287289,
-    "wof:lastmodified": 1666943627,
+    "wof:lastmodified": 1716594223,
     "wof:name": "TransAsia Airways",
     "wof:parent_id": 890468701,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

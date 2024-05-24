@@ -2,8 +2,6 @@
   "id": 1159288329,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1940-01-01",
-    "date:cessation_upper": "1940-12-31",
     "date:inception_lower": "2001-01-01",
     "date:inception_upper": "2001-12-31",
     "edtf:cessation": "..",
@@ -57,6 +55,7 @@
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063209,
+        "custom_id": 1159288329,
         "enterprise_id": 1159288329,
         "locality_id": 101748469,
         "macrocounty_id": 404227573,
@@ -64,11 +63,13 @@
       }
     ],
     "wof:id": 1159288329,
-    "wof:lastmodified": 1619636679,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Deutsche Zeppelin-Reederei",
     "wof:parent_id": 101748469,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

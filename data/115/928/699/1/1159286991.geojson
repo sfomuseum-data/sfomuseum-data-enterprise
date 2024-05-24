@@ -48,15 +48,18 @@
         "company_id": 1159286991,
         "continent_id": 102191577,
         "country_id": 85632519,
+        "custom_id": 1159286991,
         "enterprise_id": 1159286991
       }
     ],
     "wof:id": 1159286991,
-    "wof:lastmodified": 1710356048,
+    "wof:lastmodified": 1716594224,
     "wof:name": "SCADTA (Sociedad Colombo Alemana de Transporte Aereo)",
     "wof:parent_id": 85632519,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -54,15 +54,18 @@
         "company_id": 1159286977,
         "continent_id": 102191569,
         "country_id": 85632393,
+        "custom_id": 1159286977,
         "enterprise_id": 1159286977
       }
     ],
     "wof:id": 1159286977,
-    "wof:lastmodified": 1714808560,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Turkish Airlines",
     "wof:parent_id": 85632393,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

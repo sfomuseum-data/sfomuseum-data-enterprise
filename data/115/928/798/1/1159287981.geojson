@@ -2,8 +2,6 @@
   "id": 1159287981,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1933-01-01",
-    "date:cessation_upper": "1933-12-31",
     "date:inception_lower": "1918-01-01",
     "date:inception_upper": "1918-12-31",
     "edtf:cessation": "..",
@@ -51,16 +49,19 @@
         "company_id": 1159287981,
         "continent_id": 102191581,
         "country_id": 85633147,
+        "custom_id": 1159287981,
         "empire_id": 136253037,
         "enterprise_id": 1159287981
       }
     ],
     "wof:id": 1159287981,
-    "wof:lastmodified": 1649405563,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Aeropostale (Compagnie generale aeropostale)",
     "wof:parent_id": 85633147,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

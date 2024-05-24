@@ -60,16 +60,19 @@
         "continent_id": 102191569,
         "country_id": 85632763,
         "county_id": 1108780791,
+        "custom_id": 1159286777,
         "enterprise_id": 1159286777,
         "region_id": 85680653
       }
     ],
     "wof:id": 1159286777,
-    "wof:lastmodified": 1711611894,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Vietnam Airlines",
     "wof:parent_id": 1108780791,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

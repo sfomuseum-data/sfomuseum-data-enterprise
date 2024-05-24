@@ -56,17 +56,20 @@
         "company_id": 1159288571,
         "continent_id": 102191573,
         "country_id": 85632535,
+        "custom_id": 1159288571,
         "enterprise_id": 1159288571,
         "locality_id": 1141909361,
         "region_id": 85675205
       }
     ],
     "wof:id": 1159288571,
-    "wof:lastmodified": 1649405563,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Air Namibia",
     "wof:parent_id": 1141909361,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

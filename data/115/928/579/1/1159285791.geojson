@@ -43,15 +43,18 @@
         "airline_id": 1159285791,
         "continent_id": 102191577,
         "country_id": 85632355,
+        "custom_id": 1159285791,
         "enterprise_id": 1159285791
       }
     ],
     "wof:id": 1159285791,
-    "wof:lastmodified": 1711611827,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Lineas Aereas Paraguayas (LAP)",
     "wof:parent_id": 85632355,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288543

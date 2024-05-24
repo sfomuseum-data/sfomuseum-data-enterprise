@@ -62,6 +62,7 @@
         "continent_id": 102191569,
         "country_id": 85632695,
         "county_id": 1108732371,
+        "custom_id": 1159283607,
         "empire_id": 136253041,
         "enterprise_id": 1159283607,
         "locality_id": 102027745,
@@ -69,11 +70,13 @@
       }
     ],
     "wof:id": 1159283607,
-    "wof:lastmodified": 1633114926,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air China Cargo",
     "wof:parent_id": 85632695,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287599

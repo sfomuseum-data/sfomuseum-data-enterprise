@@ -58,17 +58,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102082715,
+        "custom_id": 1159287755,
         "enterprise_id": 1159287755,
         "locality_id": 85949177,
         "region_id": 85688501
       }
     ],
     "wof:id": 1159287755,
-    "wof:lastmodified": 1715067709,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Piedmont Airlines",
     "wof:parent_id": 85949177,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

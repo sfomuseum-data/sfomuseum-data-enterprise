@@ -58,17 +58,20 @@
         "continent_id": 102191575,
         "country_id": 85632675,
         "county_id": 1091907125,
+        "custom_id": 1159288275,
         "enterprise_id": 1159288275,
         "locality_id": 1125939059,
         "region_id": 85670445
       }
     ],
     "wof:id": 1159288275,
-    "wof:lastmodified": 1710356048,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Cubana Airlines",
     "wof:parent_id": 1125939059,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

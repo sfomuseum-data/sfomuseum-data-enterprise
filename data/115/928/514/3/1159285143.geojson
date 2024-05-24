@@ -62,6 +62,7 @@
         "continent_id": 102191569,
         "country_id": 85632695,
         "county_id": 890516325,
+        "custom_id": 1159285143,
         "empire_id": 136253041,
         "enterprise_id": 1159285143,
         "locality_id": 102027459,
@@ -69,11 +70,13 @@
       }
     ],
     "wof:id": 1159285143,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Shandong Airlines",
     "wof:parent_id": 102027459,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286689

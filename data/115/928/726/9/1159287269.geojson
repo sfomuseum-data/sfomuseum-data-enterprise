@@ -55,15 +55,18 @@
         "company_id": 1159287269,
         "continent_id": 102191569,
         "country_id": 85632203,
+        "custom_id": 1159287269,
         "enterprise_id": 1159287269
       }
     ],
     "wof:id": 1159287269,
-    "wof:lastmodified": 1710356047,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Bouraq Indonesia Airlines",
     "wof:parent_id": 85632203,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

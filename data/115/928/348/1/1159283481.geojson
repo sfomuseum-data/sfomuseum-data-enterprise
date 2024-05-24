@@ -42,15 +42,18 @@
         "airline_id": 1159283481,
         "continent_id": 102191577,
         "country_id": 85632519,
+        "custom_id": 1159283481,
         "enterprise_id": 1159283481
       }
     ],
     "wof:id": 1159283481,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Aces Colombia",
     "wof:parent_id": 85632519,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288723

@@ -37,15 +37,18 @@
         "actor_id": 1159290593,
         "company_id": 1159290593,
         "country_id": 1,
+        "custom_id": 1159290593,
         "enterprise_id": 1159290593
       }
     ],
     "wof:id": 1159290593,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Fleet",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

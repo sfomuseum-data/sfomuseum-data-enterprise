@@ -41,15 +41,18 @@
       {
         "airline_id": 1159286197,
         "country_id": 1,
+        "custom_id": 1159286197,
         "enterprise_id": 1159286197
       }
     ],
     "wof:id": 1159286197,
-    "wof:lastmodified": 1665043380,
+    "wof:lastmodified": 1716594223,
     "wof:name": "UltraAir",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287943

@@ -57,6 +57,7 @@
         "company_id": 1159286631,
         "continent_id": 102191581,
         "country_id": 85633337,
+        "custom_id": 1159286631,
         "enterprise_id": 1159286631,
         "localadmin_id": 404474065,
         "locality_id": 1158822847,
@@ -64,11 +65,13 @@
       }
     ],
     "wof:id": 1159286631,
-    "wof:lastmodified": 1710356047,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Martinair",
     "wof:parent_id": 1158822847,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

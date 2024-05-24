@@ -64,6 +64,7 @@
         "continent_id": 102191569,
         "country_id": 85632695,
         "county_id": 890514815,
+        "custom_id": 1159288413,
         "empire_id": 136253041,
         "enterprise_id": 1159288413,
         "locality_id": 102027181,
@@ -71,11 +72,13 @@
       }
     ],
     "wof:id": 1159288413,
-    "wof:lastmodified": 1710356047,
+    "wof:lastmodified": 1716594223,
     "wof:name": "China Eastern Airlines",
     "wof:parent_id": 102550333,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

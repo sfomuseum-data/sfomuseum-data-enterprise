@@ -26,15 +26,15 @@
     ],
     "wof:concordances": {
       "iata:code": "JX",
-      "icao:callsign": "STARWALKER",
-      "icao:code": "SJX",
-      "wd:id": "Q28056940"
+      "icao:code": "SJX"
     },
     "wof:country": "XY",
     "wof:created": 1695843307,
     "wof:geomhash": "dc15e19ef1dbd6dfba7dfb7629350bba",
     "wof:hierarchy": [
       {
+        "[\"airline\"]_id": 1880516289,
+        "airline_id": 1880516289,
         "continent_id": 102191569,
         "country_id": 85632403,
         "custom_id": 1880516289,
@@ -44,10 +44,13 @@
       }
     ],
     "wof:id": 1880516289,
-    "wof:lastmodified": 1695843442,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Starlux Airlines",
     "wof:parent_id": 102026641,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -50,16 +50,19 @@
         "airline_id": 1159284403,
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1159284403,
         "empire_id": 136253057,
         "enterprise_id": 1159284403
       }
     ],
     "wof:id": 1159284403,
-    "wof:lastmodified": 1665043380,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Frontier Horizon",
     "wof:parent_id": 85928879,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288193

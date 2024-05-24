@@ -55,6 +55,7 @@
         "company_id": 1159286973,
         "continent_id": -1,
         "country_id": -1,
+        "custom_id": 1159286973,
         "enterprise_id": 1159286973,
         "locality_id": -1,
         "neighbourhood_id": -1,
@@ -62,11 +63,13 @@
       }
     ],
     "wof:id": 1159286973,
-    "wof:lastmodified": 1641361430,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Polynesie",
     "wof:parent_id": 102558779,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

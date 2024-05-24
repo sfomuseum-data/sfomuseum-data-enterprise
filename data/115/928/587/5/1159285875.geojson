@@ -63,6 +63,7 @@
         "airline_id": 1159285875,
         "continent_id": 102191581,
         "country_id": 85633253,
+        "custom_id": 1159285875,
         "enterprise_id": 1159285875,
         "localadmin_id": 404461721,
         "locality_id": 101752607,
@@ -71,11 +72,13 @@
       }
     ],
     "wof:id": 1159285875,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Linee Aeree Italiane",
     "wof:parent_id": 101752607,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287455

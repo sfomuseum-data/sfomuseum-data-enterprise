@@ -62,6 +62,7 @@
         "company_id": 1159288301,
         "continent_id": 102191575,
         "country_id": 85633041,
+        "custom_id": 1159288301,
         "enterprise_id": 1159284217,
         "locality_id": 101741081,
         "microhood_id": 1108952593,
@@ -70,11 +71,13 @@
       }
     ],
     "wof:id": 1159288301,
-    "wof:lastmodified": 1711611894,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Canadian Pacific Airlines",
     "wof:parent_id": "102555307",
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

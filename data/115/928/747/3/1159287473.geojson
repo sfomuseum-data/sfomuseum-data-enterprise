@@ -2,8 +2,6 @@
   "id": 1159287473,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1982-12-20",
-    "date:cessation_upper": "1982-12-20",
     "date:inception_lower": "1982-01-01",
     "date:inception_upper": "1982-12-31",
     "edtf:cessation": "..",
@@ -41,16 +39,19 @@
         "company_id": 1159287473,
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1159287473,
         "empire_id": 136253057,
         "enterprise_id": 1159287473
       }
     ],
     "wof:id": 1159287473,
-    "wof:lastmodified": 1619636679,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Hawaii Express",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

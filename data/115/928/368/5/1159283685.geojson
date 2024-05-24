@@ -58,17 +58,20 @@
         "airline_id": 1159283685,
         "continent_id": 102191573,
         "country_id": 85632535,
+        "custom_id": 1159283685,
         "enterprise_id": 1159283685,
         "locality_id": 1141909361,
         "region_id": 85675205
       }
     ],
     "wof:id": 1159283685,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Namib Air",
     "wof:parent_id": 1141909361,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288571

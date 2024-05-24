@@ -58,15 +58,18 @@
         "airline_id": 1159285457,
         "continent_id": 102191569,
         "country_id": 85633163,
+        "custom_id": 1159285457,
         "enterprise_id": 1159285457
       }
     ],
     "wof:id": 1159285457,
-    "wof:lastmodified": 1652477297,
+    "wof:lastmodified": 1716594224,
     "wof:name": "ValuJet Airlines",
     "wof:parent_id": 85633163,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287233

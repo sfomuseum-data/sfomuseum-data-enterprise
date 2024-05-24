@@ -61,17 +61,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085771,
+        "custom_id": 1159285355,
         "enterprise_id": 1159285355,
         "locality_id": 85933669,
         "region_id": 85688651
       }
     ],
     "wof:id": 1159285355,
-    "wof:lastmodified": 1619636676,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Eastern Air",
     "wof:parent_id": 101964877,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287793

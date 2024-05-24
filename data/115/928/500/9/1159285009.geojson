@@ -61,6 +61,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081353,
+        "custom_id": 1159285009,
         "enterprise_id": 1159285009,
         "localadmin_id": 404483701,
         "locality_id": 101718083,
@@ -68,11 +69,13 @@
       }
     ],
     "wof:id": 1159285009,
-    "wof:lastmodified": 1697788060,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Pennsylvania Central Airlines",
     "wof:parent_id": 101718083,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288787

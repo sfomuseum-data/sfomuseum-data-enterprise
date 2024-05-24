@@ -63,6 +63,7 @@
         "airline_id": 1159284145,
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159284145,
         "enterprise_id": 1159284145,
         "localadmin_id": 404451611,
         "locality_id": 101874047,
@@ -71,11 +72,13 @@
       }
     ],
     "wof:id": 1159284145,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Channel Express",
     "wof:parent_id": 101874047,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288725

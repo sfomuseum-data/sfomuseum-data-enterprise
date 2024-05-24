@@ -58,15 +58,18 @@
         "airline_id": 1159285091,
         "continent_id": 102191573,
         "country_id": 85632635,
+        "custom_id": 1159285091,
         "enterprise_id": 1159285091
       }
     ],
     "wof:id": 1159285091,
-    "wof:lastmodified": 1648799214,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Royal Swazi National Airways",
     "wof:parent_id": 85632635,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286741

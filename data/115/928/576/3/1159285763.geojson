@@ -43,16 +43,19 @@
         "airline_id": 1159285763,
         "continent_id": 102191581,
         "country_id": 85633121,
+        "custom_id": 1159285763,
         "empire_id": 136253045,
         "enterprise_id": 1159285763
       }
     ],
     "wof:id": 1159285763,
-    "wof:lastmodified": 1648683813,
+    "wof:lastmodified": 1716594224,
     "wof:name": "DanAir",
     "wof:parent_id": 85633121,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288311

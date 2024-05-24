@@ -57,6 +57,7 @@
         "continent_id": 102191581,
         "country_id": 85632685,
         "county_id": 1108736095,
+        "custom_id": 1159294045,
         "empire_id": 874393555,
         "enterprise_id": 1159294045,
         "locality_id": 102003033,
@@ -64,11 +65,13 @@
       }
     ],
     "wof:id": 1159294045,
-    "wof:lastmodified": 1710356047,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Yakovlev",
     "wof:parent_id": 102003033,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

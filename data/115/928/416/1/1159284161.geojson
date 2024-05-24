@@ -64,6 +64,7 @@
         "continent_id": 102191569,
         "country_id": 85632695,
         "county_id": 1108732451,
+        "custom_id": 1159284161,
         "empire_id": 136253041,
         "enterprise_id": 1159284161,
         "locality_id": 102027875,
@@ -71,11 +72,13 @@
       }
     ],
     "wof:id": 1159284161,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "China Northern Airlines",
     "wof:parent_id": 102027875,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286873

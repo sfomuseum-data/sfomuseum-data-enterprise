@@ -52,15 +52,18 @@
         "airline_id": 1159285567,
         "continent_id": 102191569,
         "country_id": 85632499,
+        "custom_id": 1159285567,
         "enterprise_id": 1159285567
       }
     ],
     "wof:id": 1159285567,
-    "wof:lastmodified": 1624649382,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Yemenia",
     "wof:parent_id": 85632499,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287967

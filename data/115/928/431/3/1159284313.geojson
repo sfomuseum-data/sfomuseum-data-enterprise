@@ -56,16 +56,19 @@
         "airline_id": 1159284313,
         "continent_id": 102191583,
         "country_id": 85632793,
+        "custom_id": 1159284313,
         "empire_id": 136253039,
         "enterprise_id": 1159284313
       }
     ],
     "wof:id": 1159284313,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Eastern Australia Airlines",
     "wof:parent_id": 85632793,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287691

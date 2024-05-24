@@ -58,6 +58,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102084627,
+        "custom_id": 1159293599,
         "enterprise_id": 1159293599,
         "localadmin_id": 404476369,
         "locality_id": 85950393,
@@ -65,11 +66,13 @@
       }
     ],
     "wof:id": 1159293599,
-    "wof:lastmodified": 1640906241,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Granville Brothers",
     "wof:parent_id": 85950393,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

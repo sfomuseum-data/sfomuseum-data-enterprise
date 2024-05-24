@@ -56,16 +56,19 @@
       {
         "company_id": 1159286979,
         "country_id": 85632691,
+        "custom_id": 1159286979,
         "enterprise_id": 1159286979,
         "localadmin_id": 421198917
       }
     ],
     "wof:id": 1159286979,
-    "wof:lastmodified": 1619636679,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Guinee",
     "wof:parent_id": 421198917,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

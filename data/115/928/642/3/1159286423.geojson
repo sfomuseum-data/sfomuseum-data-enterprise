@@ -65,15 +65,18 @@
         "airline_id": 1159286423,
         "continent_id": 102191581,
         "country_id": 85633341,
+        "custom_id": 1159286423,
         "enterprise_id": 1159286423
       }
     ],
     "wof:id": 1159286423,
-    "wof:lastmodified": 1679559407,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Det Norske Luftfartselskap A/S",
     "wof:parent_id": 85633341,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286925

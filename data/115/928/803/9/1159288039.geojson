@@ -60,6 +60,7 @@
         "company_id": 1159288039,
         "continent_id": 102191569,
         "country_id": 85632437,
+        "custom_id": 1159288039,
         "enterprise_id": 1159288039,
         "locality_id": 101749141,
         "region_id": 85682397
@@ -68,6 +69,7 @@
         "company_id": 1159288039,
         "continent_id": 102191569,
         "country_id": 85632437,
+        "custom_id": 1159288039,
         "disputed_id": 85632375,
         "enterprise_id": 1159288039,
         "locality_id": 101749141,
@@ -77,6 +79,7 @@
         "company_id": 1159288039,
         "continent_id": 102191569,
         "country_id": 85632375,
+        "custom_id": 1159288039,
         "disputed_id": 85632375,
         "enterprise_id": 1159288039,
         "locality_id": 101749141,
@@ -84,11 +87,13 @@
       }
     ],
     "wof:id": 1159288039,
-    "wof:lastmodified": 1665820670,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Cyprus Airways",
     "wof:parent_id": 101749141,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

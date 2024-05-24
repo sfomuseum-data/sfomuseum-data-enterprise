@@ -42,15 +42,18 @@
         "airline_id": 1159283819,
         "continent_id": 102191569,
         "country_id": 85632425,
+        "custom_id": 1159283819,
         "enterprise_id": 1159283819
       }
     ],
     "wof:id": 1159283819,
-    "wof:lastmodified": 1715650649,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Alia (Royal Jordanian Airlines)",
     "wof:parent_id": 85632425,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288611

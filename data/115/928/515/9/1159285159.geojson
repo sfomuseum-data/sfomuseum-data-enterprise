@@ -59,17 +59,20 @@
         "airline_id": 1159285159,
         "continent_id": 102191569,
         "country_id": 85632605,
+        "custom_id": 1159285159,
         "enterprise_id": 1159285159,
         "locality_id": 102032341,
         "region_id": 85677041
       }
     ],
     "wof:id": 1159285159,
-    "wof:lastmodified": 1659426745,
+    "wof:lastmodified": 1716594223,
     "wof:name": "SilkAir",
     "wof:parent_id": 102032341,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288053

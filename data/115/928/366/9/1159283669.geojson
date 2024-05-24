@@ -55,15 +55,18 @@
         "airline_id": 1159283669,
         "continent_id": 102191573,
         "country_id": 85632553,
+        "custom_id": 1159283669,
         "enterprise_id": 1159283669
       }
     ],
     "wof:id": 1159283669,
-    "wof:lastmodified": 1619636675,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Mali International",
     "wof:parent_id": 85632553,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288741

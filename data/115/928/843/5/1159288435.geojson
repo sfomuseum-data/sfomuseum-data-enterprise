@@ -2,8 +2,6 @@
   "id": 1159288435,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1989-01-01",
-    "date:cessation_upper": "1989-12-31",
     "date:inception_lower": "1949-01-01",
     "date:inception_upper": "1949-12-31",
     "edtf:cessation": "..",
@@ -50,16 +48,19 @@
         "company_id": 1159288435,
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1159288435,
         "empire_id": 136253057,
         "enterprise_id": 1159288435
       }
     ],
     "wof:id": 1159288435,
-    "wof:lastmodified": 1648683829,
+    "wof:lastmodified": 1716594224,
     "wof:name": "PBA (Provincetown-Boston Airlines)",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

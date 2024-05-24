@@ -57,6 +57,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102082371,
+        "custom_id": 1159293563,
         "enterprise_id": 1159293563,
         "localadmin_id": 404521475,
         "locality_id": 85979165,
@@ -64,11 +65,13 @@
       }
     ],
     "wof:id": 1159293563,
-    "wof:lastmodified": 1694023414,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Grumman",
     "wof:parent_id": 85979165,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

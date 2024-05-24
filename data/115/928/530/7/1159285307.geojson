@@ -61,17 +61,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102080985,
+        "custom_id": 1159285307,
         "enterprise_id": 1159285307,
         "locality_id": 85980391,
         "region_id": 85688773
       }
     ],
     "wof:id": 1159285307,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Tradewinds Airlines",
     "wof:parent_id": 85980391,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286725

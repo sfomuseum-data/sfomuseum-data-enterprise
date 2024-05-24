@@ -68,6 +68,7 @@
         "continent_id": 102191569,
         "country_id": 85632695,
         "county_id": 890513087,
+        "custom_id": 1159284165,
         "empire_id": 136253041,
         "enterprise_id": 1159284165,
         "locality_id": 102027597,
@@ -75,11 +76,13 @@
       }
     ],
     "wof:id": 1159284165,
-    "wof:lastmodified": 1711697718,
+    "wof:lastmodified": 1716594223,
     "wof:name": "China Southern Airlines",
     "wof:parent_id": 102027597,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287917

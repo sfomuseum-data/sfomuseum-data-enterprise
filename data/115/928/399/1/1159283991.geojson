@@ -56,15 +56,18 @@
         "airline_id": 1159283991,
         "continent_id": 102191581,
         "country_id": 85633051,
+        "custom_id": 1159283991,
         "enterprise_id": 1159283991
       }
     ],
     "wof:id": 1159283991,
-    "wof:lastmodified": 1619636678,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Belair Airlines",
     "wof:parent_id": 85633051,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286765

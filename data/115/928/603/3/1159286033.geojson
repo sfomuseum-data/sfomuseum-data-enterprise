@@ -42,15 +42,18 @@
         "airline_id": 1159286033,
         "continent_id": 102191581,
         "country_id": 85633111,
+        "custom_id": 1159286033,
         "enterprise_id": 1159286033
       }
     ],
     "wof:id": 1159286033,
-    "wof:lastmodified": 1694023359,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Holiday Express",
     "wof:parent_id": 85633111,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287239

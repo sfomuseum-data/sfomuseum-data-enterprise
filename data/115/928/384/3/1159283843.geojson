@@ -42,15 +42,18 @@
         "airline_id": 1159283843,
         "continent_id": 102191581,
         "country_id": 85633337,
+        "custom_id": 1159283843,
         "enterprise_id": 1159283843
       }
     ],
     "wof:id": 1159283843,
-    "wof:lastmodified": 1635209148,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Dutch Antillean Airlines",
     "wof:parent_id": 85633337,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288185

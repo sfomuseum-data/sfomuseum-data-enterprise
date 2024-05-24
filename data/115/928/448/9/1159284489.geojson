@@ -68,17 +68,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085417,
+        "custom_id": 1159284489,
         "enterprise_id": 1159284489,
         "locality_id": 1141909415,
         "region_id": 85688671
       }
     ],
     "wof:id": 1159284489,
-    "wof:lastmodified": 1676316695,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Hawaiian Airlines",
     "wof:parent_id": 1141909415,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287913

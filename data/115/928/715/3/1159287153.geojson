@@ -35,15 +35,18 @@
       {
         "company_id": 1159287153,
         "country_id": 1,
+        "custom_id": 1159287153,
         "enterprise_id": 1159287153
       }
     ],
     "wof:id": 1159287153,
-    "wof:lastmodified": 1619636677,
+    "wof:lastmodified": 1716594223,
     "wof:name": "U.A.S. Cargo",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

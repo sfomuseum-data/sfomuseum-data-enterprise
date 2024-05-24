@@ -52,15 +52,18 @@
         "airline_id": 1159285641,
         "continent_id": 102191577,
         "country_id": 85633057,
+        "custom_id": 1159285641,
         "enterprise_id": 1159285641
       }
     ],
     "wof:id": 1159285641,
-    "wof:lastmodified": 1662105322,
+    "wof:lastmodified": 1716594223,
     "wof:name": "LAN-Chile (Linea Aerea Nacional)",
     "wof:parent_id": 85633057,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159286761

@@ -61,17 +61,20 @@
         "continent_id": 102191569,
         "country_id": 85632429,
         "county_id": 1108741697,
+        "custom_id": 1159288505,
         "enterprise_id": 1159288505,
         "locality_id": 102031379,
         "region_id": 85672817
       }
     ],
     "wof:id": 1159288505,
-    "wof:lastmodified": 1715154175,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Japan Airlines",
     "wof:parent_id": 102031379,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -62,17 +62,20 @@
         "airline_id": 1159285661,
         "continent_id": 102191569,
         "country_id": 85632509,
+        "custom_id": 1159285661,
         "enterprise_id": 1159285661,
         "locality_id": 421169759,
         "region_id": 1159397243
       }
     ],
     "wof:id": 1159285661,
-    "wof:lastmodified": 1706171869,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Philippine Air Lines",
     "wof:parent_id": 421169759,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287151

@@ -40,15 +40,18 @@
         "airline_id": 1159283487,
         "continent_id": 102191577,
         "country_id": 85632261,
+        "custom_id": 1159283487,
         "enterprise_id": 1159283487
       }
     ],
     "wof:id": 1159283487,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "AECA Carga",
     "wof:parent_id": 85632261,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287787

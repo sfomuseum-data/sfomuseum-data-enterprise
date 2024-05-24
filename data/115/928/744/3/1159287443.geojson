@@ -56,16 +56,19 @@
         "campus_id": 102555575,
         "company_id": 1159287443,
         "country_id": 85632755,
+        "custom_id": 1159287443,
         "enterprise_id": 1159287443,
         "region_id": 85671181
       }
     ],
     "wof:id": 1159287443,
-    "wof:lastmodified": 1710356048,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Air Pacific",
     "wof:parent_id": 102555575,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

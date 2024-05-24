@@ -63,17 +63,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081687,
+        "custom_id": 1159284887,
         "enterprise_id": 1159284887,
         "locality_id": 85936021,
         "region_id": 85688535
       }
     ],
     "wof:id": 1159284887,
-    "wof:lastmodified": 1658822198,
+    "wof:lastmodified": 1716594223,
     "wof:name": "North American Airlines",
     "wof:parent_id": 85936021,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287509

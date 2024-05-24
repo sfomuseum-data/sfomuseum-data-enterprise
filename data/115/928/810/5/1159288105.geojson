@@ -57,17 +57,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "custom_id": 1159288105,
         "enterprise_id": 1159288105,
         "locality_id": 85922447,
         "region_id": 85688637
       }
     ],
     "wof:id": 1159288105,
-    "wof:lastmodified": 1710356047,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Emery Worldwide",
     "wof:parent_id": 85922447,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

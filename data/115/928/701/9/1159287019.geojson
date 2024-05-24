@@ -54,17 +54,20 @@
         "company_id": 1159287019,
         "continent_id": 102191583,
         "country_id": 85632681,
+        "custom_id": 1159287019,
         "enterprise_id": 1159287019,
         "locality_id": 890416609,
         "region_id": 85680915
       }
     ],
     "wof:id": 1159287019,
-    "wof:lastmodified": 1619636679,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Polynesian Airlines",
     "wof:parent_id": 890416609,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

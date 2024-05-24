@@ -2,8 +2,6 @@
   "id": 1159284693,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1979-01-01",
-    "date:cessation_upper": "1979-12-31",
     "date:inception_lower": "1944-01-01",
     "date:inception_upper": "1944-12-31",
     "edtf:cessation": "..",
@@ -56,15 +54,18 @@
         "airline_id": 1159284693,
         "continent_id": 102191581,
         "country_id": 85633249,
+        "custom_id": 1159284693,
         "enterprise_id": 1159284693
       }
     ],
     "wof:id": 1159284693,
-    "wof:lastmodified": 1641361415,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Loftleiðir Icelandic",
     "wof:parent_id": 85633249,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288801

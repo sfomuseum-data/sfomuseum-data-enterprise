@@ -42,15 +42,18 @@
         "airline_id": 1159285681,
         "continent_id": 102191577,
         "country_id": 85632519,
+        "custom_id": 1159285681,
         "enterprise_id": 1159285681
       }
     ],
     "wof:id": 1159285681,
-    "wof:lastmodified": 1641942099,
+    "wof:lastmodified": 1716594224,
     "wof:name": "Aerotal",
     "wof:parent_id": 85632519,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288763

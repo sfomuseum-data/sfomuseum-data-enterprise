@@ -62,6 +62,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086173,
+        "custom_id": 1159285333,
         "enterprise_id": 1159285333,
         "localadmin_id": 404517389,
         "locality_id": 85972341,
@@ -69,11 +70,13 @@
       }
     ],
     "wof:id": 1159285333,
-    "wof:lastmodified": 1649405545,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Trans States Airlines",
     "wof:parent_id": 85972341,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288853

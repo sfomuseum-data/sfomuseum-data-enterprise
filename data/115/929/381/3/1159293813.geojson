@@ -54,17 +54,20 @@
         "continent_id": 102191581,
         "country_id": 85633805,
         "county_id": 1108730705,
+        "custom_id": 1159293813,
         "enterprise_id": 1159293813,
         "locality_id": 101752489,
         "region_id": 85688801
       }
     ],
     "wof:id": 1159293813,
-    "wof:lastmodified": 1710356048,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Antonov",
     "wof:parent_id": 101752489,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

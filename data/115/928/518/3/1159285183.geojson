@@ -48,15 +48,18 @@
         "airline_id": 1159285183,
         "continent_id": 102191573,
         "country_id": 85633813,
+        "custom_id": 1159285183,
         "enterprise_id": 1159285183
       }
     ],
     "wof:id": 1159285183,
-    "wof:lastmodified": 1711611827,
+    "wof:lastmodified": 1716594223,
     "wof:name": "South African Airways (SAA)",
     "wof:parent_id": 85633813,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159288307

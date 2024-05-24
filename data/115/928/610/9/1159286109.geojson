@@ -44,16 +44,19 @@
         "airline_id": 1159286109,
         "continent_id": 102191581,
         "country_id": 85632685,
+        "custom_id": 1159286109,
         "empire_id": 874393555,
         "enterprise_id": 1159286109
       }
     ],
     "wof:id": 1159286109,
-    "wof:lastmodified": 1676316695,
+    "wof:lastmodified": 1716594223,
     "wof:name": "VASO Airlines",
     "wof:parent_id": 85632685,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287965

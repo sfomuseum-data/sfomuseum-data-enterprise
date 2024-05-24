@@ -65,16 +65,19 @@
         "continent_id": 102191573,
         "country_id": 85632257,
         "county_id": 1108695113,
+        "custom_id": 1159284341,
         "enterprise_id": 1159284341,
         "region_id": 85671149
       }
     ],
     "wof:id": 1159284341,
-    "wof:lastmodified": 1682973887,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Ethiopian Airlines",
     "wof:parent_id": 102551565,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "airline",
+    "wof:placetype_alt": [
+      "airline"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [
       1159287083

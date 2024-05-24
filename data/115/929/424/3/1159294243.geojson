@@ -54,17 +54,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081727,
+        "custom_id": 1159294243,
         "enterprise_id": 1159294243,
         "locality_id": 85927903,
         "region_id": 85688637
       }
     ],
     "wof:id": 1159294243,
-    "wof:lastmodified": 1648683829,
+    "wof:lastmodified": 1716594223,
     "wof:name": "Scaled Composites",
     "wof:parent_id": 85927903,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -61,17 +61,20 @@
         "continent_id": 102191575,
         "country_id": 85633293,
         "county_id": 102073737,
+        "custom_id": 1159287499,
         "enterprise_id": 1159287499,
         "locality_id": 857683023,
         "region_id": 85686515
       }
     ],
     "wof:id": 1159287499,
-    "wof:lastmodified": 1711611894,
+    "wof:lastmodified": 1716594224,
     "wof:name": "AeroMexico",
     "wof:parent_id": 857683023,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "company",
+    "wof:placetype_alt": [
+      "company"
+    ],
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],
