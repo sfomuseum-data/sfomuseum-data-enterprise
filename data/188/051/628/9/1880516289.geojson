@@ -33,7 +33,6 @@
     "wof:geomhash": "dc15e19ef1dbd6dfba7dfb7629350bba",
     "wof:hierarchy": [
       {
-        "[\"airline\"]_id": 1880516289,
         "airline_id": 1880516289,
         "continent_id": 102191569,
         "country_id": 85632403,
@@ -44,7 +43,7 @@
       }
     ],
     "wof:id": 1880516289,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1716928835,
     "wof:name": "Starlux Airlines",
     "wof:parent_id": 102026641,
     "wof:placetype": "custom",

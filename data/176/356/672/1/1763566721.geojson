@@ -34,7 +34,6 @@
     "wof:geomhash": "bb13cccf6b96024729d89bd2b2d11c6f",
     "wof:hierarchy": [
       {
-        "[\"airline\"]_id": 1763566721,
         "airline_id": 1763566721,
         "continent_id": 102191575,
         "country_id": 85633041,
@@ -45,7 +44,7 @@
       }
     ],
     "wof:id": 1763566721,
-    "wof:lastmodified": 1716594224,
+    "wof:lastmodified": 1716928835,
     "wof:name": "Swoop",
     "wof:parent_id": 890458845,
     "wof:placetype": "custom",

@@ -34,7 +34,6 @@
     "wof:geomhash": "e6e160aa652594a2d98fa08b056c6104",
     "wof:hierarchy": [
       {
-        "[\"airline\"]_id": 1779782741,
         "airline_id": 1779782741,
         "continent_id": 102191581,
         "country_id": 85633147,
@@ -45,7 +44,7 @@
       }
     ],
     "wof:id": 1779782741,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1716928835,
     "wof:name": "Air Caraïbes",
     "wof:parent_id": 404428957,
     "wof:placetype": "custom",

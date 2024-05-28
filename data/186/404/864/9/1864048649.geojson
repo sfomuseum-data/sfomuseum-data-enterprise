@@ -34,7 +34,6 @@
     "wof:geomhash": "847867795e5d9175cfa8c80aabbab6c8",
     "wof:hierarchy": [
       {
-        "[\"airline\"]_id": 1864048649,
         "airline_id": 1864048649,
         "continent_id": 102191581,
         "country_id": 85633341,
@@ -45,7 +44,7 @@
       }
     ],
     "wof:id": 1864048649,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1716928835,
     "wof:name": "Norse Atlantic Airways",
     "wof:parent_id": 101803769,
     "wof:placetype": "custom",

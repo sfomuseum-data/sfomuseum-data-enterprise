@@ -34,7 +34,6 @@
     "wof:geomhash": "8d942d675ac01f36a6d4fe95a1a8a1b0",
     "wof:hierarchy": [
       {
-        "[\"airline\"]_id": 1779770723,
         "airline_id": 1779770723,
         "continent_id": 102191577,
         "country_id": 85633009,
@@ -47,7 +46,7 @@
       }
     ],
     "wof:id": 1779770723,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1716928835,
     "wof:name": "Azul Brazilian Airlines",
     "wof:parent_id": 101952565,
     "wof:placetype": "custom",
