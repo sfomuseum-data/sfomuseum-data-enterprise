@@ -14,7 +14,7 @@
     "geom:latitude": 52.554205,
     "geom:longitude": 5.501896,
     "iso:country": "NL",
-    "millsfield:count_images": 573,
+    "millsfield:count_images": 575,
     "millsfield:count_objects": 365,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1159284613,
-    "wof:lastmodified": 1717141423,
+    "wof:lastmodified": 1719041997,
     "wof:name": "KLM (Royal Dutch Airlines)",
     "wof:parent_id": 85633337,
     "wof:placetype": "custom",

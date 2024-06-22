@@ -14,7 +14,7 @@
     "geom:latitude": 50.94718,
     "geom:longitude": 6.934628,
     "iso:country": "DE",
-    "millsfield:count_images": 773,
+    "millsfield:count_images": 781,
     "millsfield:count_objects": 499,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1159284711,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1719041997,
     "wof:name": "Lufthansa",
     "wof:parent_id": 101752771,
     "wof:placetype": "custom",
