@@ -12,7 +12,7 @@
     "geom:latitude": 39.715956,
     "geom:longitude": -96.999668,
     "iso:country": "US",
-    "millsfield:count_images": 2323,
+    "millsfield:count_images": 2326,
     "millsfield:count_objects": 1700,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1159287531,
-    "wof:lastmodified": 1721029759,
+    "wof:lastmodified": 1721421807,
     "wof:name": "TWA (Trans World Airlines)",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
