@@ -1,5 +1,5 @@
 {
-  "id": 1762973287,
+  "id": 1914101547,
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
@@ -8,30 +8,30 @@
     "geom:bbox": "-0.000500,-0.000282,0.000379,0.000309",
     "geom:latitude": 0.0000033079147747203835,
     "geom:longitude": 0.000010113151096985458,
-    "millsfield:count_images": 199,
-    "millsfield:count_objects": 174,
+    "millsfield:count_images": 3,
+    "millsfield:count_objects": 3,
     "mz:is_current": -1,
-    "sfomuseum:airline_id": 1503,
+    "sfomuseum:airline_id": 1625,
     "sfomuseum:is_sfo": 1,
-    "sfomuseum:name": "Frontier Airlines",
+    "sfomuseum:name": "TAT European Airlines",
     "sfomuseum:placetype": "airline",
     "src:geom": "nullisland",
     "wof:belongsto": [
       1
     ],
     "wof:country": "XN",
-    "wof:created": 1644376135,
+    "wof:created": 1717607667,
     "wof:geomhash": "22d11fea01c64b218102f3fcb34655a9",
     "wof:hierarchy": [
       {
-        "airline_id": 1762973287,
+        "airline_id": 1914101547,
         "country_id": 1,
-        "custom_id": 1762973287
+        "custom_id": 1914101547
       }
     ],
-    "wof:id": 1762973287,
-    "wof:lastmodified": 1720460915,
-    "wof:name": "Frontier Airlines",
+    "wof:id": 1914101547,
+    "wof:lastmodified": 1717608116,
+    "wof:name": "TAT European Airlines",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
