@@ -1,0 +1,48 @@
+{
+  "id": 1930448549,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2017-07-27",
+    "date:inception_upper": "2017-07-27",
+    "edtf:cessation": "..",
+    "edtf:inception": "2017-07-27",
+    "flysfo:airline_code": "YP",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": -1,
+    "sfomuseum:placetype": "airline",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:concordances": {
+      "iata:code": "YP",
+      "icao:code": "APZ"
+    },
+    "wof:country": "XY",
+    "wof:created": 1721861007,
+    "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1930448549
+      }
+    ],
+    "wof:id": 1930448549,
+    "wof:lastmodified": 1721861007,
+    "wof:name": "Air",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}
