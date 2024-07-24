@@ -2,45 +2,50 @@
   "id": 1930448553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "edtf:cessation": "..",
     "edtf:inception": "",
     "flysfo:airline_code": "W1",
     "flysfo:is_sfo": 1,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
-    "mz:is_current": -1,
+    "geom:bbox": "-112.530919,58.341159,-112.530919,58.341159",
+    "geom:latitude": 58.341159,
+    "geom:longitude": -112.530919,
+    "mz:is_current": 1,
     "sfomuseum:airline_id": -1,
     "sfomuseum:placetype": "airline",
     "src:geom": "unknown",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      102191575,
+      85633041
+    ],
     "wof:concordances": {
       "iata:code": "W1",
       "icao:code": "WE1"
     },
     "wof:country": "XY",
     "wof:created": 1721861752,
-    "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash": "e2016b3466a5f277e8079a2a48bc85dd",
     "wof:hierarchy": [
       {
+        "continent_id": 102191575,
+        "country_id": 85633041,
         "custom_id": 1930448553
       }
     ],
     "wof:id": 1930448553,
-    "wof:lastmodified": 1721861752,
+    "wof:lastmodified": 1721862356,
     "wof:name": "World",
-    "wof:parent_id": -1,
+    "wof:parent_id": 85633041,
     "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -112.530919,
+    58.341159,
+    -112.530919,
+    58.341159
   ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[-112.530919,58.341159],"type":"Point"}
 }
