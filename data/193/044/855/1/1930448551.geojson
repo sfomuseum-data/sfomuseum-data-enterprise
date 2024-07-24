@@ -1,0 +1,60 @@
+{
+  "id": 1930448551,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2013-01-01",
+    "date:inception_upper": "2013-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2013",
+    "flysfo:airline_code": "UK",
+    "flysfo:is_sfo": 1,
+    "geom:area": 0,
+    "geom:bbox": "77.061922,28.459647,77.061922,28.459647",
+    "geom:latitude": 28.459647,
+    "geom:longitude": 77.061922,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:airline_id": -1,
+    "sfomuseum:placetype": "airline",
+    "src:geom": "whosonfirst",
+    "wof:belongsto": [
+      102191569,
+      85632469,
+      890510775,
+      102030161,
+      85672133
+    ],
+    "wof:concordances": {
+      "iata:code": "UK",
+      "icao:code": "VTI"
+    },
+    "wof:country": "XY",
+    "wof:created": 1721861359,
+    "wof:geomhash": "6c92264c44de844eee28b69acfc05192",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632469,
+        "county_id": 890510775,
+        "custom_id": 1930448551,
+        "locality_id": 102030161,
+        "region_id": 85672133
+      }
+    ],
+    "wof:id": 1930448551,
+    "wof:lastmodified": 1721861359,
+    "wof:name": "Vistara",
+    "wof:parent_id": 102030161,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-enterprise",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    77.061922,
+    28.459647,
+    77.061922,
+    28.459647
+  ],
+  "geometry": {"coordinates":[77.061922,28.459647],"type":"Point"}
+}
