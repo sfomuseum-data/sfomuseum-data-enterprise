@@ -14,7 +14,7 @@
     "geom:latitude": 32.729442,
     "geom:longitude": -97.33181,
     "iso:country": "US",
-    "millsfield:count_images": 2096,
+    "millsfield:count_images": 2098,
     "millsfield:count_objects": 1456,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -85,7 +85,7 @@
       }
     ],
     "wof:id": 1159283849,
-    "wof:lastmodified": 1721421724,
+    "wof:lastmodified": 1722411570,
     "wof:name": "American Airlines",
     "wof:parent_id": 101724443,
     "wof:placetype": "custom",
