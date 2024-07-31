@@ -14,7 +14,7 @@
     "geom:latitude": 33.59153,
     "geom:longitude": -117.886307,
     "iso:country": "US",
-    "millsfield:count_images": 207,
+    "millsfield:count_images": 208,
     "millsfield:count_objects": 133,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 1159283791,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1722411570,
     "wof:name": "AirCal",
     "wof:parent_id": 85923075,
     "wof:placetype": "custom",
