@@ -14,7 +14,7 @@
     "geom:latitude": 49.007854,
     "geom:longitude": 2.542809,
     "iso:country": "",
-    "millsfield:count_images": 620,
+    "millsfield:count_images": 622,
     "millsfield:count_objects": 399,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -89,7 +89,7 @@
       }
     ],
     "wof:id": 1159283627,
-    "wof:lastmodified": 1717141423,
+    "wof:lastmodified": 1722843527,
     "wof:name": "Air France",
     "wof:parent_id": 102544459,
     "wof:placetype": "custom",
