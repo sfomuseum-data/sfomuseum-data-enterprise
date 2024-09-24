@@ -12,7 +12,7 @@
     "geom:latitude": -38.165295,
     "geom:longitude": -72.288079,
     "iso:country": "CL",
-    "millsfield:count_images": 6,
+    "millsfield:count_images": 7,
     "millsfield:count_objects": 5,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -57,7 +57,7 @@
       }
     ],
     "wof:id": 1159286761,
-    "wof:lastmodified": 1724743834,
+    "wof:lastmodified": 1727198257,
     "wof:name": "LANChile",
     "wof:parent_id": 85633057,
     "wof:placetype": "custom",
