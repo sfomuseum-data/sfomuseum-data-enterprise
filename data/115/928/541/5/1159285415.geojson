@@ -12,7 +12,7 @@
     "geom:latitude": 41.87897,
     "geom:longitude": -87.66063,
     "iso:country": "US",
-    "millsfield:count_images": 3195,
+    "millsfield:count_images": 3196,
     "millsfield:count_objects": 2100,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -55,7 +55,7 @@
       }
     ],
     "wof:id": 1159285415,
-    "wof:lastmodified": 1729927666,
+    "wof:lastmodified": 1738139451,
     "wof:name": "United Air Lines",
     "wof:parent_id": 85940195,
     "wof:placetype": "custom",
