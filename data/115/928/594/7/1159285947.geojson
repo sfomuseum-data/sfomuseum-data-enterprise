@@ -14,6 +14,8 @@
     "geom:latitude": 48.110031,
     "geom:longitude": 11.733061,
     "iso:country": "DE",
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -72,7 +74,7 @@
       }
     ],
     "wof:id": 1159285947,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1742975036,
     "wof:name": "German Wings",
     "wof:parent_id": 101756219,
     "wof:placetype": "custom",
