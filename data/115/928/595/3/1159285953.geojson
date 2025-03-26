@@ -14,6 +14,8 @@
     "geom:latitude": -11.928923,
     "geom:longitude": -49.542449,
     "iso:country": "BR",
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -57,7 +59,7 @@
       }
     ],
     "wof:id": 1159285953,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1742975036,
     "wof:name": "Lóide Aéreo Nacional",
     "wof:parent_id": 85633009,
     "wof:placetype": "custom",
