@@ -15,7 +15,7 @@
     "geom:longitude": 8.517105,
     "iso:country": "CH",
     "millsfield:count_images": 301,
-    "millsfield:count_objects": 216,
+    "millsfield:count_objects": 217,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 1159285589,
-    "wof:lastmodified": 1727198174,
+    "wof:lastmodified": 1757145439,
     "wof:name": "Swissair",
     "wof:parent_id": 101748463,
     "wof:placetype": "custom",
