@@ -14,7 +14,7 @@
     "geom:latitude": 12.194274,
     "geom:longitude": -68.249092,
     "iso:country": "AN",
-    "millsfield:count_images": 361,
+    "millsfield:count_images": 364,
     "millsfield:count_objects": 179,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -58,7 +58,7 @@
       }
     ],
     "wof:id": 1159293619,
-    "wof:lastmodified": 1753343469,
+    "wof:lastmodified": 1760773707,
     "wof:name": "Fokker",
     "wof:parent_id": 85632727,
     "wof:placetype": "custom",
@@ -79,5 +79,5 @@
     -68.249092,
     12.194274
   ],
-  "geometry": {"coordinates":[-68.249092,12.194274],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-68.249092,12.194274]}
 }
