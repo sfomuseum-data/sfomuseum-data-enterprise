@@ -12,8 +12,8 @@
     "geom:latitude": 29.329836,
     "geom:longitude": 68.560265,
     "iso:country": "PK",
-    "millsfield:count_images": 47,
-    "millsfield:count_objects": 29,
+    "millsfield:count_images": 48,
+    "millsfield:count_objects": 30,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1159284979,
-    "wof:lastmodified": 1727198174,
+    "wof:lastmodified": 1766824559,
     "wof:name": "Pakistan International Airlines",
     "wof:parent_id": 85632659,
     "wof:placetype": "custom",
@@ -87,5 +87,5 @@
     68.560265,
     29.329836
   ],
-  "geometry": {"coordinates":[68.560265,29.329836],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[68.560265,29.329836]}
 }
