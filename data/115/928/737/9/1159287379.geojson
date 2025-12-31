@@ -12,8 +12,8 @@
     "geom:latitude": 52.418788,
     "geom:longitude": -1.247349,
     "iso:country": "GB",
-    "millsfield:count_images": 47,
-    "millsfield:count_objects": 46,
+    "millsfield:count_images": 48,
+    "millsfield:count_objects": 47,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -60,7 +60,7 @@
       }
     ],
     "wof:id": 1159287379,
-    "wof:lastmodified": 1727198257,
+    "wof:lastmodified": 1767170168,
     "wof:name": "British European Airways (BEA)",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",
@@ -82,5 +82,5 @@
     -1.247349,
     52.418788
   ],
-  "geometry": {"coordinates":[-1.247349,52.418788],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-1.247349,52.418788]}
 }
