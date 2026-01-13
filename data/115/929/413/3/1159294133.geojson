@@ -12,8 +12,8 @@
     "geom:latitude": 27.64443,
     "geom:longitude": -80.42473,
     "iso:country": "US",
-    "millsfield:count_images": 16,
-    "millsfield:count_objects": 4,
+    "millsfield:count_images": 17,
+    "millsfield:count_objects": 5,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1159294133,
-    "wof:lastmodified": 1727198257,
+    "wof:lastmodified": 1768293487,
     "wof:name": "Piper",
     "wof:parent_id": 102527921,
     "wof:placetype": "custom",
@@ -100,5 +100,5 @@
     -80.42473,
     27.64443
   ],
-  "geometry": {"coordinates":[-80.42473,27.64443],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-80.42473,27.64443]}
 }
