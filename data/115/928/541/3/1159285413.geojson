@@ -12,8 +12,8 @@
     "geom:latitude": 41.87897,
     "geom:longitude": -87.66063,
     "iso:country": "US",
-    "millsfield:count_images": 3909,
-    "millsfield:count_objects": 2724,
+    "millsfield:count_images": 3918,
+    "millsfield:count_objects": 2732,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1159285413,
-    "wof:lastmodified": 1743579619,
+    "wof:lastmodified": 1771058266,
     "wof:name": "United Airlines",
     "wof:parent_id": 85940195,
     "wof:placetype": "custom",
@@ -89,5 +89,5 @@
     -87.66063,
     41.87897
   ],
-  "geometry": {"coordinates":[-87.66063,41.87897],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-87.66063,41.87897]}
 }
