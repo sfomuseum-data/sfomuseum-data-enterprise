@@ -12,8 +12,8 @@
     "geom:latitude": 45.462004,
     "geom:longitude": -73.744749,
     "iso:country": "CA",
-    "millsfield:count_images": 341,
-    "millsfield:count_objects": 285,
+    "millsfield:count_images": 344,
+    "millsfield:count_objects": 290,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 1159288851,
-    "wof:lastmodified": 1727198257,
+    "wof:lastmodified": 1771403934,
     "wof:name": "Air Canada",
     "wof:parent_id": 102554351,
     "wof:placetype": "custom",
@@ -92,5 +92,5 @@
     -73.744749,
     45.462004
   ],
-  "geometry": {"coordinates":[-73.744749,45.462004],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-73.744749,45.462004]}
 }

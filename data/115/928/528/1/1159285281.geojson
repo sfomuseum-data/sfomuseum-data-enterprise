@@ -12,8 +12,8 @@
     "geom:latitude": -45.175323,
     "geom:longitude": 169.232531,
     "iso:country": "NZ",
-    "millsfield:count_images": 41,
-    "millsfield:count_objects": 16,
+    "millsfield:count_images": 43,
+    "millsfield:count_objects": 17,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -47,7 +47,7 @@
       }
     ],
     "wof:id": 1159285281,
-    "wof:lastmodified": 1716594224,
+    "wof:lastmodified": 1771403804,
     "wof:name": "TEAL (Tasman Empire Airways Limited)",
     "wof:parent_id": 85633345,
     "wof:placetype": "custom",
@@ -68,5 +68,5 @@
     169.232531,
     -45.175323
   ],
-  "geometry": {"coordinates":[169.232531,-45.175323],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[169.232531,-45.175323]}
 }
