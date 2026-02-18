@@ -14,7 +14,7 @@
     "geom:longitude": -96.999668,
     "iso:country": "US",
     "millsfield:count_images": 15,
-    "millsfield:count_objects": 10,
+    "millsfield:count_objects": 11,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -47,7 +47,7 @@
       }
     ],
     "wof:id": 1729557773,
-    "wof:lastmodified": 1727198174,
+    "wof:lastmodified": 1771403625,
     "wof:name": "Air Atlanta",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
@@ -65,5 +65,5 @@
     -96.999668,
     39.715956
   ],
-  "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-96.999668,39.715956]}
 }

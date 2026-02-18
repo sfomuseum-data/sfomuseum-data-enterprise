@@ -15,7 +15,7 @@
     "geom:longitude": 37.615561,
     "iso:country": "RU",
     "millsfield:count_images": 42,
-    "millsfield:count_objects": 35,
+    "millsfield:count_objects": 36,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -75,7 +75,7 @@
       }
     ],
     "wof:id": 1159283525,
-    "wof:lastmodified": 1727198174,
+    "wof:lastmodified": 1771403625,
     "wof:name": "Aeroflot Russian Airlines",
     "wof:parent_id": 102003033,
     "wof:placetype": "custom",
@@ -101,5 +101,5 @@
     37.615561,
     55.741469
   ],
-  "geometry": {"coordinates":[37.615561,55.741469],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[37.615561,55.741469]}
 }
