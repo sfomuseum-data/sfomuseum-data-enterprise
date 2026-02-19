@@ -15,7 +15,7 @@
     "geom:longitude": 23.728541,
     "iso:country": "GR",
     "millsfield:count_images": 58,
-    "millsfield:count_objects": 42,
+    "millsfield:count_objects": 44,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1159286755,
-    "wof:lastmodified": 1745307398,
+    "wof:lastmodified": 1771490193,
     "wof:name": "Olympic Airlines",
     "wof:parent_id": 1175612731,
     "wof:placetype": "custom",
@@ -86,5 +86,5 @@
     23.728541,
     37.988579
   ],
-  "geometry": {"coordinates":[23.728541,37.988579],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[23.728541,37.988579]}
 }

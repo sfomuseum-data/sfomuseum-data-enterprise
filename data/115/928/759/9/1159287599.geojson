@@ -12,8 +12,8 @@
     "geom:latitude": 32.529718,
     "geom:longitude": 106.802874,
     "iso:country": "CN",
-    "millsfield:count_images": 98,
-    "millsfield:count_objects": 76,
+    "millsfield:count_images": 99,
+    "millsfield:count_objects": 77,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1159287599,
-    "wof:lastmodified": 1743579688,
+    "wof:lastmodified": 1771490408,
     "wof:name": "Air China",
     "wof:parent_id": 85632695,
     "wof:placetype": "custom",
@@ -84,5 +84,5 @@
     106.802874,
     32.529718
   ],
-  "geometry": {"coordinates":[106.802874,32.529718],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[106.802874,32.529718]}
 }

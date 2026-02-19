@@ -14,8 +14,8 @@
     "geom:latitude": 52.418788,
     "geom:longitude": -1.247349,
     "iso:country": "GB",
-    "millsfield:count_images": 1,
-    "millsfield:count_objects": 1,
+    "millsfield:count_images": 3,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -66,7 +66,7 @@
       }
     ],
     "wof:id": 1159286107,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1771490275,
     "wof:name": "Thomas Cook Airlines",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",
@@ -89,5 +89,5 @@
     -1.247349,
     52.418788
   ],
-  "geometry": {"coordinates":[-1.247349,52.418788],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-1.247349,52.418788]}
 }

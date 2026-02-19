@@ -15,7 +15,7 @@
     "geom:longitude": -72.288079,
     "iso:country": "CL",
     "millsfield:count_images": 11,
-    "millsfield:count_objects": 7,
+    "millsfield:count_objects": 8,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -57,7 +57,7 @@
       }
     ],
     "wof:id": 1159285641,
-    "wof:lastmodified": 1727198174,
+    "wof:lastmodified": 1771490094,
     "wof:name": "LAN-Chile (Linea Aerea Nacional)",
     "wof:parent_id": 85633057,
     "wof:placetype": "custom",
@@ -78,5 +78,5 @@
     -72.288079,
     -38.165295
   ],
-  "geometry": {"coordinates":[-72.288079,-38.165295],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-72.288079,-38.165295]}
 }
