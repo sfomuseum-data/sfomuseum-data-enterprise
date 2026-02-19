@@ -14,8 +14,8 @@
     "geom:latitude": 51.846273,
     "geom:longitude": -0.145641,
     "iso:country": "GB",
-    "millsfield:count_images": 107,
-    "millsfield:count_objects": 48,
+    "millsfield:count_images": 108,
+    "millsfield:count_objects": 49,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1159293995,
-    "wof:lastmodified": 1727198257,
+    "wof:lastmodified": 1771490408,
     "wof:name": "de Havilland",
     "wof:parent_id": 85684331,
     "wof:placetype": "custom",
@@ -85,5 +85,5 @@
     -0.145641,
     51.846273
   ],
-  "geometry": {"coordinates":[-0.145641,51.846273],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-0.145641,51.846273]}
 }

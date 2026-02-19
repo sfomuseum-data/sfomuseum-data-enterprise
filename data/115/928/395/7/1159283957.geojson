@@ -15,7 +15,7 @@
     "geom:longitude": -74.08768,
     "iso:country": "CO",
     "millsfield:count_images": 47,
-    "millsfield:count_objects": 41,
+    "millsfield:count_objects": 42,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 1159283957,
-    "wof:lastmodified": 1754987878,
+    "wof:lastmodified": 1771490094,
     "wof:name": "Avianca Airlines",
     "wof:parent_id": 421186687,
     "wof:placetype": "custom",
@@ -95,5 +95,5 @@
     -74.08768,
     4.635456
   ],
-  "geometry": {"coordinates":[-74.08768,4.635456],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-74.08768,4.635456]}
 }

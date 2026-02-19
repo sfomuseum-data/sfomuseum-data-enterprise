@@ -13,7 +13,7 @@
     "geom:longitude": 50.61194,
     "iso:country": "BH",
     "millsfield:count_images": 16,
-    "millsfield:count_objects": 11,
+    "millsfield:count_objects": 12,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1159287827,
-    "wof:lastmodified": 1716594224,
+    "wof:lastmodified": 1771490193,
     "wof:name": "Gulf Air",
     "wof:parent_id": 1125819119,
     "wof:placetype": "custom",
@@ -84,5 +84,5 @@
     50.61194,
     26.25722
   ],
-  "geometry": {"coordinates":[50.61194,26.25722],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[50.61194,26.25722]}
 }

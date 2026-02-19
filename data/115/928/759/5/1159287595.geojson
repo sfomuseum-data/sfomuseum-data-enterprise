@@ -15,7 +15,7 @@
     "geom:longitude": -118.25703,
     "iso:country": "US",
     "millsfield:count_images": 1050,
-    "millsfield:count_objects": 825,
+    "millsfield:count_objects": 826,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -69,7 +69,7 @@
       }
     ],
     "wof:id": 1159287595,
-    "wof:lastmodified": 1771403722,
+    "wof:lastmodified": 1771490193,
     "wof:name": "Western Airlines",
     "wof:parent_id": 85923517,
     "wof:placetype": "custom",

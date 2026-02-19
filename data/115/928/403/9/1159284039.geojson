@@ -15,7 +15,7 @@
     "geom:longitude": -61.264793,
     "iso:country": "TT",
     "millsfield:count_images": 18,
-    "millsfield:count_objects": 16,
+    "millsfield:count_objects": 17,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1159284039,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1771490094,
     "wof:name": "BWIA International Airways",
     "wof:parent_id": 85632271,
     "wof:placetype": "custom",
@@ -86,5 +86,5 @@
     -61.264793,
     10.435364
   ],
-  "geometry": {"coordinates":[-61.264793,10.435364],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-61.264793,10.435364]}
 }

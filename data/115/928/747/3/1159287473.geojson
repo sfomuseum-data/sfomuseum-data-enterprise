@@ -12,6 +12,7 @@
     "geom:latitude": 39.715956,
     "geom:longitude": -96.999668,
     "iso:country": "US",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -45,7 +46,7 @@
       }
     ],
     "wof:id": 1159287473,
-    "wof:lastmodified": 1716594224,
+    "wof:lastmodified": 1771490192,
     "wof:name": "Hawaii Express",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
@@ -64,5 +65,5 @@
     -96.999668,
     39.715956
   ],
-  "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-96.999668,39.715956]}
 }
