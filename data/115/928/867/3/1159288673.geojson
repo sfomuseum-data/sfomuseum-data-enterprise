@@ -14,8 +14,8 @@
     "geom:latitude": 39.990821,
     "geom:longitude": -75.168428,
     "iso:country": "US",
-    "millsfield:count_images": 48,
-    "millsfield:count_objects": 40,
+    "millsfield:count_images": 50,
+    "millsfield:count_objects": 42,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -69,7 +69,7 @@
       }
     ],
     "wof:id": 1159288673,
-    "wof:lastmodified": 1742283576,
+    "wof:lastmodified": 1772142119,
     "wof:name": "Allegheny Airlines",
     "wof:parent_id": 101718083,
     "wof:placetype": "custom",
@@ -90,5 +90,5 @@
     -75.168428,
     39.990821
   ],
-  "geometry": {"coordinates":[-75.168428,39.990821],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-75.168428,39.990821]}
 }

@@ -10,8 +10,8 @@
     "geom:latitude": 33.672421,
     "geom:longitude": -117.764394,
     "iso:country": "US",
-    "millsfield:count_images": 10,
-    "millsfield:count_objects": 5,
+    "millsfield:count_images": 11,
+    "millsfield:count_objects": 6,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1159283989,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1772142000,
     "wof:name": "Burlington Air Express",
     "wof:parent_id": 85923131,
     "wof:placetype": "custom",
@@ -82,5 +82,5 @@
     -117.764394,
     33.672421
   ],
-  "geometry": {"coordinates":[-117.764394,33.672421],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-117.764394,33.672421]}
 }

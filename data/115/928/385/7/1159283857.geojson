@@ -12,8 +12,8 @@
     "geom:latitude": 32.729442,
     "geom:longitude": -97.33181,
     "iso:country": "US",
-    "millsfield:count_images": 3,
-    "millsfield:count_objects": 3,
+    "millsfield:count_images": 5,
+    "millsfield:count_objects": 5,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1159283857,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1772142000,
     "wof:name": "American Airlines Cargo",
     "wof:parent_id": 101724443,
     "wof:placetype": "custom",
@@ -101,5 +101,5 @@
     -97.33181,
     32.729442
   ],
-  "geometry": {"coordinates":[-97.33181,32.729442],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-97.33181,32.729442]}
 }
