@@ -12,8 +12,8 @@
     "geom:latitude": 37.050267,
     "geom:longitude": -113.559923,
     "iso:country": "US",
-    "millsfield:count_images": 40,
-    "millsfield:count_objects": 34,
+    "millsfield:count_images": 41,
+    "millsfield:count_objects": 35,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1159285179,
-    "wof:lastmodified": 1743579619,
+    "wof:lastmodified": 1772617853,
     "wof:name": "SkyWest Airlines",
     "wof:parent_id": 101727617,
     "wof:placetype": "custom",
@@ -91,5 +91,5 @@
     -113.559923,
     37.050267
   ],
-  "geometry": {"coordinates":[-113.559923,37.050267],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-113.559923,37.050267]}
 }
