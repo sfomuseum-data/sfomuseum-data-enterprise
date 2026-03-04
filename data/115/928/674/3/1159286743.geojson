@@ -10,6 +10,8 @@
     "geom:latitude": 33.82558,
     "geom:longitude": 35.490452,
     "iso:country": "",
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -61,7 +63,7 @@
       }
     ],
     "wof:id": 1159286743,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1772617977,
     "wof:name": "Lebanese Air Transport",
     "wof:parent_id": 102553293,
     "wof:placetype": "custom",
@@ -82,5 +84,5 @@
     35.490452,
     33.82558
   ],
-  "geometry": {"coordinates":[35.490452,33.82558],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[35.490452,33.82558]}
 }
