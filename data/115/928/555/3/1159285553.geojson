@@ -14,8 +14,8 @@
     "geom:latitude": 58.33747,
     "geom:longitude": -112.384858,
     "iso:country": "CA",
-    "millsfield:count_images": 2,
-    "millsfield:count_objects": 2,
+    "millsfield:count_images": 3,
+    "millsfield:count_objects": 3,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -57,7 +57,7 @@
       }
     ],
     "wof:id": 1159285553,
-    "wof:lastmodified": 1716594224,
+    "wof:lastmodified": 1772704422,
     "wof:name": "Worldways Canada",
     "wof:parent_id": 85633041,
     "wof:placetype": "custom",
@@ -80,5 +80,5 @@
     -112.384858,
     58.33747
   ],
-  "geometry": {"coordinates":[-112.384858,58.33747],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-112.384858,58.33747]}
 }
