@@ -42,7 +42,7 @@
       }
     ],
     "wof:id": 1159293623,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1773252017,
     "wof:name": "Short",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
@@ -52,7 +52,9 @@
     "wof:repo": "sfomuseum-data-enterprise",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1159294373
+    ],
     "wof:tags": []
   },
   "bbox": [
@@ -61,5 +63,5 @@
     0,
     0
   ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[0,0]}
 }
