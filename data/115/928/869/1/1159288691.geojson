@@ -12,8 +12,8 @@
     "geom:latitude": 3.083714,
     "geom:longitude": 101.570241,
     "iso:country": "",
-    "millsfield:count_images": 86,
-    "millsfield:count_objects": 62,
+    "millsfield:count_images": 99,
+    "millsfield:count_objects": 75,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 1159288691,
-    "wof:lastmodified": 1727198257,
+    "wof:lastmodified": 1775077969,
     "wof:name": "Malaysia Airlines",
     "wof:parent_id": 102551935,
     "wof:placetype": "custom",
@@ -91,5 +91,5 @@
     101.570241,
     3.083714
   ],
-  "geometry": {"coordinates":[101.570241,3.083714],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[101.570241,3.083714]}
 }
