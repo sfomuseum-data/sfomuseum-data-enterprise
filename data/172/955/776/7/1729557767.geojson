@@ -9,8 +9,8 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XY",
-    "millsfield:count_images": 2,
-    "millsfield:count_objects": 1,
+    "millsfield:count_images": 6,
+    "millsfield:count_objects": 5,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -35,7 +35,7 @@
       }
     ],
     "wof:id": 1729557767,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1775077840,
     "wof:name": "Air Kanbawza",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
@@ -53,5 +53,5 @@
     0,
     0
   ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[0,0]}
 }
