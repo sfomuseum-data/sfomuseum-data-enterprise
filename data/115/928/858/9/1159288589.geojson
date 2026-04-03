@@ -12,8 +12,8 @@
     "geom:latitude": 32.529718,
     "geom:longitude": 106.802874,
     "iso:country": "CN",
-    "millsfield:count_images": 55,
-    "millsfield:count_objects": 45,
+    "millsfield:count_images": 60,
+    "millsfield:count_objects": 47,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -54,7 +54,7 @@
       }
     ],
     "wof:id": 1159288589,
-    "wof:lastmodified": 1727198257,
+    "wof:lastmodified": 1775206302,
     "wof:name": "Civil Air Transport (CAT)",
     "wof:parent_id": 85632695,
     "wof:placetype": "custom",
@@ -75,5 +75,5 @@
     106.802874,
     32.529718
   ],
-  "geometry": {"coordinates":[106.802874,32.529718],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[106.802874,32.529718]}
 }
