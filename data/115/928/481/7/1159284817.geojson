@@ -12,6 +12,7 @@
     "geom:latitude": -23.992438,
     "geom:longitude": 134.050443,
     "iso:country": "AU",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -47,7 +48,7 @@
       }
     ],
     "wof:id": 1159284817,
-    "wof:lastmodified": 1716594223,
+    "wof:lastmodified": 1775205991,
     "wof:name": "MacRobertson Miller Airlines",
     "wof:parent_id": 85632793,
     "wof:placetype": "custom",
@@ -68,5 +69,5 @@
     134.050443,
     -23.992438
   ],
-  "geometry": {"coordinates":[134.050443,-23.992438],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[134.050443,-23.992438]}
 }
