@@ -16,8 +16,8 @@
     "geom:latitude": 41.768792,
     "geom:longitude": 12.229414,
     "iso:country": "IT",
-    "millsfield:count_images": 231,
-    "millsfield:count_objects": 141,
+    "millsfield:count_images": 232,
+    "millsfield:count_objects": 142,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -75,7 +75,7 @@
       }
     ],
     "wof:id": 1159283823,
-    "wof:lastmodified": 1743579619,
+    "wof:lastmodified": 1776415786,
     "wof:name": "Alitalia",
     "wof:parent_id": 101757057,
     "wof:placetype": "custom",
@@ -98,5 +98,5 @@
     12.229414,
     41.768792
   ],
-  "geometry": {"coordinates":[12.229414,41.768792],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[12.229414,41.768792]}
 }
