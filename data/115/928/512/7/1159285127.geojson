@@ -12,8 +12,8 @@
     "geom:latitude": 3.420497,
     "geom:longitude": -73.166783,
     "iso:country": "CO",
-    "millsfield:count_images": 13,
-    "millsfield:count_objects": 16,
+    "millsfield:count_images": 16,
+    "millsfield:count_objects": 17,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -48,7 +48,7 @@
       }
     ],
     "wof:id": 1159285127,
-    "wof:lastmodified": 1716594224,
+    "wof:lastmodified": 1787794419,
     "wof:name": "SCADTA (Sociedad Colombo Alemana de Transporte Aéreo)",
     "wof:parent_id": 85632519,
     "wof:placetype": "custom",
@@ -69,5 +69,5 @@
     -73.166783,
     3.420497
   ],
-  "geometry": {"coordinates":[-73.166783,3.420497],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-73.166783,3.420497]}
 }

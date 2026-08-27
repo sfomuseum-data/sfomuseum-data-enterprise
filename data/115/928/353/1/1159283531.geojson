@@ -14,8 +14,8 @@
     "geom:latitude": 9.383166,
     "geom:longitude": -83.316334,
     "iso:country": "CR",
-    "millsfield:count_images": 75,
-    "millsfield:count_objects": 51,
+    "millsfield:count_images": 79,
+    "millsfield:count_objects": 55,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -69,7 +69,7 @@
       }
     ],
     "wof:id": 1159283531,
-    "wof:lastmodified": 1727198174,
+    "wof:lastmodified": 1787794419,
     "wof:name": "Aerolineas Argentinas",
     "wof:parent_id": 421201609,
     "wof:placetype": "custom",
@@ -92,5 +92,5 @@
     -83.316334,
     9.383166
   ],
-  "geometry": {"coordinates":[-83.316334,9.383166],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-83.316334,9.383166]}
 }
