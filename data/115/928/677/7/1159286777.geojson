@@ -12,8 +12,8 @@
     "geom:latitude": 21.044737,
     "geom:longitude": 105.898147,
     "iso:country": "VN",
-    "millsfield:count_images": 13,
-    "millsfield:count_objects": 9,
+    "millsfield:count_images": 19,
+    "millsfield:count_objects": 15,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -66,7 +66,7 @@
       }
     ],
     "wof:id": 1159286777,
-    "wof:lastmodified": 1727198257,
+    "wof:lastmodified": 1787794490,
     "wof:name": "Vietnam Airlines",
     "wof:parent_id": 1108780791,
     "wof:placetype": "custom",
@@ -87,5 +87,5 @@
     105.898147,
     21.044737
   ],
-  "geometry": {"coordinates":[105.898147,21.044737],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[105.898147,21.044737]}
 }
