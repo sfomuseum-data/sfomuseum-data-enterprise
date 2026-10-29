@@ -14,7 +14,7 @@
     "geom:latitude": 39.715956,
     "geom:longitude": -96.999668,
     "iso:country": "US",
-    "millsfield:count_images": 626,
+    "millsfield:count_images": 627,
     "millsfield:count_objects": 452,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1159286455,
-    "wof:lastmodified": 1787794419,
+    "wof:lastmodified": 1793258840,
     "wof:name": "Braniff International",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
